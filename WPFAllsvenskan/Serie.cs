@@ -7,42 +7,21 @@ namespace LeagueHandler
 {
     public class Serie
     {
-        public Team[] teams;
-        public Team noTeam;
-        public Game[] games;
-        public List<Game> gamesToGuess;
-        int nbrOfGames;
-        int gameNbr;
-        Game temp;
-        int omg;
-        int nbrOfTeams;
-        char[] res;
-        int hGoals;
-        int aGoals;
-        string[] lines;
+        public List<Team> teams { get; set; } = new();
+        public List<Game> games { get; set; } = new();
+        public List<Game> gamesToGuess { get; set; }
+        int nbrOfGames { get; set; } = 0;
+        int gameNbr { get; set; } = 0;
+        Game temp { get; set; } = new();
+        int omg { get; set; } = 1;
+        int nbrOfTeams { get; set; }
+        int hGoals { get; set; } = 0;
+        int aGoals { get; set; } = 0;
+        string[] lines { get; set; }
         public Serie()
         {
             string adress = @"C:\Users\david\source\repos\WPFAllsvenskan\WPFAllsvenskan\Schema.txt";
-            teams = new Team[16];
-            for (int i = 0; i < teams.Length; i++)
-            {
-                teams[i] = new Team("Unasigned team");
-            }
-            nbrOfTeams = 0;
-            noTeam = new Team("No Team");
 
-            temp = new Game();
-            nbrOfGames = 15 * 16;
-            games = new Game[nbrOfGames];
-            for (int i = 0; i < nbrOfGames; i++)
-            {
-                games[i] = new Game();
-            }
-            gameNbr = 0;
-            omg = 1;
-            hGoals = 0;
-            aGoals = 0;
-            res = new char[5];
             gamesToGuess = new();
 
             ReadSchedule(adress);
@@ -100,15 +79,14 @@ namespace LeagueHandler
         }
         public void sortTable(int startO, int endO)
         {
-            Team temp = new Team("temp");
             averageOpponent(startO, endO);
-            for (int i = 0; i < teams.Length; i++)
+            for (int i = 0; i < teams.Count; i++)
             {
-                for (int x = 0; x < teams.Length; x++)
+                for (int x = 0; x < teams.Count; x++)
                 {
                     if (teams[x].specialaverage > teams[i].specialaverage)
                     {
-                        temp = teams[i];
+                        Team temp = teams[i];
                         teams[i] = teams[x];
                         teams[x] = temp;
                     }
@@ -139,14 +117,14 @@ namespace LeagueHandler
         }
         public Team findTeam(string teamName)
         {
-            for (int j = 0; j < 16; j++)
+            for (int j = 0; j < nbrOfTeams; j++)
             {
                 if (teamName.Equals(teams[j].name.Trim()))
                 {
                     return teams[j];
                 }
             }
-            return noTeam;
+            return null;
         }
         public Game findGame(string hTeamName, string aTeamName)
         {
@@ -186,7 +164,7 @@ namespace LeagueHandler
             int upcoming = 0;
             Team temp = new Team("temp");
             Game tempGame;
-            for (int i = 0; i < teams.Length; i++)
+            for (int i = 0; i < teams.Count; i++)
             {
                 total = 0;
                 nbrOfTeams = teams[i].playedTeam.Count;
@@ -216,17 +194,14 @@ namespace LeagueHandler
         public void AverageOpponent(int upcoming)
         {
             sortTable();
-            double total = 0;
-            int number = 0;
-            Game tempGame;
-            for (int i = 0; i < teams.Length; i++)
+
+            for (int i = 0; i < teams.Count; i++)
             {
-                total = 0;
-                number = 0;
+                double total = 0;
+                int number = 0;
                 for (int j = 0; j < teams[i].schedule.Count; j++)
                 {
-
-                    tempGame = teams[i].schedule[j];
+                    Game tempGame = teams[i].schedule[j];
 
                     if (tempGame.played == false && number < upcoming && tempGame.homeTeam.name.Equals(teams[i].name))
                     { // Adds opponent rank 
@@ -252,7 +227,7 @@ namespace LeagueHandler
             double nbrOfTeams = endO - startO + 1;
             Team temp = new Team("temp");
             Game g = new Game();
-            for (int i = 0; i < teams.Length; i++)
+            for (int i = 0; i < teams.Count; i++)
             {
                 total = 0;
                 //nbrOfTeams=teams[i].schedule.Count;
@@ -304,55 +279,47 @@ namespace LeagueHandler
         {
             lines = System.IO.File.ReadAllLines(adress);
             omg = 1;
-            res = new char[5];
             for (int i = 1; i < lines.Length - 2; i++)
             {
-                Team home;
-                Team away;
                 if (lines[i].Contains("Omg"))
                 {
                     omg++;
                 }
                 else if (lines[i].Contains("2022"))
                 { // ADDS NEW TEAM
-                    if (findTeam(lines[i + 1]).name.Equals("No Team"))
+                    Team homeTeam = findTeam(lines[i + 1]);
+                    Team awayTeam = findTeam(lines[i + 2]);
+                    if (homeTeam == null)
                     {
-                        teams[nbrOfTeams] = new Team(lines[i + 1]);
+                        homeTeam = new(lines[i + 1]);
+                        teams.Add(homeTeam);
                         nbrOfTeams++;
                     }
-                    if (findTeam(lines[i + 2]).name.Equals("No Team"))
+                    if (awayTeam == null)
                     {
-                        teams[nbrOfTeams] = new Team(lines[i + 2]);
+                        awayTeam = new(lines[i + 2]);
+                        teams.Add(awayTeam);
                         nbrOfTeams++;
                     }
-
                     if (lines.Length > i + 3)
                     {
                         if (lines[i + 3].Length == 5)
                         { // Adds new Played Game
-                            res = lines[i + 3].ToCharArray();
-                            hGoals = Convert.ToInt32(Char.GetNumericValue(res[0]));
-                            aGoals = Convert.ToInt32(Char.GetNumericValue(res[4]));
-                            home = findTeam(lines[i + 1]);
-                            away = findTeam(lines[i + 2]);
-                            games[gameNbr] = new Game(home, away, hGoals, aGoals, omg);
-                            gameNbr++;
+                            char[] result;
+                            result = lines[i + 3].ToCharArray();
+                            hGoals = Convert.ToInt32(result[0]);
+                            aGoals = Convert.ToInt32(result[4]);
+                            games.Add(new(homeTeam, awayTeam, hGoals, aGoals, omg));
                         }
                         else
                         { // adds new Unplayed game
-                            home = findTeam(lines[i + 1]);
-                            away = findTeam(lines[i + 2]);
-                            games[gameNbr] = new Game(home, away, omg);
-                            gameNbr++;
+                            games.Add(new(homeTeam, awayTeam, omg));
                         }
 
                     }
                     else
                     { // adds new Unplayed game
-                        home = findTeam(lines[i + 1]);
-                        away = findTeam(lines[i + 2]);
-                        games[gameNbr] = new Game(home, away, omg);
-                        gameNbr++;
+                        games.Add(new(homeTeam, awayTeam, omg));
                     }
                 }
 
@@ -361,21 +328,9 @@ namespace LeagueHandler
                 }
             }
         }
-        public void CreateTeams()
-        {
-            nbrOfTeams = 0;
-            noTeam = new Team("No Team");
-        }
-        public void CreateGames()
-        {
-            temp = new Game();
-            nbrOfGames = 15 * 16;
-            games = new Game[nbrOfGames];
-            gameNbr = 0;
-        }
         public void CountPointsPerGame()
         {
-            for (int i = 0; i < teams.Length; i++)
+            for (int i = 0; i < teams.Count; i++)
             {
                 teams[i].pPerGame = Math.Round(Convert.ToDouble(teams[i].points) / Convert.ToDouble(teams[i].games), 2, MidpointRounding.AwayFromZero);
                 teams[i].pPerGrass = Math.Round(Convert.ToDouble(teams[i].grassPoints) / Convert.ToDouble(teams[i].grassGames), 2, MidpointRounding.AwayFromZero);
@@ -429,9 +384,9 @@ namespace LeagueHandler
 
         public void SortByEndPoints()
         {
-            for (int i = 0; i < teams.Length; i++)
+            for (int i = 0; i < teams.Count; i++)
             {
-                for (int j = 0; j < teams.Length; j++)
+                for (int j = 0; j < teams.Count; j++)
                 {
                     if (teams[j].endPoint < teams[i].endPoint)
                     {

@@ -40,9 +40,9 @@ namespace WPFAllsvenskan
             ComboBoxUpcomingDifficulty.Items.Add(10);
             ComboBoxUpcomingDifficulty.Items.Add(15);
 
-            for (int i = 1; i <= allsvenskan.teams.Length; i++)
+            foreach (Team t in allsvenskan.teams)
             {
-                ComboBoxFixtures.Items.Add(allsvenskan.teams[i - 1].name);
+                ComboBoxFixtures.Items.Add(t.name);
             }
         }
 

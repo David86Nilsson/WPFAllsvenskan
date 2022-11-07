@@ -1,0 +1,1146 @@
+Omgång 1
+2022-04-02 15:00
+Hammarby
+Helsingborg
+2 - 1
+i
+2022-04-02 17:30
+Häcken
+AIK
+4 - 2
+i
+2022-04-03 15:00
+Sirius
+Sundsvall
+2 - 1
+i
+2022-04-03 15:00
+IFK Göteborg
+IFK Värnamo
+2 - 1
+i
+2022-04-03 17:30
+Kalmar FF
+Malmö FF
+0 - 1
+i
+2022-04-03 17:30
+IFK Norrköping
+Varbergs BoIS
+0 - 1
+i
+2022-04-04 19:00
+Elfsborg
+Mjällby
+0 - 2
+i
+2022-04-04 19:10
+Djurgården
+Degerfors
+3 - 1
+i
+Omgång 2
+2022-04-09 15:00
+Sundsvall
+Hammarby
+1 - 5
+i
+2022-04-09 17:30
+Degerfors
+Häcken
+1 - 2
+i
+2022-04-10 15:00
+Varbergs BoIS
+Kalmar FF
+0 - 3
+i
+2022-04-10 15:00
+Helsingborg
+IFK Göteborg
+0 - 1
+i
+2022-04-10 17:30
+Mjällby
+Djurgården
+1 - 0
+i
+2022-04-10 17:30
+AIK
+IFK Norrköping
+1 - 0
+i
+2022-04-11 19:00
+IFK Värnamo
+Sirius
+0 - 0
+i
+2022-04-11 19:10
+Malmö FF
+Elfsborg
+1 - 1
+i
+Omgång 3
+2022-04-15 15:00
+Hammarby
+Mjällby
+2 - 0
+i
+2022-04-16 15:00
+Varbergs BoIS
+Sundsvall
+2 - 0
+i
+2022-04-16 15:00
+Djurgården
+IFK Norrköping
+2 - 1
+i
+2022-04-17 15:00
+Malmö FF
+AIK
+3 - 0
+i
+2022-04-17 15:00
+Kalmar FF
+Degerfors
+2 - 0
+i
+2022-04-17 17:30
+Sirius
+Helsingborg
+1 - 0
+i
+2022-04-17 17:30
+Elfsborg
+IFK Värnamo
+4 - 1
+i
+2022-04-17 17:30
+Häcken
+IFK Göteborg
+0 - 2
+i
+Omgång 4
+2022-04-20 19:00
+Sundsvall
+Kalmar FF
+1 - 0
+i
+2022-04-20 19:00
+Mjällby
+Sirius
+3 - 0
+i
+2022-04-20 19:00
+IFK Norrköping
+Häcken
+1 - 1
+i
+2022-04-20 19:00
+IFK Göteborg
+Djurgården
+1 - 1
+i
+2022-04-20 19:00
+AIK
+Varbergs BoIS
+1 - 0
+i
+2022-04-21 19:00
+IFK Värnamo
+Malmö FF
+0 - 0
+i
+2022-04-21 19:00
+Helsingborg
+Elfsborg
+1 - 0
+i
+2022-04-21 19:00
+Degerfors
+Hammarby
+0 - 1
+i
+Omgång 5
+2022-04-24 15:00
+Varbergs BoIS
+Mjällby
+0 - 0
+i
+2022-04-24 15:00
+AIK
+Djurgården
+1 - 0
+i
+2022-04-24 17:30
+Helsingborg
+Häcken
+1 - 1
+i
+2022-04-25 19:00
+Sirius
+Hammarby
+0 - 3
+i
+2022-04-25 19:00
+IFK Värnamo
+Degerfors
+2 - 0
+i
+2022-04-25 19:00
+Elfsborg
+Sundsvall
+3 - 1
+i
+2022-04-25 19:10
+Malmö FF
+IFK Göteborg
+1 - 0
+i
+2022-04-26 19:00
+Kalmar FF
+IFK Norrköping
+1 - 2
+i
+Omgång 6
+2022-04-30 15:00
+Djurgården
+Sirius
+4 - 0
+i
+2022-05-01 15:00
+Mjällby
+Helsingborg
+2 - 1
+i
+2022-05-01 15:00
+Degerfors
+Elfsborg
+0 - 6
+i
+2022-05-01 17:30
+Sundsvall
+AIK
+0 - 2
+i
+2022-05-01 17:30
+Häcken
+Varbergs BoIS
+3 - 1
+i
+2022-05-02 19:00
+IFK Norrköping
+IFK Värnamo
+2 - 0
+i
+2022-05-02 19:00
+IFK Göteborg
+Kalmar FF
+1 - 2
+i
+2022-05-02 19:10
+Hammarby
+Malmö FF
+0 - 0
+i
+Omgång 7
+2022-05-07 15:00
+AIK
+IFK Göteborg
+1 - 0
+i
+2022-05-07 17:30
+Malmö FF
+Mjällby
+2 - 0
+i
+2022-05-08 17:30
+Varbergs BoIS
+Sirius
+0 - 2
+i
+2022-05-08 17:30
+Kalmar FF
+Hammarby
+2 - 0
+i
+2022-05-09 19:00
+Sundsvall
+Degerfors
+2 - 3
+i
+2022-05-09 19:00
+IFK Värnamo
+Häcken
+1 - 2
+i
+2022-05-09 19:00
+Helsingborg
+IFK Norrköping
+0 - 1
+i
+2022-05-09 19:10
+Elfsborg
+Djurgården
+0 - 0
+i
+Omgång 8
+2022-05-14 15:00
+Mjällby
+IFK Värnamo
+1 - 1
+i
+2022-05-14 17:30
+Sirius
+Elfsborg
+2 - 0
+i
+2022-05-15 15:00
+Hammarby
+AIK
+3 - 3
+i
+2022-05-15 15:00
+Häcken
+Kalmar FF
+3 - 1
+i
+2022-05-15 17:30
+IFK Norrköping
+Sundsvall
+5 - 1
+i
+2022-05-15 17:30
+IFK Göteborg
+Varbergs BoIS
+1 - 1
+i
+2022-05-15 17:30
+Degerfors
+Helsingborg
+2 - 1
+i
+2022-05-16 19:10
+Djurgården
+Malmö FF
+4 - 0
+i
+Omgång 9
+2022-05-21 15:00
+AIK
+Sirius
+2 - 2
+i
+2022-05-21 17:30
+Helsingborg
+IFK Värnamo
+1 - 4
+i
+2022-05-22 15:00
+Hammarby
+IFK Norrköping
+3 - 0
+i
+2022-05-22 15:00
+Varbergs BoIS
+Degerfors
+2 - 1
+i
+2022-05-22 15:00
+Elfsborg
+IFK Göteborg
+3 - 1
+i
+2022-05-22 17:30
+Malmö FF
+Häcken
+1 - 2
+i
+2022-05-22 17:30
+Kalmar FF
+Djurgården
+1 - 0
+i
+2022-05-23 19:00
+Sundsvall
+Mjällby
+2 - 0
+i
+Omgång 10
+2022-05-28 15:00
+Mjällby
+Kalmar FF
+1 - 1
+i
+2022-05-28 15:00
+IFK Göteborg
+Sundsvall
+2 - 0
+i
+2022-05-28 17:00
+Häcken
+Sirius
+4 - 3
+i
+2022-05-29 15:00
+Degerfors
+Malmö FF
+0 - 2
+i
+2022-05-29 15:00
+IFK Norrköping
+Elfsborg
+2 - 2
+i
+2022-05-29 15:00
+Djurgården
+Varbergs BoIS
+4 - 0
+i
+2022-05-29 17:30
+IFK Värnamo
+Hammarby
+1 - 0
+i
+2022-05-29 17:30
+Helsingborg
+AIK
+1 - 2
+i
+Omgång 11
+2022-06-26 15:00
+Mjällby
+IFK Norrköping
+1 - 1
+i
+2022-06-26 15:00
+Hammarby
+Häcken
+2 - 2
+i
+2022-06-26 15:00
+Degerfors
+AIK
+1 - 1
+i
+2022-06-26 17:30
+Sundsvall
+Djurgården
+2 - 5
+i
+2022-06-27 19:00
+Kalmar FF
+IFK Värnamo
+1 - 0
+i
+2022-06-27 19:00
+Sirius
+IFK Göteborg
+1 - 2
+i
+2022-06-27 19:00
+Elfsborg
+Varbergs BoIS
+4 - 1
+i
+2022-06-27 19:10
+Malmö FF
+Helsingborg
+2 - 1
+i
+Omgång 12
+2022-07-01 19:00
+Sundsvall
+Malmö FF
+2 - 1
+i
+2022-07-02 15:00
+AIK
+Mjällby
+0 - 1
+i
+2022-07-02 17:30
+Helsingborg
+Kalmar FF
+1 - 1
+i
+2022-07-03 15:00
+Djurgården
+Hammarby
+1 - 0
+i
+2022-07-03 15:00
+Varbergs BoIS
+IFK Värnamo
+3 - 0
+i
+2022-07-03 17:30
+Häcken
+Elfsborg
+1 - 1
+i
+2022-07-03 17:30
+IFK Norrköping
+Sirius
+0 - 1
+i
+2022-07-04 19:00
+IFK Göteborg
+Degerfors
+2 - 0
+i
+Omgång 13
+2022-07-09 15:00
+Malmö FF
+Varbergs BoIS
+3 - 0
+i
+2022-07-09 17:30
+Degerfors
+IFK Norrköping
+1 - 1
+i
+2022-07-10 15:00
+Mjällby
+Häcken
+1 - 2
+i
+2022-07-10 15:00
+Elfsborg
+AIK
+2 - 2
+i
+2022-07-10 17:45
+Kalmar FF
+Sirius
+1 - 1
+i
+2022-07-11 19:00
+IFK Värnamo
+Sundsvall
+1 - 1
+i
+2022-07-11 19:00
+Hammarby
+IFK Göteborg
+3 - 0
+i
+2022-07-11 19:00
+Helsingborg
+Djurgården
+0 - 2
+i
+Omgång 14
+2022-07-16 15:00
+IFK Norrköping
+Malmö FF
+0 - 2
+i
+2022-07-16 17:30
+Djurgården
+IFK Värnamo
+5 - 0
+i
+2022-07-17 15:00
+AIK
+Kalmar FF
+1 - 0
+i
+2022-07-17 15:00
+Sirius
+Degerfors
+2 - 0
+i
+2022-07-17 15:00
+IFK Göteborg
+Mjällby
+1 - 1
+i
+2022-07-17 15:00
+Hammarby
+Elfsborg
+3 - 0
+i
+2022-07-18 19:00
+Varbergs BoIS
+Helsingborg
+0 - 0
+i
+2022-07-18 19:00
+Sundsvall
+Häcken
+1 - 5
+i
+Omgång 15
+2022-07-23 15:00
+Malmö FF
+Sirius
+3 - 1
+i
+2022-07-23 17:30
+Mjällby
+Degerfors
+2 - 1
+i
+2022-07-24 15:00
+IFK Värnamo
+AIK
+2 - 3
+i
+2022-07-24 15:00
+Helsingborg
+Sundsvall
+1 - 0
+i
+2022-07-24 17:30
+Häcken
+Djurgården
+1 - 2
+i
+2022-07-24 17:30
+Kalmar FF
+Elfsborg
+1 - 0
+i
+2022-07-25 19:00
+Varbergs BoIS
+Hammarby
+0 - 3
+i
+2022-07-25 19:00
+IFK Norrköping
+IFK Göteborg
+0 - 2
+i
+Omgång 16
+2022-05-05 19:00
+Djurgården
+Helsingborg
+2 - 2
+i
+2022-05-11 19:00
+AIK
+Malmö FF
+2 - 0
+i
+2022-07-30 15:00
+Degerfors
+Kalmar FF
+2 - 1
+i
+2022-07-30 17:30
+Sundsvall
+Varbergs BoIS
+1 - 3
+i
+2022-07-31 15:00
+Sirius
+Mjällby
+0 - 1
+i
+2022-07-31 15:00
+Elfsborg
+Häcken
+4 - 4
+i
+2022-07-31 15:00
+Hammarby
+IFK Värnamo
+1 - 2
+i
+2022-08-01 19:00
+IFK Göteborg
+IFK Norrköping
+2 - 0
+i
+Omgång 17
+2022-08-06 15:00
+IFK Norrköping
+Degerfors
+2 - 0
+i
+2022-08-07 15:00
+Hammarby
+Sundsvall
+3 - 0
+i
+2022-08-07 15:00
+Kalmar FF
+AIK
+1 - 0
+i
+2022-08-07 15:00
+Sirius
+Malmö FF
+2 - 1
+i
+2022-08-07 17:30
+IFK Värnamo
+Djurgården
+0 - 0
+i
+2022-08-07 17:30
+Mjällby
+Elfsborg
+1 - 1
+i
+2022-08-08 19:00
+Varbergs BoIS
+IFK Göteborg
+0 - 4
+i
+2022-08-08 19:00
+Häcken
+Helsingborg
+5 - 0
+i
+Omgång 18
+2022-08-13 17:30
+Helsingborg
+Sirius
+0 - 0
+i
+2022-08-14 15:00
+Djurgården
+Kalmar FF
+3 - 2
+i
+2022-08-14 15:00
+Malmö FF
+Sundsvall
+3 - 1
+i
+2022-08-14 15:00
+AIK
+IFK Värnamo
+2 - 2
+i
+2022-08-14 17:30
+Elfsborg
+IFK Norrköping
+1 - 1
+i
+2022-08-14 17:30
+Degerfors
+Varbergs BoIS
+1 - 1
+i
+2022-08-15 19:00
+Häcken
+Mjällby
+1 - 0
+i
+2022-08-15 19:10
+IFK Göteborg
+Hammarby
+0 - 1
+i
+Omgång 19
+2022-08-20 15:00
+Varbergs BoIS
+Djurgården
+2 - 2
+i
+2022-08-21 15:00
+Mjällby
+Malmö FF
+1 - 1
+i
+2022-08-21 15:00
+IFK Värnamo
+Elfsborg
+1 - 1
+i
+2022-08-21 17:30
+IFK Norrköping
+AIK
+2 - 4
+i
+2022-08-21 17:30
+Sundsvall
+Helsingborg
+1 - 2
+i
+2022-08-22 19:00
+Kalmar FF
+IFK Göteborg
+1 - 0
+i
+2022-08-22 19:00
+Sirius
+Häcken
+0 - 1
+i
+2022-08-22 19:10
+Hammarby
+Degerfors
+5 - 1
+i
+Omgång 20
+2022-08-27 15:00
+Häcken
+IFK Värnamo
+4 - 1
+i
+2022-08-27 17:30
+Degerfors
+Sundsvall
+3 - 1
+i
+2022-08-28 15:00
+AIK
+Hammarby
+2 - 2
+i
+2022-08-28 15:00
+Varbergs BoIS
+IFK Norrköping
+1 - 1
+i
+2022-08-28 15:00
+IFK Göteborg
+Sirius
+2 - 0
+i
+2022-08-28 17:30
+Helsingborg
+Mjällby
+0 - 1
+i
+2022-08-28 17:30
+Malmö FF
+Kalmar FF
+0 - 1
+i
+2022-08-29 19:10
+Djurgården
+Elfsborg
+2 - 1
+i
+Omgång 21
+2022-09-04 15:00
+Sirius
+Djurgården
+0 - 1
+i
+2022-09-04 15:00
+Häcken
+Degerfors
+2 - 2
+i
+2022-09-04 17:30
+AIK
+Sundsvall
+4 - 0
+i
+2022-09-04 17:30
+Elfsborg
+Malmö FF
+3 - 2
+i
+2022-09-05 19:00
+IFK Värnamo
+Helsingborg
+3 - 2
+i
+2022-09-05 19:00
+Mjällby
+IFK Göteborg
+1 - 4
+i
+2022-09-05 19:00
+Kalmar FF
+Varbergs BoIS
+1 - 0
+i
+2022-09-05 19:10
+IFK Norrköping
+Hammarby
+4 - 1
+i
+Omgång 22
+2022-09-10 15:00
+Sirius
+IFK Värnamo
+2 - 3
+i
+2022-09-10 17:30
+Degerfors
+Mjällby
+0 - 0
+i
+2022-09-11 15:00
+Hammarby
+Djurgården
+0 - 0
+i
+2022-09-11 15:00
+Sundsvall
+Elfsborg
+0 - 2
+i
+2022-09-11 17:30
+Malmö FF
+IFK Norrköping
+2 - 1
+i
+2022-09-11 17:30
+Varbergs BoIS
+AIK
+2 - 0
+i
+2022-09-12 19:00
+Kalmar FF
+Häcken
+1 - 1
+i
+2022-09-12 19:10
+IFK Göteborg
+Helsingborg
+1 - 3
+i
+Omgång 23
+2022-09-17 15:00
+IFK Norrköping
+Kalmar FF
+2 - 2
+i
+2022-09-17 15:00
+Häcken
+Hammarby
+1 - 1
+i
+2022-09-17 17:30
+IFK Värnamo
+Varbergs BoIS
+1 - 0
+i
+2022-09-18 15:00
+Mjällby
+Sundsvall
+1 - 1
+i
+2022-09-18 15:00
+Elfsborg
+Sirius
+3 - 0
+i
+2022-09-18 15:00
+Helsingborg
+Malmö FF
+1 - 2
+i
+2022-09-18 17:30
+Djurgården
+IFK Göteborg
+3 - 0
+i
+2022-09-18 17:30
+AIK
+Degerfors
+1 - 1
+i
+Omgång 24
+2022-10-01 15:00
+Malmö FF
+Hammarby
+0 - 0
+i
+2022-10-01 17:30
+Degerfors
+Djurgården
+3 - 0
+i
+2022-10-02 15:00
+Varbergs BoIS
+Häcken
+1 - 1
+i
+2022-10-02 15:00
+Sundsvall
+IFK Norrköping
+1 - 3
+i
+2022-10-02 17:30
+Kalmar FF
+Helsingborg
+2 - 0
+i
+2022-10-02 17:30
+Sirius
+AIK
+1 - 1
+i
+2022-10-03 19:00
+IFK Värnamo
+Mjällby
+2 - 1
+i
+2022-10-03 19:10
+IFK Göteborg
+Elfsborg
+1 - 3
+i
+Omgång 25
+2022-10-08 15:00
+Degerfors
+Sirius
+0 - 0
+i
+2022-10-09 15:00
+Sundsvall
+IFK Göteborg
+3 - 2
+i
+2022-10-09 15:00
+Malmö FF
+IFK Värnamo
+0 - 0
+i
+2022-10-09 15:00
+Elfsborg
+Kalmar FF
+0 - 2
+i
+2022-10-09 17:30
+AIK
+Helsingborg
+2 - 0
+i
+2022-10-09 17:30
+Djurgården
+Häcken
+0 - 1
+i
+2022-10-10 19:00
+IFK Norrköping
+Mjällby
+2022-10-10 19:10
+Hammarby
+Varbergs BoIS
+Omgång 26
+2022-10-14 19:00
+Elfsborg
+Degerfors
+2022-10-15 15:00
+Helsingborg
+Varbergs BoIS
+2022-10-15 15:00
+Häcken
+Sundsvall
+2022-10-15 17:30
+Sirius
+IFK Norrköping
+2022-10-15 17:30
+IFK Värnamo
+Kalmar FF
+2022-10-16 15:00
+Djurgården
+AIK
+2022-10-16 17:30
+Mjällby
+Hammarby
+2022-10-17 19:10
+IFK Göteborg
+Malmö FF
+Omgång 27
+2022-10-19 19:00
+Varbergs BoIS
+Elfsborg
+2022-10-19 19:00
+Sundsvall
+IFK Värnamo
+2022-10-19 19:00
+IFK Norrköping
+Helsingborg
+2022-10-19 19:00
+AIK
+Häcken
+2022-10-20 19:00
+Hammarby
+Sirius
+2022-10-20 19:00
+Degerfors
+IFK Göteborg
+2022-10-20 19:00
+Malmö FF
+Djurgården
+2022-10-20 19:00
+Kalmar FF
+Mjällby
+Omgång 28
+2022-10-23 15:00
+Elfsborg
+Hammarby
+2022-10-23 15:00
+Helsingborg
+Degerfors
+2022-10-23 17:30
+Häcken
+Malmö FF
+2022-10-24 19:00
+Djurgården
+Sundsvall
+2022-10-24 19:00
+Mjällby
+Varbergs BoIS
+2022-10-24 19:00
+Sirius
+Kalmar FF
+2022-10-24 19:00
+IFK Värnamo
+IFK Norrköping
+2022-10-24 19:10
+IFK Göteborg
+AIK
+Omgång 29
+2022-10-29 15:00
+Degerfors
+IFK Värnamo
+2022-10-30 15:00
+Sundsvall
+Sirius
+2022-10-30 15:00
+Mjällby
+AIK
+2022-10-30 15:00
+IFK Göteborg
+Häcken
+2022-10-30 17:30
+Varbergs BoIS
+Malmö FF
+2022-10-30 17:30
+Hammarby
+Kalmar FF
+2022-10-31 19:00
+Elfsborg
+Helsingborg
+2022-10-31 19:10
+IFK Norrköping
+Djurgården
+Omgång 30
+2022-11-06 15:00
+Malmö FF
+Degerfors
+2022-11-06 15:00
+Kalmar FF
+Sundsvall
+2022-11-06 15:00
+Sirius
+Varbergs BoIS
+2022-11-06 15:00
+IFK Värnamo
+IFK Göteborg
+2022-11-06 15:00
+Helsingborg
+Hammarby
+2022-11-06 15:00
+Djurgården
+Mjällby
+2022-11-06 15:00
+Häcken
+IFK Norrköping
+2022-11-06 15:00
+AIK
+Elfsborg

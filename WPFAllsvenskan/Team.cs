@@ -1,176 +1,121 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using WPFAllsvenskan.Enums;
 
 namespace LeagueHandler;
 
 public class Team
 {
-    public int grassGames { get; set; }
-    public int grassPoints { get; set; }
-    public double pPerDiff { get; set; }
-    public double pPerGrass { get; set; }
-    public double pPerPlastic { get; set; }
-    public double endPoint { get; set; }
-    public double pPerGame { get; set; }
-    public double plastPoints { get; set; }
-    public double plastGames { get; set; }
-    public double specialaverage { get; set; }
+    public int GrassGames { get; set; }
+    public int GrassPoints { get; set; }
+    public double PointsPerDifficulty { get; set; }
+    public double PointsPerGrassGame { get; set; }
+    public double PointsPerPlasticGame { get; set; }
+    public double EndPoint { get; set; }
+    public double PointsPerGame { get; set; }
+    public int PlasticPoints { get; set; }
+    public int PlasticGames { get; set; }
+    public double SpecialAverage { get; set; }
 
-    public List<string> playedTeam { get; set; } = new();
-    public List<Game> schedule { get; set; } = new();
-    public int points { get; set; }
-    public int goalsFor { get; set; }
-    public int goalsAgainst { get; set; }
-    public int goalDiff { get; set; }
-    public int rank { get; set; } = 1;
-    public int games { get; set; }
-    public double average { get; set; }
-    public string pitch { get; set; }
-    public string name { get; set; }
+    public List<Game> PlayedGames { get; set; } = new();
+    public List<Game> Schedule { get; set; } = new();
+    public int Points { get; set; }
+    public int GoalsFor { get; set; }
+    public int GoalsAgainst { get; set; }
+    public int GoalDiff { get; set; }
+    public int Rank { get; set; } = 1;
+    public int Games { get; set; }
+    public double Difficulty { get; set; }
+    public string Pitch { get; set; }
+    public string Name { get; set; }
 
     public Team(string aName)
     {
-        name = aName;
-        pitch = WhatPitch();
+        Name = aName;
+        Pitch = SetPitch();
     }
-
-    public void addGameToTeam(Game g)
+    public void AddGameToTeam(Game game)
     {
-        schedule.Add(g);
-        if (g.played == true)
+        Schedule.Add(game);
+        if (game.played == true)
         {
-            if (g.homeTeam.name.Equals(name))
+            int addedPoints = game.GetTeamPointsFromGame(this);
+            Points += addedPoints;
+            PlayedGames.Add(game);
+            Games++;
+            if (game.Pitch == "Grass")
             {
-                games++;
-                if (pitch.Contains("Grass"))
-                {
-                    grassGames++;
-                }
-                else
-                {
-                    plastGames++;
-                }
-                goalsFor = goalsFor + g.homeGoals;
-                goalsAgainst = goalsAgainst + g.awayGoals;
-                goalDiff = goalsFor - goalsAgainst;
-
-                if (g.homeGoals == g.awayGoals)
-                {
-                    points++;
-                    endPoint++;
-                    if (pitch.Contains("Grass"))
-                    {
-                        grassPoints++;
-                    }
-                    else
-                    {
-                        plastPoints++;
-                    }
-                }
-                else if (g.homeGoals > g.awayGoals)
-                {
-                    points += 3;
-                    endPoint += 3;
-                    if (pitch.Contains("Grass"))
-                    {
-                        grassPoints += 3;
-                    }
-                    else
-                    {
-                        plastPoints += 3;
-                    }
-                }
-                playedTeam.Add(g.awayTeam.name);
+                GrassGames++;
+                GrassPoints += addedPoints;
             }
             else
             {
-                games++;
-                if (g.homeTeam.pitch.Contains("Grass"))
-                {
-                    grassGames++;
-                }
-                else
-                {
-                    plastGames++;
-                }
-                goalsFor = goalsFor + g.awayGoals;
-                goalsAgainst = goalsAgainst + g.homeGoals;
-                goalDiff = goalsFor - goalsAgainst;
-
-                if (g.homeGoals == g.awayGoals)
-                {
-                    points++;
-                    endPoint++;
-                    if (g.homeTeam.pitch.Contains("Grass"))
-                    {
-                        grassPoints++;
-                    }
-                    else
-                    {
-                        plastPoints++;
-                    }
-                }
-                else if (g.homeGoals < g.awayGoals)
-                {
-                    points = points + 3;
-                    endPoint += 3;
-                    if (g.homeTeam.pitch.Contains("Grass"))
-                    {
-                        grassPoints += 3;
-                    }
-                    else
-                    {
-                        plastPoints += 3;
-                    }
-                }
-                playedTeam.Add(g.homeTeam.name);
+                PlasticGames++;
+                PlasticPoints += addedPoints;
             }
+
+
+            if (game.homeTeam == this)
+            {
+                GoalsFor += game.homeGoals;
+                GoalsAgainst += game.awayGoals;
+            }
+            else
+            {
+                GoalsFor += game.awayGoals;
+                GoalsAgainst += game.homeGoals;
+            }
+            GoalDiff = GoalsFor - GoalsAgainst;
         }
     }
-    public void playedAGame(int aGoalsFor, int aGoalsAgainst)
+    public void CalculateTeamStats()
     {
-
+        PointsPerGame = CalculatePointsPerGame(Points, Games);
+        PointsPerGrassGame = CalculatePointsPerGame(GrassPoints, GrassGames);
+        PointsPerPlasticGame = CalculatePointsPerGame(PlasticPoints, PlasticGames);
+        Difficulty = Math.Round(GetFacultyMinusOwnDividedByRounds(Rank) - CalculateAverageOpponent(1, PlayedGames.Count), 2, MidpointRounding.AwayFromZero);
+        PointsPerDifficulty = Math.Round(Convert.ToDouble(Points) / Convert.ToDouble(Games) / Difficulty, 2, MidpointRounding.AwayFromZero);
+        SpecialAverage = CalculateAverageOpponent(PlayedGames.Count + 1, Schedule.Count);
     }
-    public void setSpecial(double d)
+    private double GetFacultyMinusOwnDividedByRounds(int teamRank)
     {
-        specialaverage = d;
+        double answer = 0;
+        for (int i = 1; i <= Schedule.Count / 2; i++)
+        {
+            answer += i;
+        }
+        double numberOfTeamsInSerie = Schedule.Count / 2;
+        double numberOfGamesInSerie = numberOfTeamsInSerie * (numberOfTeamsInSerie - 1);
+        return (answer - teamRank) / (numberOfGamesInSerie / numberOfTeamsInSerie);
     }
-    public void setAverage(double a)
+    private double CalculatePointsPerGame(int points, int games)
     {
-        average = a;
-
+        return Math.Round(Convert.ToDouble(points) / Convert.ToDouble(games), 2, MidpointRounding.AwayFromZero);
     }
-    public void endPoints()
+    public void EndPoints()
     {
-        endPoint = 0.0;
-        foreach (Game aGame in schedule)
+        EndPoint = 0.0;
+        foreach (Game aGame in Schedule)
         {
             if (!aGame.played)
             {
 
-                if (aGame.homeTeam.pitch.Equals("gräs"))
+                if (aGame.homeTeam.Pitch.Equals("gräs"))
                 {
-                    endPoint += pPerGrass;
+                    EndPoint += PointsPerGrassGame;
                 }
                 else
                 {
-                    endPoint += pPerPlastic;
+                    EndPoint += PointsPerPlasticGame;
                 }
             }
         }
-        endPoint = Math.Round(endPoint + points, 2, MidpointRounding.AwayFromZero);
+        EndPoint = Math.Round(EndPoint + Points, 2, MidpointRounding.AwayFromZero);
     }
-    public void printSchedule()
+    private string SetPitch()
     {
-        for (int i = 0; i < schedule.Count; i++)
-        {
-            System.Console.WriteLine(i + 1 + ": " + schedule[i]);
-        }
-    }
-    public string WhatPitch()
-    {
-        if (name.Contains("Djur") || name.Contains("cken") || name.Contains("Hammarby") || name.Contains("Elfsborg") || name.Contains("Sirius") || name.Contains("Norrk") || name.Contains("Sundsvall"))
+        if (Enum.IsDefined(typeof(PlasticPitch), Name))
         {
             return "Plast";
         }
@@ -181,19 +126,61 @@ public class Team
     }
     public void AddToEndPoints(int p)
     {
-        endPoint += p;
+        EndPoint += p;
     }
-    public string GetGamesLeft()
+    public string GetGamesLeftAsString()
     {
-        StringBuilder s = new StringBuilder(name);
-        foreach (Game aGame in schedule)
+        StringBuilder s = new StringBuilder(Name);
+        foreach (Game aGame in Schedule)
         {
             if (!aGame.played)
             {
-                s.Append($"\n{aGame.printGame()}");
+                s.Append($"\n{aGame.PrintGame()}");
             }
         }
         return s.ToString();
     }
+    public string GetScheduleAsString()
+    {
+        StringBuilder s = new StringBuilder(Name);
+        foreach (Game aGame in Schedule)
+        {
+            s.Append($"\n{aGame.PrintGame()}");
+        }
+        return s.ToString();
+    }
+    public string GetTablePrintLine()
+    {
+        string emptySpaces = "";
+        while ((Name.Length + emptySpaces.Length) < 15)
+        {
+            emptySpaces += " ";
+        }
+        return $"\n{Rank}:\t{Name}{emptySpaces}\t{Games}\t{Points}\t{PointsPerGame}\t{GoalDiff}\t{Difficulty}\t\t{SpecialAverage}\t\t{EndPoint}";
+    }
 
+    public double CalculateAverageOpponent(int startO, int endO)
+    {
+        if (startO > endO)
+        {
+            startO = endO;
+        }
+        double total = 0;
+        double nbrOfGames = endO - startO + 1;
+        foreach (Game game in Schedule)
+        {
+            if (game.round >= startO && game.round <= endO)
+            {
+                if (this == game.homeTeam)
+                {
+                    total += game.awayTeam.Rank;
+                }
+                else
+                {
+                    total += game.homeTeam.Rank;
+                }
+            }
+        }
+        return Math.Round(total / nbrOfGames, 2, MidpointRounding.AwayFromZero);
+    }
 }

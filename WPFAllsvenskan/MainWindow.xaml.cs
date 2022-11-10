@@ -19,15 +19,15 @@ namespace WPFAllsvenskan
             ButtonSubmit.IsEnabled = false;
             ButtonSelectTeam.IsEnabled = false;
             ButtonRemoveTeam.IsEnabled = false;
-            ButtonHomeWin.IsEnabled = false;
-            ButtonDraw.IsEnabled = false;
-            ButtonAwayWin.IsEnabled = false;
-
+            ButtonHomeWin.Visibility = Visibility.Hidden;
+            ButtonDraw.Visibility = Visibility.Hidden;
+            ButtonAwayWin.Visibility = Visibility.Hidden;
+            ButtonSubmit.Visibility = Visibility.Collapsed;
+            ComboBoxResult.Visibility = Visibility.Collapsed;
             allsvenskan = new();
             PopulateComboBoxes();
             PopulateListView();
 
-            allsvenskan.AverageOpponent(1);
             lblTable.Content = allsvenskan.PrintTable();
         }
 
@@ -42,7 +42,7 @@ namespace WPFAllsvenskan
 
             foreach (Team t in allsvenskan.teams)
             {
-                ComboBoxFixtures.Items.Add(t.name);
+                ComboBoxFixtures.Items.Add(t.Name);
             }
         }
 
@@ -50,27 +50,27 @@ namespace WPFAllsvenskan
         {
             foreach (Team team in allsvenskan.teams)
             {
-                lvListOfTeams.Items.Add(team.name);
+                lvListOfTeams.Items.Add(team.Name);
             }
         }
 
-        private void ButtonTopTeams_Click(object sender, RoutedEventArgs e)
+        private void ButtonGuessGames_Click(object sender, RoutedEventArgs e)
         {
             allsvenskan.GuessTheFinish(teamsToGuess);
             //allsvenskan.GuessTheFinish((int)ComboBoxNumberOfTeams.SelectedIndex + 1);
             ButtonSubmit.Content = $"Nästa match ({allsvenskan.gamesToGuess.Count}";
             if (allsvenskan.gamesToGuess.Count > 0)
             {
-                lblGame.Content = allsvenskan.gamesToGuess[0].printGame();
-                ButtonDraw.IsEnabled = true;
-                ButtonAwayWin.IsEnabled = true;
-                ButtonHomeWin.IsEnabled = true;
-                ButtonDraw.Content = "Oavgjort";
+                lblGame.Content = allsvenskan.gamesToGuess[0].PrintGame();
+                ButtonDraw.Visibility = Visibility.Visible;
+                ButtonAwayWin.Visibility = Visibility.Visible;
+                ButtonHomeWin.Visibility = Visibility.Visible;
                 updateResultBox();
                 updateGuessButtons();
                 ButtonSubmit.IsEnabled = true;
-                allsvenskan.sortTable();
+                allsvenskan.SortTable();
                 lblTable.Content = allsvenskan.PrintTable();
+
             }
             else
             {
@@ -86,7 +86,7 @@ namespace WPFAllsvenskan
                 if (allsvenskan.gamesToGuess.Count > 1)
                 {
                     allsvenskan.gamesToGuess.Remove(allsvenskan.gamesToGuess[0]);
-                    lblGame.Content = allsvenskan.gamesToGuess[0].printGame();
+                    lblGame.Content = $"({allsvenskan.gamesToGuess.Count}) {allsvenskan.gamesToGuess[0].PrintGame()}";
                     updateResultBox();
                 }
                 else if (allsvenskan.gamesToGuess.Count == 1)
@@ -104,24 +104,41 @@ namespace WPFAllsvenskan
         private void updateResultBox()
         {
             ComboBoxResult.Items.Clear();
-            ComboBoxResult.Items.Add(allsvenskan.gamesToGuess[0].homeTeam.name);
-            ComboBoxResult.Items.Add(allsvenskan.gamesToGuess[0].awayTeam.name);
+            ComboBoxResult.Items.Add(allsvenskan.gamesToGuess[0].homeTeam.Name);
+            ComboBoxResult.Items.Add(allsvenskan.gamesToGuess[0].awayTeam.Name);
             ComboBoxResult.Items.Add("Oavgjort");
         }
         private void updateGuessButtons()
         {
-            ButtonHomeWin.Content = allsvenskan.gamesToGuess[0].homeTeam.name;
-            ButtonAwayWin.Content = allsvenskan.gamesToGuess[0].awayTeam.name;
+            if (allsvenskan.gamesToGuess.Count > 0)
+            {
+                ButtonHomeWin.Content = allsvenskan.gamesToGuess[0].homeTeam.Name;
+                ButtonAwayWin.Content = allsvenskan.gamesToGuess[0].awayTeam.Name;
+                lblGame.Content = $"({allsvenskan.gamesToGuess.Count}) {allsvenskan.gamesToGuess[0].PrintGame()}";
+            }
+            else
+            {
+                ButtonHomeWin.Visibility = Visibility.Hidden;
+                ButtonAwayWin.Visibility = Visibility.Hidden;
+                ButtonDraw.Visibility = Visibility.Hidden;
+            }
         }
 
         private void ButtonFixtures_Click(object sender, RoutedEventArgs e)
         {
-            lblFixtures.Content = allsvenskan.findTeam(ComboBoxFixtures.Text).GetGamesLeft();
+            if (ComboBoxFixtures.SelectedItem != null)
+            {
+                lblFixtures.Content = allsvenskan.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
+            }
+            else
+            {
+                MessageBox.Show("Please Choose a team too show fixtures for");
+            }
         }
 
         private void UpdateTable_Click(object sender, RoutedEventArgs e)
         {
-            allsvenskan.AverageOpponent((int)ComboBoxUpcomingDifficulty.SelectedValue);
+            allsvenskan.AverageOpponentInUpcomingGames((int)ComboBoxUpcomingDifficulty.SelectedValue);
             lblTable.Content = allsvenskan.PrintTable();
         }
 
@@ -146,12 +163,46 @@ namespace WPFAllsvenskan
 
         private void lvListOfTeams_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
         {
-            ButtonSelectTeam.IsEnabled = true;
+            if (lvListOfTeams.SelectedItem != null)
+            {
+                ButtonSelectTeam.IsEnabled = true;
+            }
+            else
+            {
+                ButtonSelectTeam.IsEnabled = false;
+            }
         }
 
         private void lvSelectedTeams_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            ButtonRemoveTeam.IsEnabled = true;
+            if (lvSelectedTeams.SelectedItem != null)
+            {
+                ButtonRemoveTeam.IsEnabled = true;
+            }
+            else
+            {
+                ButtonRemoveTeam.IsEnabled = false;
+            }
+        }
+
+        private void ButtonGuess_Click(object sender, RoutedEventArgs e)
+        {
+            Button button = (Button)sender;
+            if (allsvenskan.gamesToGuess.Count > 1)
+            {
+                allsvenskan.gamesToGuess[0].GuessTheGame(button.Content.ToString());
+                allsvenskan.gamesToGuess.RemoveAt(0);
+            }
+            else if (allsvenskan.gamesToGuess.Count == 1)
+            {
+                allsvenskan.gamesToGuess[0].GuessTheGame(button.Content.ToString());
+                allsvenskan.gamesToGuess.RemoveAt(0);
+                lblGame.Content = "";
+                ButtonSubmit.IsEnabled = false;
+            }
+            updateGuessButtons();
+            allsvenskan.SortByEndPoints();
+            lblTable.Content = allsvenskan.PrintTable();
         }
     }
 }

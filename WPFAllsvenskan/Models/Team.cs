@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using WPFAllsvenskan.Enums;
 
-namespace LeagueHandler;
+namespace WPFAllsvenskan.Models;
 
 public class Team
 {
@@ -152,7 +152,7 @@ public class Team
     public string GetTablePrintLine()
     {
         string emptySpaces = "";
-        while ((Name.Length + emptySpaces.Length) < 15)
+        while (Name.Length + emptySpaces.Length < 15)
         {
             emptySpaces += " ";
         }

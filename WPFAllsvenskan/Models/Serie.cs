@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace LeagueHandler
+namespace WPFAllsvenskan.Models
 
 {
     public class Serie
@@ -16,9 +16,10 @@ namespace LeagueHandler
         int hGoals { get; set; } = 0;
         int aGoals { get; set; } = 0;
         string[] lines { get; set; }
-        public Serie()
+        public Serie(string league)
         {
-            string adress = @"C:\Users\david\source\repos\WPFAllsvenskan\WPFAllsvenskan\Schema.txt";
+
+            string adress = @"C:\Users\david\source\repos\WPFAllsvenskan\WPFAllsvenskan\" + league + ".txt";
             ReadSchedule(adress);
             SortTable();
             ResetTeams();
@@ -46,7 +47,7 @@ namespace LeagueHandler
                     {
                         SwitchPosition(i, x);
                     }
-                    else if (teams[x].Points == teams[i].Points && teams[x].GoalDiff == teams[i].GoalDiff && teams[x].GoalsFor == teams[i].GoalsFor && String.Compare(teams[x].Name, teams[i].Name) > 0)
+                    else if (teams[x].Points == teams[i].Points && teams[x].GoalDiff == teams[i].GoalDiff && teams[x].GoalsFor == teams[i].GoalsFor && string.Compare(teams[x].Name, teams[i].Name) > 0)
                     {
                         SwitchPosition(i, x);
                     }

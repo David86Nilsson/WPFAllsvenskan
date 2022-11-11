@@ -5,203 +5,61 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFAllsvenskan"
         mc:Ignorable="d"
-        Title="Allsvenskan" Height="1200" Width="1200" Margin="20" Background="Beige">
+    Title="Allsvenskan" Height="1200" Width="1200" Margin="20" Background="Navy">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="Background" Value="DarkCyan"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="BorderBrush" Value="Black"/>
+            <Setter Property="BorderThickness" Value="2"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="Foreground" Value="DarkSeaGreen"/>
+        </Style>
+    </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <Grid Grid.Column="0" Margin="5">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="50"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="30"/>
-                <RowDefinition Height="320"/>
-                <RowDefinition Height="30"/>
-                <RowDefinition Height="30"/>
-                <RowDefinition Height="35"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="SerieGuesser"
+               Grid.Column="1"
+               Grid.Row="0"
+               HorizontalAlignment="Center"
+               FontSize="50"
+               FontWeight="Bold"/>
+        <StackPanel
+            Grid.Column="1"
+            Grid.Row="1"
+            Orientation="Horizontal"
+            VerticalAlignment="Top"
+            HorizontalAlignment="Center">
             <Label
-                x:Name="lblWhatGames"
-                Grid.Column="0"
-                Grid.Row="0"
-                Grid.ColumnSpan="3"
-                Content="What teams do want guess the upcoming games for?"
-                VerticalContentAlignment="Center"
-            />
-            <Label
-                x:Name="lblGame"
-                Grid.Column="0"
-                Grid.Row="3"
-                Grid.ColumnSpan="3"
-                VerticalContentAlignment="Top"
-                HorizontalContentAlignment="Left"
-            />
-            <ListView
-                x:Name="lvListOfTeams"
-                ScrollViewer.VerticalScrollBarVisibility="Disabled"
-                Grid.Row="1"
-                Grid.Column="0" SelectionChanged="lvListOfTeams_SelectionChanged"
-            />
-            <ListView
-                x:Name="lvSelectedTeams"
-                Grid.Row="1"
-                Grid.Column="3" 
-                SelectionChanged="lvSelectedTeams_SelectionChanged"
-                />
-            <ComboBox
-                x:Name="ComboBoxResult"
-                Grid.Column="2"
-                Grid.Row="3"
-                Width="100"
-                Margin="5"
+                Content="League: "/>
+            <ComboBox 
+                    Name="ComboBoxLeagues"
+                Width="150"
                 Height="30"
-                VerticalAlignment="Top"
-                HorizontalAlignment="Right"/>
+                SelectionChanged="ComboBoxLeagues_SelectionChanged"/>
             <Button
-                x:Name="ButtonSubmit"
-                Grid.Column="2"
-                Grid.Row="5"
-                Width="100"
-                Content="Nästa Match"
-                Margin="2"
+                Name="ButtonGo"
+                Content="Go>>"
                 Height="30"
-                Click="ButtonSubmit_Click"
-                HorizontalAlignment="Right"
-                VerticalAlignment="Top"
-            />
-            <Button
-                x:Name="ButtonHomeWin"
-                Grid.Column="0"
-                Grid.Row="4"
-                Width="100"
-                Height="30"
-                Margin="2"
-                HorizontalAlignment="Left"
-                Click="ButtonGuess_Click"
+                Click="ButtonGo_Click"
                 />
-            <Button
-                x:Name="ButtonDraw"
-                Content="Draw"
-                Grid.Column="1"
-                Grid.Row="4"
-                Width="45"
-                Height="30"
-                Margin="2"
-                HorizontalAlignment="Center"
-                Click="ButtonGuess_Click"
-                />
-            <Button
-                x:Name="ButtonAwayWin"
-                Grid.Column="2"
-                Grid.Row="4"
-                Width="100"
-                Height="30"
-                Margin="2"
-                Click="ButtonGuess_Click"
-                />
-            <Button
-                x:Name="ButtonGuessGames"
-                Grid.Column="2"
-                Grid.Row="2"
-                Width="100"
-                Content="Ta fram matcher"            
-                HorizontalAlignment="Right"
-                Height="30"
-                Click="ButtonGuessGames_Click"
-            />
-            <StackPanel
-                Grid.Row="1"
-                Grid.Column="1">
-                <Button
-                x:Name="ButtonSelectTeam"
-                Width="50"
-                Content="Lägg till"            
-                HorizontalAlignment="Center"
-                Height="30"
-                Click="ButtonSelectTeam_Click"
-            />
-                <Button
-                x:Name="ButtonRemoveTeam"
-                Width="50"
-                Content="Ta bort"        
-                HorizontalAlignment="Center"
-                Height="30"
-                Click="ButtonSelectTeam_Click"
-            />
-            </StackPanel>
-        </Grid>
-        <Grid Grid.Column="1" Grid.ColumnSpan="2" Margin="5">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="20"/>
-                <RowDefinition Height="auto"/>
-                <RowDefinition Height="auto"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-            <Label
-                x:Name ="lblTable"
-                Grid.Column="0"
-                Grid.Row="1"
-                Grid.ColumnSpan="10"
-                BorderThickness="1"
-                BorderBrush="Black"
-            />
-            <Label
-                x:Name="lblFixtures"
-                Grid.Column="0"
-                Grid.Row="3"
-                Grid.ColumnSpan="7"
-                VerticalAlignment="Top"
-            />
-            <ComboBox
-                x:Name="ComboBoxUpcomingDifficulty"
-                Grid.Column="5"
-                Grid.Row="0"
-                HorizontalAlignment="Right"
-                Width="50"
-                SelectionChanged="UpdateTable_Click"
-            />
-            <StackPanel            
-                Grid.Column="0"
-                Grid.Row="2"
-                Grid.ColumnSpan="7"
-                HorizontalAlignment="Left"
-                Orientation="Horizontal">
-                <ComboBox
-                    x:Name="ComboBoxFixtures"
-                    Grid.Column="0"
-                    Grid.Row="2"
-                    Width="150"
-                    Height="30"
-                    Margin="5" 
-                    VerticalAlignment="Top"
-                />
-                <Button
-                    x:Name="ButtonFixtures"
-                    Grid.Column="0"
-                    Grid.Row="2"
-                    Width="100"
-                    Content="Spelschema"
-                    Margin="5"
-                    Height="30"
-                    VerticalAlignment="Top"
-                    Click="ButtonFixtures_Click"
-                />
-            </StackPanel>
-        </Grid>
+        </StackPanel>
+
     </Grid>
 </Window>

@@ -1,4 +1,4 @@
-namespace LeagueHandler
+namespace WPFAllsvenskan.Models
 {
     public class Game
     {
@@ -52,7 +52,7 @@ namespace LeagueHandler
         {
             if (played)
             {
-                return ("\n" + round + ":\t" + homeTeam.Name + "\t" + homeGoals + "-" + awayGoals + "\t" + awayTeam.Name);
+                return "\n" + round + ":\t" + homeTeam.Name + "\t" + homeGoals + "-" + awayGoals + "\t" + awayTeam.Name;
 
             }
             else

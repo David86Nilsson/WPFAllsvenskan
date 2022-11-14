@@ -1,0 +1,1230 @@
+Omgång 1
+2022-04-02 15:00
+Brommapojkarna
+Västerås
+2 - 1
+i
+2022-04-02 15:00
+Jönköpings Södra
+AFC Eskilstuna
+2 - 3
+i
+2022-04-03 13:00
+Trelleborg
+Utsiktens BK
+1 - 0
+i
+2022-04-03 13:00
+Norrby IF
+Dalkurd FF
+1 - 0
+i
+2022-04-03 15:00
+Östersund
+Skövde AIK
+2 - 3
+i
+2022-04-04 19:00
+Landskrona
+Öster
+1 - 3
+i
+2022-04-04 20:00
+Brage
+Örebro
+3 - 0
+i
+2022-04-05 19:00
+Örgryte
+Halmstads BK
+2 - 2
+i
+Omgång 2
+2022-04-09 13:00
+AFC Eskilstuna
+Örgryte
+4 - 3
+i
+2022-04-09 15:00
+Skövde AIK
+Landskrona
+2 - 0
+i
+2022-04-09 15:00
+Dalkurd FF
+Trelleborg
+2 - 0
+i
+2022-04-10 13:00
+Öster
+Brage
+1 - 2
+i
+2022-04-10 15:00
+Utsiktens BK
+Brommapojkarna
+3 - 2
+i
+2022-04-11 19:00
+Halmstads BK
+Norrby IF
+1 - 2
+i
+2022-04-11 19:00
+Västerås
+Östersund
+1 - 1
+i
+2022-04-12 19:00
+Örebro
+Jönköpings Södra
+3 - 1
+i
+Omgång 3
+2022-04-17 13:00
+Västerås
+Utsiktens BK
+0 - 3
+i
+2022-04-17 15:00
+AFC Eskilstuna
+Landskrona
+2 - 0
+i
+2022-04-18 13:00
+Brommapojkarna
+Skövde AIK
+2 - 2
+i
+2022-04-18 15:00
+Norrby IF
+Örebro
+0 - 2
+i
+2022-04-18 15:00
+Brage
+Jönköpings Södra
+1 - 2
+i
+2022-04-18 17:00
+Örgryte
+Öster
+0 - 1
+i
+2022-04-18 17:00
+Dalkurd FF
+Halmstads BK
+0 - 1
+i
+2022-04-19 19:00
+Trelleborg
+Östersund
+1 - 1
+i
+Omgång 4
+2022-04-23 13:00
+Östersund
+Dalkurd FF
+1 - 0
+i
+2022-04-23 15:00
+Utsiktens BK
+AFC Eskilstuna
+2 - 3
+i
+2022-04-23 15:15
+Jönköpings Södra
+Trelleborg
+2 - 3
+i
+2022-04-24 13:00
+Skövde AIK
+Norrby IF
+2 - 0
+i
+2022-04-24 15:00
+Brage
+Brommapojkarna
+3 - 1
+i
+2022-04-25 19:00
+Öster
+Västerås
+1 - 1
+i
+2022-04-25 19:00
+Landskrona
+Örgryte
+3 - 2
+i
+2022-04-26 19:00
+Örebro
+Halmstads BK
+0 - 2
+i
+Omgång 5
+2022-04-30 13:00
+Brommapojkarna
+Jönköpings Södra
+2 - 1
+i
+2022-04-30 15:00
+Trelleborg
+Brage
+2 - 2
+i
+2022-04-30 15:00
+AFC Eskilstuna
+Skövde AIK
+1 - 2
+i
+2022-05-01 13:00
+Västerås
+Örebro
+2 - 1
+i
+2022-05-01 15:00
+Örgryte
+Utsiktens BK
+0 - 2
+i
+2022-05-02 19:00
+Norrby IF
+Landskrona
+0 - 0
+i
+2022-05-02 19:00
+Dalkurd FF
+Öster
+0 - 3
+i
+2022-05-03 19:00
+Halmstads BK
+Östersund
+2 - 0
+i
+Omgång 6
+2022-05-07 13:00
+Brommapojkarna
+Trelleborg
+4 - 2
+i
+2022-05-07 15:00
+Öster
+Norrby IF
+2 - 0
+i
+2022-05-07 15:00
+AFC Eskilstuna
+Västerås
+5 - 2
+i
+2022-05-08 13:00
+Brage
+Örgryte
+4 - 0
+i
+2022-05-08 15:00
+Utsiktens BK
+Dalkurd FF
+3 - 0
+i
+2022-05-09 19:00
+Skövde AIK
+Halmstads BK
+1 - 3
+i
+2022-05-09 19:00
+Örebro
+Östersund
+1 - 0
+i
+2022-05-10 19:00
+Jönköpings Södra
+Landskrona
+2 - 4
+i
+Omgång 7
+2022-05-13 19:00
+Dalkurd FF
+Skövde AIK
+3 - 1
+i
+2022-05-14 13:00
+Trelleborg
+Västerås
+3 - 0
+i
+2022-05-14 13:00
+Örebro
+Öster
+2 - 1
+i
+2022-05-14 15:00
+Norrby IF
+Örgryte
+1 - 1
+i
+2022-05-14 15:00
+Halmstads BK
+AFC Eskilstuna
+2 - 1
+i
+2022-05-14 15:00
+Jönköpings Södra
+Utsiktens BK
+5 - 2
+i
+2022-05-15 13:00
+Landskrona
+Brommapojkarna
+3 - 3
+i
+2022-05-15 15:00
+Östersund
+Brage
+1 - 3
+i
+Omgång 8
+2022-05-18 19:00
+Utsiktens BK
+Landskrona
+2 - 2
+i
+2022-05-18 19:00
+Skövde AIK
+Örebro
+0 - 0
+i
+2022-05-18 19:00
+Västerås
+Jönköpings Södra
+2 - 2
+i
+2022-05-18 19:00
+Örgryte
+Trelleborg
+1 - 2
+i
+2022-05-19 19:00
+Öster
+Halmstads BK
+1 - 4
+i
+2022-05-19 19:00
+Brage
+Dalkurd FF
+0 - 0
+i
+2022-05-19 19:00
+Brommapojkarna
+Östersund
+4 - 1
+i
+2022-05-19 19:00
+AFC Eskilstuna
+Norrby IF
+1 - 2
+i
+Omgång 9
+2022-05-22 13:00
+Landskrona
+Brage
+1 - 1
+i
+2022-05-22 13:00
+Dalkurd FF
+Västerås
+1 - 2
+i
+2022-05-22 15:00
+Trelleborg
+Öster
+1 - 2
+i
+2022-05-23 19:00
+Norrby IF
+Utsiktens BK
+0 - 2
+i
+2022-05-23 19:00
+Halmstads BK
+Brommapojkarna
+2 - 0
+i
+2022-05-23 19:00
+Örebro
+AFC Eskilstuna
+1 - 0
+i
+2022-05-24 19:00
+Östersund
+Örgryte
+0 - 0
+i
+2022-05-24 19:00
+Jönköpings Södra
+Skövde AIK
+0 - 1
+i
+Omgång 10
+2022-05-28 13:00
+Trelleborg
+Landskrona
+1 - 1
+i
+2022-05-28 13:00
+Brage
+Norrby IF
+2 - 1
+i
+2022-05-28 15:00
+Öster
+Jönköpings Södra
+2 - 0
+i
+2022-05-28 15:00
+Västerås
+Halmstads BK
+2 - 2
+i
+2022-05-28 17:00
+AFC Eskilstuna
+Östersund
+4 - 1
+i
+2022-05-29 13:00
+Örgryte
+Dalkurd FF
+3 - 3
+i
+2022-05-29 15:00
+Örebro
+Brommapojkarna
+0 - 2
+i
+2022-05-30 19:40
+Utsiktens BK
+Skövde AIK
+1 - 1
+i
+Omgång 11
+2022-06-26 13:00
+Utsiktens BK
+Brage
+1 - 0
+i
+2022-06-26 13:00
+Skövde AIK
+Västerås
+0 - 2
+i
+2022-06-26 15:00
+Dalkurd FF
+AFC Eskilstuna
+3 - 2
+i
+2022-06-27 19:00
+Brommapojkarna
+Öster
+1 - 1
+i
+2022-06-27 19:00
+Landskrona
+Örebro
+2 - 1
+i
+2022-06-28 19:00
+Norrby IF
+Östersund
+2 - 0
+i
+2022-06-28 19:00
+Halmstads BK
+Trelleborg
+1 - 2
+i
+2022-06-28 19:00
+Jönköpings Södra
+Örgryte
+2 - 2
+i
+Omgång 12
+2022-07-02 15:00
+Östersund
+Utsiktens BK
+0 - 3
+i
+2022-07-02 15:00
+Dalkurd FF
+Landskrona
+0 - 1
+i
+2022-07-02 17:00
+Öster
+Skövde AIK
+2 - 3
+i
+2022-07-03 13:00
+Västerås
+Brage
+1 - 3
+i
+2022-07-03 15:00
+AFC Eskilstuna
+Brommapojkarna
+3 - 1
+i
+2022-07-04 19:00
+Trelleborg
+Norrby IF
+2 - 1
+i
+2022-07-05 19:00
+Halmstads BK
+Jönköpings Södra
+3 - 0
+i
+2022-07-05 19:00
+Örgryte
+Örebro
+2 - 0
+i
+Omgång 13
+2022-07-09 13:00
+Brommapojkarna
+Dalkurd FF
+5 - 0
+i
+2022-07-09 15:00
+Norrby IF
+Västerås
+1 - 0
+i
+2022-07-10 13:00
+Jönköpings Södra
+Östersund
+1 - 0
+i
+2022-07-10 15:00
+Utsiktens BK
+Öster
+1 - 1
+i
+2022-07-10 17:00
+Skövde AIK
+Örgryte
+2 - 1
+i
+2022-07-11 19:00
+Brage
+AFC Eskilstuna
+1 - 1
+i
+2022-07-12 19:00
+Örebro
+Trelleborg
+2 - 2
+i
+2022-07-12 19:00
+Landskrona
+Halmstads BK
+2 - 1
+i
+Omgång 14
+2022-07-16 15:00
+Skövde AIK
+Brage
+1 - 1
+i
+2022-07-16 15:00
+Dalkurd FF
+Örebro
+0 - 2
+i
+2022-07-16 17:00
+Östersund
+Öster
+1 - 1
+i
+2022-07-17 13:00
+Västerås
+Landskrona
+3 - 0
+i
+2022-07-17 15:00
+Halmstads BK
+Utsiktens BK
+4 - 1
+i
+2022-07-18 19:00
+AFC Eskilstuna
+Trelleborg
+1 - 0
+i
+2022-07-19 19:00
+Norrby IF
+Jönköpings Södra
+1 - 1
+i
+2022-07-19 19:00
+Örgryte
+Brommapojkarna
+1 - 1
+i
+Omgång 15
+2022-07-23 15:00
+Brage
+Halmstads BK
+1 - 2
+i
+2022-07-23 15:00
+Landskrona
+Östersund
+1 - 1
+i
+2022-07-23 17:00
+Jönköpings Södra
+Dalkurd FF
+0 - 1
+i
+2022-07-24 13:00
+Brommapojkarna
+Norrby IF
+5 - 2
+i
+2022-07-24 15:00
+Örebro
+Utsiktens BK
+2 - 0
+i
+2022-07-25 19:00
+Trelleborg
+Skövde AIK
+2 - 1
+i
+2022-07-26 19:00
+Öster
+AFC Eskilstuna
+3 - 2
+i
+2022-07-26 19:00
+Örgryte
+Västerås
+1 - 1
+i
+Omgång 16
+2022-07-30 13:00
+Östersund
+Jönköpings Södra
+1 - 1
+i
+2022-07-30 13:00
+Norrby IF
+Trelleborg
+2 - 3
+i
+2022-07-30 15:00
+Skövde AIK
+Brommapojkarna
+1 - 1
+i
+2022-07-30 15:00
+Örebro
+Brage
+1 - 3
+i
+2022-07-30 17:00
+AFC Eskilstuna
+Dalkurd FF
+0 - 0
+i
+2022-07-30 20:00
+Halmstads BK
+Landskrona
+2 - 1
+i
+2022-07-31 15:00
+Utsiktens BK
+Örgryte
+0 - 1
+i
+2022-07-31 15:00
+Västerås
+Öster
+2 - 2
+i
+Omgång 17
+2022-08-03 19:00
+Trelleborg
+Halmstads BK
+0 - 4
+i
+2022-08-03 19:00
+Brage
+Östersund
+1 - 0
+i
+2022-08-03 19:00
+Brommapojkarna
+Örebro
+2 - 1
+i
+2022-08-03 19:00
+Landskrona
+Skövde AIK
+0 - 1
+i
+2022-08-03 19:00
+Dalkurd FF
+Norrby IF
+2 - 1
+i
+2022-08-04 19:00
+Öster
+Utsiktens BK
+3 - 1
+i
+2022-08-04 19:00
+Jönköpings Södra
+Västerås
+2 - 1
+i
+2022-08-05 11:00
+Örgryte
+AFC Eskilstuna
+2 - 2
+i
+Omgång 18
+2022-08-07 13:00
+Östersund
+Landskrona
+3 - 1
+i
+2022-08-07 15:00
+Halmstads BK
+Dalkurd FF
+3 - 1
+i
+2022-08-08 19:00
+AFC Eskilstuna
+Jönköpings Södra
+0 - 2
+i
+2022-08-08 19:00
+Örebro
+Örgryte
+0 - 1
+i
+2022-08-08 19:00
+Västerås
+Brommapojkarna
+0 - 1
+i
+2022-08-09 19:00
+Utsiktens BK
+Trelleborg
+0 - 0
+i
+2022-08-09 19:00
+Skövde AIK
+Öster
+0 - 0
+i
+2022-08-09 19:00
+Norrby IF
+Brage
+2 - 2
+i
+Omgång 19
+2022-08-13 15:00
+Jönköpings Södra
+Halmstads BK
+0 - 5
+i
+2022-08-13 15:00
+Dalkurd FF
+Örgryte
+1 - 2
+i
+2022-08-14 13:00
+Utsiktens BK
+Norrby IF
+1 - 1
+i
+2022-08-14 15:00
+Skövde AIK
+Östersund
+1 - 3
+i
+2022-08-15 19:00
+Brage
+Landskrona
+1 - 1
+i
+2022-08-15 19:00
+Brommapojkarna
+AFC Eskilstuna
+1 - 0
+i
+2022-08-16 19:00
+Öster
+Örebro
+1 - 1
+i
+2022-08-16 19:00
+Västerås
+Trelleborg
+4 - 4
+i
+Omgång 20
+2022-08-20 15:00
+Östersund
+Brommapojkarna
+2 - 3
+i
+2022-08-20 15:00
+Landskrona
+Jönköpings Södra
+1 - 1
+i
+2022-08-21 13:00
+AFC Eskilstuna
+Utsiktens BK
+3 - 1
+i
+2022-08-21 13:00
+Trelleborg
+Dalkurd FF
+4 - 2
+i
+2022-08-21 15:00
+Brage
+Öster
+0 - 3
+i
+2022-08-21 15:00
+Halmstads BK
+Västerås
+1 - 1
+i
+2022-08-23 19:00
+Örebro
+Skövde AIK
+0 - 1
+i
+2022-08-23 19:00
+Örgryte
+Norrby IF
+5 - 1
+i
+Omgång 21
+2022-08-26 19:00
+Dalkurd FF
+Brage
+1 - 2
+i
+2022-08-27 13:00
+Brommapojkarna
+Halmstads BK
+2 - 1
+i
+2022-08-27 13:00
+Landskrona
+Trelleborg
+2 - 1
+i
+2022-08-27 15:00
+Västerås
+Örgryte
+1 - 1
+i
+2022-08-27 15:00
+Öster
+Östersund
+2 - 1
+i
+2022-08-28 13:00
+Utsiktens BK
+Örebro
+1 - 2
+i
+2022-08-28 15:00
+Skövde AIK
+Jönköpings Södra
+1 - 1
+i
+2022-08-28 15:00
+Norrby IF
+AFC Eskilstuna
+2 - 1
+i
+Omgång 22
+2022-09-03 15:00
+Östersund
+Västerås
+2 - 2
+i
+2022-09-03 17:00
+Örgryte
+Landskrona
+0 - 1
+i
+2022-09-04 13:00
+Halmstads BK
+Skövde AIK
+3 - 2
+i
+2022-09-04 15:00
+Örebro
+Norrby IF
+0 - 0
+i
+2022-09-05 19:00
+Dalkurd FF
+Brommapojkarna
+0 - 2
+i
+2022-09-05 19:00
+Brage
+Utsiktens BK
+1 - 2
+i
+2022-09-06 19:00
+Jönköpings Södra
+Öster
+2 - 1
+i
+2022-09-06 19:00
+Trelleborg
+AFC Eskilstuna
+0 - 1
+i
+Omgång 23
+2022-09-10 13:00
+Brommapojkarna
+Landskrona
+3 - 0
+i
+2022-09-10 15:00
+Västerås
+Skövde AIK
+4 - 1
+i
+2022-09-10 15:00
+Östersund
+Örebro
+2 - 0
+i
+2022-09-11 13:00
+Utsiktens BK
+Jönköpings Södra
+0 - 1
+i
+2022-09-11 15:00
+Öster
+Dalkurd FF
+2 - 0
+i
+2022-09-12 19:00
+Trelleborg
+Örgryte
+2 - 1
+i
+2022-09-13 19:00
+Norrby IF
+Halmstads BK
+3 - 0
+i
+2022-09-13 19:00
+AFC Eskilstuna
+Brage
+2 - 3
+i
+Omgång 24
+2022-09-17 13:00
+Dalkurd FF
+Utsiktens BK
+4 - 1
+i
+2022-09-17 15:00
+Örgryte
+Östersund
+0 - 1
+i
+2022-09-17 15:00
+Örebro
+Västerås
+5 - 2
+i
+2022-09-17 15:00
+Jönköpings Södra
+Brommapojkarna
+1 - 2
+i
+2022-09-17 17:00
+Halmstads BK
+Öster
+2 - 0
+i
+2022-09-18 13:00
+Skövde AIK
+AFC Eskilstuna
+4 - 0
+i
+2022-09-18 15:00
+Brage
+Trelleborg
+1 - 2
+i
+2022-09-18 15:00
+Landskrona
+Norrby IF
+3 - 2
+i
+Omgång 25
+2022-10-01 13:00
+AFC Eskilstuna
+Örebro
+0 - 1
+i
+2022-10-01 15:00
+Landskrona
+Dalkurd FF
+3 - 1
+i
+2022-10-01 15:00
+Örgryte
+Brage
+4 - 0
+i
+2022-10-01 15:00
+Östersund
+Halmstads BK
+0 - 0
+i
+2022-10-02 13:00
+Utsiktens BK
+Västerås
+0 - 2
+i
+2022-10-02 15:00
+Norrby IF
+Skövde AIK
+0 - 0
+i
+2022-10-03 19:00
+Trelleborg
+Jönköpings Södra
+1 - 3
+i
+2022-10-04 19:00
+Öster
+Brommapojkarna
+4 - 1
+i
+Omgång 26
+2022-10-08 15:00
+Öster
+Landskrona
+0 - 0
+i
+2022-10-08 15:00
+Skövde AIK
+Trelleborg
+3 - 1
+i
+2022-10-08 15:00
+Västerås
+Norrby IF
+3 - 2
+i
+2022-10-09 13:00
+Brommapojkarna
+Utsiktens BK
+0 - 1
+i
+2022-10-09 15:00
+Östersund
+AFC Eskilstuna
+0 - 2
+i
+2022-10-10 19:00
+Örebro
+Dalkurd FF
+1 - 3
+i
+2022-10-11 19:00
+Jönköpings Södra
+Brage
+1 - 1
+i
+2022-10-11 19:00
+Halmstads BK
+Örgryte
+2 - 3
+i
+Omgång 27
+2022-10-15 13:00
+Norrby IF
+Brommapojkarna
+0 - 3
+i
+2022-10-16 13:00
+Dalkurd FF
+Östersund
+1 - 1
+i
+2022-10-16 15:00
+Örgryte
+Jönköpings Södra
+0 - 0
+i
+2022-10-16 15:00
+AFC Eskilstuna
+Öster
+1 - 2
+i
+2022-10-17 19:00
+Landskrona
+Västerås
+1 - 0
+i
+2022-10-17 19:00
+Utsiktens BK
+Halmstads BK
+2 - 1
+i
+2022-10-17 19:00
+Trelleborg
+Örebro
+2 - 1
+i
+2022-10-18 19:00
+Brage
+Skövde AIK
+0 - 0
+i
+Omgång 28
+2022-10-22 15:00
+Östersund
+Trelleborg
+2 - 0
+i
+2022-10-22 15:00
+Öster
+Örgryte
+2 - 2
+i
+2022-10-22 15:00
+Landskrona
+AFC Eskilstuna
+1 - 1
+i
+2022-10-23 13:00
+Västerås
+Dalkurd FF
+4 - 1
+i
+2022-10-23 15:00
+Skövde AIK
+Utsiktens BK
+1 - 1
+i
+2022-10-24 19:00
+Jönköpings Södra
+Norrby IF
+2 - 1
+i
+2022-10-25 19:00
+Brommapojkarna
+Brage
+3 - 2
+i
+2022-10-25 19:00
+Halmstads BK
+Örebro
+0 - 0
+i
+Omgång 29
+2022-10-29 13:00
+Norrby IF
+Öster
+2 - 0
+i
+2022-10-29 13:00
+Brage
+Västerås
+0 - 2
+i
+2022-10-29 13:00
+Örgryte
+Skövde AIK
+3 - 0
+i
+2022-10-29 15:00
+Utsiktens BK
+Östersund
+3 - 3
+i
+2022-10-29 15:00
+AFC Eskilstuna
+Halmstads BK
+2 - 0
+i
+2022-10-29 15:00
+Örebro
+Landskrona
+2 - 2
+i
+2022-10-30 13:00
+Dalkurd FF
+Jönköpings Södra
+5 - 2
+i
+2022-10-30 15:00
+Trelleborg
+Brommapojkarna
+1 - 2
+i
+Omgång 30
+2022-11-05 17:00
+Östersund
+Norrby IF
+1 - 0
+i
+2022-11-05 17:00
+Öster
+Trelleborg
+0 - 1
+i
+2022-11-05 17:00
+Skövde AIK
+Dalkurd FF
+2 - 2
+i
+2022-11-05 17:00
+Brommapojkarna
+Örgryte
+3 - 1
+i
+2022-11-05 17:00
+Halmstads BK
+Brage
+1 - 0
+i
+2022-11-05 17:00
+Jönköpings Södra
+Örebro
+1 - 1
+i
+2022-11-05 17:00
+Landskrona
+Utsiktens BK
+2 - 0
+i
+2022-11-05 17:00
+Västerås
+AFC Eskilstuna
+2 - 0
+i

@@ -19,7 +19,7 @@ namespace WPFAllsvenskan
 
         private void PopulateComboBox()
         {
-            string[] files = Directory.GetFiles(@"C:\Users\david\source\repos\WPFAllsvenskan\WPFAllsvenskan\");
+            string[] files = Directory.GetFiles(@"C:\Users\david\source\repos\WPFAllsvenskan\WPFAllsvenskan\TextFiles\");
             List<string> leagues = new();
             foreach (string file in files)
             {
@@ -37,7 +37,7 @@ namespace WPFAllsvenskan
         {
             try
             {
-                SerieWindow serieWindow = new(ComboBoxLeagues.Text);
+                SerieWindow serieWindow = new(ComboBoxLeagues.Text.ToString());
                 serieWindow.Show();
                 Close();
             }

@@ -40,33 +40,7 @@ public class Team
         Schedule.Add(game);
         if (game.played == true)
         {
-            int addedPoints = game.GetTeamPointsFromGame(this);
-            Points += addedPoints;
             PlayedGames.Add(game);
-            Games++;
-            if (game.Pitch == "Grass")
-            {
-                GrassGames++;
-                GrassPoints += addedPoints;
-            }
-            else
-            {
-                PlasticGames++;
-                PlasticPoints += addedPoints;
-            }
-
-
-            if (game.homeTeam == this)
-            {
-                GoalsFor += game.homeGoals;
-                GoalsAgainst += game.awayGoals;
-            }
-            else
-            {
-                GoalsFor += game.awayGoals;
-                GoalsAgainst += game.homeGoals;
-            }
-            GoalDiff = GoalsFor - GoalsAgainst;
         }
     }
     public void CalculateTeamStats()
@@ -115,7 +89,7 @@ public class Team
     }
     private string SetPitch()
     {
-        if (Enum.IsDefined(typeof(PlasticPitch), Name))
+        if (Enum.IsDefined(typeof(PlasticPitch), Name.Replace(' ', '_')))
         {
             return "Plast";
         }
@@ -149,12 +123,20 @@ public class Team
         }
         return s.ToString();
     }
-    public string GetTablePrintLine()
+    public string GetTablePrintLine(int maxTeamNameLength, string? pPerGame = null)
     {
         string emptySpaces = "";
-        while (Name.Length + emptySpaces.Length < 15)
+        while (Name.Length + emptySpaces.Length < maxTeamNameLength + 10)
         {
             emptySpaces += " ";
+        }
+        if (pPerGame == "Grass")
+        {
+            return $"\n{Rank}:\t{Name}{emptySpaces}\t{Games}\t{Points}\t{PointsPerGrassGame}\t{GoalDiff}\t{Difficulty}\t\t{SpecialAverage}\t\t{EndPoint}";
+        }
+        else if (pPerGame == "Plastic")
+        {
+            return $"\n{Rank}:\t{Name}{emptySpaces}\t{Games}\t{Points}\t{PointsPerPlasticGame}\t{GoalDiff}\t{Difficulty}\t\t{SpecialAverage}\t\t{EndPoint}";
         }
         return $"\n{Rank}:\t{Name}{emptySpaces}\t{Games}\t{Points}\t{PointsPerGame}\t{GoalDiff}\t{Difficulty}\t\t{SpecialAverage}\t\t{EndPoint}";
     }
@@ -165,8 +147,13 @@ public class Team
         {
             startO = endO;
         }
+        if (endO > Schedule.Count)
+        {
+            endO = Schedule.Count;
+        }
         double total = 0;
-        double nbrOfGames = endO - startO + 1;
+        int games = 0;
+        double nbrOfGames = Convert.ToDouble(endO) - Convert.ToDouble(startO) + 1;
         foreach (Game game in Schedule)
         {
             if (game.round >= startO && game.round <= endO)
@@ -179,8 +166,61 @@ public class Team
                 {
                     total += game.homeTeam.Rank;
                 }
+                games++;
             }
         }
         return Math.Round(total / nbrOfGames, 2, MidpointRounding.AwayFromZero);
+    }
+
+    public void CalculateGamesBetweenRounds(int startRound, int endRound)
+    {
+        ResetStats();
+        if (endRound > PlayedGames.Count)
+        {
+            endRound = PlayedGames.Count;
+        }
+        for (int i = startRound - 1; i < endRound; i++)
+        {
+            Game game = PlayedGames[i];
+            int addedPoints = game.GetTeamPointsFromGame(this);
+            Points += addedPoints;
+            Games++;
+            if (game.Pitch == "Grass")
+            {
+                GrassGames++;
+                GrassPoints += addedPoints;
+            }
+            else
+            {
+                PlasticGames++;
+                PlasticPoints += addedPoints;
+            }
+
+
+            if (game.homeTeam == this)
+            {
+                GoalsFor += game.homeGoals;
+                GoalsAgainst += game.awayGoals;
+            }
+            else
+            {
+                GoalsFor += game.awayGoals;
+                GoalsAgainst += game.homeGoals;
+            }
+        }
+        GoalDiff = GoalsFor - GoalsAgainst;
+    }
+
+    private void ResetStats()
+    {
+        Points = 0;
+        GrassPoints = 0;
+        PlasticPoints = 0;
+        Games = 0;
+        GrassGames = 0;
+        PlasticGames = 0;
+        GoalsFor = 0;
+        GoalsAgainst = 0;
+        GoalDiff = 0;
     }
 }

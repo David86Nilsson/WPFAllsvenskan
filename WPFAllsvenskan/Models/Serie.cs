@@ -7,6 +7,8 @@ namespace WPFAllsvenskan.Models
 {
     public class Serie
     {
+        private int maxTeamNameLength = 0;
+        private string Name;
         public List<Team> teams { get; set; } = new();
         public List<Game> games { get; set; } = new();
         public List<Game> gamesToGuess { get; set; } = new();
@@ -18,9 +20,10 @@ namespace WPFAllsvenskan.Models
         string[] lines { get; set; }
         public Serie(string league)
         {
-
-            string adress = @"C:\Users\david\source\repos\WPFAllsvenskan\WPFAllsvenskan\" + league + ".txt";
+            Name = league;
+            string adress = @"C:\Users\david\source\repos\WPFAllsvenskan\WPFAllsvenskan\TextFiles\" + league + ".txt";
             ReadSchedule(adress);
+            CalculateTableBetweenRounds(1, (nbrOfTeams - 1) * 2);
             SortTable();
             ResetTeams();
             CalculateStats();
@@ -59,18 +62,41 @@ namespace WPFAllsvenskan.Models
                 teams[y - 1].Rank = y;
             }
         }
-        public string PrintTable()
+        public string PrintTable(string? pPerGame = null)
         {
-            StringBuilder s = new StringBuilder("\t Lag \t\tM\tPoäng \tp/m \tms \tMotstånd \tKommande\t Slutpoäng");
+            StringBuilder s = new StringBuilder("\tLag \t\t\tM\tPoäng \tp/m \tms \tMotstånd \tKommande\t Slutpoäng");
+            if (pPerGame == "Grass")
+            {
+                s = new StringBuilder("\t Lag \t\t\tM\tPoäng \tgrass \tms \tMotstånd \tKommande\t Slutpoäng");
+            }
+            else if (pPerGame == "Plastic")
+            {
+                s = new StringBuilder("\t Lag \t\t\tM\tPoäng \tplastic \tms \tMotstånd \tKommande\t Slutpoäng");
+            }
             int place = 0;
             foreach (Team team in teams)
             {
                 place++;
-                s.Append(team.GetTablePrintLine());
-                if (place == 3 || place == 13 || place == 14)
+                s.Append(team.GetTablePrintLine(maxTeamNameLength, pPerGame));
+                if (Name == "Allsvenskan")
                 {
-                    s.Append("\n--------------------------------------------------------------------------------------------------------------------");
+                    if (place == 3 || place == 13 || place == 14)
+                    {
+                        s.Append("\n--------------------------------------------------------------------------------------------------------------------");
+                    }
                 }
+                else if (Name == "Superettan")
+                {
+                    if (place == 2 || place == 12 || place == 14)
+                    {
+                        s.Append("\n--------------------------------------------------------------------------------------------------------------------");
+                    }
+                }
+                else if (teams.Count == 20)
+                    if (place == 4 || place == 17)
+                    {
+                        s.Append("\n--------------------------------------------------------------------------------------------------------------------");
+                    }
             }
             return s.ToString();
         }
@@ -141,11 +167,19 @@ namespace WPFAllsvenskan.Models
                     {
                         homeTeam = new(lines[i + 1]);
                         teams.Add(homeTeam);
+                        if (homeTeam.Name.Length > maxTeamNameLength)
+                        {
+                            maxTeamNameLength = homeTeam.Name.Length;
+                        }
                     }
                     if (awayTeam == null)
                     {
                         awayTeam = new(lines[i + 2]);
                         teams.Add(awayTeam);
+                        if (awayTeam.Name.Length > maxTeamNameLength)
+                        {
+                            maxTeamNameLength = awayTeam.Name.Length;
+                        }
                     }
                     if (lines.Length > i + 3 && lines[i + 3].Length == 5)
                     {
@@ -217,6 +251,16 @@ namespace WPFAllsvenskan.Models
                     }
                 }
             }
+        }
+
+        public void CalculateTableBetweenRounds(int startRound, int endRound)
+        {
+            foreach (Team team in teams)
+            {
+                team.CalculateGamesBetweenRounds(startRound, endRound);
+                team.CalculateTeamStats();
+            }
+            SortTable();
         }
     }
 }

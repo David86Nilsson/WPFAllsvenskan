@@ -1,0 +1,1456 @@
+Omgång 1
+2022-08-05 21:00
+Crystal Palace
+Arsenal
+0 - 2
+i
+2022-08-06 13:30
+Fulham
+Liverpool
+2 - 2
+i
+2022-08-06 16:00
+Leeds United
+Wolves
+2 - 1
+i
+2022-08-06 16:00
+Bournemouth
+Aston Villa
+2 - 0
+i
+2022-08-06 16:00
+Newcastle
+Nottingham
+2 - 0
+i
+2022-08-06 16:00
+Tottenham
+Southampton
+4 - 1
+i
+2022-08-06 18:30
+Everton
+Chelsea
+0 - 1
+i
+2022-08-07 15:00
+Leicester
+Brentford
+2 - 2
+i
+2022-08-07 15:00
+Manchester U
+Brighton
+1 - 2
+i
+2022-08-07 17:30
+West Ham
+Manchester C
+0 - 2
+i
+Omgång 2
+2022-08-13 13:30
+Aston Villa
+Everton
+2 - 1
+i
+2022-08-13 16:00
+Arsenal
+Leicester
+4 - 2
+i
+2022-08-13 16:00
+Brighton
+Newcastle
+0 - 0
+i
+2022-08-13 16:00
+Wolves
+Fulham
+0 - 0
+i
+2022-08-13 16:00
+Southampton
+Leeds United
+2 - 2
+i
+2022-08-13 16:00
+Manchester C
+Bournemouth
+4 - 0
+i
+2022-08-13 18:30
+Brentford
+Manchester U
+4 - 0
+i
+2022-08-14 15:00
+Nottingham
+West Ham
+1 - 0
+i
+2022-08-14 17:30
+Chelsea
+Tottenham
+2 - 2
+i
+2022-08-15 21:00
+Liverpool
+Crystal Palace
+1 - 1
+i
+Omgång 3
+2022-08-20 13:30
+Tottenham
+Wolves
+1 - 0
+i
+2022-08-20 16:00
+Crystal Palace
+Aston Villa
+3 - 1
+i
+2022-08-20 16:00
+Everton
+Nottingham
+1 - 1
+i
+2022-08-20 16:00
+Leicester
+Southampton
+1 - 2
+i
+2022-08-20 16:00
+Fulham
+Brentford
+3 - 2
+i
+2022-08-20 18:30
+Bournemouth
+Arsenal
+0 - 3
+i
+2022-08-21 15:00
+West Ham
+Brighton
+0 - 2
+i
+2022-08-21 15:00
+Leeds United
+Chelsea
+3 - 0
+i
+2022-08-21 17:30
+Newcastle
+Manchester C
+3 - 3
+i
+2022-08-22 21:00
+Manchester U
+Liverpool
+2 - 1
+i
+Omgång 4
+2022-08-27 13:30
+Southampton
+Manchester U
+0 - 1
+i
+2022-08-27 16:00
+Brighton
+Leeds United
+1 - 0
+i
+2022-08-27 16:00
+Liverpool
+Bournemouth
+9 - 0
+i
+2022-08-27 16:00
+Brentford
+Everton
+1 - 1
+i
+2022-08-27 16:00
+Chelsea
+Leicester
+2 - 1
+i
+2022-08-27 16:00
+Manchester C
+Crystal Palace
+4 - 2
+i
+2022-08-27 18:30
+Arsenal
+Fulham
+2 - 1
+i
+2022-08-28 15:00
+Wolves
+Newcastle
+1 - 1
+i
+2022-08-28 15:00
+Aston Villa
+West Ham
+0 - 1
+i
+2022-08-28 17:30
+Nottingham
+Tottenham
+0 - 2
+i
+Omgång 5
+2022-08-30 20:30
+Crystal Palace
+Brentford
+1 - 1
+i
+2022-08-30 20:30
+Fulham
+Brighton
+2 - 1
+i
+2022-08-30 20:45
+Southampton
+Chelsea
+2 - 1
+i
+2022-08-30 21:00
+Leeds United
+Everton
+1 - 1
+i
+2022-08-31 20:30
+Bournemouth
+Wolves
+0 - 0
+i
+2022-08-31 20:30
+Manchester C
+Nottingham
+6 - 0
+i
+2022-08-31 20:30
+Arsenal
+Aston Villa
+2 - 1
+i
+2022-08-31 20:45
+West Ham
+Tottenham
+1 - 1
+i
+2022-08-31 21:00
+Liverpool
+Newcastle
+2 - 1
+i
+2022-09-01 21:00
+Leicester
+Manchester U
+0 - 1
+i
+Omgång 6
+2022-09-03 13:30
+Everton
+Liverpool
+0 - 0
+i
+2022-09-03 16:00
+Nottingham
+Bournemouth
+2 - 3
+i
+2022-09-03 16:00
+Wolves
+Southampton
+1 - 0
+i
+2022-09-03 16:00
+Newcastle
+Crystal Palace
+0 - 0
+i
+2022-09-03 16:00
+Chelsea
+West Ham
+2 - 1
+i
+2022-09-03 16:00
+Tottenham
+Fulham
+2 - 1
+i
+2022-09-03 16:00
+Brentford
+Leeds United
+5 - 2
+i
+2022-09-03 18:30
+Aston Villa
+Manchester C
+1 - 1
+i
+2022-09-04 15:00
+Brighton
+Leicester
+5 - 2
+i
+2022-09-04 17:30
+Manchester U
+Arsenal
+3 - 1
+i
+Omgång 7
+2022-09-10 13:30
+Fulham
+Chelsea
+2022-09-10 16:00
+Leicester
+Aston Villa
+2022-09-10 16:00
+Southampton
+Brentford
+2022-09-10 16:00
+Liverpool
+Wolves
+2022-09-10 16:00
+Bournemouth
+Brighton
+2022-09-10 18:30
+Manchester C
+Tottenham
+2022-09-11 15:00
+West Ham
+Newcastle
+2022-09-11 15:00
+Arsenal
+Everton
+2022-09-11 17:30
+Crystal Palace
+Manchester U
+2022-09-12 21:00
+Leeds United
+Nottingham
+Omgång 8
+2022-09-16 21:00
+Nottingham
+Fulham
+2 - 3
+i
+2022-09-16 21:00
+Aston Villa
+Southampton
+1 - 0
+i
+2022-09-17 13:30
+Wolves
+Manchester C
+0 - 3
+i
+2022-09-17 16:00
+Newcastle
+Bournemouth
+1 - 1
+i
+2022-09-17 16:00
+Brighton
+Crystal Palace
+2022-09-17 18:30
+Tottenham
+Leicester
+6 - 2
+i
+2022-09-18 13:00
+Brentford
+Arsenal
+0 - 3
+i
+2022-09-18 15:00
+Manchester U
+Leeds United
+2022-09-18 15:15
+Everton
+West Ham
+1 - 0
+i
+2022-09-18 17:30
+Chelsea
+Liverpool
+Omgång 9
+2022-10-01 13:30
+Arsenal
+Tottenham
+3 - 1
+i
+2022-10-01 16:00
+Crystal Palace
+Chelsea
+1 - 2
+i
+2022-10-01 16:00
+Liverpool
+Brighton
+3 - 3
+i
+2022-10-01 16:00
+Bournemouth
+Brentford
+0 - 0
+i
+2022-10-01 16:00
+Fulham
+Newcastle
+1 - 4
+i
+2022-10-01 16:00
+Southampton
+Everton
+1 - 2
+i
+2022-10-01 18:30
+West Ham
+Wolves
+2 - 0
+i
+2022-10-02 15:00
+Manchester C
+Manchester U
+6 - 3
+i
+2022-10-02 17:30
+Leeds United
+Aston Villa
+0 - 0
+i
+2022-10-03 21:00
+Leicester
+Nottingham
+4 - 0
+i
+Omgång 10
+2022-10-08 16:00
+Bournemouth
+Leicester
+2 - 1
+i
+2022-10-08 16:00
+Chelsea
+Wolves
+3 - 0
+i
+2022-10-08 16:00
+Newcastle
+Brentford
+5 - 1
+i
+2022-10-08 16:00
+Manchester C
+Southampton
+4 - 0
+i
+2022-10-08 18:30
+Brighton
+Tottenham
+0 - 1
+i
+2022-10-09 15:00
+Crystal Palace
+Leeds United
+2 - 1
+i
+2022-10-09 15:00
+West Ham
+Fulham
+3 - 1
+i
+2022-10-09 17:30
+Arsenal
+Liverpool
+3 - 2
+i
+2022-10-09 20:00
+Everton
+Manchester U
+1 - 2
+i
+2022-10-10 21:00
+Nottingham
+Aston Villa
+1 - 1
+i
+Omgång 11
+2022-10-14 21:00
+Brentford
+Brighton
+2 - 0
+i
+2022-10-15 13:30
+Leicester
+Crystal Palace
+0 - 0
+i
+2022-10-15 16:00
+Fulham
+Bournemouth
+2 - 2
+i
+2022-10-15 16:00
+Wolves
+Nottingham
+1 - 0
+i
+2022-10-15 18:30
+Tottenham
+Everton
+2 - 0
+i
+2022-10-16 15:00
+Southampton
+West Ham
+1 - 1
+i
+2022-10-16 15:00
+Manchester U
+Newcastle
+0 - 0
+i
+2022-10-16 15:00
+Leeds United
+Arsenal
+0 - 1
+i
+2022-10-16 15:00
+Aston Villa
+Chelsea
+0 - 2
+i
+2022-10-16 17:30
+Liverpool
+Manchester C
+1 - 0
+i
+Omgång 12
+2022-10-18 20:30
+Brighton
+Nottingham
+0 - 0
+i
+2022-10-18 21:15
+Crystal Palace
+Wolves
+2 - 1
+i
+2022-10-19 20:30
+Newcastle
+Everton
+1 - 0
+i
+2022-10-19 20:30
+Liverpool
+West Ham
+1 - 0
+i
+2022-10-19 20:30
+Brentford
+Chelsea
+0 - 0
+i
+2022-10-19 20:30
+Bournemouth
+Southampton
+0 - 1
+i
+2022-10-19 20:30
+Arsenal
+Manchester C
+2022-10-19 21:15
+Manchester U
+Tottenham
+2 - 0
+i
+2022-10-20 20:30
+Fulham
+Aston Villa
+3 - 0
+i
+2022-10-20 21:15
+Leicester
+Leeds United
+2 - 0
+i
+Omgång 13
+2022-10-22 13:30
+Nottingham
+Liverpool
+1 - 0
+i
+2022-10-22 16:00
+Everton
+Crystal Palace
+3 - 0
+i
+2022-10-22 16:00
+Manchester C
+Brighton
+3 - 1
+i
+2022-10-22 18:30
+Chelsea
+Manchester U
+1 - 1
+i
+2022-10-23 15:00
+Leeds United
+Fulham
+2 - 3
+i
+2022-10-23 15:00
+Aston Villa
+Brentford
+4 - 0
+i
+2022-10-23 15:00
+Wolves
+Leicester
+0 - 4
+i
+2022-10-23 15:00
+Southampton
+Arsenal
+1 - 1
+i
+2022-10-23 17:30
+Tottenham
+Newcastle
+1 - 2
+i
+2022-10-24 21:00
+West Ham
+Bournemouth
+2 - 0
+i
+Omgång 14
+2022-10-29 13:30
+Leicester
+Manchester C
+0 - 1
+i
+2022-10-29 16:00
+Brighton
+Chelsea
+4 - 1
+i
+2022-10-29 16:00
+Crystal Palace
+Southampton
+1 - 0
+i
+2022-10-29 16:00
+Newcastle
+Aston Villa
+4 - 0
+i
+2022-10-29 16:00
+Bournemouth
+Tottenham
+2 - 3
+i
+2022-10-29 16:00
+Brentford
+Wolves
+1 - 1
+i
+2022-10-29 18:30
+Fulham
+Everton
+0 - 0
+i
+2022-10-29 20:45
+Liverpool
+Leeds United
+1 - 2
+i
+2022-10-30 15:00
+Arsenal
+Nottingham
+5 - 0
+i
+2022-10-30 17:15
+Manchester U
+West Ham
+1 - 0
+i
+Omgång 15
+2022-11-05 16:00
+Nottingham
+Brentford
+2 - 2
+i
+2022-11-05 16:00
+Manchester C
+Fulham
+2 - 1
+i
+2022-11-05 16:00
+Leeds United
+Bournemouth
+4 - 3
+i
+2022-11-05 16:00
+Wolves
+Brighton
+2 - 3
+i
+2022-11-05 18:30
+Everton
+Leicester
+0 - 2
+i
+2022-11-06 13:00
+Chelsea
+Arsenal
+0 - 1
+i
+2022-11-06 15:00
+Aston Villa
+Manchester U
+3 - 1
+i
+2022-11-06 15:00
+West Ham
+Crystal Palace
+1 - 2
+i
+2022-11-06 15:00
+Southampton
+Newcastle
+1 - 4
+i
+2022-11-06 17:30
+Tottenham
+Liverpool
+1 - 2
+i
+Omgång 16
+2022-11-12 13:30
+Manchester C
+Brentford
+2022-11-12 16:00
+Bournemouth
+Everton
+2022-11-12 16:00
+Liverpool
+Southampton
+2022-11-12 16:00
+Tottenham
+Leeds United
+2022-11-12 16:00
+Nottingham
+Crystal Palace
+2022-11-12 16:00
+West Ham
+Leicester
+2022-11-12 18:30
+Newcastle
+Chelsea
+2022-11-12 20:45
+Wolves
+Arsenal
+2022-11-13 15:00
+Brighton
+Aston Villa
+2022-11-13 17:30
+Fulham
+Manchester U
+Omgång 17
+2022-12-26 13:30
+Brentford
+Tottenham
+2022-12-26 16:00
+Crystal Palace
+Fulham
+2022-12-26 16:00
+Everton
+Wolves
+2022-12-26 16:00
+Leicester
+Newcastle
+2022-12-26 16:00
+Southampton
+Brighton
+2022-12-26 18:30
+Aston Villa
+Liverpool
+2022-12-26 21:00
+Arsenal
+West Ham
+2022-12-27 18:30
+Chelsea
+Bournemouth
+2022-12-27 21:00
+Manchester U
+Nottingham
+2022-12-28 21:00
+Leeds United
+Manchester C
+Omgång 18
+2022-11-06 15:00
+Wolves
+Manchester U
+2022-12-31 15:00
+West Ham
+Brentford
+2022-12-31 15:00
+Bournemouth
+Crystal Palace
+2022-12-31 15:00
+Brighton
+Arsenal
+2022-12-31 15:00
+Fulham
+Southampton
+2022-12-31 15:00
+Liverpool
+Leicester
+2022-12-31 15:00
+Manchester C
+Everton
+2022-12-31 15:00
+Tottenham
+Aston Villa
+2022-12-31 15:00
+Nottingham
+Chelsea
+2022-12-31 15:00
+Newcastle
+Leeds United
+Omgång 19
+2023-01-02 16:00
+Brentford
+Liverpool
+2023-01-03 20:45
+Everton
+Brighton
+2023-01-03 20:45
+Leicester
+Fulham
+2023-01-03 21:00
+Manchester U
+Bournemouth
+2023-01-03 21:00
+Arsenal
+Newcastle
+2023-01-04 20:30
+Southampton
+Nottingham
+2023-01-04 20:45
+Leeds United
+West Ham
+2023-01-04 21:00
+Crystal Palace
+Tottenham
+2023-01-04 21:00
+Aston Villa
+Wolves
+2023-01-05 21:00
+Chelsea
+Manchester C
+Omgång 20
+2023-01-14 16:00
+Brighton
+Liverpool
+2023-01-14 16:00
+Chelsea
+Crystal Palace
+2023-01-14 16:00
+Tottenham
+Arsenal
+2023-01-14 16:00
+Wolves
+West Ham
+2023-01-14 16:00
+Aston Villa
+Leeds United
+2023-01-14 16:00
+Everton
+Southampton
+2023-01-14 16:00
+Manchester U
+Manchester C
+2023-01-14 16:00
+Newcastle
+Fulham
+2023-01-14 16:00
+Nottingham
+Leicester
+2023-01-14 16:00
+Brentford
+Bournemouth
+Omgång 21
+2023-01-21 16:00
+Liverpool
+Chelsea
+2023-01-21 16:00
+Manchester C
+Wolves
+2023-01-21 16:00
+Southampton
+Aston Villa
+2023-01-21 16:00
+West Ham
+Everton
+2023-01-21 16:00
+Bournemouth
+Nottingham
+2023-01-21 16:00
+Arsenal
+Manchester U
+2023-01-21 16:00
+Crystal Palace
+Newcastle
+2023-01-21 16:00
+Fulham
+Tottenham
+2023-01-21 16:00
+Leeds United
+Brentford
+2023-01-21 16:00
+Leicester
+Brighton
+Omgång 22
+2022-11-05 16:00
+Manchester U
+Crystal Palace
+2023-02-04 16:00
+Newcastle
+West Ham
+2023-02-04 16:00
+Chelsea
+Fulham
+2023-02-04 16:00
+Everton
+Arsenal
+2023-02-04 16:00
+Nottingham
+Leeds United
+2023-02-04 16:00
+Tottenham
+Manchester C
+2023-02-04 16:00
+Aston Villa
+Leicester
+2023-02-04 16:00
+Brentford
+Southampton
+2023-02-04 16:00
+Brighton
+Bournemouth
+2023-02-04 16:00
+Wolves
+Liverpool
+2023-02-04 16:00
+Manchester U
+Crystal Palace
+2023-02-04 16:00
+Manchester U
+Crystal Palace
+Omgång 23
+2022-12-26 16:00
+Leeds United
+Manchester U
+2023-02-11 16:00
+Fulham
+Nottingham
+2023-02-11 16:00
+Crystal Palace
+Brighton
+2023-02-11 16:00
+Arsenal
+Brentford
+2023-02-11 16:00
+Bournemouth
+Newcastle
+2023-02-11 16:00
+West Ham
+Chelsea
+2023-02-11 16:00
+Southampton
+Wolves
+2023-02-11 16:00
+Manchester C
+Aston Villa
+2023-02-11 16:00
+Liverpool
+Everton
+2023-02-11 16:00
+Leicester
+Tottenham
+Omgång 24
+2023-02-18 16:00
+Aston Villa
+Arsenal
+2023-02-18 16:00
+Everton
+Leeds United
+2023-02-18 16:00
+Manchester U
+Leicester
+2023-02-18 16:00
+Newcastle
+Liverpool
+2023-02-18 16:00
+Wolves
+Bournemouth
+2023-02-18 16:00
+Tottenham
+West Ham
+2023-02-18 16:00
+Chelsea
+Southampton
+2023-02-18 16:00
+Nottingham
+Manchester C
+2023-02-18 16:00
+Brentford
+Crystal Palace
+2023-02-18 16:00
+Brighton
+Fulham
+Omgång 25
+2023-02-25 16:00
+Fulham
+Wolves
+2023-02-25 16:00
+West Ham
+Nottingham
+2023-02-25 16:00
+Tottenham
+Chelsea
+2023-02-25 16:00
+Newcastle
+Brighton
+2023-02-25 16:00
+Crystal Palace
+Liverpool
+2023-02-25 16:00
+Bournemouth
+Manchester C
+2023-02-25 16:00
+Manchester U
+Brentford
+2023-02-25 16:00
+Everton
+Aston Villa
+2023-02-25 16:00
+Leicester
+Arsenal
+2023-02-25 16:00
+Leeds United
+Southampton
+Omgång 26
+2023-03-04 16:00
+Arsenal
+Bournemouth
+2023-03-04 16:00
+Aston Villa
+Crystal Palace
+2023-03-04 16:00
+Brentford
+Fulham
+2023-03-04 16:00
+Brighton
+West Ham
+2023-03-04 16:00
+Chelsea
+Leeds United
+2023-03-04 16:00
+Liverpool
+Manchester U
+2023-03-04 16:00
+Southampton
+Leicester
+2023-03-04 16:00
+Wolves
+Tottenham
+2023-03-04 16:00
+Manchester C
+Newcastle
+2023-03-04 16:00
+Nottingham
+Everton
+Omgång 27
+2023-03-11 16:00
+West Ham
+Aston Villa
+2023-03-11 16:00
+Leicester
+Chelsea
+2023-03-11 16:00
+Bournemouth
+Liverpool
+2023-03-11 16:00
+Crystal Palace
+Manchester C
+2023-03-11 16:00
+Leeds United
+Brighton
+2023-03-11 16:00
+Fulham
+Arsenal
+2023-03-11 16:00
+Everton
+Brentford
+2023-03-11 16:00
+Tottenham
+Nottingham
+2023-03-11 16:00
+Newcastle
+Wolves
+2023-03-11 16:00
+Manchester U
+Southampton
+Omgång 28
+2023-03-18 16:00
+Wolves
+Leeds United
+2023-03-18 16:00
+Southampton
+Tottenham
+2023-03-18 16:00
+Nottingham
+Newcastle
+2023-03-18 16:00
+Manchester C
+West Ham
+2023-03-18 16:00
+Liverpool
+Fulham
+2023-03-18 16:00
+Chelsea
+Everton
+2023-03-18 16:00
+Brighton
+Manchester U
+2023-03-18 16:00
+Brentford
+Leicester
+2023-03-18 16:00
+Aston Villa
+Bournemouth
+2023-03-18 16:00
+Arsenal
+Crystal Palace
+Omgång 29
+2023-04-01 16:00
+West Ham
+Southampton
+2023-04-01 16:00
+Nottingham
+Wolves
+2023-04-01 16:00
+Manchester C
+Liverpool
+2023-04-01 16:00
+Everton
+Tottenham
+2023-04-01 16:00
+Crystal Palace
+Leicester
+2023-04-01 16:00
+Chelsea
+Aston Villa
+2023-04-01 16:00
+Brighton
+Brentford
+2023-04-01 16:00
+Arsenal
+Leeds United
+2023-04-01 16:00
+Bournemouth
+Fulham
+2023-04-01 16:00
+Newcastle
+Manchester U
+Omgång 30
+2023-04-08 16:00
+Leeds United
+Crystal Palace
+2023-04-08 16:00
+Fulham
+West Ham
+2023-04-08 16:00
+Brentford
+Newcastle
+2023-04-08 16:00
+Wolves
+Chelsea
+2023-04-08 16:00
+Tottenham
+Brighton
+2023-04-08 16:00
+Southampton
+Manchester C
+2023-04-08 16:00
+Manchester U
+Everton
+2023-04-08 16:00
+Liverpool
+Arsenal
+2023-04-08 16:00
+Leicester
+Bournemouth
+2023-04-08 16:00
+Aston Villa
+Nottingham
+Omgång 31
+2023-04-15 16:00
+Southampton
+Crystal Palace
+2023-04-15 16:00
+Nottingham
+Manchester U
+2023-04-15 16:00
+Manchester C
+Leicester
+2023-04-15 16:00
+Leeds United
+Liverpool
+2023-04-15 16:00
+Everton
+Fulham
+2023-04-15 16:00
+Chelsea
+Brighton
+2023-04-15 16:00
+Tottenham
+Bournemouth
+2023-04-15 16:00
+Wolves
+Brentford
+2023-04-15 16:00
+West Ham
+Arsenal
+2023-04-15 16:00
+Aston Villa
+Newcastle
+Omgång 32
+2023-04-22 16:00
+Manchester U
+Chelsea
+2023-04-22 16:00
+Brentford
+Aston Villa
+2023-04-22 16:00
+Liverpool
+Nottingham
+2023-04-22 16:00
+Leicester
+Wolves
+2023-04-22 16:00
+Fulham
+Leeds United
+2023-04-22 16:00
+Crystal Palace
+Everton
+2023-04-22 16:00
+Brighton
+Manchester C
+2023-04-22 16:00
+Arsenal
+Southampton
+2023-04-22 16:00
+Bournemouth
+West Ham
+2023-04-22 16:00
+Newcastle
+Tottenham
+Omgång 33
+2023-04-25 20:45
+Nottingham
+Brighton
+2023-04-25 20:45
+Everton
+Newcastle
+2023-04-25 20:45
+Wolves
+Crystal Palace
+2023-04-25 20:45
+West Ham
+Liverpool
+2023-04-25 20:45
+Tottenham
+Manchester U
+2023-04-25 20:45
+Leeds United
+Leicester
+2023-04-25 21:00
+Aston Villa
+Fulham
+2023-04-26 20:45
+Southampton
+Bournemouth
+2023-04-26 20:45
+Chelsea
+Brentford
+2023-04-26 21:00
+Manchester C
+Arsenal
+Omgång 34
+2022-11-13 15:00
+Brighton
+Wolves
+2023-04-29 16:00
+Brentford
+Nottingham
+2023-04-29 16:00
+Arsenal
+Chelsea
+2023-04-29 16:00
+Bournemouth
+Leeds United
+2023-04-29 16:00
+Fulham
+Manchester C
+2023-04-29 16:00
+Newcastle
+Southampton
+2023-04-29 16:00
+Manchester U
+Aston Villa
+2023-04-29 16:00
+Liverpool
+Tottenham
+2023-04-29 16:00
+Leicester
+Everton
+2023-04-29 16:00
+Crystal Palace
+West Ham
+Omgång 35
+2023-05-06 16:00
+Wolves
+Aston Villa
+2023-05-06 16:00
+Newcastle
+Arsenal
+2023-05-06 16:00
+Manchester C
+Leeds United
+2023-05-06 16:00
+Liverpool
+Brentford
+2023-05-06 16:00
+West Ham
+Manchester U
+2023-05-06 16:00
+Tottenham
+Crystal Palace
+2023-05-06 16:00
+Nottingham
+Southampton
+2023-05-06 16:00
+Fulham
+Leicester
+2023-05-06 16:00
+Brighton
+Everton
+2023-05-06 16:00
+Bournemouth
+Chelsea
+Omgång 36
+2023-05-13 16:00
+Southampton
+Fulham
+2023-05-13 16:00
+Manchester U
+Wolves
+2023-05-13 16:00
+Leeds United
+Newcastle
+2023-05-13 16:00
+Everton
+Manchester C
+2023-05-13 16:00
+Crystal Palace
+Bournemouth
+2023-05-13 16:00
+Chelsea
+Nottingham
+2023-05-13 16:00
+Brentford
+West Ham
+2023-05-13 16:00
+Aston Villa
+Tottenham
+2023-05-13 16:00
+Arsenal
+Brighton
+2023-05-13 16:00
+Leicester
+Liverpool
+Omgång 37
+2023-05-20 16:00
+Bournemouth
+Manchester U
+2023-05-20 16:00
+Brighton
+Southampton
+2023-05-20 16:00
+Wolves
+Everton
+2023-05-20 16:00
+West Ham
+Leeds United
+2023-05-20 16:00
+Tottenham
+Brentford
+2023-05-20 16:00
+Nottingham
+Arsenal
+2023-05-20 16:00
+Newcastle
+Leicester
+2023-05-20 16:00
+Manchester C
+Chelsea
+2023-05-20 16:00
+Liverpool
+Aston Villa
+2023-05-20 16:00
+Fulham
+Crystal Palace
+Omgång 38
+2023-05-28 17:00
+Leicester
+West Ham
+2023-05-28 17:00
+Leeds United
+Tottenham
+2023-05-28 17:00
+Everton
+Bournemouth
+2023-05-28 17:00
+Crystal Palace
+Nottingham
+2023-05-28 17:00
+Manchester U
+Fulham
+2023-05-28 17:00
+Chelsea
+Newcastle
+2023-05-28 17:00
+Brentford
+Manchester C
+2023-05-28 17:00
+Aston Villa
+Brighton
+2023-05-28 17:00
+Arsenal
+Wolves
+2023-05-28 17:00
+Southampton
+Liverpool

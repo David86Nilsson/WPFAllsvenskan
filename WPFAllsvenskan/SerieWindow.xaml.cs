@@ -41,16 +41,26 @@ namespace WPFAllsvenskan
 
         private void PopulateComboBoxes()
         {
-            ComboBoxUpcomingDifficulty.Items.Add(1);
-            ComboBoxUpcomingDifficulty.Items.Add(3);
-            ComboBoxUpcomingDifficulty.Items.Add(5);
-            ComboBoxUpcomingDifficulty.Items.Add(7);
-            ComboBoxUpcomingDifficulty.Items.Add(10);
-            ComboBoxUpcomingDifficulty.Items.Add(15);
+            ComboBoxUpcomingGames.Items.Add(1);
+            ComboBoxUpcomingGames.Items.Add(3);
+            ComboBoxUpcomingGames.Items.Add(5);
+            ComboBoxUpcomingGames.Items.Add(7);
+            ComboBoxUpcomingGames.Items.Add(10);
+            ComboBoxUpcomingGames.Items.Add(15);
+
+            ComboboxPointsPerGame.Items.Add("All");
+            ComboboxPointsPerGame.Items.Add("Plastic");
+            ComboboxPointsPerGame.Items.Add("Grass");
 
             foreach (Team t in serie.teams)
             {
                 ComboBoxFixtures.Items.Add(t.Name);
+                ComboboxPlace.Items.Add(t.Rank);
+            }
+            int nbr = serie.teams[0].PlayedGames.Count;
+            for (int i = 1; i <= nbr; i++)
+            {
+                ComboboxGames.Items.Add(i);
             }
         }
 
@@ -136,7 +146,9 @@ namespace WPFAllsvenskan
         {
             if (ComboBoxFixtures.SelectedItem != null)
             {
-                lblFixtures.Content = serie.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
+                string games = serie.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
+                if (!string.IsNullOrEmpty(games))
+                    lblFixtures.Content = serie.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
             }
             else
             {
@@ -146,8 +158,21 @@ namespace WPFAllsvenskan
 
         private void UpdateTable_Click(object sender, RoutedEventArgs e)
         {
-            serie.AverageOpponentInUpcomingGames((int)ComboBoxUpcomingDifficulty.SelectedValue);
-            lblTable.Content = serie.PrintTable();
+            string pPerGame = "All";
+            if (ComboboxGames.SelectedValue != null)
+            {
+                int nbrOfGamesToPrint = int.Parse(ComboboxGames.SelectedValue.ToString());
+                serie.CalculateTableBetweenRounds(1, nbrOfGamesToPrint);
+            }
+            if (ComboBoxUpcomingGames.SelectedValue != null)
+            {
+                serie.AverageOpponentInUpcomingGames((int)ComboBoxUpcomingGames.SelectedValue);
+            }
+            if (ComboboxPointsPerGame.SelectedValue != null)
+            {
+                pPerGame = ComboboxPointsPerGame.SelectedValue.ToString();
+            }
+            lblTable.Content = serie.PrintTable(pPerGame);
         }
 
         private void ButtonSelectTeam_Click(object sender, RoutedEventArgs e)

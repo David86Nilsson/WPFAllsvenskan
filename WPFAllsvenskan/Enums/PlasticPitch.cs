@@ -8,6 +8,14 @@
         Elfsborg,
         Sirius,
         Sundsvall,
-        Brommapojkarna
+        IFK_Norrköping,
+        Brommapojkarna,
+        AFC_Eskilstuna,
+        Västerås,
+        Örebro,
+        Utsiktens_BK,
+        Östersund,
+        Norrby_IF,
+        Dalkurd_FF
     }
 }

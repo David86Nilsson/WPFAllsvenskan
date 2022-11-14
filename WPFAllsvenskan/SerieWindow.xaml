@@ -175,6 +175,7 @@
                 Grid.ColumnSpan="10"
                 BorderThickness="1"
                 BorderBrush="Black"
+                Margin="0,5,0,0"
             />
             <Label
                 x:Name="lblFixtures"
@@ -191,20 +192,22 @@
                 <ComboBox
                     x:Name="ComboboxPlace"
                     Width="50"
-                    Margin="0,0,75,0"
+                    Margin="0,0,125,0"
                 />
                 <ComboBox
                     x:Name="ComboboxGames"
                     Width="50"
                     Margin="0,0,50,0"
+                    SelectionChanged="UpdateTable_Click"
                 />
                 <ComboBox
                     x:Name="ComboboxPointsPerGame"
                     Width="50"
                     Margin="0,0,150,0"
+                    SelectionChanged="UpdateTable_Click"
                 />
                 <ComboBox
-                    x:Name="ComboBoxUpcomingDifficulty"
+                    x:Name="ComboBoxUpcomingGames"
                     Width="50"
                     SelectionChanged="UpdateTable_Click"
                 />

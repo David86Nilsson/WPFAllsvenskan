@@ -1016,131 +1016,215 @@ i
 2022-10-10 19:00
 IFK Norrköping
 Mjällby
+2 - 2
+i
 2022-10-10 19:10
 Hammarby
 Varbergs BoIS
+5 - 1
+i
 Omgång 26
 2022-10-14 19:00
 Elfsborg
 Degerfors
+1 - 1
+i
 2022-10-15 15:00
 Helsingborg
 Varbergs BoIS
+1 - 3
+i
 2022-10-15 15:00
 Häcken
 Sundsvall
+4 - 1
+i
 2022-10-15 17:30
 Sirius
 IFK Norrköping
+2 - 0
+i
 2022-10-15 17:30
 IFK Värnamo
 Kalmar FF
+1 - 3
+i
 2022-10-16 15:00
 Djurgården
 AIK
+1 - 2
+i
 2022-10-16 17:30
 Mjällby
 Hammarby
+0 - 3
+i
 2022-10-17 19:10
 IFK Göteborg
 Malmö FF
+2 - 1
+i
 Omgång 27
 2022-10-19 19:00
 Varbergs BoIS
 Elfsborg
+0 - 3
+i
 2022-10-19 19:00
 Sundsvall
 IFK Värnamo
+1 - 2
+i
 2022-10-19 19:00
 IFK Norrköping
 Helsingborg
+2 - 0
+i
 2022-10-19 19:00
 AIK
 Häcken
-2022-10-20 19:00
-Hammarby
-Sirius
+1 - 2
+i
 2022-10-20 19:00
 Degerfors
 IFK Göteborg
+3 - 1
+i
 2022-10-20 19:00
 Malmö FF
 Djurgården
+2 - 3
+i
 2022-10-20 19:00
 Kalmar FF
 Mjällby
+1 - 2
+i
+2022-10-20 19:30
+Hammarby
+Sirius
+1 - 1
+i
 Omgång 28
 2022-10-23 15:00
 Elfsborg
 Hammarby
+2 - 1
+i
 2022-10-23 15:00
 Helsingborg
 Degerfors
+1 - 2
+i
 2022-10-23 17:30
 Häcken
 Malmö FF
+2 - 1
+i
 2022-10-24 19:00
 Djurgården
 Sundsvall
+4 - 0
+i
 2022-10-24 19:00
 Mjällby
 Varbergs BoIS
+4 - 1
+i
 2022-10-24 19:00
 Sirius
 Kalmar FF
+0 - 0
+i
 2022-10-24 19:00
 IFK Värnamo
 IFK Norrköping
+1 - 1
+i
 2022-10-24 19:10
 IFK Göteborg
 AIK
+1 - 0
+i
 Omgång 29
 2022-10-29 15:00
 Degerfors
 IFK Värnamo
+0 - 0
+i
 2022-10-30 15:00
 Sundsvall
 Sirius
+2 - 3
+i
 2022-10-30 15:00
 Mjällby
 AIK
+1 - 2
+i
 2022-10-30 15:00
 IFK Göteborg
 Häcken
+0 - 4
+i
 2022-10-30 17:30
 Varbergs BoIS
 Malmö FF
+2 - 5
+i
 2022-10-30 17:30
 Hammarby
 Kalmar FF
+4 - 2
+i
 2022-10-31 19:00
 Elfsborg
 Helsingborg
+3 - 0
+i
 2022-10-31 19:10
 IFK Norrköping
 Djurgården
+0 - 1
+i
 Omgång 30
 2022-11-06 15:00
 Malmö FF
 Degerfors
+2 - 2
+i
 2022-11-06 15:00
 Kalmar FF
 Sundsvall
+4 - 0
+i
 2022-11-06 15:00
 Sirius
 Varbergs BoIS
+2 - 3
+i
 2022-11-06 15:00
 IFK Värnamo
 IFK Göteborg
+1 - 4
+i
 2022-11-06 15:00
 Helsingborg
 Hammarby
+0 - 2
+i
 2022-11-06 15:00
 Djurgården
 Mjällby
+0 - 1
+i
 2022-11-06 15:00
 Häcken
 IFK Norrköping
+3 - 3
+i
 2022-11-06 15:00
 AIK
 Elfsborg
+0 - 1
+i

@@ -118,7 +118,7 @@ namespace WPFAllsvenskan.Models
 
             foreach (Game game in games)
             {
-                if (game.homeTeam == home && game.awayTeam == away)
+                if (game.HomeTeam == home && game.AwayTeam == away)
                 {
                     return game;
                 }
@@ -153,6 +153,7 @@ namespace WPFAllsvenskan.Models
         {
             lines = System.IO.File.ReadAllLines(adress);
             omg = 1;
+            DateTime date;
             for (int i = 1; i < lines.Length - 2; i++)
             {
                 if (lines[i].Contains("Omg"))
@@ -161,6 +162,13 @@ namespace WPFAllsvenskan.Models
                 }
                 else if (lines[i].Contains("2022"))
                 { // ADDS NEW TEAM
+                    char[] dividers = { '-', ' ' };
+                    string[] DateStrings = lines[i].Split(dividers);
+                    int year = int.Parse(DateStrings[0]);
+                    int month = int.Parse(DateStrings[1]);
+                    int day = int.Parse(DateStrings[2]);
+                    date = new DateTime(year, month, day);
+
                     Team homeTeam = FindTeam(lines[i + 1]);
                     Team awayTeam = FindTeam(lines[i + 2]);
                     if (homeTeam == null)
@@ -184,15 +192,14 @@ namespace WPFAllsvenskan.Models
                     if (lines.Length > i + 3 && lines[i + 3].Length == 5)
                     {
                         // Adds new Played Game
-                        char[] result;
-                        result = lines[i + 3].ToCharArray();
-                        hGoals = Convert.ToInt32(result[0]);
-                        aGoals = Convert.ToInt32(result[4]);
-                        games.Add(new(homeTeam, awayTeam, hGoals, aGoals, omg));
+                        string[] result = lines[i + 3].Split(' ');
+                        hGoals = int.Parse(result[0]);
+                        aGoals = int.Parse(result[2]);
+                        games.Add(new(homeTeam, awayTeam, hGoals, aGoals, omg, date));
                     }
                     else
                     { // adds new Unplayed game
-                        games.Add(new(homeTeam, awayTeam, omg));
+                        games.Add(new(homeTeam, awayTeam, omg, date));
                     }
                 }
 
@@ -222,9 +229,9 @@ namespace WPFAllsvenskan.Models
             ResetTeams();
             foreach (Game game in games)
             {
-                if (!game.played)
+                if (!game.Played)
                 {
-                    if (teamsToGuess.Contains(game.homeTeam.Name.Trim()) || teamsToGuess.Contains(game.awayTeam.Name.Trim()))
+                    if (teamsToGuess.Contains(game.HomeTeam.Name.Trim()) || teamsToGuess.Contains(game.AwayTeam.Name.Trim()))
                     {
                         gamesToGuess.Add(game);
                     }

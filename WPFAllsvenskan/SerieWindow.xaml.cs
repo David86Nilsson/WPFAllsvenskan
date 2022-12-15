@@ -122,16 +122,16 @@ namespace WPFAllsvenskan
         private void updateResultBox()
         {
             ComboBoxResult.Items.Clear();
-            ComboBoxResult.Items.Add(serie.gamesToGuess[0].homeTeam.Name);
-            ComboBoxResult.Items.Add(serie.gamesToGuess[0].awayTeam.Name);
+            ComboBoxResult.Items.Add(serie.gamesToGuess[0].HomeTeam.Name);
+            ComboBoxResult.Items.Add(serie.gamesToGuess[0].AwayTeam.Name);
             ComboBoxResult.Items.Add("Oavgjort");
         }
         private void updateGuessButtons()
         {
             if (serie.gamesToGuess.Count > 0)
             {
-                ButtonHomeWin.Content = serie.gamesToGuess[0].homeTeam.Name;
-                ButtonAwayWin.Content = serie.gamesToGuess[0].awayTeam.Name;
+                ButtonHomeWin.Content = serie.gamesToGuess[0].HomeTeam.Name;
+                ButtonAwayWin.Content = serie.gamesToGuess[0].AwayTeam.Name;
                 lblGame.Content = $"({serie.gamesToGuess.Count}) {serie.gamesToGuess[0].PrintGame()}";
             }
             else
@@ -148,7 +148,14 @@ namespace WPFAllsvenskan
             {
                 string games = serie.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
                 if (!string.IsNullOrEmpty(games))
+                {
                     lblFixtures.Content = serie.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
+                }
+                else
+                {
+                    games = serie.FindTeam(ComboBoxFixtures.Text).GetScheduleAsString();
+                    lblFixtures.Content = games;
+                }
             }
             else
             {

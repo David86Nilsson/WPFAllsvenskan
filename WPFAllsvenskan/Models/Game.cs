@@ -1,91 +1,94 @@
+using System;
+
 namespace WPFAllsvenskan.Models
 {
     public class Game
     {
-        public Team winner { get; set; }
-        public int homeGoals { get; set; }
-        public int awayGoals { get; set; }
-        public int round { get; set; }
-        public bool played { get; set; }
-        public Team homeTeam { get; set; }
-        public Team awayTeam { get; set; }
+        public Team Winner { get; set; }
+        public int HomeGoals { get; set; }
+        public int AwayGoals { get; set; }
+        public int Round { get; set; }
+        public bool Played { get; set; }
+        public Team HomeTeam { get; set; }
+        public Team AwayTeam { get; set; }
         public string Pitch { get; set; }
-        public Game(Team hTeam, Team aTeam, int aRound)
+        public DateTime Date { get; set; }
+        public Game(Team hTeam, Team aTeam, int aRound, DateTime date)
         {
-            played = false;
-            round = aRound;
-            homeTeam = hTeam;
-            awayTeam = aTeam;
-            Pitch = homeTeam.Pitch;
-            homeTeam.AddGameToTeam(this);
-            awayTeam.AddGameToTeam(this);
+            Played = false;
+            Round = aRound;
+            HomeTeam = hTeam;
+            AwayTeam = aTeam;
+            Date = date;
+            Pitch = HomeTeam.Pitch;
+            HomeTeam.AddGameToTeam(this);
+            AwayTeam.AddGameToTeam(this);
         }
-        public Game(Team hTeam, Team aTeam, int hGoals, int aGoals, int aRound)
+        public Game(Team hTeam, Team aTeam, int hGoals, int aGoals, int aRound, DateTime date)
         {
-            round = aRound;
-            homeTeam = hTeam;
-            awayTeam = aTeam;
-            Pitch = homeTeam.Pitch;
+            Round = aRound;
+            HomeTeam = hTeam;
+            AwayTeam = aTeam;
+            Date = date;
+            Pitch = HomeTeam.Pitch;
             SetResult(hGoals, aGoals);
-            homeTeam.AddGameToTeam(this);
-            awayTeam.AddGameToTeam(this);
+            HomeTeam.AddGameToTeam(this);
+            AwayTeam.AddGameToTeam(this);
         }
         public void SetResult(int hGoals, int aGoals)
         {
-            played = true;
-            homeGoals = hGoals;
-            awayGoals = aGoals;
-            if (homeGoals > awayGoals)
+            Played = true;
+            HomeGoals = hGoals;
+            AwayGoals = aGoals;
+            if (HomeGoals > AwayGoals)
             {
-                winner = homeTeam;
+                Winner = HomeTeam;
             }
-            else if (homeGoals < awayGoals)
+            else if (HomeGoals < AwayGoals)
             {
-                winner = awayTeam;
+                Winner = AwayTeam;
             }
             else
             {
-                winner = null;
+                Winner = null;
             }
         }
         public string PrintGame()
         {
-            if (played)
+            if (Played)
             {
-                return "\n" + round + ":\t" + homeTeam.Name + "\t" + homeGoals + "-" + awayGoals + "\t" + awayTeam.Name;
-
+                return $"\n{Date.ToShortDateString()} Omg:{Round} : {HomeGoals} - {AwayGoals} \t{HomeTeam.Name} - {AwayTeam.Name}";
             }
             else
             {
-
-                return $"Omg:{round} | {homeTeam.Name.Trim()} - {awayTeam.Name.Trim()}";
+                return $"{Date.ToShortDateString()} Omg:{Round} | {HomeTeam.Name.Trim()} - {AwayTeam.Name.Trim()}";
             }
         }
         public void GuessTheGame(string input)
         {
-            if (input == homeTeam.Name)
+            if (input == HomeTeam.Name)
             {
-                homeTeam.AddToEndPoints(3);
+                HomeTeam.AddToEndPoints(3);
             }
-            else if (input == awayTeam.Name)
+            else if (input == AwayTeam.Name)
             {
-                awayTeam.AddToEndPoints(3);
+                AwayTeam.AddToEndPoints(3);
 
             }
             else
             {
-                homeTeam.AddToEndPoints(1);
-                awayTeam.AddToEndPoints(1);
+                HomeTeam.AddToEndPoints(1);
+                AwayTeam.AddToEndPoints(1);
             }
         }
 
         public int GetTeamPointsFromGame(Team team)
         {
-            if (team == winner)
+            if (team == Winner)
             {
                 return 3;
             }
-            else if (homeGoals == awayGoals)
+            else if (HomeGoals == AwayGoals)
             {
                 return 1;
             }

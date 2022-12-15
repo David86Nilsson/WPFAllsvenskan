@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFAllsvenskan"
         mc:Ignorable="d"
-        Title="Serie" Height="1200" Width="1200" Margin="20" Background="Beige">
+        Title="Serie" Height="1200" Width="1200" Margin="20" Background="Beige" ResizeMode="NoResize">
     <Window.Resources>
         <Style TargetType="Button">
             <Setter Property="HorizontalAlignment" Value="Center" />

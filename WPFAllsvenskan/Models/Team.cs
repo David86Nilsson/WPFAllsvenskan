@@ -38,7 +38,7 @@ public class Team
     public void AddGameToTeam(Game game)
     {
         Schedule.Add(game);
-        if (game.played == true)
+        if (game.Played == true)
         {
             PlayedGames.Add(game);
         }
@@ -72,10 +72,10 @@ public class Team
         EndPoint = 0.0;
         foreach (Game aGame in Schedule)
         {
-            if (!aGame.played)
+            if (!aGame.Played)
             {
 
-                if (aGame.homeTeam.Pitch.Equals("gräs"))
+                if (aGame.HomeTeam.Pitch.Equals("gräs"))
                 {
                     EndPoint += PointsPerGrassGame;
                 }
@@ -104,10 +104,10 @@ public class Team
     }
     public string GetGamesLeftAsString()
     {
-        StringBuilder s = new StringBuilder(Name);
+        StringBuilder s = new StringBuilder();
         foreach (Game aGame in Schedule)
         {
-            if (!aGame.played)
+            if (!aGame.Played)
             {
                 s.Append($"\n{aGame.PrintGame()}");
             }
@@ -116,7 +116,7 @@ public class Team
     }
     public string GetScheduleAsString()
     {
-        StringBuilder s = new StringBuilder(Name);
+        StringBuilder s = new StringBuilder();
         foreach (Game aGame in Schedule)
         {
             s.Append($"\n{aGame.PrintGame()}");
@@ -156,15 +156,15 @@ public class Team
         double nbrOfGames = Convert.ToDouble(endO) - Convert.ToDouble(startO) + 1;
         foreach (Game game in Schedule)
         {
-            if (game.round >= startO && game.round <= endO)
+            if (game.Round >= startO && game.Round <= endO)
             {
-                if (this == game.homeTeam)
+                if (this == game.HomeTeam)
                 {
-                    total += game.awayTeam.Rank;
+                    total += game.AwayTeam.Rank;
                 }
                 else
                 {
-                    total += game.homeTeam.Rank;
+                    total += game.HomeTeam.Rank;
                 }
                 games++;
             }
@@ -197,15 +197,15 @@ public class Team
             }
 
 
-            if (game.homeTeam == this)
+            if (game.HomeTeam == this)
             {
-                GoalsFor += game.homeGoals;
-                GoalsAgainst += game.awayGoals;
+                GoalsFor += game.HomeGoals;
+                GoalsAgainst += game.AwayGoals;
             }
             else
             {
-                GoalsFor += game.awayGoals;
-                GoalsAgainst += game.homeGoals;
+                GoalsFor += game.AwayGoals;
+                GoalsAgainst += game.HomeGoals;
             }
         }
         GoalDiff = GoalsFor - GoalsAgainst;

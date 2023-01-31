@@ -1,0 +1,2724 @@
+LIVESCORE
+TABELLER
+SPELSCHEMA
+BLI SKRIBENT
+FAIR PLAY QATAR
+CHAMPIONS LEAGUE
+FANTV
+GULDSKÖLDEN
+BETTING
+Fotboll
+Sverige
+England
+Italien
+Spanien
+Tyskland
+Europa
+Världen
+Ishockey
+Sverige
+NHL
+Övrigt
+Bandy
+US Sports
+Forum
+Premier League
+Arsenal
+Aston Villa
+Bournemouth
+Brentford FC
+Brighton
+Chelsea
+Crystal Palace
+Everton
+Fulham
+Leeds United
+Leicester
+Liverpool
+Manchester C
+Manchester U
+Newcastle
+Nottingham
+Southampton
+Tottenham
+West Ham
+Wolves
+The Championship
+Birmingham
+Blackburn
+Bristol City
+Burnley
+Hull City
+Middlesbrough
+Millwall
+Norwich
+QPR
+Reading
+Sheffield U
+Stoke
+Sunderland
+Swansea
+Watford
+WBA
+League One
+Barnsley
+Charlton
+Derby
+Ipswich
+Port Vale
+Portsmouth
+League Two
+AFC Wimbledon
+Bradford City
+Mansfield
+Salford City FC
+Walsall
+Övriga
+England
+Old School Football
+Start
+England
+The Championship
+The Championship spelschema 2022/2023
+The Championship spelschema 2022/2023
+Spelschema för ditt lag: 
+-- Välj lag --
+Birmingham
+Blackburn
+Blackpool
+Bristol City
+Burnley
+Cardiff
+Coventry
+Huddersfield
+Hull City
+Middlesbrough
+Millwall
+Norwich
+Preston
+QPR
+Reading
+Sheffield U
+Stoke
+Sunderland
+Swansea
+Watford
+WBA
+Wigan
+Premier League
+The Championship
+League One
+League Two
+Omgång 1
+2022-07-29 21:00
+Huddersfield
+Burnley
+0 - 1
+i
+2022-07-30 16:00
+Blackpool
+Reading
+1 - 0
+i
+2022-07-30 16:00
+Cardiff
+Norwich
+1 - 0
+i
+2022-07-30 16:00
+Wigan
+Preston
+0 - 0
+i
+2022-07-30 16:00
+Hull City
+Bristol City
+2 - 1
+i
+2022-07-30 16:00
+Rotherham
+Swansea
+1 - 1
+i
+2022-07-30 16:00
+Luton
+Birmingham
+0 - 0
+i
+2022-07-30 16:00
+Millwall
+Stoke
+2 - 0
+i
+2022-07-30 16:00
+Blackburn
+QPR
+1 - 0
+i
+2022-07-30 18:30
+Middlesbrough
+WBA
+1 - 1
+i
+2022-07-31 13:00
+Sunderland
+Coventry
+1 - 1
+i
+2022-08-01 21:00
+Watford
+Sheffield U
+1 - 0
+i
+Omgång 2
+2022-08-05 20:45
+Birmingham
+Huddersfield
+2 - 1
+i
+2022-08-06 13:30
+Norwich
+Wigan
+1 - 1
+i
+2022-08-06 16:00
+QPR
+Middlesbrough
+3 - 2
+i
+2022-08-06 16:00
+Preston
+Hull City
+0 - 0
+i
+2022-08-06 16:00
+Burnley
+Luton
+1 - 1
+i
+2022-08-06 16:00
+Bristol City
+Sunderland
+2 - 3
+i
+2022-08-06 16:00
+Swansea
+Blackburn
+0 - 3
+i
+2022-08-06 16:00
+Stoke
+Blackpool
+2 - 0
+i
+2022-08-06 16:00
+Sheffield U
+Millwall
+2 - 0
+i
+2022-08-06 16:00
+Reading
+Cardiff
+2 - 1
+i
+2022-08-08 21:00
+WBA
+Watford
+1 - 1
+i
+2022-10-25 20:45
+Coventry
+Rotherham
+2 - 2
+i
+Omgång 3
+2022-08-12 21:00
+Watford
+Burnley
+1 - 0
+i
+2022-08-13 13:30
+Cardiff
+Birmingham
+1 - 0
+i
+2022-08-13 16:00
+Millwall
+Coventry
+3 - 2
+i
+2022-08-13 16:00
+Wigan
+Bristol City
+1 - 1
+i
+2022-08-13 16:00
+Sunderland
+QPR
+2 - 2
+i
+2022-08-13 16:00
+Rotherham
+Reading
+4 - 0
+i
+2022-08-13 16:00
+Hull City
+Norwich
+2 - 1
+i
+2022-08-13 16:00
+Blackpool
+Swansea
+0 - 1
+i
+2022-08-13 16:00
+Huddersfield
+Stoke
+3 - 1
+i
+2022-08-13 16:00
+Luton
+Preston
+0 - 1
+i
+2022-08-14 15:00
+Middlesbrough
+Sheffield U
+2 - 2
+i
+2022-08-14 16:00
+Blackburn
+WBA
+2 - 1
+i
+Omgång 4
+2022-08-16 20:45
+Burnley
+Hull City
+1 - 1
+i
+2022-08-16 20:45
+Bristol City
+Luton
+2 - 0
+i
+2022-08-16 20:45
+Birmingham
+Watford
+1 - 1
+i
+2022-08-16 20:45
+Swansea
+Millwall
+2 - 2
+i
+2022-08-16 20:45
+Preston
+Rotherham
+0 - 0
+i
+2022-08-16 20:45
+Norwich
+Huddersfield
+2 - 1
+i
+2022-08-16 21:00
+QPR
+Blackpool
+0 - 1
+i
+2022-08-17 20:45
+Stoke
+Middlesbrough
+2 - 2
+i
+2022-08-17 21:00
+Reading
+Blackburn
+3 - 0
+i
+2022-08-17 21:00
+Sheffield U
+Sunderland
+2 - 1
+i
+2022-08-17 21:00
+WBA
+Cardiff
+0 - 0
+i
+2022-11-08 20:45
+Coventry
+Wigan
+2 - 0
+i
+Omgång 5
+2022-08-19 21:00
+Norwich
+Millwall
+2 - 0
+i
+2022-08-20 16:00
+Preston
+Watford
+0 - 0
+i
+2022-08-20 16:00
+Burnley
+Blackpool
+3 - 3
+i
+2022-08-20 16:00
+WBA
+Hull City
+5 - 2
+i
+2022-08-20 16:00
+Swansea
+Luton
+0 - 2
+i
+2022-08-20 16:00
+Sheffield U
+Blackburn
+3 - 0
+i
+2022-08-20 16:00
+Reading
+Middlesbrough
+1 - 0
+i
+2022-08-20 16:00
+QPR
+Rotherham
+1 - 1
+i
+2022-08-20 16:00
+Birmingham
+Wigan
+0 - 1
+i
+2022-08-20 16:00
+Stoke
+Sunderland
+0 - 1
+i
+2022-08-21 13:00
+Bristol City
+Cardiff
+2 - 0
+i
+2023-01-28 16:00
+Coventry
+Huddersfield
+2 - 0
+i
+Omgång 6
+2022-08-26 21:00
+Luton
+Sheffield U
+1 - 1
+i
+2022-08-27 13:30
+Sunderland
+Norwich
+0 - 1
+i
+2022-08-27 16:00
+Wigan
+Burnley
+1 - 5
+i
+2022-08-27 16:00
+Watford
+QPR
+2 - 3
+i
+2022-08-27 16:00
+Rotherham
+Birmingham
+2 - 0
+i
+2022-08-27 16:00
+Middlesbrough
+Swansea
+2 - 1
+i
+2022-08-27 16:00
+Hull City
+Coventry
+3 - 2
+i
+2022-08-27 16:00
+Huddersfield
+WBA
+2 - 2
+i
+2022-08-27 16:00
+Cardiff
+Preston
+0 - 0
+i
+2022-08-27 16:00
+Blackpool
+Bristol City
+3 - 3
+i
+2022-08-27 16:00
+Blackburn
+Stoke
+0 - 1
+i
+2022-08-27 16:00
+Millwall
+Reading
+0 - 1
+i
+Omgång 7
+2022-08-30 20:45
+Cardiff
+Luton
+1 - 2
+i
+2022-08-30 20:45
+Wigan
+WBA
+1 - 1
+i
+2022-08-30 20:45
+Burnley
+Millwall
+2 - 0
+i
+2022-08-30 20:45
+Birmingham
+Norwich
+1 - 2
+i
+2022-08-30 20:45
+QPR
+Hull City
+3 - 1
+i
+2022-08-30 20:45
+Sheffield U
+Reading
+4 - 0
+i
+2022-08-30 21:00
+Watford
+Middlesbrough
+2 - 1
+i
+2022-08-31 20:45
+Coventry
+Preston
+0 - 1
+i
+2022-08-31 20:45
+Bristol City
+Huddersfield
+2 - 0
+i
+2022-08-31 20:45
+Sunderland
+Rotherham
+3 - 0
+i
+2022-08-31 20:45
+Stoke
+Swansea
+1 - 1
+i
+2022-08-31 21:00
+Blackpool
+Blackburn
+0 - 1
+i
+Omgång 8
+2022-09-02 21:00
+WBA
+Burnley
+1 - 1
+i
+2022-09-03 16:00
+Swansea
+QPR
+1 - 0
+i
+2022-09-03 16:00
+Blackburn
+Bristol City
+2 - 3
+i
+2022-09-03 16:00
+Rotherham
+Watford
+1 - 1
+i
+2022-09-03 16:00
+Preston
+Birmingham
+0 - 1
+i
+2022-09-03 16:00
+Norwich
+Coventry
+3 - 0
+i
+2022-09-03 16:00
+Millwall
+Cardiff
+2 - 0
+i
+2022-09-03 16:00
+Luton
+Wigan
+1 - 2
+i
+2022-09-04 13:00
+Reading
+Stoke
+2 - 1
+i
+2022-09-04 16:00
+Hull City
+Sheffield U
+0 - 2
+i
+2022-09-04 16:00
+Huddersfield
+Blackpool
+0 - 1
+i
+2022-09-05 21:00
+Middlesbrough
+Sunderland
+1 - 0
+i
+Omgång 9
+2022-10-11 20:45
+Wigan
+Blackburn
+1 - 0
+i
+2022-10-12 20:45
+Bristol City
+Preston
+2 - 1
+i
+2022-10-25 21:00
+Burnley
+Norwich
+1 - 0
+i
+2022-11-08 20:45
+Blackpool
+Middlesbrough
+0 - 3
+i
+2022-11-08 20:45
+Sheffield U
+Rotherham
+0 - 1
+i
+2022-11-08 20:45
+Stoke
+Luton
+2 - 0
+i
+2022-11-08 20:45
+QPR
+Huddersfield
+1 - 2
+i
+2022-11-08 20:45
+Birmingham
+Swansea
+2 - 2
+i
+2022-11-08 20:45
+Cardiff
+Hull City
+2 - 3
+i
+2022-11-08 21:00
+Watford
+Reading
+2 - 0
+i
+2022-12-03 13:30
+Sunderland
+Millwall
+3 - 0
+i
+2022-12-21 20:45
+Coventry
+WBA
+1 - 0
+i
+Omgång 10
+2022-09-13 20:45
+Huddersfield
+Wigan
+1 - 2
+i
+2022-09-13 20:45
+Swansea
+Sheffield U
+0 - 1
+i
+2022-09-13 20:45
+Middlesbrough
+Cardiff
+2 - 3
+i
+2022-09-13 20:45
+Hull City
+Stoke
+0 - 3
+i
+2022-09-13 20:45
+Blackburn
+Watford
+2 - 0
+i
+2022-09-13 21:00
+Preston
+Burnley
+1 - 1
+i
+2022-09-14 20:45
+Luton
+Coventry
+2 - 2
+i
+2022-09-14 20:45
+Rotherham
+Blackpool
+3 - 0
+i
+2022-09-14 20:45
+Millwall
+QPR
+0 - 2
+i
+2022-09-14 20:45
+Norwich
+Bristol City
+3 - 2
+i
+2022-09-14 21:00
+Reading
+Sunderland
+0 - 3
+i
+2022-09-14 21:00
+WBA
+Birmingham
+2 - 3
+i
+Omgång 11
+2022-09-17 13:30
+Swansea
+Hull City
+3 - 0
+i
+2022-09-17 16:00
+Burnley
+Bristol City
+2 - 1
+i
+2022-09-17 16:00
+Norwich
+WBA
+1 - 1
+i
+2022-09-17 16:00
+Huddersfield
+Cardiff
+1 - 0
+i
+2022-09-17 16:00
+QPR
+Stoke
+0 - 0
+i
+2022-09-17 16:00
+Wigan
+Reading
+0 - 1
+i
+2022-09-17 16:00
+Luton
+Blackburn
+2 - 0
+i
+2022-09-17 16:00
+Birmingham
+Coventry
+0 - 0
+i
+2022-09-17 16:00
+Preston
+Sheffield U
+0 - 2
+i
+2022-09-17 16:00
+Millwall
+Blackpool
+2 - 1
+i
+2022-09-17 16:00
+Watford
+Sunderland
+2 - 2
+i
+2022-09-17 20:45
+Middlesbrough
+Rotherham
+0 - 0
+i
+Omgång 12
+2022-09-30 21:00
+Hull City
+Luton
+0 - 2
+i
+2022-10-01 16:00
+Reading
+Huddersfield
+3 - 1
+i
+2022-10-01 16:00
+Sheffield U
+Birmingham
+1 - 1
+i
+2022-10-01 16:00
+Sunderland
+Preston
+0 - 0
+i
+2022-10-01 16:00
+Blackburn
+Millwall
+2 - 1
+i
+2022-10-01 16:00
+Blackpool
+Norwich
+0 - 1
+i
+2022-10-01 16:00
+WBA
+Swansea
+2 - 3
+i
+2022-10-01 16:00
+Rotherham
+Wigan
+0 - 2
+i
+2022-10-01 16:00
+Bristol City
+QPR
+1 - 2
+i
+2022-10-01 16:00
+Cardiff
+Burnley
+1 - 1
+i
+2022-10-01 16:00
+Coventry
+Middlesbrough
+1 - 0
+i
+2022-10-02 13:00
+Stoke
+Watford
+0 - 4
+i
+Omgång 13
+2022-10-04 20:45
+Luton
+Huddersfield
+3 - 3
+i
+2022-10-04 20:45
+Sheffield U
+QPR
+0 - 1
+i
+2022-10-04 20:45
+Sunderland
+Blackpool
+0 - 0
+i
+2022-10-04 20:45
+Bristol City
+Coventry
+0 - 0
+i
+2022-10-04 21:00
+Cardiff
+Blackburn
+1 - 0
+i
+2022-10-04 21:00
+Reading
+Norwich
+1 - 1
+i
+2022-10-05 20:45
+Hull City
+Wigan
+2 - 1
+i
+2022-10-05 20:45
+Burnley
+Stoke
+1 - 1
+i
+2022-10-05 20:45
+Rotherham
+Millwall
+1 - 1
+i
+2022-10-05 20:45
+Watford
+Swansea
+1 - 2
+i
+2022-10-05 20:45
+Middlesbrough
+Birmingham
+1 - 0
+i
+2022-10-05 21:00
+Preston
+WBA
+1 - 0
+i
+Omgång 14
+2022-10-07 21:00
+QPR
+Reading
+2 - 1
+i
+2022-10-08 16:00
+Stoke
+Sheffield U
+3 - 1
+i
+2022-10-08 16:00
+Birmingham
+Bristol City
+3 - 0
+i
+2022-10-08 16:00
+Blackburn
+Rotherham
+3 - 0
+i
+2022-10-08 16:00
+Millwall
+Middlesbrough
+2 - 0
+i
+2022-10-08 16:00
+Norwich
+Preston
+2 - 3
+i
+2022-10-08 16:00
+Blackpool
+Watford
+3 - 1
+i
+2022-10-08 16:00
+Coventry
+Burnley
+0 - 1
+i
+2022-10-08 16:00
+Swansea
+Sunderland
+2 - 1
+i
+2022-10-08 16:00
+Wigan
+Cardiff
+1 - 3
+i
+2022-10-08 16:00
+WBA
+Luton
+0 - 0
+i
+2022-10-09 13:00
+Huddersfield
+Hull City
+2 - 0
+i
+Omgång 15
+2022-10-15 13:30
+Luton
+QPR
+3 - 1
+i
+2022-10-15 13:30
+Rotherham
+Huddersfield
+2 - 1
+i
+2022-10-15 16:00
+Sheffield U
+Blackpool
+3 - 3
+i
+2022-10-15 16:00
+Reading
+WBA
+0 - 2
+i
+2022-10-15 16:00
+Preston
+Stoke
+0 - 2
+i
+2022-10-15 16:00
+Middlesbrough
+Blackburn
+1 - 2
+i
+2022-10-15 16:00
+Sunderland
+Wigan
+2 - 1
+i
+2022-10-15 16:00
+Cardiff
+Coventry
+0 - 1
+i
+2022-10-15 16:00
+Burnley
+Swansea
+4 - 0
+i
+2022-10-15 16:00
+Bristol City
+Millwall
+1 - 2
+i
+2022-10-15 20:45
+Watford
+Norwich
+2 - 1
+i
+2022-10-16 16:20
+Hull City
+Birmingham
+0 - 2
+i
+Omgång 16
+2022-10-18 20:45
+Swansea
+Reading
+3 - 2
+i
+2022-10-18 20:45
+Norwich
+Luton
+0 - 1
+i
+2022-10-18 20:45
+Huddersfield
+Preston
+0 - 1
+i
+2022-10-18 21:00
+WBA
+Bristol City
+0 - 2
+i
+2022-10-18 21:00
+Stoke
+Rotherham
+0 - 1
+i
+2022-10-18 21:00
+Blackburn
+Sunderland
+2 - 0
+i
+2022-10-19 20:45
+Wigan
+Middlesbrough
+1 - 4
+i
+2022-10-19 20:45
+QPR
+Cardiff
+3 - 0
+i
+2022-10-19 20:45
+Coventry
+Sheffield U
+1 - 0
+i
+2022-10-19 20:45
+Blackpool
+Hull City
+1 - 3
+i
+2022-10-19 20:45
+Birmingham
+Burnley
+1 - 1
+i
+2022-10-19 21:00
+Millwall
+Watford
+3 - 0
+i
+Omgång 17
+2022-10-22 13:30
+Blackpool
+Preston
+4 - 2
+i
+2022-10-22 16:00
+Middlesbrough
+Huddersfield
+0 - 0
+i
+2022-10-22 16:00
+Millwall
+WBA
+2 - 1
+i
+2022-10-22 16:00
+QPR
+Wigan
+2 - 1
+i
+2022-10-22 16:00
+Reading
+Bristol City
+2 - 0
+i
+2022-10-22 16:00
+Rotherham
+Hull City
+2 - 4
+i
+2022-10-22 16:00
+Sheffield U
+Norwich
+2 - 2
+i
+2022-10-22 16:00
+Blackburn
+Birmingham
+2 - 1
+i
+2022-10-22 16:00
+Stoke
+Coventry
+0 - 2
+i
+2022-10-22 16:00
+Sunderland
+Burnley
+2 - 4
+i
+2022-10-23 13:00
+Watford
+Luton
+4 - 0
+i
+2022-10-23 13:00
+Swansea
+Cardiff
+2 - 0
+i
+Omgång 18
+2022-10-28 21:00
+Birmingham
+QPR
+2 - 0
+i
+2022-10-29 13:00
+Bristol City
+Swansea
+1 - 1
+i
+2022-10-29 13:30
+WBA
+Sheffield U
+0 - 2
+i
+2022-10-29 16:00
+Coventry
+Blackpool
+1 - 2
+i
+2022-10-29 16:00
+Luton
+Sunderland
+1 - 1
+i
+2022-10-29 16:00
+Preston
+Middlesbrough
+2 - 1
+i
+2022-10-29 16:00
+Huddersfield
+Millwall
+1 - 0
+i
+2022-10-29 16:00
+Hull City
+Blackburn
+0 - 1
+i
+2022-10-29 16:00
+Norwich
+Stoke
+3 - 1
+i
+2022-10-29 16:00
+Burnley
+Reading
+2 - 1
+i
+2022-10-29 16:00
+Cardiff
+Rotherham
+1 - 0
+i
+2022-10-29 16:00
+Wigan
+Watford
+0 - 1
+i
+Omgång 19
+2022-11-01 20:45
+Preston
+Swansea
+1 - 0
+i
+2022-11-01 20:45
+Coventry
+Blackburn
+1 - 0
+i
+2022-11-01 20:45
+Hull City
+Middlesbrough
+1 - 3
+i
+2022-11-01 20:45
+Luton
+Reading
+0 - 0
+i
+2022-11-01 21:00
+Bristol City
+Sheffield U
+0 - 1
+i
+2022-11-01 21:00
+WBA
+Blackpool
+1 - 0
+i
+2022-11-02 20:45
+Birmingham
+Millwall
+0 - 0
+i
+2022-11-02 20:45
+Cardiff
+Watford
+1 - 2
+i
+2022-11-02 20:45
+Huddersfield
+Sunderland
+0 - 2
+i
+2022-11-02 20:45
+Norwich
+QPR
+0 - 0
+i
+2022-11-02 20:45
+Wigan
+Stoke
+0 - 1
+i
+2022-11-02 20:45
+Burnley
+Rotherham
+3 - 2
+i
+Omgång 20
+2022-11-04 21:00
+Reading
+Preston
+1 - 2
+i
+2022-11-05 13:30
+Sheffield U
+Burnley
+5 - 2
+i
+2022-11-05 16:00
+Sunderland
+Cardiff
+0 - 1
+i
+2022-11-05 16:00
+QPR
+WBA
+0 - 1
+i
+2022-11-05 16:00
+Millwall
+Hull City
+0 - 0
+i
+2022-11-05 16:00
+Middlesbrough
+Bristol City
+1 - 1
+i
+2022-11-05 16:00
+Stoke
+Birmingham
+1 - 2
+i
+2022-11-05 16:00
+Blackpool
+Luton
+0 - 1
+i
+2022-11-05 16:00
+Blackburn
+Huddersfield
+1 - 0
+i
+2022-11-05 16:00
+Watford
+Coventry
+0 - 1
+i
+2022-11-05 16:00
+Swansea
+Wigan
+2 - 2
+i
+2022-11-05 16:00
+Rotherham
+Norwich
+1 - 2
+i
+Omgång 21
+2022-11-11 21:00
+Birmingham
+Sunderland
+1 - 2
+i
+2022-11-12 16:00
+Coventry
+QPR
+2 - 0
+i
+2022-11-12 16:00
+Preston
+Millwall
+2 - 4
+i
+2022-11-12 16:00
+WBA
+Stoke
+2 - 0
+i
+2022-11-12 16:00
+Norwich
+Middlesbrough
+1 - 2
+i
+2022-11-12 16:00
+Hull City
+Reading
+1 - 2
+i
+2022-11-12 16:00
+Cardiff
+Sheffield U
+0 - 1
+i
+2022-11-12 16:00
+Huddersfield
+Swansea
+0 - 0
+i
+2022-11-12 16:00
+Bristol City
+Watford
+0 - 0
+i
+2022-11-12 16:00
+Wigan
+Blackpool
+2 - 1
+i
+2022-11-12 16:00
+Luton
+Rotherham
+1 - 1
+i
+2022-11-13 13:30
+Burnley
+Blackburn
+3 - 0
+i
+Omgång 22
+2022-12-10 13:00
+Blackburn
+Preston
+1 - 4
+i
+2022-12-10 13:30
+Rotherham
+Bristol City
+1 - 3
+i
+2022-12-10 15:00
+Reading
+Coventry
+1 - 0
+i
+2022-12-10 16:00
+Blackpool
+Birmingham
+0 - 0
+i
+2022-12-10 16:00
+Sheffield U
+Huddersfield
+1 - 0
+i
+2022-12-10 16:00
+Swansea
+Norwich
+0 - 1
+i
+2022-12-10 16:00
+Middlesbrough
+Luton
+2 - 1
+i
+2022-12-10 16:00
+Stoke
+Cardiff
+2 - 2
+i
+2022-12-10 16:00
+Millwall
+Wigan
+1 - 1
+i
+2022-12-11 14:00
+QPR
+Burnley
+0 - 3
+i
+2022-12-11 16:00
+Watford
+Hull City
+0 - 0
+i
+2022-12-12 21:00
+Sunderland
+WBA
+1 - 2
+i
+Omgång 23
+2022-12-16 21:00
+Birmingham
+Reading
+3 - 2
+i
+2022-12-17 16:00
+Cardiff
+Blackpool
+1 - 1
+i
+2022-12-17 16:00
+Huddersfield
+Watford
+0 - 2
+i
+2022-12-17 16:00
+WBA
+Rotherham
+3 - 0
+i
+2022-12-17 16:00
+Preston
+QPR
+0 - 1
+i
+2022-12-17 16:00
+Bristol City
+Stoke
+1 - 2
+i
+2022-12-17 16:00
+Burnley
+Middlesbrough
+3 - 1
+i
+2022-12-17 16:00
+Coventry
+Swansea
+3 - 3
+i
+2022-12-17 16:00
+Hull City
+Sunderland
+1 - 1
+i
+2022-12-17 18:30
+Norwich
+Blackburn
+0 - 2
+i
+2022-12-19 21:00
+Wigan
+Sheffield U
+1 - 2
+i
+2023-02-28 21:00
+Luton
+Millwall
+Omgång 24
+2022-12-26 13:00
+Watford
+Millwall
+0 - 2
+i
+2022-12-26 13:30
+Sunderland
+Blackburn
+2 - 1
+i
+2022-12-26 16:00
+Middlesbrough
+Wigan
+4 - 1
+i
+2022-12-26 16:00
+Sheffield U
+Coventry
+3 - 1
+i
+2022-12-26 16:00
+Rotherham
+Stoke
+2 - 2
+i
+2022-12-26 16:00
+Preston
+Huddersfield
+1 - 2
+i
+2022-12-26 16:00
+Hull City
+Blackpool
+1 - 1
+i
+2022-12-26 16:00
+Bristol City
+WBA
+0 - 2
+i
+2022-12-26 18:15
+Cardiff
+QPR
+0 - 0
+i
+2022-12-26 20:45
+Luton
+Norwich
+2 - 1
+i
+2022-12-27 18:15
+Reading
+Swansea
+2 - 1
+i
+2022-12-27 21:00
+Burnley
+Birmingham
+3 - 0
+i
+Omgång 25
+2022-12-29 19:00
+QPR
+Luton
+0 - 3
+i
+2022-12-29 20:45
+Millwall
+Bristol City
+0 - 0
+i
+2022-12-29 20:45
+Blackburn
+Middlesbrough
+1 - 2
+i
+2022-12-29 20:45
+Huddersfield
+Rotherham
+2 - 0
+i
+2022-12-29 20:45
+Coventry
+Cardiff
+0 - 0
+i
+2022-12-29 20:45
+Wigan
+Sunderland
+1 - 4
+i
+2022-12-29 21:00
+WBA
+Preston
+2 - 0
+i
+2022-12-29 21:15
+Blackpool
+Sheffield U
+1 - 2
+i
+2022-12-30 20:45
+Swansea
+Watford
+4 - 0
+i
+2022-12-30 20:45
+Norwich
+Reading
+1 - 1
+i
+2022-12-30 20:45
+Stoke
+Burnley
+0 - 1
+i
+2022-12-30 20:45
+Birmingham
+Hull City
+0 - 1
+i
+Omgång 26
+2023-01-01 13:00
+Blackburn
+Cardiff
+1 - 0
+i
+2023-01-01 16:00
+Blackpool
+Sunderland
+1 - 1
+i
+2023-01-01 16:00
+Huddersfield
+Luton
+1 - 2
+i
+2023-01-01 16:00
+Millwall
+Rotherham
+3 - 0
+i
+2023-01-01 16:00
+Coventry
+Bristol City
+1 - 1
+i
+2023-01-02 16:00
+Wigan
+Hull City
+1 - 4
+i
+2023-01-02 16:00
+WBA
+Reading
+1 - 0
+i
+2023-01-02 16:00
+Swansea
+Burnley
+1 - 2
+i
+2023-01-02 16:00
+Birmingham
+Middlesbrough
+1 - 3
+i
+2023-01-02 16:00
+Norwich
+Watford
+0 - 1
+i
+2023-01-02 16:15
+Stoke
+Preston
+0 - 1
+i
+2023-01-02 21:00
+QPR
+Sheffield U
+1 - 1
+i
+Omgång 27
+2023-01-14 13:30
+Rotherham
+Blackburn
+4 - 0
+i
+2023-01-14 16:00
+Middlesbrough
+Millwall
+1 - 0
+i
+2023-01-14 16:00
+Luton
+WBA
+2 - 3
+i
+2023-01-14 16:00
+Bristol City
+Birmingham
+4 - 2
+i
+2023-01-14 16:00
+Cardiff
+Wigan
+1 - 1
+i
+2023-01-14 16:00
+Burnley
+Coventry
+1 - 0
+i
+2023-01-14 16:00
+Hull City
+Huddersfield
+1 - 1
+i
+2023-01-14 16:00
+Sheffield U
+Stoke
+3 - 1
+i
+2023-01-14 16:00
+Sunderland
+Swansea
+1 - 3
+i
+2023-01-14 16:00
+Reading
+QPR
+2 - 2
+i
+2023-01-14 16:00
+Preston
+Norwich
+0 - 4
+i
+2023-01-14 16:00
+Watford
+Blackpool
+2 - 0
+i
+Omgång 28
+2023-01-20 20:45
+Sheffield U
+Hull City
+1 - 0
+i
+2023-01-20 21:00
+Burnley
+WBA
+2 - 1
+i
+2023-01-21 13:30
+Coventry
+Norwich
+2 - 4
+i
+2023-01-21 16:00
+Bristol City
+Blackburn
+1 - 1
+i
+2023-01-21 16:00
+QPR
+Swansea
+1 - 1
+i
+2023-01-21 16:00
+Cardiff
+Millwall
+0 - 1
+i
+2023-01-21 16:00
+Stoke
+Reading
+4 - 0
+i
+2023-01-21 16:00
+Birmingham
+Preston
+1 - 2
+i
+2023-01-21 16:00
+Watford
+Rotherham
+1 - 1
+i
+2023-01-21 16:00
+Wigan
+Luton
+0 - 2
+i
+2023-01-22 13:00
+Sunderland
+Middlesbrough
+2 - 0
+i
+2023-02-07 20:45
+Blackpool
+Huddersfield
+Omgång 29
+2023-01-28 16:00
+Hull City
+QPR
+3 - 0
+i
+2023-01-28 16:00
+Middlesbrough
+Watford
+2 - 0
+i
+2023-01-28 16:00
+Preston
+Coventry
+2023-01-31 20:45
+Luton
+Cardiff
+2023-02-21 20:45
+Rotherham
+Sunderland
+2023-02-21 20:45
+Blackburn
+Blackpool
+2023-02-21 20:45
+Swansea
+Stoke
+2023-02-21 20:45
+Millwall
+Burnley
+2023-02-21 20:45
+Norwich
+Birmingham
+2023-03-07 20:45
+Huddersfield
+Bristol City
+2023-03-07 21:00
+Reading
+Sheffield U
+2023-03-07 21:00
+WBA
+Wigan
+Omgång 30
+2023-02-03 21:00
+WBA
+Coventry
+2023-02-04 13:30
+Norwich
+Burnley
+2023-02-04 13:30
+Rotherham
+Sheffield U
+2023-02-04 16:00
+Reading
+Watford
+2023-02-04 16:00
+Millwall
+Sunderland
+2023-02-04 16:00
+Swansea
+Birmingham
+2023-02-04 16:00
+Middlesbrough
+Blackpool
+2023-02-04 16:00
+Hull City
+Cardiff
+2023-02-04 16:00
+Huddersfield
+QPR
+2023-02-04 16:00
+Luton
+Stoke
+2023-02-04 16:00
+Preston
+Bristol City
+2023-02-06 21:00
+Blackburn
+Wigan
+Omgång 31
+2023-02-10 21:00
+Birmingham
+WBA
+2023-02-11 16:00
+Watford
+Blackburn
+2023-02-11 16:00
+Coventry
+Luton
+2023-02-11 16:00
+Stoke
+Hull City
+2023-02-11 16:00
+Burnley
+Preston
+2023-02-11 16:00
+QPR
+Millwall
+2023-02-11 16:00
+Sunderland
+Reading
+2023-02-11 16:00
+Wigan
+Huddersfield
+2023-02-11 16:00
+Cardiff
+Middlesbrough
+2023-02-11 16:00
+Sheffield U
+Swansea
+2023-02-11 16:00
+Blackpool
+Rotherham
+2023-02-11 16:00
+Bristol City
+Norwich
+Omgång 32
+2023-02-14 20:45
+QPR
+Sunderland
+2023-02-14 20:45
+Norwich
+Hull City
+2023-02-14 20:45
+Coventry
+Millwall
+2023-02-14 20:45
+Birmingham
+Cardiff
+2023-02-14 21:00
+Burnley
+Watford
+2023-02-14 21:00
+Reading
+Rotherham
+2023-02-15 20:45
+Swansea
+Blackpool
+2023-02-15 20:45
+Preston
+Luton
+2023-02-15 20:45
+Bristol City
+Wigan
+2023-02-15 20:45
+Stoke
+Huddersfield
+2023-02-15 21:00
+Sheffield U
+Middlesbrough
+2023-02-15 21:00
+WBA
+Blackburn
+Omgång 33
+2023-02-17 21:00
+Cardiff
+Reading
+2023-02-18 13:30
+Millwall
+Sheffield U
+2023-02-18 16:00
+Huddersfield
+Birmingham
+2023-02-18 16:00
+Wigan
+Norwich
+2023-02-18 16:00
+Hull City
+Preston
+2023-02-18 16:00
+Rotherham
+Coventry
+2023-02-18 16:00
+Blackpool
+Stoke
+2023-02-18 16:00
+Blackburn
+Swansea
+2023-02-18 16:00
+Sunderland
+Bristol City
+2023-02-18 16:00
+Luton
+Burnley
+2023-02-18 16:00
+Middlesbrough
+QPR
+2023-02-20 21:00
+Watford
+WBA
+Omgång 34
+2023-02-25 13:30
+Coventry
+Sunderland
+2023-02-25 16:00
+Stoke
+Millwall
+2023-02-25 16:00
+WBA
+Middlesbrough
+2023-02-25 16:00
+Reading
+Blackpool
+2023-02-25 16:00
+Bristol City
+Hull City
+2023-02-25 16:00
+QPR
+Blackburn
+2023-02-25 16:00
+Burnley
+Huddersfield
+2023-02-25 16:00
+Norwich
+Cardiff
+2023-02-25 16:00
+Sheffield U
+Watford
+2023-02-25 16:00
+Birmingham
+Luton
+2023-02-25 16:00
+Preston
+Wigan
+2023-02-27 21:00
+Swansea
+Rotherham
+Omgång 35
+2023-03-04 13:30
+Cardiff
+Bristol City
+2023-03-04 16:00
+Huddersfield
+Coventry
+2023-03-04 16:00
+Blackburn
+Sheffield U
+2023-03-04 16:00
+Hull City
+WBA
+2023-03-04 16:00
+Millwall
+Norwich
+2023-03-04 16:00
+Watford
+Preston
+2023-03-04 16:00
+Blackpool
+Burnley
+2023-03-04 16:00
+Wigan
+Birmingham
+2023-03-04 16:00
+Middlesbrough
+Reading
+2023-03-04 16:00
+Sunderland
+Stoke
+2023-03-04 16:00
+Rotherham
+QPR
+2023-03-04 16:00
+Luton
+Swansea
+Omgång 36
+2023-03-11 16:00
+Burnley
+Wigan
+2023-03-11 16:00
+WBA
+Huddersfield
+2023-03-11 16:00
+Stoke
+Blackburn
+2023-03-11 16:00
+QPR
+Watford
+2023-03-11 16:00
+Reading
+Millwall
+2023-03-11 16:00
+Sheffield U
+Luton
+2023-03-11 16:00
+Birmingham
+Rotherham
+2023-03-11 16:00
+Coventry
+Hull City
+2023-03-11 16:00
+Norwich
+Sunderland
+2023-03-11 16:00
+Preston
+Cardiff
+2023-03-11 16:00
+Swansea
+Middlesbrough
+2023-03-11 16:00
+Bristol City
+Blackpool
+Omgång 37
+2023-03-14 20:45
+Millwall
+Swansea
+2023-03-14 20:45
+Watford
+Birmingham
+2023-03-14 20:45
+Rotherham
+Preston
+2023-03-14 20:45
+Blackpool
+QPR
+2023-03-14 20:45
+Wigan
+Coventry
+2023-03-14 20:45
+Middlesbrough
+Stoke
+2023-03-15 20:45
+Huddersfield
+Norwich
+2023-03-15 20:45
+Blackburn
+Reading
+2023-03-15 20:45
+Hull City
+Burnley
+2023-03-15 20:45
+Sunderland
+Sheffield U
+2023-03-15 20:45
+Luton
+Bristol City
+2023-03-15 20:45
+Cardiff
+WBA
+Omgång 38
+2023-03-18 16:00
+Watford
+Wigan
+2023-03-18 16:00
+Millwall
+Huddersfield
+2023-03-18 16:00
+Blackburn
+Burnley
+2023-03-18 16:00
+Sunderland
+Luton
+2023-03-18 16:00
+Sheffield U
+WBA
+2023-03-18 16:00
+Stoke
+Norwich
+2023-03-18 16:00
+Rotherham
+Cardiff
+2023-03-18 16:00
+Middlesbrough
+Preston
+2023-03-18 16:00
+QPR
+Birmingham
+2023-03-18 16:00
+Reading
+Hull City
+2023-03-18 16:00
+Swansea
+Bristol City
+2023-03-18 16:00
+Blackpool
+Coventry
+Omgång 39
+2023-04-01 13:30
+Preston
+Blackpool
+2023-04-01 13:30
+Luton
+Watford
+2023-04-01 16:00
+Burnley
+Sunderland
+2023-04-01 16:00
+Coventry
+Stoke
+2023-04-01 16:00
+Wigan
+QPR
+2023-04-01 16:00
+Huddersfield
+Middlesbrough
+2023-04-01 16:00
+Birmingham
+Blackburn
+2023-04-01 16:00
+Cardiff
+Swansea
+2023-04-01 16:00
+Norwich
+Sheffield U
+2023-04-01 16:00
+WBA
+Millwall
+2023-04-01 16:00
+Hull City
+Rotherham
+2023-04-01 16:00
+Bristol City
+Reading
+Omgång 40
+2023-04-07 14:00
+Rotherham
+WBA
+2023-04-07 16:00
+QPR
+Preston
+2023-04-07 16:00
+Watford
+Huddersfield
+2023-04-07 16:00
+Sunderland
+Hull City
+2023-04-07 16:00
+Sheffield U
+Wigan
+2023-04-07 16:00
+Swansea
+Coventry
+2023-04-07 16:00
+Stoke
+Bristol City
+2023-04-07 16:00
+Blackpool
+Cardiff
+2023-04-07 16:00
+Millwall
+Luton
+2023-04-07 16:00
+Middlesbrough
+Burnley
+2023-04-07 16:00
+Blackburn
+Norwich
+2023-04-07 16:00
+Reading
+Birmingham
+Omgång 41
+2023-04-10 16:00
+Norwich
+Rotherham
+2023-04-10 16:00
+Wigan
+Swansea
+2023-04-10 16:00
+Preston
+Reading
+2023-04-10 16:00
+Bristol City
+Middlesbrough
+2023-04-10 16:00
+Cardiff
+Sunderland
+2023-04-10 16:00
+Luton
+Blackpool
+2023-04-10 16:00
+Burnley
+Sheffield U
+2023-04-10 16:00
+Hull City
+Millwall
+2023-04-10 16:00
+Huddersfield
+Blackburn
+2023-04-10 16:00
+Birmingham
+Stoke
+2023-04-10 16:00
+WBA
+QPR
+2023-04-10 16:00
+Coventry
+Watford
+Omgång 42
+2023-04-15 16:00
+Watford
+Bristol City
+2023-04-15 16:00
+Middlesbrough
+Norwich
+2023-04-15 16:00
+Reading
+Burnley
+2023-04-15 16:00
+Rotherham
+Luton
+2023-04-15 16:00
+Blackburn
+Hull City
+2023-04-15 16:00
+Blackpool
+Wigan
+2023-04-15 16:00
+Millwall
+Preston
+2023-04-15 16:00
+Sheffield U
+Cardiff
+2023-04-15 16:00
+Swansea
+Huddersfield
+2023-04-15 16:00
+Sunderland
+Birmingham
+2023-04-15 16:00
+Stoke
+WBA
+2023-04-15 16:00
+QPR
+Coventry
+Omgång 43
+2023-04-18 20:45
+Millwall
+Birmingham
+2023-04-18 20:45
+Blackpool
+WBA
+2023-04-18 20:45
+Rotherham
+Burnley
+2023-04-18 20:45
+Sheffield U
+Bristol City
+2023-04-18 20:45
+Sunderland
+Huddersfield
+2023-04-18 20:45
+Stoke
+Wigan
+2023-04-19 20:45
+Swansea
+Preston
+2023-04-19 20:45
+Middlesbrough
+Hull City
+2023-04-19 20:45
+Watford
+Cardiff
+2023-04-19 20:45
+Blackburn
+Coventry
+2023-04-19 20:45
+QPR
+Norwich
+2023-04-19 21:00
+Reading
+Luton
+Omgång 44
+2023-04-22 16:00
+Huddersfield
+Sheffield U
+2023-04-22 16:00
+Preston
+Blackburn
+2023-04-22 16:00
+WBA
+Sunderland
+2023-04-22 16:00
+Hull City
+Watford
+2023-04-22 16:00
+Coventry
+Reading
+2023-04-22 16:00
+Norwich
+Swansea
+2023-04-22 16:00
+Luton
+Middlesbrough
+2023-04-22 16:00
+Cardiff
+Stoke
+2023-04-22 16:00
+Burnley
+QPR
+2023-04-22 16:00
+Bristol City
+Rotherham
+2023-04-22 16:00
+Birmingham
+Blackpool
+2023-04-22 16:00
+Wigan
+Millwall
+Omgång 45
+2023-04-29 16:00
+Cardiff
+Huddersfield
+2023-04-29 16:00
+Sunderland
+Watford
+2023-04-29 16:00
+Hull City
+Swansea
+2023-04-29 16:00
+Bristol City
+Burnley
+2023-04-29 16:00
+Blackburn
+Luton
+2023-04-29 16:00
+Stoke
+QPR
+2023-04-29 16:00
+Sheffield U
+Preston
+2023-04-29 16:00
+Rotherham
+Middlesbrough
+2023-04-29 16:00
+Coventry
+Birmingham
+2023-04-29 16:00
+WBA
+Norwich
+2023-04-29 16:00
+Reading
+Wigan
+2023-04-29 16:00
+Blackpool
+Millwall
+Omgång 46
+2023-05-06 16:00
+Burnley
+Cardiff
+2023-05-06 16:00
+Preston
+Sunderland
+2023-05-06 16:00
+Millwall
+Blackburn
+2023-05-06 16:00
+Birmingham
+Sheffield U
+2023-05-06 16:00
+Middlesbrough
+Coventry
+2023-05-06 16:00
+Luton
+Hull City
+2023-05-06 16:00
+Norwich
+Blackpool
+2023-05-06 16:00
+Swansea
+WBA
+2023-05-06 16:00
+Huddersfield
+Reading
+2023-05-06 16:00
+Wigan
+Rotherham
+2023-05-06 16:00
+QPR
+Bristol City
+2023-05-06 16:00
+Watford
+Stoke
+MEST LÄSTA
+HETASTE FORUM
+MEST KOMMENTARER
+Sillykollen: Tottenham
+England • igår 20:00
+1037
+Uppgifter: Chelsea överens med Lyon om Gusto
+Chelsea • igår 20:24
+1029
+Matchrapport: Manchester City - Arsenal (1-0)
+Arsenal • idag 11:45
+896
+Kan Preston ställa till det?
+Tottenham • igår 23:44
+852
+Stoke lånar in trio
+CHAMPIONSHIPPå två dagar har klubben presenterat sina tre första nyförvärv för vintern.
+Senaste nytt – Engelsk fotboll
+Sillykollen: Newcastle
+England • idag 15:00
+419
+Stoke lånar in trio
+Stoke • idag 14:48
+118
+Startelvan mot Leicester City
+Walsall • idag 13:01
+57
+Silly Season januari 2023
+West Ham • idag 11:52
+14556
+Matchrapport: Manchester City - Arsenal (1-0)
+Arsenal • idag 11:45
+891
+Inför: Brighton - Liverpool
+Liverpool • idag 11:44
+310
+Inför: Charlton – Bolton Wanderers
+Charlton • idag 10:08
+56
+Inför: AFC Wimbledon - Stockport County
+AFC Wimbledon • idag 09:45
+115
+Kan Preston ställa till det?
+Tottenham • igår 23:44
+852
+Inför FA-Cupen: Walsall - Leicester
+Leicester • igår 22:59
+170
+Halvtidsrapport
+Nottingham • igår 21:38
+230
+Inför: Manchester United - Reading
+Manchester U • igår 21:00
+739
+Uppgifter: Chelsea överens med Lyon om Gusto
+Chelsea • igår 20:24
+1029
+Sillykollen: Tottenham
+England • igår 20:00
+1037
+Inför Hull-QPR
+QPR • igår 19:24
+280
+» Visa fler nyheter
+Din plats på SF-läktaren
+INFORMATIONÖver 11 000 användare har redan laddat ner SvenskaFans app – har du?
+Chelsea överens om Gusto?
+SILLY SEASONSka ha nått en överenskommelse med Lyon kring högerbacken Malo Gusto.
+Sunderland värvar från Premier League
+CHAMPIONSHIPDen 20-årige anfallaren Joe Gelhardt ansluter härnäst från Leeds United.
+Humphreys lånas ut till Paderborn
+SILLY SEASONChelsea-försvararen lånas ut till 2.Bundesliga-klubben för resten av säsongen.
+Mendy på väg till West Ham?
+SILLY SEASONFölj det senaste kring West Ham.
+» Darren Randolph lämnar Hammers
+» Conor Coventry förlänger och lånas ut
+Flyttade matcher i mars
+PREMIER LEAGUEWest Ham-Aston Villa och Man City-West Ham har fått ny tid och nytt datum.
+» Skador & Avstängningar
+» Silly Season 2023
+Danjuma klar för Tottenham
+PREMIER LEAGUEHolländaren Arnaut Danjuma lånas in från spanska Villarreal säsongen ut.
+Mittfältare lånas ut
+SILLY SEASONFölj det senaste kring Charlton.
+Newcastle intresserade av Evertons Anthony Gordon
+SILLY SEASONDet senaste om Newcastle.
+Player of the year i Schweiz
+PREMIER LEAGUEUtmärkelse till Arsenals Xhaka.
+UEFA täcker upp kryphålet som Chelsea exploaterat
+PREMIER LEAGUEChelseas långa kontrakt har överraskat och förundrat fotbollsvärlden.
+Exeter-Barnsley inställd
+LEAGUE ONEEn frusen plan ställer till det.
+Wolves uppätna av Haaland
+PREMIER LEAGUEFörlust mot City på bortaplan.
+Fernandez på tapeten igen
+PREMIER LEAGUEChelsea kommer försöka få in argentinaren innan januarifönstret stänger.
+» Akademin vecka 3
+» Potter om hur Noni Madueke kommer förstärka Chelsea
+» ”Kommer leva upp till sin prislapp”
+Skön start för Mousinho
+LEAGUE ONEJohn Mousinhos första match som coach för Pompey slutade med en 2-0-seger.
+Charlton värvar vänsterback
+SILLY SEASONFölj det senaste kring Charlton.
+Matchen blev avbruten
+DAMFOTBOLLSofia Almroth om Chelseas vecka.
+Dawson lämnar West Ham
+SILLY SEASONCraig Dawson till Wolves.
+» Skador och avstängningar
+» Ny damspelare i West Ham
+» Silly Season West Ham
+Bowen matchvinnare mot Everton
+PREMIER LEAGUEHammers tog en ytterst viktig trea hemma mot bottenkollegan Everton.
+Islossning för Stoke
+CHAMPIONSHIPStoke tog en viktig seger när man körde över gästande Reading på Bet365.
+”Heavey-metalfotbollen finns inte längre kvar”
+PREMIER LEAGUEFem tankar efter Chelsea.
+Barnsley tillbaka på vinnarspåret
+LEAGUE ONEAccrington hade inte mycket att sätta emot hemmalaget som avgjorde tidigt.
+Bowen sänkte Everton
+PREMIER LEAGUESe alla mål och höjdpunkter från lördagens matcher i Premier League.
+Scamacca med en knäskada
+PREMIER LEAGUEDe senaste uppdateringarna kring West Hams skador och avstängningar.
+Leicester värvar danskt
+SILLY SEASONVänsterback från FC Köpenhamn ansluter till engelska klubben för 15 miljoner.
+En spelare med mycket potential
+PREMIER LEAGUEGraham Potters presskonferens inför mötet med Liverpool.
+John Mousinho ny coach i Portsmouth
+LEAGUE ONEMousinho får sitt första uppdrag som förstecoach i en klubb som vacklar.
+Emirates Stadium byter skepnad
+PREMIER LEAGUEArsenals arenaväggar kläs om.
+» Okonkwo och Azeez byter låneklubbar
+» U18 vidare i FA Youth Cup
+» Ovie Ejeheri byter klubb
+Lapp på luckan mot Leicester
+FA-CUPENBiljetterna till FA-cupmatchen hemma mot Leicester den 28 januari är nu slutsålda. 
+Ledley Kings Knä: Sacking Pace
+FANRADIOContes kontraktssituation i limbo! Kanes framtid i limbo! Hela världen är i limbo!.
+I'll see you in my dreams
+FANRADIOI veckans avsnitt av podden hyllas Kompanys kompani och Corberans killar.
+”Bröderna Rongedal”
+FANRADIOLyssna på avsnitt 64 av UTD Podden.
+Emery kunde checka av ännu en hemmaseger
+PREMIER LEAGUEAston Villa slog Leeds.
+Johnson & Cashman lämnar
+SILLY SEASONFölj det senaste kring Walsall.
+”Det kändes inte rättvist med 1-1 efter den insatsen”
+DAMFOTBOLLSofia Almroth om Chelseas vecka.
+Portsmouth vek ner sig i Bolton
+LEAGUE ONEUtan ledartyper som tar ansvar och utan förstecoach var Portsmouth ett lätt byte.
+Tre viktiga poäng till Wolves
+PREMIER LEAGUESlog West Ham på Molineux.
+» Dåliga trenden fortsätter för West Ham
+Irakisk landslagsman klar
+SILLY SEASONSenaste nytt om Wimbledon.
+“Jag är så lycklig över att skriva på för Chelsea”
+SILLY SEASONMudryk är klar för Chelsea.
+Arsenal dominerade i derbyt
+PREMIER LEAGUESe samtliga höjdpunkter från söndagens matcher i Premier League.
+Rashford frälste United i derbyt
+PREMIER LEAGUESe samtliga mål från lördagens matcher i Premier League.
+”Ingen vidare match av Walsall”
+LEAGUE TWOWalsall fick med sig en poäng från bortamatchen mot Tranmere Rovers.
+Villa tog viktig seger mot Leeds
+PREMIER LEAGUESe fredagens mål i PL här.
+Jamille Matt klar för Walsall
+SILLY SEASONKonkurrerade ut Tranmere.
+» Matt och Flynn om övergången
+MacGillivray lämnar Charlton
+SILLY SEASONMålvakten säljs till Burton Albion.
+”Haft svårt att få ut sin potential”
+SILLY SEASONDelap återkallas av Manchester City från Stoke – går till ligakonkurent. 
+”Inte ens Potter kan trolla”
+PANELENMagiska minut 93, Bale tackar för sig och hur är det med Real Madrids form?
+Fulham besegrade Chelsea i Londonderbyt
+PREMIER LEAGUESe målen och höjdpunkterna.
+Ledley Kings Knä: Qatar, here we go
+FANRADIOOm Qatars ryktade investering i Spurs! Poddens framtid på spel! NLD på gång!
+Bonne tillbaka i Charlton
+LEAGUE ONEÅtervändande Macauley Bonne är Charltons första värvning under januarifönstret.
+» Silly Season Charlton
+Ny anfallare på gång till Walsall?
+SILLY SEASON33-årige Jamille Matt ryktas in.
+» Earing borta resten av säsongen
+QPR lånar från Bournemouth
+SILLY SEASONJamal Lowe förstärker truppen.
+Fiasko för City – utslagna ur Ligacupen
+LIGACUPENSe samtliga mål och höjdpunkter från kvällens kvartsfinaler i Ligacupen här.
+Leicester utslagna ur Ligacupen
+LIGACUPENEfter en svag insats på St.James Park mot Newcastle tog årets cupäventyr slut.
+Lånen Griffiths och Koroma avslutas
+SILLY SEASONFölj det senaste om Portsmouth.
+”The Salford Silva”
+FANRADIOFootball's coming home är tillbaka.
+Men kan de göra det en regnig tisdag i Bolton?
+EFL TROPHYPortsmouth sumpade bästa chansen att ta sig till Wembley denna säsong.
+”Det är en enorm klubb”
+PREMIER LEAGUENyförvärvet Benoit Badiashiles första intervju efter övergången till Chelsea.
+» Loftus-Cheek gör sig redo
+» Akademin vecka 1
+Har börjat uppträda stabilt
+LEAGUE ONECharlton slog Lincoln med 2-1 och det var den första hemmasegern sedan oktober.
+”Intressanta kandidater finns”
+FA-CUPENPortsmouth utslagna mot Tottenham – sökandet efter tränare fortsätter.
+Hetaste forum
+Arsenal
+Hammarby
+Helsingborg
+Djurgården
+Göteborg
+Alla forum
+Länkar
+Om SvenskaFans
+RSS-feed
+I mobilen
+Kontakta oss
+Annonsera
+Cookies
+Ladda hem vår app
+Sponsor
+En del av
+Sillykollen: Tottenham
+Uppgifter: Chelsea överens med Lyon om Gusto
+Matchrapport: Manchester City - Arsenal (1-0)
+Kan Preston ställa till det?
+Sillykollen: Newcastle
+Stoke lånar in trio
+Startelvan mot Leicester City
+Silly Season januari 2023
+Matchrapport: Manchester City - Arsenal (1-0)
+Inför: Brighton - Liverpool
+Inför: Charlton – Bolton Wanderers
+Inför: AFC Wimbledon - Stockport County
+Kan Preston ställa till det?
+Inför FA-Cupen: Walsall - Leicester
+Halvtidsrapport
+Inför: Manchester United - Reading
+Uppgifter: Chelsea överens med Lyon om Gusto
+Sillykollen: Tottenham
+Inför Hull-QPR

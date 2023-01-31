@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFAllsvenskan"
         mc:Ignorable="d"
-        Title="Serie" Height="1200" Width="1200" Margin="20" Background="Beige" ResizeMode="NoResize">
+        Title="Serie" Height="1400" Width="1400" Margin="20" Background="Beige" >
     <Window.Resources>
         <Style TargetType="Button">
             <Setter Property="HorizontalAlignment" Value="Center" />
@@ -151,6 +151,7 @@
                 Click="ButtonSelectTeam_Click"
             />
             </StackPanel>
+            
         </Grid>
         <Grid Grid.Column="1" Grid.ColumnSpan="2" Margin="5">
             <Grid.ColumnDefinitions>
@@ -168,15 +169,34 @@
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-            <Label
-                x:Name ="lblTable"
+            <StackPanel                
                 Grid.Column="0"
-                Grid.Row="1"
+                Grid.Row="2"
                 Grid.ColumnSpan="10"
-                BorderThickness="1"
-                BorderBrush="Black"
-                Margin="0,5,0,0"
-            />
+                Orientation="Horizontal">
+                <ListView
+                    x:Name="lvTable"
+                    Width="600"
+                    Height="600"
+                    Margin="10,10,0,0"
+                    HorizontalAlignment="Left"
+                    BorderThickness="1"
+                    BorderBrush="Black"
+                    SelectionChanged="lvTable_SelectionChanged"
+                    FontSize="12" />
+
+                <ListView 
+                    x:Name="lvListOfGames"
+                    Width="300"
+                    Height="200"
+                    Margin="10,10,0,0"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Left"
+                />
+
+
+            </StackPanel>
+              
             <Label
                 x:Name="lblFixtures"
                 Grid.Column="0"
@@ -211,34 +231,7 @@
                     Width="50"
                     SelectionChanged="UpdateTable_Click"
                 />
-            </StackPanel>
-
-            <StackPanel            
-                Grid.Column="0"
-                Grid.Row="2"
-                Grid.ColumnSpan="7"
-                HorizontalAlignment="Left"
-                Orientation="Horizontal">
-                <ComboBox
-                    x:Name="ComboBoxFixtures"
-                    Grid.Column="0"
-                    Grid.Row="2"
-                    Width="150"
-                    Height="30"
-                    Margin="5" 
-                    VerticalAlignment="Top"
-                />
-                <Button
-                    x:Name="ButtonFixtures"
-                    Grid.Column="0"
-                    Grid.Row="2"
-                    Width="100"
-                    Content="Spelschema"
-                    Margin="5"
-                    Height="30"
-                    VerticalAlignment="Top"
-                    Click="ButtonFixtures_Click"
-                />
+                <Button Name="btClose" Content="Return" Click="btClose_Click" />
             </StackPanel>
         </Grid>
     </Grid>

@@ -1,16 +1,16 @@
 Omgång 1
 2022-04-02 15:00
-Hammarby
+Hammarby IF
 Helsingborg
 2 - 1
 i
 2022-04-02 17:30
-Häcken
+BK Häcken
 AIK
 4 - 2
 i
 2022-04-03 15:00
-Sirius
+IK Sirius FK
 Sundsvall
 2 - 1
 i
@@ -30,24 +30,24 @@ Varbergs BoIS
 0 - 1
 i
 2022-04-04 19:00
-Elfsborg
-Mjällby
+IF Elfsborg
+Mjällby AIF
 0 - 2
 i
 2022-04-04 19:10
-Djurgården
-Degerfors
+Djurgårdens IF
+Degerfors IF
 3 - 1
 i
 Omgång 2
 2022-04-09 15:00
 Sundsvall
-Hammarby
+Hammarby IF
 1 - 5
 i
 2022-04-09 17:30
-Degerfors
-Häcken
+Degerfors IF
+BK Häcken
 1 - 2
 i
 2022-04-10 15:00
@@ -61,8 +61,8 @@ IFK Göteborg
 0 - 1
 i
 2022-04-10 17:30
-Mjällby
-Djurgården
+Mjällby AIF
+Djurgårdens IF
 1 - 0
 i
 2022-04-10 17:30
@@ -72,18 +72,18 @@ IFK Norrköping
 i
 2022-04-11 19:00
 IFK Värnamo
-Sirius
+IK Sirius FK
 0 - 0
 i
 2022-04-11 19:10
 Malmö FF
-Elfsborg
+IF Elfsborg
 1 - 1
 i
 Omgång 3
 2022-04-15 15:00
-Hammarby
-Mjällby
+Hammarby IF
+Mjällby AIF
 2 - 0
 i
 2022-04-16 15:00
@@ -92,7 +92,7 @@ Sundsvall
 2 - 0
 i
 2022-04-16 15:00
-Djurgården
+Djurgårdens IF
 IFK Norrköping
 2 - 1
 i
@@ -103,21 +103,21 @@ AIK
 i
 2022-04-17 15:00
 Kalmar FF
-Degerfors
+Degerfors IF
 2 - 0
 i
 2022-04-17 17:30
-Sirius
+IK Sirius FK
 Helsingborg
 1 - 0
 i
 2022-04-17 17:30
-Elfsborg
+IF Elfsborg
 IFK Värnamo
 4 - 1
 i
 2022-04-17 17:30
-Häcken
+BK Häcken
 IFK Göteborg
 0 - 2
 i
@@ -128,18 +128,18 @@ Kalmar FF
 1 - 0
 i
 2022-04-20 19:00
-Mjällby
-Sirius
+Mjällby AIF
+IK Sirius FK
 3 - 0
 i
 2022-04-20 19:00
 IFK Norrköping
-Häcken
+BK Häcken
 1 - 1
 i
 2022-04-20 19:00
 IFK Göteborg
-Djurgården
+Djurgårdens IF
 1 - 1
 i
 2022-04-20 19:00
@@ -154,42 +154,42 @@ Malmö FF
 i
 2022-04-21 19:00
 Helsingborg
-Elfsborg
+IF Elfsborg
 1 - 0
 i
 2022-04-21 19:00
-Degerfors
-Hammarby
+Degerfors IF
+Hammarby IF
 0 - 1
 i
 Omgång 5
 2022-04-24 15:00
 Varbergs BoIS
-Mjällby
+Mjällby AIF
 0 - 0
 i
 2022-04-24 15:00
 AIK
-Djurgården
+Djurgårdens IF
 1 - 0
 i
 2022-04-24 17:30
 Helsingborg
-Häcken
+BK Häcken
 1 - 1
 i
 2022-04-25 19:00
-Sirius
-Hammarby
+IK Sirius FK
+Hammarby IF
 0 - 3
 i
 2022-04-25 19:00
 IFK Värnamo
-Degerfors
+Degerfors IF
 2 - 0
 i
 2022-04-25 19:00
-Elfsborg
+IF Elfsborg
 Sundsvall
 3 - 1
 i
@@ -205,18 +205,18 @@ IFK Norrköping
 i
 Omgång 6
 2022-04-30 15:00
-Djurgården
-Sirius
+Djurgårdens IF
+IK Sirius FK
 4 - 0
 i
 2022-05-01 15:00
-Mjällby
+Mjällby AIF
 Helsingborg
 2 - 1
 i
 2022-05-01 15:00
-Degerfors
-Elfsborg
+Degerfors IF
+IF Elfsborg
 0 - 6
 i
 2022-05-01 17:30
@@ -225,7 +225,7 @@ AIK
 0 - 2
 i
 2022-05-01 17:30
-Häcken
+BK Häcken
 Varbergs BoIS
 3 - 1
 i
@@ -240,7 +240,7 @@ Kalmar FF
 1 - 2
 i
 2022-05-02 19:10
-Hammarby
+Hammarby IF
 Malmö FF
 0 - 0
 i
@@ -252,27 +252,27 @@ IFK Göteborg
 i
 2022-05-07 17:30
 Malmö FF
-Mjällby
+Mjällby AIF
 2 - 0
 i
 2022-05-08 17:30
 Varbergs BoIS
-Sirius
+IK Sirius FK
 0 - 2
 i
 2022-05-08 17:30
 Kalmar FF
-Hammarby
+Hammarby IF
 2 - 0
 i
 2022-05-09 19:00
 Sundsvall
-Degerfors
+Degerfors IF
 2 - 3
 i
 2022-05-09 19:00
 IFK Värnamo
-Häcken
+BK Häcken
 1 - 2
 i
 2022-05-09 19:00
@@ -281,28 +281,28 @@ IFK Norrköping
 0 - 1
 i
 2022-05-09 19:10
-Elfsborg
-Djurgården
+IF Elfsborg
+Djurgårdens IF
 0 - 0
 i
 Omgång 8
 2022-05-14 15:00
-Mjällby
+Mjällby AIF
 IFK Värnamo
 1 - 1
 i
 2022-05-14 17:30
-Sirius
-Elfsborg
+IK Sirius FK
+IF Elfsborg
 2 - 0
 i
 2022-05-15 15:00
-Hammarby
+Hammarby IF
 AIK
 3 - 3
 i
 2022-05-15 15:00
-Häcken
+BK Häcken
 Kalmar FF
 3 - 1
 i
@@ -317,19 +317,19 @@ Varbergs BoIS
 1 - 1
 i
 2022-05-15 17:30
-Degerfors
+Degerfors IF
 Helsingborg
 2 - 1
 i
 2022-05-16 19:10
-Djurgården
+Djurgårdens IF
 Malmö FF
 4 - 0
 i
 Omgång 9
 2022-05-21 15:00
 AIK
-Sirius
+IK Sirius FK
 2 - 2
 i
 2022-05-21 17:30
@@ -338,38 +338,38 @@ IFK Värnamo
 1 - 4
 i
 2022-05-22 15:00
-Hammarby
+Hammarby IF
 IFK Norrköping
 3 - 0
 i
 2022-05-22 15:00
 Varbergs BoIS
-Degerfors
+Degerfors IF
 2 - 1
 i
 2022-05-22 15:00
-Elfsborg
+IF Elfsborg
 IFK Göteborg
 3 - 1
 i
 2022-05-22 17:30
 Malmö FF
-Häcken
+BK Häcken
 1 - 2
 i
 2022-05-22 17:30
 Kalmar FF
-Djurgården
+Djurgårdens IF
 1 - 0
 i
 2022-05-23 19:00
 Sundsvall
-Mjällby
+Mjällby AIF
 2 - 0
 i
 Omgång 10
 2022-05-28 15:00
-Mjällby
+Mjällby AIF
 Kalmar FF
 1 - 1
 i
@@ -379,28 +379,28 @@ Sundsvall
 2 - 0
 i
 2022-05-28 17:00
-Häcken
-Sirius
+BK Häcken
+IK Sirius FK
 4 - 3
 i
 2022-05-29 15:00
-Degerfors
+Degerfors IF
 Malmö FF
 0 - 2
 i
 2022-05-29 15:00
 IFK Norrköping
-Elfsborg
+IF Elfsborg
 2 - 2
 i
 2022-05-29 15:00
-Djurgården
+Djurgårdens IF
 Varbergs BoIS
 4 - 0
 i
 2022-05-29 17:30
 IFK Värnamo
-Hammarby
+Hammarby IF
 1 - 0
 i
 2022-05-29 17:30
@@ -410,23 +410,23 @@ AIK
 i
 Omgång 11
 2022-06-26 15:00
-Mjällby
+Mjällby AIF
 IFK Norrköping
 1 - 1
 i
 2022-06-26 15:00
-Hammarby
-Häcken
+Hammarby IF
+BK Häcken
 2 - 2
 i
 2022-06-26 15:00
-Degerfors
+Degerfors IF
 AIK
 1 - 1
 i
 2022-06-26 17:30
 Sundsvall
-Djurgården
+Djurgårdens IF
 2 - 5
 i
 2022-06-27 19:00
@@ -435,12 +435,12 @@ IFK Värnamo
 1 - 0
 i
 2022-06-27 19:00
-Sirius
+IK Sirius FK
 IFK Göteborg
 1 - 2
 i
 2022-06-27 19:00
-Elfsborg
+IF Elfsborg
 Varbergs BoIS
 4 - 1
 i
@@ -457,7 +457,7 @@ Malmö FF
 i
 2022-07-02 15:00
 AIK
-Mjällby
+Mjällby AIF
 0 - 1
 i
 2022-07-02 17:30
@@ -466,8 +466,8 @@ Kalmar FF
 1 - 1
 i
 2022-07-03 15:00
-Djurgården
-Hammarby
+Djurgårdens IF
+Hammarby IF
 1 - 0
 i
 2022-07-03 15:00
@@ -476,18 +476,18 @@ IFK Värnamo
 3 - 0
 i
 2022-07-03 17:30
-Häcken
-Elfsborg
+BK Häcken
+IF Elfsborg
 1 - 1
 i
 2022-07-03 17:30
 IFK Norrköping
-Sirius
+IK Sirius FK
 0 - 1
 i
 2022-07-04 19:00
 IFK Göteborg
-Degerfors
+Degerfors IF
 2 - 0
 i
 Omgång 13
@@ -497,23 +497,23 @@ Varbergs BoIS
 3 - 0
 i
 2022-07-09 17:30
-Degerfors
+Degerfors IF
 IFK Norrköping
 1 - 1
 i
 2022-07-10 15:00
-Mjällby
-Häcken
+Mjällby AIF
+BK Häcken
 1 - 2
 i
 2022-07-10 15:00
-Elfsborg
+IF Elfsborg
 AIK
 2 - 2
 i
 2022-07-10 17:45
 Kalmar FF
-Sirius
+IK Sirius FK
 1 - 1
 i
 2022-07-11 19:00
@@ -522,13 +522,13 @@ Sundsvall
 1 - 1
 i
 2022-07-11 19:00
-Hammarby
+Hammarby IF
 IFK Göteborg
 3 - 0
 i
 2022-07-11 19:00
 Helsingborg
-Djurgården
+Djurgårdens IF
 0 - 2
 i
 Omgång 14
@@ -538,7 +538,7 @@ Malmö FF
 0 - 2
 i
 2022-07-16 17:30
-Djurgården
+Djurgårdens IF
 IFK Värnamo
 5 - 0
 i
@@ -548,18 +548,18 @@ Kalmar FF
 1 - 0
 i
 2022-07-17 15:00
-Sirius
-Degerfors
+IK Sirius FK
+Degerfors IF
 2 - 0
 i
 2022-07-17 15:00
 IFK Göteborg
-Mjällby
+Mjällby AIF
 1 - 1
 i
 2022-07-17 15:00
-Hammarby
-Elfsborg
+Hammarby IF
+IF Elfsborg
 3 - 0
 i
 2022-07-18 19:00
@@ -569,18 +569,18 @@ Helsingborg
 i
 2022-07-18 19:00
 Sundsvall
-Häcken
+BK Häcken
 1 - 5
 i
 Omgång 15
 2022-07-23 15:00
 Malmö FF
-Sirius
+IK Sirius FK
 3 - 1
 i
 2022-07-23 17:30
-Mjällby
-Degerfors
+Mjällby AIF
+Degerfors IF
 2 - 1
 i
 2022-07-24 15:00
@@ -594,18 +594,18 @@ Sundsvall
 1 - 0
 i
 2022-07-24 17:30
-Häcken
-Djurgården
+BK Häcken
+Djurgårdens IF
 1 - 2
 i
 2022-07-24 17:30
 Kalmar FF
-Elfsborg
+IF Elfsborg
 1 - 0
 i
 2022-07-25 19:00
 Varbergs BoIS
-Hammarby
+Hammarby IF
 0 - 3
 i
 2022-07-25 19:00
@@ -615,7 +615,7 @@ IFK Göteborg
 i
 Omgång 16
 2022-05-05 19:00
-Djurgården
+Djurgårdens IF
 Helsingborg
 2 - 2
 i
@@ -625,7 +625,7 @@ Malmö FF
 2 - 0
 i
 2022-07-30 15:00
-Degerfors
+Degerfors IF
 Kalmar FF
 2 - 1
 i
@@ -635,17 +635,17 @@ Varbergs BoIS
 1 - 3
 i
 2022-07-31 15:00
-Sirius
-Mjällby
+IK Sirius FK
+Mjällby AIF
 0 - 1
 i
 2022-07-31 15:00
-Elfsborg
-Häcken
+IF Elfsborg
+BK Häcken
 4 - 4
 i
 2022-07-31 15:00
-Hammarby
+Hammarby IF
 IFK Värnamo
 1 - 2
 i
@@ -657,11 +657,11 @@ i
 Omgång 17
 2022-08-06 15:00
 IFK Norrköping
-Degerfors
+Degerfors IF
 2 - 0
 i
 2022-08-07 15:00
-Hammarby
+Hammarby IF
 Sundsvall
 3 - 0
 i
@@ -671,18 +671,18 @@ AIK
 1 - 0
 i
 2022-08-07 15:00
-Sirius
+IK Sirius FK
 Malmö FF
 2 - 1
 i
 2022-08-07 17:30
 IFK Värnamo
-Djurgården
+Djurgårdens IF
 0 - 0
 i
 2022-08-07 17:30
-Mjällby
-Elfsborg
+Mjällby AIF
+IF Elfsborg
 1 - 1
 i
 2022-08-08 19:00
@@ -691,18 +691,18 @@ IFK Göteborg
 0 - 4
 i
 2022-08-08 19:00
-Häcken
+BK Häcken
 Helsingborg
 5 - 0
 i
 Omgång 18
 2022-08-13 17:30
 Helsingborg
-Sirius
+IK Sirius FK
 0 - 0
 i
 2022-08-14 15:00
-Djurgården
+Djurgårdens IF
 Kalmar FF
 3 - 2
 i
@@ -717,39 +717,39 @@ IFK Värnamo
 2 - 2
 i
 2022-08-14 17:30
-Elfsborg
+IF Elfsborg
 IFK Norrköping
 1 - 1
 i
 2022-08-14 17:30
-Degerfors
+Degerfors IF
 Varbergs BoIS
 1 - 1
 i
 2022-08-15 19:00
-Häcken
-Mjällby
+BK Häcken
+Mjällby AIF
 1 - 0
 i
 2022-08-15 19:10
 IFK Göteborg
-Hammarby
+Hammarby IF
 0 - 1
 i
 Omgång 19
 2022-08-20 15:00
 Varbergs BoIS
-Djurgården
+Djurgårdens IF
 2 - 2
 i
 2022-08-21 15:00
-Mjällby
+Mjällby AIF
 Malmö FF
 1 - 1
 i
 2022-08-21 15:00
 IFK Värnamo
-Elfsborg
+IF Elfsborg
 1 - 1
 i
 2022-08-21 17:30
@@ -768,29 +768,29 @@ IFK Göteborg
 1 - 0
 i
 2022-08-22 19:00
-Sirius
-Häcken
+IK Sirius FK
+BK Häcken
 0 - 1
 i
 2022-08-22 19:10
-Hammarby
-Degerfors
+Hammarby IF
+Degerfors IF
 5 - 1
 i
 Omgång 20
 2022-08-27 15:00
-Häcken
+BK Häcken
 IFK Värnamo
 4 - 1
 i
 2022-08-27 17:30
-Degerfors
+Degerfors IF
 Sundsvall
 3 - 1
 i
 2022-08-28 15:00
 AIK
-Hammarby
+Hammarby IF
 2 - 2
 i
 2022-08-28 15:00
@@ -800,12 +800,12 @@ IFK Norrköping
 i
 2022-08-28 15:00
 IFK Göteborg
-Sirius
+IK Sirius FK
 2 - 0
 i
 2022-08-28 17:30
 Helsingborg
-Mjällby
+Mjällby AIF
 0 - 1
 i
 2022-08-28 17:30
@@ -814,19 +814,19 @@ Kalmar FF
 0 - 1
 i
 2022-08-29 19:10
-Djurgården
-Elfsborg
+Djurgårdens IF
+IF Elfsborg
 2 - 1
 i
 Omgång 21
 2022-09-04 15:00
-Sirius
-Djurgården
+IK Sirius FK
+Djurgårdens IF
 0 - 1
 i
 2022-09-04 15:00
-Häcken
-Degerfors
+BK Häcken
+Degerfors IF
 2 - 2
 i
 2022-09-04 17:30
@@ -835,7 +835,7 @@ Sundsvall
 4 - 0
 i
 2022-09-04 17:30
-Elfsborg
+IF Elfsborg
 Malmö FF
 3 - 2
 i
@@ -845,7 +845,7 @@ Helsingborg
 3 - 2
 i
 2022-09-05 19:00
-Mjällby
+Mjällby AIF
 IFK Göteborg
 1 - 4
 i
@@ -856,28 +856,28 @@ Varbergs BoIS
 i
 2022-09-05 19:10
 IFK Norrköping
-Hammarby
+Hammarby IF
 4 - 1
 i
 Omgång 22
 2022-09-10 15:00
-Sirius
+IK Sirius FK
 IFK Värnamo
 2 - 3
 i
 2022-09-10 17:30
-Degerfors
-Mjällby
+Degerfors IF
+Mjällby AIF
 0 - 0
 i
 2022-09-11 15:00
-Hammarby
-Djurgården
+Hammarby IF
+Djurgårdens IF
 0 - 0
 i
 2022-09-11 15:00
 Sundsvall
-Elfsborg
+IF Elfsborg
 0 - 2
 i
 2022-09-11 17:30
@@ -892,7 +892,7 @@ AIK
 i
 2022-09-12 19:00
 Kalmar FF
-Häcken
+BK Häcken
 1 - 1
 i
 2022-09-12 19:10
@@ -907,8 +907,8 @@ Kalmar FF
 2 - 2
 i
 2022-09-17 15:00
-Häcken
-Hammarby
+BK Häcken
+Hammarby IF
 1 - 1
 i
 2022-09-17 17:30
@@ -917,13 +917,13 @@ Varbergs BoIS
 1 - 0
 i
 2022-09-18 15:00
-Mjällby
+Mjällby AIF
 Sundsvall
 1 - 1
 i
 2022-09-18 15:00
-Elfsborg
-Sirius
+IF Elfsborg
+IK Sirius FK
 3 - 0
 i
 2022-09-18 15:00
@@ -932,29 +932,29 @@ Malmö FF
 1 - 2
 i
 2022-09-18 17:30
-Djurgården
+Djurgårdens IF
 IFK Göteborg
 3 - 0
 i
 2022-09-18 17:30
 AIK
-Degerfors
+Degerfors IF
 1 - 1
 i
 Omgång 24
 2022-10-01 15:00
 Malmö FF
-Hammarby
+Hammarby IF
 0 - 0
 i
 2022-10-01 17:30
-Degerfors
-Djurgården
+Degerfors IF
+Djurgårdens IF
 3 - 0
 i
 2022-10-02 15:00
 Varbergs BoIS
-Häcken
+BK Häcken
 1 - 1
 i
 2022-10-02 15:00
@@ -968,24 +968,24 @@ Helsingborg
 2 - 0
 i
 2022-10-02 17:30
-Sirius
+IK Sirius FK
 AIK
 1 - 1
 i
 2022-10-03 19:00
 IFK Värnamo
-Mjällby
+Mjällby AIF
 2 - 1
 i
 2022-10-03 19:10
 IFK Göteborg
-Elfsborg
+IF Elfsborg
 1 - 3
 i
 Omgång 25
 2022-10-08 15:00
-Degerfors
-Sirius
+Degerfors IF
+IK Sirius FK
 0 - 0
 i
 2022-10-09 15:00
@@ -999,7 +999,7 @@ IFK Värnamo
 0 - 0
 i
 2022-10-09 15:00
-Elfsborg
+IF Elfsborg
 Kalmar FF
 0 - 2
 i
@@ -1009,24 +1009,24 @@ Helsingborg
 2 - 0
 i
 2022-10-09 17:30
-Djurgården
-Häcken
+Djurgårdens IF
+BK Häcken
 0 - 1
 i
 2022-10-10 19:00
 IFK Norrköping
-Mjällby
+Mjällby AIF
 2 - 2
 i
 2022-10-10 19:10
-Hammarby
+Hammarby IF
 Varbergs BoIS
 5 - 1
 i
 Omgång 26
 2022-10-14 19:00
-Elfsborg
-Degerfors
+IF Elfsborg
+Degerfors IF
 1 - 1
 i
 2022-10-15 15:00
@@ -1035,12 +1035,12 @@ Varbergs BoIS
 1 - 3
 i
 2022-10-15 15:00
-Häcken
+BK Häcken
 Sundsvall
 4 - 1
 i
 2022-10-15 17:30
-Sirius
+IK Sirius FK
 IFK Norrköping
 2 - 0
 i
@@ -1050,13 +1050,13 @@ Kalmar FF
 1 - 3
 i
 2022-10-16 15:00
-Djurgården
+Djurgårdens IF
 AIK
 1 - 2
 i
 2022-10-16 17:30
-Mjällby
-Hammarby
+Mjällby AIF
+Hammarby IF
 0 - 3
 i
 2022-10-17 19:10
@@ -1067,7 +1067,7 @@ i
 Omgång 27
 2022-10-19 19:00
 Varbergs BoIS
-Elfsborg
+IF Elfsborg
 0 - 3
 i
 2022-10-19 19:00
@@ -1082,57 +1082,57 @@ Helsingborg
 i
 2022-10-19 19:00
 AIK
-Häcken
+BK Häcken
 1 - 2
 i
 2022-10-20 19:00
-Degerfors
+Degerfors IF
 IFK Göteborg
 3 - 1
 i
 2022-10-20 19:00
 Malmö FF
-Djurgården
+Djurgårdens IF
 2 - 3
 i
 2022-10-20 19:00
 Kalmar FF
-Mjällby
+Mjällby AIF
 1 - 2
 i
 2022-10-20 19:30
-Hammarby
-Sirius
+Hammarby IF
+IK Sirius FK
 1 - 1
 i
 Omgång 28
 2022-10-23 15:00
-Elfsborg
-Hammarby
+IF Elfsborg
+Hammarby IF
 2 - 1
 i
 2022-10-23 15:00
 Helsingborg
-Degerfors
+Degerfors IF
 1 - 2
 i
 2022-10-23 17:30
-Häcken
+BK Häcken
 Malmö FF
 2 - 1
 i
 2022-10-24 19:00
-Djurgården
+Djurgårdens IF
 Sundsvall
 4 - 0
 i
 2022-10-24 19:00
-Mjällby
+Mjällby AIF
 Varbergs BoIS
 4 - 1
 i
 2022-10-24 19:00
-Sirius
+IK Sirius FK
 Kalmar FF
 0 - 0
 i
@@ -1148,23 +1148,23 @@ AIK
 i
 Omgång 29
 2022-10-29 15:00
-Degerfors
+Degerfors IF
 IFK Värnamo
 0 - 0
 i
 2022-10-30 15:00
 Sundsvall
-Sirius
+IK Sirius FK
 2 - 3
 i
 2022-10-30 15:00
-Mjällby
+Mjällby AIF
 AIK
 1 - 2
 i
 2022-10-30 15:00
 IFK Göteborg
-Häcken
+BK Häcken
 0 - 4
 i
 2022-10-30 17:30
@@ -1173,24 +1173,24 @@ Malmö FF
 2 - 5
 i
 2022-10-30 17:30
-Hammarby
+Hammarby IF
 Kalmar FF
 4 - 2
 i
 2022-10-31 19:00
-Elfsborg
+IF Elfsborg
 Helsingborg
 3 - 0
 i
 2022-10-31 19:10
 IFK Norrköping
-Djurgården
+Djurgårdens IF
 0 - 1
 i
 Omgång 30
 2022-11-06 15:00
 Malmö FF
-Degerfors
+Degerfors IF
 2 - 2
 i
 2022-11-06 15:00
@@ -1199,7 +1199,7 @@ Sundsvall
 4 - 0
 i
 2022-11-06 15:00
-Sirius
+IK Sirius FK
 Varbergs BoIS
 2 - 3
 i
@@ -1210,21 +1210,21 @@ IFK Göteborg
 i
 2022-11-06 15:00
 Helsingborg
-Hammarby
+Hammarby IF
 0 - 2
 i
 2022-11-06 15:00
-Djurgården
-Mjällby
+Djurgårdens IF
+Mjällby AIF
 0 - 1
 i
 2022-11-06 15:00
-Häcken
+BK Häcken
 IFK Norrköping
 3 - 3
 i
 2022-11-06 15:00
 AIK
-Elfsborg
+IF Elfsborg
 0 - 1
 i

@@ -1,0 +1,1087 @@
+LIVESCORE
+TABELLER
+SPELSCHEMA
+BLI SKRIBENT
+FAIR PLAY QATAR
+CHAMPIONS LEAGUE
+FANTV
+GULDSKÖLDEN
+BETTING
+Fotboll
+Sverige
+England
+Italien
+Spanien
+Tyskland
+Europa
+Världen
+Ishockey
+Sverige
+NHL
+Övrigt
+Bandy
+US Sports
+Forum
+Allsvenskan
+AIK
+Brommapojkarna
+Degerfors
+Djurgården
+Elfsborg
+Halmstad
+Hammarby
+Häcken
+Göteborg
+Norrköping
+Värnamo
+Kalmar
+Malmö
+Mjällby
+Sirius
+Varberg
+Superettan
+Eskilstuna
+Gefle
+Helsingborg
+Jönköping
+Landskrona
+Skövde AIK
+Sundsvall
+Trelleborg
+Örebro
+Örgryte
+Öster
+Östersund
+Div 1 Södra
+Falkenberg
+Ljungskile
+Oddevold
+Åtvidaberg
+Div 1 Norra
+Dalkurd
+Sandviken
+Umeå
+Div 2
+Assyriska
+Huddinge
+Husqvarna
+Övrigt
+Damallsvenskan
+Division 1
+Landslaget – dam
+Svensk Fotboll
+SvenskaFans
+Landslaget – herr
+Landslaget – U21
+Taktikpodden
+Start
+Fotboll
+Allsvenskan
+Allsvenskan spelschema 2023
+Allsvenskan spelschema 2023
+Spelschema för ditt lag: 
+-- Välj lag --
+AIK
+Brommapojkarna
+Degerfors
+Djurgården
+Elfsborg
+Halmstads BK
+Hammarby
+Häcken
+IFK Göteborg
+IFK Norrköping
+IFK Värnamo
+Kalmar FF
+Malmö FF
+Mjällby
+Sirius
+Varbergs BoIS
+Allsvenskan
+Superettan
+Div 1 Södra
+Div 1 Norra
+Omgång 1
+2023-04-01 15:00
+Malmö FF
+Kalmar FF
+2023-04-01 17:30
+Djurgården
+Brommapojkarna
+2023-04-02 15:00
+IFK Norrköping
+Sirius
+2023-04-02 15:00
+Hammarby
+Degerfors
+2023-04-02 17:30
+Halmstads BK
+AIK
+2023-04-02 17:30
+IFK Göteborg
+IFK Värnamo
+2023-04-03 19:00
+Mjällby
+Varbergs BoIS
+2023-04-03 19:10
+Elfsborg
+Häcken
+Omgång 2
+2023-04-08 15:00
+Degerfors
+Halmstads BK
+2023-04-08 15:00
+Brommapojkarna
+Malmö FF
+2023-04-09 15:00
+Häcken
+Hammarby
+2023-04-09 17:30
+Kalmar FF
+IFK Göteborg
+2023-04-09 17:30
+Sirius
+Djurgården
+2023-04-10 15:00
+Varbergs BoIS
+Elfsborg
+2023-04-10 15:00
+IFK Värnamo
+Mjällby
+2023-04-10 15:00
+AIK
+IFK Norrköping
+Omgång 3
+2023-04-15 15:00
+Elfsborg
+Brommapojkarna
+2023-04-15 17:30
+Häcken
+Kalmar FF
+2023-04-16 15:00
+IFK Norrköping
+IFK Värnamo
+2023-04-16 15:00
+AIK
+Hammarby
+2023-04-16 17:30
+Mjällby
+Degerfors
+2023-04-16 17:30
+Halmstads BK
+Djurgården
+2023-04-17 19:00
+Varbergs BoIS
+Sirius
+2023-04-17 19:10
+IFK Göteborg
+Malmö FF
+Omgång 4
+2023-04-22 15:00
+Hammarby
+Varbergs BoIS
+2023-04-22 17:30
+Degerfors
+Elfsborg
+2023-04-23 15:00
+Kalmar FF
+Halmstads BK
+2023-04-23 15:00
+Djurgården
+IFK Göteborg
+2023-04-23 17:30
+IFK Värnamo
+AIK
+2023-04-23 17:30
+Sirius
+Häcken
+2023-04-24 19:00
+Brommapojkarna
+Mjällby
+2023-04-24 19:10
+Malmö FF
+IFK Norrköping
+Omgång 5
+2023-04-29 15:00
+Mjällby
+Elfsborg
+2023-04-29 15:00
+AIK
+Sirius
+2023-04-29 17:30
+Halmstads BK
+Brommapojkarna
+2023-04-29 17:30
+Häcken
+IFK Värnamo
+2023-04-30 15:00
+Varbergs BoIS
+Kalmar FF
+2023-04-30 15:00
+Malmö FF
+Hammarby
+2023-04-30 17:30
+Degerfors
+Djurgården
+2023-05-01 15:00
+IFK Göteborg
+IFK Norrköping
+Omgång 6
+2023-05-03 19:00
+Mjällby
+AIK
+2023-05-03 19:00
+Kalmar FF
+Sirius
+2023-05-03 19:00
+Häcken
+Djurgården
+2023-05-03 19:00
+Elfsborg
+Halmstads BK
+2023-05-04 19:00
+Varbergs BoIS
+Malmö FF
+2023-05-04 19:00
+IFK Värnamo
+Brommapojkarna
+2023-05-04 19:00
+IFK Norrköping
+Hammarby
+2023-05-04 19:00
+IFK Göteborg
+Degerfors
+Omgång 7
+2023-05-07 15:00
+Malmö FF
+AIK
+2023-05-07 17:30
+Halmstads BK
+Häcken
+2023-05-08 19:00
+Degerfors
+IFK Norrköping
+2023-05-08 19:00
+Brommapojkarna
+IFK Göteborg
+2023-05-08 19:00
+Sirius
+Elfsborg
+2023-05-08 19:10
+Djurgården
+Kalmar FF
+2023-05-09 19:00
+IFK Värnamo
+Varbergs BoIS
+2023-05-09 19:00
+Hammarby
+Mjällby
+Omgång 8
+2023-05-13 15:00
+Mjällby
+Sirius
+2023-05-13 15:00
+Häcken
+Degerfors
+2023-05-13 17:30
+Varbergs BoIS
+IFK Norrköping
+2023-05-14 15:00
+Elfsborg
+IFK Värnamo
+2023-05-14 15:00
+Hammarby
+Djurgården
+2023-05-14 17:30
+Kalmar FF
+Brommapojkarna
+2023-05-14 17:30
+Halmstads BK
+Malmö FF
+2023-05-15 19:10
+AIK
+IFK Göteborg
+Omgång 9
+2023-05-20 15:00
+Degerfors
+AIK
+2023-05-20 17:30
+Djurgården
+Mjällby
+2023-05-21 15:00
+Brommapojkarna
+Varbergs BoIS
+2023-05-21 15:00
+Malmö FF
+Häcken
+2023-05-21 17:30
+Sirius
+Halmstads BK
+2023-05-21 17:30
+IFK Göteborg
+Hammarby
+2023-05-22 19:00
+IFK Värnamo
+Kalmar FF
+2023-05-22 19:10
+IFK Norrköping
+Elfsborg
+Omgång 10
+2023-05-27 15:00
+Mjällby
+Halmstads BK
+2023-05-27 17:30
+Brommapojkarna
+Sirius
+2023-05-28 15:00
+Kalmar FF
+IFK Norrköping
+2023-05-28 15:00
+Djurgården
+AIK
+2023-05-28 17:30
+Elfsborg
+Malmö FF
+2023-05-29 19:00
+Degerfors
+Varbergs BoIS
+2023-05-29 19:00
+Hammarby
+IFK Värnamo
+2023-05-29 19:10
+Häcken
+IFK Göteborg
+Omgång 11
+2023-06-03 15:00
+IFK Göteborg
+Mjällby
+2023-06-03 17:30
+IFK Norrköping
+Brommapojkarna
+2023-06-04 15:00
+Halmstads BK
+Hammarby
+2023-06-04 15:00
+AIK
+Kalmar FF
+2023-06-04 17:30
+Sirius
+IFK Värnamo
+2023-06-04 17:30
+Elfsborg
+Djurgården
+2023-06-05 19:00
+Varbergs BoIS
+Häcken
+2023-06-05 19:10
+Malmö FF
+Degerfors
+Omgång 12
+2023-06-09 19:00
+Hammarby
+Brommapojkarna
+2023-06-10 15:00
+IFK Värnamo
+Malmö FF
+2023-06-10 15:00
+Kalmar FF
+Degerfors
+2023-06-10 17:30
+Varbergs BoIS
+Halmstads BK
+2023-06-11 15:00
+Sirius
+IFK Göteborg
+2023-06-11 15:00
+AIK
+Elfsborg
+2023-06-11 17:30
+Häcken
+Mjällby
+2023-06-11 17:30
+Djurgården
+IFK Norrköping
+Omgång 13
+2023-07-01 15:00
+Degerfors
+IFK Värnamo
+2023-07-01 15:00
+Brommapojkarna
+AIK
+2023-07-01 17:30
+Malmö FF
+Sirius
+2023-07-02 15:00
+Halmstads BK
+IFK Göteborg
+2023-07-02 15:00
+IFK Norrköping
+Häcken
+2023-07-02 17:30
+Djurgården
+Varbergs BoIS
+2023-07-03 19:00
+Mjällby
+Kalmar FF
+2023-07-03 19:00
+Elfsborg
+Hammarby
+Omgång 14
+2023-07-08 15:00
+IFK Värnamo
+Djurgården
+2023-07-08 15:00
+AIK
+Häcken
+2023-07-08 17:30
+Brommapojkarna
+Degerfors
+2023-07-09 15:00
+Sirius
+Hammarby
+2023-07-09 15:00
+Malmö FF
+Mjällby
+2023-07-09 17:30
+Kalmar FF
+Elfsborg
+2023-07-10 19:00
+IFK Norrköping
+Halmstads BK
+2023-07-10 19:00
+IFK Göteborg
+Varbergs BoIS
+Omgång 15
+2023-07-15 15:00
+Halmstads BK
+IFK Värnamo
+2023-07-15 17:30
+Degerfors
+Sirius
+2023-07-15 17:30
+Häcken
+Brommapojkarna
+2023-07-16 15:00
+Elfsborg
+IFK Göteborg
+2023-07-16 15:00
+Hammarby
+Kalmar FF
+2023-07-16 17:30
+Mjällby
+IFK Norrköping
+2023-07-17 19:00
+Varbergs BoIS
+AIK
+2023-07-17 19:00
+Djurgården
+Malmö FF
+Omgång 16
+2023-07-23 00:00
+Brommapojkarna
+Hammarby
+2023-07-23 00:00
+IFK Värnamo
+Häcken
+2023-07-23 00:00
+Kalmar FF
+Varbergs BoIS
+2023-07-23 00:00
+Sirius
+Mjällby
+2023-07-23 00:00
+IFK Norrköping
+Degerfors
+2023-07-23 00:00
+IFK Göteborg
+Halmstads BK
+2023-07-23 00:00
+Djurgården
+Elfsborg
+2023-07-23 00:00
+AIK
+Malmö FF
+Omgång 17
+2023-07-30 00:00
+Degerfors
+Brommapojkarna
+2023-07-30 00:00
+Mjällby
+Djurgården
+2023-07-30 00:00
+Sirius
+AIK
+2023-07-30 00:00
+Halmstads BK
+Varbergs BoIS
+2023-07-30 00:00
+Häcken
+Elfsborg
+2023-07-30 00:00
+Malmö FF
+IFK Värnamo
+2023-07-30 00:00
+IFK Göteborg
+Kalmar FF
+2023-07-30 00:00
+Hammarby
+IFK Norrköping
+Omgång 18
+2023-05-24 19:00
+Djurgården
+Häcken
+2023-05-25 19:00
+Degerfors
+Hammarby
+2023-08-06 00:00
+Varbergs BoIS
+Mjällby
+2023-08-06 00:00
+Brommapojkarna
+IFK Värnamo
+2023-08-06 00:00
+Kalmar FF
+AIK
+2023-08-06 00:00
+Elfsborg
+Sirius
+2023-08-06 00:00
+IFK Norrköping
+IFK Göteborg
+2023-08-06 00:00
+Malmö FF
+Halmstads BK
+Omgång 19
+2023-08-13 00:00
+IFK Värnamo
+Degerfors
+2023-08-13 00:00
+Mjällby
+Malmö FF
+2023-08-13 00:00
+Sirius
+Kalmar FF
+2023-08-13 00:00
+Halmstads BK
+IFK Norrköping
+2023-08-13 00:00
+Häcken
+Varbergs BoIS
+2023-08-13 00:00
+IFK Göteborg
+Djurgården
+2023-08-13 00:00
+Hammarby
+Elfsborg
+2023-08-13 00:00
+AIK
+Brommapojkarna
+Omgång 20
+2023-08-20 00:00
+Varbergs BoIS
+IFK Värnamo
+2023-08-20 00:00
+Degerfors
+IFK Göteborg
+2023-08-20 00:00
+Brommapojkarna
+Halmstads BK
+2023-08-20 00:00
+Kalmar FF
+Hammarby
+2023-08-20 00:00
+Häcken
+Sirius
+2023-08-20 00:00
+Elfsborg
+Mjällby
+2023-08-20 00:00
+IFK Norrköping
+AIK
+2023-08-20 00:00
+Malmö FF
+Djurgården
+Omgång 21
+2023-08-27 00:00
+Brommapojkarna
+Kalmar FF
+2023-08-27 00:00
+IFK Värnamo
+Halmstads BK
+2023-08-27 00:00
+Mjällby
+Hammarby
+2023-08-27 00:00
+Sirius
+Malmö FF
+2023-08-27 00:00
+Elfsborg
+IFK Norrköping
+2023-08-27 00:00
+IFK Göteborg
+Häcken
+2023-08-27 00:00
+Djurgården
+Degerfors
+2023-08-27 00:00
+AIK
+Varbergs BoIS
+Omgång 22
+2023-09-03 00:00
+Varbergs BoIS
+Brommapojkarna
+2023-09-03 00:00
+Degerfors
+Häcken
+2023-09-03 00:00
+IFK Värnamo
+Elfsborg
+2023-09-03 00:00
+Kalmar FF
+Mjällby
+2023-09-03 00:00
+Halmstads BK
+Sirius
+2023-09-03 00:00
+IFK Norrköping
+Djurgården
+2023-09-03 00:00
+Malmö FF
+IFK Göteborg
+2023-09-03 00:00
+Hammarby
+AIK
+Omgång 23
+2023-09-17 00:00
+Sirius
+Varbergs BoIS
+2023-09-17 00:00
+Häcken
+Halmstads BK
+2023-09-17 00:00
+Elfsborg
+Kalmar FF
+2023-09-17 00:00
+IFK Norrköping
+Mjällby
+2023-09-17 00:00
+IFK Göteborg
+Brommapojkarna
+2023-09-17 00:00
+Hammarby
+Malmö FF
+2023-09-17 00:00
+Djurgården
+IFK Värnamo
+2023-09-17 00:00
+AIK
+Degerfors
+Omgång 24
+2023-09-24 00:00
+Varbergs BoIS
+Hammarby
+2023-09-24 00:00
+Degerfors
+Malmö FF
+2023-09-24 00:00
+Brommapojkarna
+IFK Norrköping
+2023-09-24 00:00
+IFK Värnamo
+Sirius
+2023-09-24 00:00
+Mjällby
+IFK Göteborg
+2023-09-24 00:00
+Kalmar FF
+Häcken
+2023-09-24 00:00
+Halmstads BK
+Elfsborg
+2023-09-24 00:00
+AIK
+Djurgården
+Omgång 25
+2023-10-01 00:00
+Mjällby
+IFK Värnamo
+2023-10-01 00:00
+Sirius
+Degerfors
+2023-10-01 00:00
+Häcken
+AIK
+2023-10-01 00:00
+Elfsborg
+Varbergs BoIS
+2023-10-01 00:00
+IFK Norrköping
+Kalmar FF
+2023-10-01 00:00
+Malmö FF
+Brommapojkarna
+2023-10-01 00:00
+Hammarby
+IFK Göteborg
+2023-10-01 00:00
+Djurgården
+Halmstads BK
+Omgång 26
+2023-10-08 00:00
+Halmstads BK
+Degerfors
+2023-10-08 00:00
+Varbergs BoIS
+Djurgården
+2023-10-08 00:00
+Brommapojkarna
+Elfsborg
+2023-10-08 00:00
+IFK Värnamo
+IFK Norrköping
+2023-10-08 00:00
+Kalmar FF
+Malmö FF
+2023-10-08 00:00
+IFK Göteborg
+Sirius
+2023-10-08 00:00
+Hammarby
+Häcken
+2023-10-08 00:00
+AIK
+Mjällby
+Omgång 27
+2023-10-22 00:00
+Degerfors
+Kalmar FF
+2023-10-22 00:00
+IFK Värnamo
+IFK Göteborg
+2023-10-22 00:00
+Sirius
+Brommapojkarna
+2023-10-22 00:00
+Halmstads BK
+Mjällby
+2023-10-22 00:00
+Häcken
+IFK Norrköping
+2023-10-22 00:00
+Elfsborg
+AIK
+2023-10-22 00:00
+Malmö FF
+Varbergs BoIS
+2023-10-22 00:00
+Djurgården
+Hammarby
+Omgång 28
+2023-10-29 00:00
+Varbergs BoIS
+Degerfors
+2023-10-29 00:00
+Brommapojkarna
+Djurgården
+2023-10-29 00:00
+Mjällby
+Häcken
+2023-10-29 00:00
+Kalmar FF
+IFK Värnamo
+2023-10-29 00:00
+IFK Norrköping
+Malmö FF
+2023-10-29 00:00
+IFK Göteborg
+Elfsborg
+2023-10-29 00:00
+Hammarby
+Sirius
+2023-10-29 00:00
+AIK
+Halmstads BK
+Omgång 29
+2023-11-05 00:00
+IFK Värnamo
+Hammarby
+2023-11-05 00:00
+Mjällby
+Brommapojkarna
+2023-11-05 00:00
+Halmstads BK
+Kalmar FF
+2023-11-05 00:00
+Häcken
+Malmö FF
+2023-11-05 00:00
+Elfsborg
+Degerfors
+2023-11-05 00:00
+IFK Norrköping
+Varbergs BoIS
+2023-11-05 00:00
+IFK Göteborg
+AIK
+2023-11-05 00:00
+Djurgården
+Sirius
+Omgång 30
+2023-11-12 00:00
+Varbergs BoIS
+IFK Göteborg
+2023-11-12 00:00
+Degerfors
+Mjällby
+2023-11-12 00:00
+Brommapojkarna
+Häcken
+2023-11-12 00:00
+Kalmar FF
+Djurgården
+2023-11-12 00:00
+Sirius
+IFK Norrköping
+2023-11-12 00:00
+Malmö FF
+Elfsborg
+2023-11-12 00:00
+Hammarby
+Halmstads BK
+2023-11-12 00:00
+AIK
+IFK Värnamo
+MEST LÄSTA
+HETASTE FORUM
+MEST KOMMENTARER
+Blåvitt spelar 1-1 mot Halmstad i årets andra träningsmatch. 
+IFK Göteborg • idag 14:04
+2528
+Victor Edvardsen i form – Djurgården krossade AFC
+Djurgården • idag 16:14
+1707
+SILLYKOLLEN: AIK
+SvenskaFans • idag 08:00
+920
+Förlust i säsongspremiären trots stark insats av Elfsborg
+Elfsborg • idag 00:00
+461
+”Låg bakom mycket av anfallsspelet”
+TRÄNINGSMATCHNyförvärvet Vinicius Nogueira briljerade när Varberg kryssade mot Falkenberg.
+Senaste nytt – Svensk fotboll
+1-1 mot Varbergs Bois efter kvittering av Sewen Emilov
+Falkenberg • idag 17:31
+121
+Vinícius Júnior briljerade i Varberg
+Varbergs BoIS • idag 16:57
+315
+Victor Edvardsen i form – Djurgården krossade AFC
+Djurgården • idag 16:14
+1724
+Blåvitt spelar 1-1 mot Halmstad i årets andra träningsmatch. 
+IFK Göteborg • idag 14:04
+2536
+Bilder från Nordsjällandmatchen
+Malmö FF • idag 12:06
+454
+SILLYKOLLEN: Kalmar FF
+SvenskaFans • idag 12:00
+310
+Taktikpodden #115: ”Så gjorde vi för att bli accepterade i Florida”
+Taktikpodden • idag 08:33
+103
+SILLYKOLLEN: AIK
+SvenskaFans • idag 08:00
+920
+Förlust i säsongspremiären trots stark insats av Elfsborg
+Elfsborg • idag 00:00
+461
+Förlust för Sirius i den första träningsmatchen
+Sirius • igår 22:05
+440
+Bois väntar i årets första match: ”Vi absolut kunna stå upp bra"
+Falkenberg • igår 18:57
+256
+Fem Snabba efter Malmö FF - FC Nordsjälland
+Malmö FF • igår 16:55
+3482
+1
+BoIS Silly 2023 - Widell kritar på för 4 år! Heier till Allsvenskan?
+Landskrona • igår 15:36
+17842
+Två nya träningsmatcher inplanerade
+Elfsborg • igår 14:59
+490
+Talang avslutar sin karriär
+Elfsborg • igår 14:57
+774
+» Visa fler nyheter
+”Såg bättre ut centralt”
+TRÄNINGSMATCHBilder från matchen mellan Malmö FF och Nordsjälland under gårdagen.
+Ta din plats på SF-läktaren – för att följa ditt favoritlag
+INFORMATION11 000 har laddat ner SF-appen.
+”Vi hoppas kunna stå upp bra"
+TRÄNINGSMATCHVarbergs BoIS väntar på bortaplan i årets första match för Falkenberg.
+DEL 4: Bli accepterade
+PODCASTTaktikpodden med avsnitt 115 – fotbollstränaren Marcus Walfridson.
+Förlust i säsongspremiären
+FÖRSÄSONGIF Elfsborg åkte på förlust i premiären nere i Köpenhamn – trots fin insats.
+Förlust för Sirius i första träningsmatchen
+TRÄNINGSMATCHBP segrade med 2-1.
+Widell kritar på för fyra år
+SUPERETTANFölj det senaste kring Landskrona.
+Chalus till Groningen
+SILLY SEASONSenaste nytt kring Malmö FF.
+Talang avslutar sin karriär
+ALLSVENSKANElin Dahl slutar spela fotboll.
+» Två nya träningsmatcher inplanerade
+”Dags att stoppa undan hagelbrakaren, Joakim”
+ALLSVENSKANNu måste något säkrare kort in? 
+Assyriska i med- och motgång
+DIVISION 2Assyriska tillbaka på SvenskaFans.
+The show must go on
+ALLSVENSKANDet är i varje fall aldrig tråkigt att följa Varbergs BoIS, skriver Håkan Ericsson.
+Joe Gyaus till Cypern?
+SILLY SEASONFölj det senaste kring Degerfors.
+Bajen budar på Saeter?
+SILLY SEASONFölj det senaste kring Hammarby.
+Viktor Agardius stannar?
+SILLY SEASONFölj det senaste kring Norrköping.
+Pektas klar för Varberg
+SILLY SEASONFölj det senaste kring Varberg.
+Dominerade och vann
+ALLSVENSKANElfsborgs P17 lag vann medan P19 förlorade i första träningsmatchen 2023.
+» Officiellt: Hanna Jiozon klar för Elfsborg
+Rossback till Degerfors?
+SILLY SEASONFölj det senaste kring Degerfors.
+Hur mår Halmstads BK?
+KRÖNIKAEn träningsmatch är en träningsmatch – men en oroande HBK-trend kan skönjas.
+Bilder från Randersmatchen
+BILDERMFF träningsspelade under lördagen.
+Ekdal presenterad av Burnley
+SILLY SEASONDjurgården och Burnley är nu överens om en flytt för Hjalmar Ekdal.
+Himlen är blå är tillbaka
+ALLSVENSKANFredrik Johansson startar upp Halmstads BK-redaktionen på nytt.
+Blåvitt övertygar
+FÖRSÄSONGIFK Göteborg vann komfortabelt i årets första match – talangen tvåmålsskytt.
+Rose har erbjudits till Peking
+SILLY SEASONIFK Norrköping-redaktionen om klubbens senaste silly-nyheter. 
+» Silly Season Norrköping
+IK Sirius dam tillbaka
+DAMFOTBOLLSirius har återigen ett a-lag inom damfotboll som kommer att spela i division 5.
+Flera nyförvärv till Örebro
+SILLY SEASONÖSK:s transferfönster 2023.
+Irandust på väg tillbaka?
+SILLY SEASONFölj det senaste kring BK Häcken.
+Stortalang aktuell för Bajen?
+SILLY SEASONFölj det senaste kring Hammarby.
+Duo lämnar klubben
+SILLY SEASONFölj det senaste kring Dalkurd.
+Ny anfallare på provspel
+SILLY SEASONFölj det senaste kring BoIS. 
+Friberg lämnar Skövde för Halmstad
+SILLY SEASONDet blir Allsvenskan nästa säsong för den lovande ytterbacken Gustav Friberg.
+”Vilmer Rönnberg såg intressant ut”
+ALLSVENSKANMicke Tingblad kollade in Varbergs träning. Toppluvor i spel på liten yta.
+Varberg bygger ”laget kring laget”
+ALLSVENSKANEn i grunden klok strategi.
+Serie A-intresse för Jebara
+SILLY SEASONLandskrona BoIS silly 2023.
+
+Landslagskollen
+
+Ondrejka avgjorde i landslagsdebuten
+ALLSVENSKANMittfältaren hoppade in när Sverige besegrade Island i januariturnén. 
+» Målvakten flyttar från Elfsborg
+» Försäsongen är igång
+» Akademicertifieringen ute
+» Jiozon tränar med Elfsborg
+”Stabil vattenbärare”
+KRÖNIKAHåkan Ericsson om Anton Liljenbäck som förlänger kontraktet inför nästa säsong.
+» Silly Varberg: Liljenbäck förlänger
+Ingen Ekdal till Burnley?
+SILLY SEASONFölj det senaste kring DIF.
+Följ Skövde AIK live
+INFORMATIONSkövde har idag presenterat en nyhet om en app där du kan bevaka laget - live.
+Vad händer hos Dalkurd?
+SILLY SEASONSammanfattning av vintern.
+Brett supporterskap till ettanlag
+FANRADIOSandvikens IF gästas av före detta Division 1 kommentatorn Christoffer Ekmark.
+Återförenas bröderna Rafael?
+ALLSVENSKANGeflepodden #328
+Försvararna lämnar
+SILLY SEASONAllt om GIF Sundsvalls övergångsfönster under vintern 2023.
+Farah Shahin klar för Falkenberg
+DIVISION 1Den 28-årige anfallaren från BK Häcken är klar för klubben inför nästa säsong.
+Lagerbielke kallas in till Algarve
+ALLSVENSKANEfter skador på Ekdal och Bångsbo kallar Janne Andersson in försvararen.
+”I lobbyn mellan två säsonger”
+FANRADIOEtt nytt avsnitt av Alltid Rött Alltid Rätt med Anders Sjöberg och Mathias Åberg.
+Stjärnan lämnar Elfsborg
+ALLSVENSKANElfsborgs mittback Leo Väisänen flyttar till USA för att representera Austin FC.
+MFF ändrar sportsliga ledningen
+ALLSVENSKANAndreas Georgson och Daniel Andersson får nya roller inför nästa säsong.
+Ny samarbetsklubb till SAIK XTRA
+SUPERETTANStentorps IF ansluter härnäst.  
+Banda lämnar Djurgården
+ALLSVENSKANFölj det senaste kring DIF. 
+Är Bustos klar för Värnamo?
+ALLSVENSKANNotiser från IFK:s december.
+”Ena benet i Superettan”
+DIV 1 NORRASandvikens IF med årssummering.
+Saku Ylätupas fullträffar 2022
+ALLSVENSKANEn återblick på mittfältarens mål från 2022.
+Jens Karlsson – ny assisterande tränare
+SILLY SEASONKalmar FF har gjort klart med Bodö Glimts U19-tränare.
+Väisänen nära flytt till USA?
+SILLY SEASONSenaste nytt kring Elfsborgs transferfönster.
+» Anfallaren lämnar för Åtvidaberg
+Duo lämnar GIF Sundsvall
+SILLY SEASONClarhaut och Steel får lämna.
+» Välkommen Douglas Jakobsen
+» Silly Season GIF Sundsvall
+» De har utgående kontrakt
+Levi på väg till Ungern?
+SILLY SEASONIFK Norrköping-redaktionen summerar det senaste som rör transferfönstret.
+Skyttekungen lämnar
+SILLY SEASONTyvärr blir det bara en säsong i Falkenberg för anfallaren Robin Hofsö.
+Henrysson återvänder
+SILLY SEASONFölj det senaste kring Umeå.
+Skövde AIK på SvenskaFans
+INFORMATIONFramöver kommer ni kunna ta del av material från Superettan-klubben på sajten.
+Hetaste forum
+Arsenal
+Hammarby
+Helsingborg
+Djurgården
+Göteborg
+Alla forum
+Länkar
+Om SvenskaFans
+RSS-feed
+I mobilen
+Kontakta oss
+Annonsera
+Cookies
+Ladda hem vår app
+Sponsor
+En del av
+Blåvitt spelar 1-1 mot Halmstad i årets andra träningsmatch. 
+Victor Edvardsen i form – Djurgården krossade AFC
+SILLYKOLLEN: AIK
+Förlust i säsongspremiären trots stark insats av Elfsborg
+1-1 mot Varbergs Bois efter kvittering av Sewen Emilov
+Vinícius Júnior briljerade i Varberg
+Victor Edvardsen i form – Djurgården krossade AFC
+Blåvitt spelar 1-1 mot Halmstad i årets andra träningsmatch. 
+Bilder från Nordsjällandmatchen
+SILLYKOLLEN: Kalmar FF
+Taktikpodden #115: ”Så gjorde vi för att bli accepterade i Florida”
+SILLYKOLLEN: AIK
+Förlust i säsongspremiären trots stark insats av Elfsborg
+Förlust för Sirius i den första träningsmatchen
+Bois väntar i årets första match: ”Vi absolut kunna stå upp bra"
+Fem Snabba efter Malmö FF - FC Nordsjälland
+BoIS Silly 2023 - Widell kritar på för 4 år! Heier till Allsvenskan?
+Två nya träningsmatcher inplanerade
+Talang avslutar sin karriär

@@ -31,10 +31,11 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Label Content="SerieGuesser"
+        <Label Content="Tables And Values"
                Grid.Column="1"
                Grid.Row="0"
                HorizontalAlignment="Center"
@@ -43,9 +44,12 @@
         <StackPanel
             Grid.Column="1"
             Grid.Row="1"
+            Grid.ColumnSpan="2"
             Orientation="Horizontal"
             VerticalAlignment="Top"
             HorizontalAlignment="Center">
+            <Button x:Name="btDownload" Content="Download info" Click="btDownload_ClickAsync"  Width="100" Height="30" Margin="5"/>
+            <Button x:Name="btReloadCombobox" Content="Reload" Click="Reload_Click" Width="100" Height="30" Margin="5"/>
             <Label
                 Content="League: "/>
             <ComboBox 
@@ -53,13 +57,23 @@
                 Width="150"
                 Height="30"
                 SelectionChanged="ComboBoxLeagues_SelectionChanged"/>
+            <Label Content="Season: "/>
+            <ComboBox 
+                    Name="ComboBoxSeasons"
+                Width="70"
+                Height="30"
+                SelectionChanged="ComboBoxSeasons_SelectionChanged"/>
             <Button
                 Name="ButtonGo"
                 Content="Go>>"
                 Height="30"
+                Margin="10"
                 Click="ButtonGo_Click"
                 />
         </StackPanel>
-
+        <StackPanel Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Label Content="Games with extra value:" />
+            <ListView Name="lvGamesWithValue" Width="400" Height="200" VerticalAlignment="Top"/>
+        </StackPanel>
     </Grid>
 </Window>

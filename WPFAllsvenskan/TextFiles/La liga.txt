@@ -1,0 +1,1754 @@
+LIVESCORE
+TABELLER
+SPELSCHEMA
+BLI SKRIBENT
+FAIR PLAY QATAR
+CHAMPIONS LEAGUE
+FANTV
+GULDSKÖLDEN
+BETTING
+Fotboll
+Sverige
+England
+Italien
+Spanien
+Tyskland
+Europa
+Världen
+Ishockey
+Sverige
+NHL
+Övrigt
+Bandy
+US Sports
+Forum
+La Liga
+Almeria
+Athletic
+Atlético
+Barcelona
+Espanyol
+Mallorca
+Osasuna
+Real Betis
+Real Madrid
+Real Sociedad
+Sevilla
+Valencia
+Villarreal
+La Liga 2
+Zaragoza
+Övrigt
+Deportivo
+Spanien
+Start
+Spanien
+La Liga
+La Liga spelschema 2022/2023
+La Liga spelschema 2022/2023
+Spelschema för ditt lag: 
+-- Välj lag --
+Almeria
+Athletic
+Atlético
+Barcelona
+Celta Vigo
+Espanyol
+Getafe
+Mallorca
+Osasuna
+Rayo Vallecano
+Real Betis
+Real Madrid
+Real Sociedad
+Sevilla
+Valencia
+Villarreal
+La Liga
+La Liga 2
+Omgång 1
+2022-08-12 21:00
+Osasuna
+Sevilla
+2 - 1
+i
+2022-08-13 17:00
+Celta Vigo
+Espanyol
+2 - 2
+i
+2022-08-13 19:00
+Valladolid
+Villarreal
+0 - 3
+i
+2022-08-13 21:00
+Barcelona
+Rayo Vallecano
+0 - 0
+i
+2022-08-14 17:30
+Cádiz
+Sociedad
+0 - 1
+i
+2022-08-14 19:30
+Valencia
+Girona
+1 - 0
+i
+2022-08-14 22:00
+Almeria
+Real Madrid
+1 - 2
+i
+2022-08-15 17:30
+Athletic
+Mallorca
+0 - 0
+i
+2022-08-15 19:30
+Getafe
+Atlético
+0 - 3
+i
+2022-08-15 21:30
+Real Betis
+Elche
+3 - 0
+i
+Omgång 2
+2022-08-19 20:00
+Espanyol
+Rayo Vallecano
+0 - 2
+i
+2022-08-19 22:00
+Sevilla
+Valladolid
+1 - 1
+i
+2022-08-20 17:30
+Osasuna
+Cádiz
+2 - 0
+i
+2022-08-20 19:30
+Mallorca
+Real Betis
+1 - 2
+i
+2022-08-20 22:00
+Celta Vigo
+Real Madrid
+1 - 4
+i
+2022-08-21 17:30
+Athletic
+Valencia
+1 - 0
+i
+2022-08-21 19:30
+Atlético
+Villarreal
+0 - 2
+i
+2022-08-21 22:00
+Sociedad
+Barcelona
+1 - 4
+i
+2022-08-22 20:00
+Elche
+Almeria
+1 - 1
+i
+2022-08-22 22:00
+Girona
+Getafe
+3 - 1
+i
+Omgång 3
+2022-08-26 20:00
+Girona
+Celta Vigo
+0 - 1
+i
+2022-08-26 22:00
+Real Betis
+Osasuna
+1 - 0
+i
+2022-08-27 17:30
+Elche
+Sociedad
+0 - 1
+i
+2022-08-27 19:30
+Rayo Vallecano
+Mallorca
+0 - 2
+i
+2022-08-27 22:00
+Almeria
+Sevilla
+2 - 1
+i
+2022-08-28 17:30
+Getafe
+Villarreal
+0 - 0
+i
+2022-08-28 19:30
+Barcelona
+Valladolid
+4 - 0
+i
+2022-08-28 22:00
+Espanyol
+Real Madrid
+1 - 3
+i
+2022-08-29 20:00
+Cádiz
+Athletic
+0 - 4
+i
+2022-08-29 22:00
+Valencia
+Atlético
+0 - 1
+i
+Omgång 4
+2022-09-02 21:00
+Celta Vigo
+Cádiz
+3 - 0
+i
+2022-09-03 14:00
+Mallorca
+Girona
+1 - 1
+i
+2022-09-03 16:15
+Real Madrid
+Real Betis
+2 - 1
+i
+2022-09-03 18:30
+Sociedad
+Atlético
+1 - 1
+i
+2022-09-03 21:00
+Sevilla
+Barcelona
+0 - 3
+i
+2022-09-04 14:00
+Osasuna
+Rayo Vallecano
+2 - 1
+i
+2022-09-04 16:15
+Athletic
+Espanyol
+0 - 1
+i
+2022-09-04 18:30
+Villarreal
+Elche
+4 - 0
+i
+2022-09-04 21:00
+Valencia
+Getafe
+5 - 1
+i
+2022-09-05 21:00
+Valladolid
+Almeria
+1 - 0
+i
+Omgång 5
+2022-09-09 21:00
+Girona
+Valladolid
+2 - 1
+i
+2022-09-10 14:00
+Rayo Vallecano
+Valencia
+2 - 1
+i
+2022-09-10 16:15
+Espanyol
+Sevilla
+2 - 3
+i
+2022-09-10 18:30
+Cádiz
+Barcelona
+0 - 4
+i
+2022-09-10 21:00
+Atlético
+Celta Vigo
+4 - 1
+i
+2022-09-11 14:00
+Real Madrid
+Mallorca
+4 - 1
+i
+2022-09-11 16:15
+Elche
+Athletic
+1 - 4
+i
+2022-09-11 18:30
+Getafe
+Sociedad
+2 - 1
+i
+2022-09-11 21:00
+Real Betis
+Villarreal
+1 - 0
+i
+2022-09-12 21:00
+Almeria
+Osasuna
+0 - 1
+i
+Omgång 6
+2022-09-16 21:00
+Valladolid
+Cádiz
+0 - 1
+i
+2022-09-17 14:00
+Mallorca
+Almeria
+1 - 0
+i
+2022-09-17 16:15
+Barcelona
+Elche
+3 - 0
+i
+2022-09-17 18:30
+Valencia
+Celta Vigo
+3 - 0
+i
+2022-09-17 21:00
+Athletic
+Rayo Vallecano
+3 - 2
+i
+2022-09-18 14:00
+Osasuna
+Getafe
+0 - 2
+i
+2022-09-18 16:15
+Villarreal
+Sevilla
+1 - 1
+i
+2022-09-18 18:30
+Sociedad
+Espanyol
+2 - 1
+i
+2022-09-18 18:30
+Real Betis
+Girona
+2 - 1
+i
+2022-09-18 21:00
+Atlético
+Real Madrid
+1 - 2
+i
+Omgång 7
+2022-09-30 21:00
+Athletic
+Almeria
+4 - 0
+i
+2022-10-01 14:00
+Cádiz
+Villarreal
+0 - 0
+i
+2022-10-01 16:15
+Getafe
+Valladolid
+2 - 3
+i
+2022-10-01 18:30
+Sevilla
+Atlético
+0 - 2
+i
+2022-10-01 21:00
+Mallorca
+Barcelona
+0 - 1
+i
+2022-10-02 14:00
+Espanyol
+Valencia
+2 - 2
+i
+2022-10-02 16:15
+Celta Vigo
+Real Betis
+1 - 0
+i
+2022-10-02 18:30
+Girona
+Sociedad
+3 - 5
+i
+2022-10-02 21:00
+Real Madrid
+Osasuna
+1 - 1
+i
+2022-10-03 21:00
+Rayo Vallecano
+Elche
+2 - 1
+i
+Omgång 8
+2022-10-07 21:00
+Osasuna
+Valencia
+1 - 2
+i
+2022-10-08 14:00
+Almeria
+Rayo Vallecano
+3 - 1
+i
+2022-10-08 16:15
+Atlético
+Girona
+2 - 1
+i
+2022-10-08 18:30
+Sevilla
+Athletic
+1 - 1
+i
+2022-10-08 21:00
+Getafe
+Real Madrid
+0 - 1
+i
+2022-10-09 14:00
+Valladolid
+Real Betis
+0 - 0
+i
+2022-10-09 16:15
+Cádiz
+Espanyol
+2 - 2
+i
+2022-10-09 18:30
+Sociedad
+Villarreal
+1 - 0
+i
+2022-10-09 21:00
+Barcelona
+Celta Vigo
+1 - 0
+i
+2022-10-10 21:00
+Elche
+Mallorca
+1 - 1
+i
+Omgång 9
+2022-10-14 21:00
+Rayo Vallecano
+Getafe
+0 - 0
+i
+2022-10-15 14:00
+Girona
+Cádiz
+1 - 1
+i
+2022-10-15 16:15
+Valencia
+Elche
+2 - 2
+i
+2022-10-15 18:30
+Mallorca
+Sevilla
+0 - 1
+i
+2022-10-15 21:00
+Athletic
+Atlético
+0 - 1
+i
+2022-10-16 14:00
+Celta Vigo
+Sociedad
+1 - 2
+i
+2022-10-16 16:15
+Real Madrid
+Barcelona
+3 - 1
+i
+2022-10-16 18:30
+Espanyol
+Valladolid
+1 - 0
+i
+2022-10-16 21:00
+Real Betis
+Almeria
+3 - 1
+i
+2022-10-17 21:00
+Villarreal
+Osasuna
+2 - 0
+i
+Omgång 10
+2022-10-18 19:00
+Sevilla
+Valencia
+1 - 1
+i
+2022-10-18 20:00
+Getafe
+Athletic
+2 - 2
+i
+2022-10-18 21:00
+Atlético
+Rayo Vallecano
+1 - 1
+i
+2022-10-19 19:00
+Valladolid
+Celta Vigo
+4 - 1
+i
+2022-10-19 19:00
+Cádiz
+Real Betis
+0 - 0
+i
+2022-10-19 20:00
+Sociedad
+Mallorca
+1 - 0
+i
+2022-10-19 21:00
+Elche
+Real Madrid
+0 - 3
+i
+2022-10-20 19:00
+Almeria
+Girona
+3 - 2
+i
+2022-10-20 20:00
+Osasuna
+Espanyol
+1 - 0
+i
+2022-10-20 21:00
+Barcelona
+Villarreal
+3 - 0
+i
+Omgång 11
+2022-10-22 14:00
+Rayo Vallecano
+Cádiz
+5 - 1
+i
+2022-10-22 16:15
+Valladolid
+Sociedad
+1 - 0
+i
+2022-10-22 18:30
+Valencia
+Mallorca
+1 - 2
+i
+2022-10-22 21:00
+Real Madrid
+Sevilla
+3 - 1
+i
+2022-10-23 14:00
+Espanyol
+Elche
+2 - 2
+i
+2022-10-23 16:15
+Real Betis
+Atlético
+1 - 2
+i
+2022-10-23 18:30
+Villarreal
+Almeria
+2 - 1
+i
+2022-10-23 18:30
+Girona
+Osasuna
+1 - 1
+i
+2022-10-23 21:00
+Barcelona
+Athletic
+4 - 0
+i
+2022-10-24 21:00
+Celta Vigo
+Getafe
+1 - 1
+i
+Omgång 12
+2022-10-28 21:00
+Mallorca
+Espanyol
+1 - 1
+i
+2022-10-29 14:00
+Almeria
+Celta Vigo
+3 - 1
+i
+2022-10-29 16:15
+Cádiz
+Atlético
+3 - 2
+i
+2022-10-29 18:30
+Sevilla
+Rayo Vallecano
+0 - 1
+i
+2022-10-29 21:00
+Valencia
+Barcelona
+0 - 1
+i
+2022-10-30 14:00
+Osasuna
+Valladolid
+2 - 0
+i
+2022-10-30 16:15
+Real Madrid
+Girona
+1 - 1
+i
+2022-10-30 18:30
+Athletic
+Villarreal
+1 - 0
+i
+2022-10-30 21:00
+Sociedad
+Real Betis
+0 - 2
+i
+2022-10-31 21:00
+Elche
+Getafe
+0 - 1
+i
+Omgång 13
+2022-11-04 21:00
+Girona
+Athletic
+2 - 1
+i
+2022-11-05 14:00
+Getafe
+Cádiz
+0 - 0
+i
+2022-11-05 16:15
+Valladolid
+Elche
+2 - 1
+i
+2022-11-05 18:30
+Celta Vigo
+Osasuna
+1 - 2
+i
+2022-11-05 21:00
+Barcelona
+Almeria
+2 - 0
+i
+2022-11-06 14:00
+Atlético
+Espanyol
+1 - 1
+i
+2022-11-06 16:15
+Sociedad
+Valencia
+1 - 1
+i
+2022-11-06 18:30
+Villarreal
+Mallorca
+0 - 2
+i
+2022-11-06 21:00
+Real Betis
+Sevilla
+1 - 1
+i
+2022-11-07 21:00
+Rayo Vallecano
+Real Madrid
+3 - 2
+i
+Omgång 14
+2022-11-08 19:00
+Elche
+Girona
+1 - 2
+i
+2022-11-08 20:00
+Athletic
+Valladolid
+3 - 0
+i
+2022-11-08 21:30
+Osasuna
+Barcelona
+1 - 2
+i
+2022-11-09 19:00
+Sevilla
+Sociedad
+1 - 2
+i
+2022-11-09 19:00
+Almeria
+Getafe
+1 - 0
+i
+2022-11-09 20:00
+Espanyol
+Villarreal
+0 - 1
+i
+2022-11-09 21:30
+Mallorca
+Atlético
+1 - 0
+i
+2022-11-10 19:00
+Rayo Vallecano
+Celta Vigo
+0 - 0
+i
+2022-11-10 20:00
+Valencia
+Real Betis
+3 - 0
+i
+2022-11-10 21:30
+Real Madrid
+Cádiz
+2 - 1
+i
+Omgång 15
+2022-12-29 17:00
+Girona
+Rayo Vallecano
+2 - 2
+i
+2022-12-29 19:15
+Real Betis
+Athletic
+0 - 0
+i
+2022-12-29 21:30
+Atlético
+Elche
+2 - 0
+i
+2022-12-30 17:00
+Getafe
+Mallorca
+2 - 0
+i
+2022-12-30 19:15
+Celta Vigo
+Sevilla
+1 - 1
+i
+2022-12-30 19:15
+Cádiz
+Almeria
+1 - 1
+i
+2022-12-30 21:30
+Valladolid
+Real Madrid
+0 - 2
+i
+2022-12-31 14:00
+Barcelona
+Espanyol
+1 - 1
+i
+2022-12-31 16:15
+Sociedad
+Osasuna
+2 - 0
+i
+2022-12-31 16:15
+Villarreal
+Valencia
+2 - 1
+i
+Omgång 16
+2023-01-06 18:30
+Elche
+Celta Vigo
+0 - 1
+i
+2023-01-06 21:00
+Valencia
+Cádiz
+0 - 1
+i
+2023-01-07 16:15
+Villarreal
+Real Madrid
+2 - 1
+i
+2023-01-07 18:30
+Mallorca
+Valladolid
+1 - 0
+i
+2023-01-07 21:00
+Espanyol
+Girona
+2 - 2
+i
+2023-01-08 14:00
+Almeria
+Sociedad
+0 - 2
+i
+2023-01-08 16:15
+Rayo Vallecano
+Real Betis
+1 - 2
+i
+2023-01-08 18:30
+Sevilla
+Getafe
+2 - 1
+i
+2023-01-08 21:00
+Atlético
+Barcelona
+0 - 1
+i
+2023-01-09 21:00
+Athletic
+Osasuna
+0 - 0
+i
+Omgång 17
+2023-01-13 21:00
+Celta Vigo
+Villarreal
+1 - 1
+i
+2023-01-14 14:00
+Valladolid
+Rayo Vallecano
+0 - 1
+i
+2023-01-14 16:15
+Girona
+Sevilla
+2 - 1
+i
+2023-01-14 18:30
+Osasuna
+Mallorca
+1 - 0
+i
+2023-01-14 21:00
+Sociedad
+Athletic
+3 - 1
+i
+2023-01-15 14:00
+Getafe
+Espanyol
+1 - 2
+i
+2023-01-15 16:15
+Almeria
+Atlético
+1 - 1
+i
+2023-01-16 21:00
+Cádiz
+Elche
+1 - 1
+i
+2023-02-01 21:00
+Real Betis
+Barcelona
+2023-02-02 21:00
+Real Madrid
+Valencia
+Omgång 18
+2023-01-20 21:00
+Mallorca
+Celta Vigo
+1 - 0
+i
+2023-01-21 14:00
+Rayo Vallecano
+Sociedad
+0 - 2
+i
+2023-01-21 16:15
+Espanyol
+Real Betis
+1 - 0
+i
+2023-01-21 18:30
+Atlético
+Valladolid
+3 - 0
+i
+2023-01-21 21:00
+Sevilla
+Cádiz
+1 - 0
+i
+2023-01-22 14:00
+Villarreal
+Girona
+1 - 0
+i
+2023-01-22 16:15
+Elche
+Osasuna
+1 - 1
+i
+2023-01-22 18:30
+Barcelona
+Getafe
+1 - 0
+i
+2023-01-22 21:00
+Athletic
+Real Madrid
+0 - 2
+i
+2023-01-23 21:00
+Valencia
+Almeria
+2 - 2
+i
+Omgång 19
+2023-01-27 21:00
+Almeria
+Espanyol
+3 - 1
+i
+2023-01-28 14:00
+Cádiz
+Mallorca
+2 - 0
+i
+2023-01-28 16:15
+Girona
+Barcelona
+2023-01-28 18:30
+Sevilla
+Elche
+2023-01-28 21:00
+Getafe
+Real Betis
+2023-01-29 14:00
+Valladolid
+Valencia
+2023-01-29 16:15
+Osasuna
+Atlético
+2023-01-29 18:30
+Celta Vigo
+Athletic
+2023-01-29 21:00
+Real Madrid
+Sociedad
+2023-01-30 21:00
+Villarreal
+Rayo Vallecano
+Omgång 20
+2023-02-03 21:00
+Athletic
+Cádiz
+2023-02-04 14:00
+Espanyol
+Osasuna
+2023-02-04 16:15
+Elche
+Villarreal
+2023-02-04 18:30
+Atlético
+Getafe
+2023-02-04 21:00
+Real Betis
+Celta Vigo
+2023-02-05 14:00
+Mallorca
+Real Madrid
+2023-02-05 16:15
+Girona
+Valencia
+2023-02-05 18:30
+Sociedad
+Valladolid
+2023-02-05 21:00
+Barcelona
+Sevilla
+2023-02-06 21:00
+Rayo Vallecano
+Almeria
+Omgång 21
+2023-02-10 21:00
+Cádiz
+Girona
+2023-02-11 16:15
+Almeria
+Real Betis
+2023-02-11 18:30
+Sevilla
+Mallorca
+2023-02-11 21:00
+Valencia
+Athletic
+2023-02-12 14:00
+Getafe
+Rayo Vallecano
+2023-02-12 16:15
+Celta Vigo
+Atlético
+2023-02-12 18:30
+Valladolid
+Osasuna
+2023-02-12 21:00
+Villarreal
+Barcelona
+2023-02-13 21:00
+Espanyol
+Sociedad
+2023-02-15 20:00
+Real Madrid
+Elche
+Omgång 22
+2023-02-19 20:00
+Getafe
+Valencia
+2023-02-19 20:00
+Real Betis
+Valladolid
+2023-02-19 20:00
+Elche
+Espanyol
+2023-02-19 20:00
+Sociedad
+Celta Vigo
+2023-02-19 20:00
+Atlético
+Athletic
+2023-02-19 20:00
+Girona
+Almeria
+2023-02-19 20:00
+Rayo Vallecano
+Sevilla
+2023-02-19 20:00
+Osasuna
+Real Madrid
+2023-02-19 20:00
+Barcelona
+Cádiz
+2023-02-19 20:00
+Mallorca
+Villarreal
+Omgång 23
+2023-02-26 20:00
+Espanyol
+Mallorca
+2023-02-26 20:00
+Athletic
+Girona
+2023-02-26 20:00
+Sevilla
+Osasuna
+2023-02-26 20:00
+Cádiz
+Rayo Vallecano
+2023-02-26 20:00
+Villarreal
+Getafe
+2023-02-26 20:00
+Valencia
+Sociedad
+2023-02-26 20:00
+Elche
+Real Betis
+2023-02-26 20:00
+Real Madrid
+Atlético
+2023-02-26 20:00
+Almeria
+Barcelona
+2023-02-26 20:00
+Celta Vigo
+Valladolid
+Omgång 24
+2023-03-05 20:00
+Sociedad
+Cádiz
+2023-03-05 20:00
+Barcelona
+Valencia
+2023-03-05 20:00
+Getafe
+Girona
+2023-03-05 20:00
+Rayo Vallecano
+Athletic
+2023-03-05 20:00
+Osasuna
+Celta Vigo
+2023-03-05 20:00
+Almeria
+Villarreal
+2023-03-05 20:00
+Real Betis
+Real Madrid
+2023-03-05 20:00
+Mallorca
+Elche
+2023-03-05 20:00
+Valladolid
+Espanyol
+2023-03-05 20:00
+Atlético
+Sevilla
+Omgång 25
+2023-03-12 20:00
+Athletic
+Barcelona
+2023-03-12 20:00
+Elche
+Valladolid
+2023-03-12 20:00
+Mallorca
+Sociedad
+2023-03-12 20:00
+Valencia
+Osasuna
+2023-03-12 20:00
+Celta Vigo
+Rayo Vallecano
+2023-03-12 20:00
+Villarreal
+Real Betis
+2023-03-12 20:00
+Sevilla
+Almeria
+2023-03-12 20:00
+Real Madrid
+Espanyol
+2023-03-12 20:00
+Girona
+Atlético
+2023-03-12 20:00
+Cádiz
+Getafe
+Omgång 26
+2023-03-19 20:00
+Almeria
+Cádiz
+2023-03-19 20:00
+Espanyol
+Celta Vigo
+2023-03-19 20:00
+Rayo Vallecano
+Girona
+2023-03-19 20:00
+Osasuna
+Villarreal
+2023-03-19 20:00
+Valladolid
+Athletic
+2023-03-19 20:00
+Sociedad
+Elche
+2023-03-19 20:00
+Atlético
+Valencia
+2023-03-19 20:00
+Real Betis
+Mallorca
+2023-03-19 20:00
+Getafe
+Sevilla
+2023-03-19 20:00
+Barcelona
+Real Madrid
+Omgång 27
+2023-04-02 21:00
+Girona
+Espanyol
+2023-04-02 21:00
+Elche
+Barcelona
+2023-04-02 21:00
+Atlético
+Real Betis
+2023-04-02 21:00
+Real Madrid
+Valladolid
+2023-04-02 21:00
+Celta Vigo
+Almeria
+2023-04-02 21:00
+Athletic
+Getafe
+2023-04-02 21:00
+Villarreal
+Sociedad
+2023-04-02 21:00
+Cádiz
+Sevilla
+2023-04-02 21:00
+Mallorca
+Osasuna
+2023-04-02 21:00
+Valencia
+Rayo Vallecano
+Omgång 28
+2023-04-09 21:00
+Osasuna
+Elche
+2023-04-09 21:00
+Barcelona
+Girona
+2023-04-09 21:00
+Valladolid
+Mallorca
+2023-04-09 21:00
+Sevilla
+Celta Vigo
+2023-04-09 21:00
+Rayo Vallecano
+Atlético
+2023-04-09 21:00
+Espanyol
+Athletic
+2023-04-09 21:00
+Almeria
+Valencia
+2023-04-09 21:00
+Real Madrid
+Villarreal
+2023-04-09 21:00
+Real Betis
+Cádiz
+2023-04-09 21:00
+Sociedad
+Getafe
+Omgång 29
+2023-04-16 21:00
+Villarreal
+Valladolid
+2023-04-16 21:00
+Athletic
+Sociedad
+2023-04-16 21:00
+Celta Vigo
+Mallorca
+2023-04-16 21:00
+Girona
+Elche
+2023-04-16 21:00
+Valencia
+Sevilla
+2023-04-16 21:00
+Real Betis
+Espanyol
+2023-04-16 21:00
+Atlético
+Almeria
+2023-04-16 21:00
+Rayo Vallecano
+Osasuna
+2023-04-16 21:00
+Getafe
+Barcelona
+2023-04-16 21:00
+Cádiz
+Real Madrid
+Omgång 30
+2023-04-23 21:00
+Espanyol
+Cádiz
+2023-04-23 21:00
+Valladolid
+Girona
+2023-04-23 21:00
+Sociedad
+Rayo Vallecano
+2023-04-23 21:00
+Mallorca
+Getafe
+2023-04-23 21:00
+Almeria
+Athletic
+2023-04-23 21:00
+Elche
+Valencia
+2023-04-23 21:00
+Sevilla
+Villarreal
+2023-04-23 21:00
+Real Madrid
+Celta Vigo
+2023-04-23 21:00
+Osasuna
+Real Betis
+2023-04-23 21:00
+Barcelona
+Atlético
+Omgång 31
+2023-04-26 21:00
+Rayo Vallecano
+Barcelona
+2023-04-26 21:00
+Athletic
+Sevilla
+2023-04-26 21:00
+Atlético
+Mallorca
+2023-04-26 21:00
+Celta Vigo
+Elche
+2023-04-26 21:00
+Cádiz
+Osasuna
+2023-04-26 21:00
+Girona
+Real Madrid
+2023-04-26 21:00
+Real Betis
+Sociedad
+2023-04-26 21:00
+Villarreal
+Espanyol
+2023-04-26 21:00
+Getafe
+Almeria
+2023-04-26 21:00
+Valencia
+Valladolid
+Omgång 32
+2023-04-30 21:00
+Elche
+Rayo Vallecano
+2023-04-30 21:00
+Osasuna
+Sociedad
+2023-04-30 21:00
+Mallorca
+Athletic
+2023-04-30 21:00
+Valladolid
+Atlético
+2023-04-30 21:00
+Villarreal
+Celta Vigo
+2023-04-30 21:00
+Cádiz
+Valencia
+2023-04-30 21:00
+Real Madrid
+Almeria
+2023-04-30 21:00
+Barcelona
+Real Betis
+2023-04-30 21:00
+Espanyol
+Getafe
+2023-04-30 21:00
+Sevilla
+Girona
+Omgång 33
+2023-05-03 21:00
+Athletic
+Real Betis
+2023-05-03 21:00
+Almeria
+Elche
+2023-05-03 21:00
+Getafe
+Celta Vigo
+2023-05-03 21:00
+Rayo Vallecano
+Valladolid
+2023-05-03 21:00
+Girona
+Mallorca
+2023-05-03 21:00
+Barcelona
+Osasuna
+2023-05-03 21:00
+Atlético
+Cádiz
+2023-05-03 21:00
+Sociedad
+Real Madrid
+2023-05-03 21:00
+Sevilla
+Espanyol
+2023-05-03 21:00
+Valencia
+Villarreal
+Omgång 34
+2023-05-14 21:00
+Mallorca
+Cádiz
+2023-05-14 21:00
+Sociedad
+Girona
+2023-05-14 21:00
+Valladolid
+Sevilla
+2023-05-14 21:00
+Real Betis
+Rayo Vallecano
+2023-05-14 21:00
+Villarreal
+Athletic
+2023-05-14 21:00
+Elche
+Atlético
+2023-05-14 21:00
+Espanyol
+Barcelona
+2023-05-14 21:00
+Real Madrid
+Getafe
+2023-05-14 21:00
+Osasuna
+Almeria
+2023-05-14 21:00
+Celta Vigo
+Valencia
+Omgång 35
+2023-05-21 21:00
+Girona
+Villarreal
+2023-05-21 21:00
+Rayo Vallecano
+Espanyol
+2023-05-21 21:00
+Valencia
+Real Madrid
+2023-05-21 21:00
+Almeria
+Mallorca
+2023-05-21 21:00
+Sevilla
+Real Betis
+2023-05-21 21:00
+Athletic
+Celta Vigo
+2023-05-21 21:00
+Barcelona
+Sociedad
+2023-05-21 21:00
+Atlético
+Osasuna
+2023-05-21 21:00
+Cádiz
+Valladolid
+2023-05-21 21:00
+Getafe
+Elche
+Omgång 36
+2023-05-24 21:00
+Real Betis
+Getafe
+2023-05-24 21:00
+Celta Vigo
+Girona
+2023-05-24 21:00
+Elche
+Sevilla
+2023-05-24 21:00
+Osasuna
+Athletic
+2023-05-24 21:00
+Sociedad
+Almeria
+2023-05-24 21:00
+Mallorca
+Valencia
+2023-05-24 21:00
+Espanyol
+Atlético
+2023-05-24 21:00
+Valladolid
+Barcelona
+2023-05-24 21:00
+Villarreal
+Cádiz
+2023-05-24 21:00
+Real Madrid
+Rayo Vallecano
+Omgång 37
+2023-05-28 21:00
+Barcelona
+Mallorca
+2023-05-28 21:00
+Getafe
+Osasuna
+2023-05-28 21:00
+Cádiz
+Celta Vigo
+2023-05-28 21:00
+Rayo Vallecano
+Villarreal
+2023-05-28 21:00
+Almeria
+Valladolid
+2023-05-28 21:00
+Valencia
+Espanyol
+2023-05-28 21:00
+Sevilla
+Real Madrid
+2023-05-28 21:00
+Athletic
+Elche
+2023-05-28 21:00
+Girona
+Real Betis
+2023-05-28 21:00
+Atlético
+Sociedad
+Omgång 38
+2023-06-04 21:00
+Real Madrid
+Athletic
+2023-06-04 21:00
+Real Betis
+Valencia
+2023-06-04 21:00
+Villarreal
+Atlético
+2023-06-04 21:00
+Valladolid
+Getafe
+2023-06-04 21:00
+Mallorca
+Rayo Vallecano
+2023-06-04 21:00
+Celta Vigo
+Barcelona
+2023-06-04 21:00
+Sociedad
+Sevilla
+2023-06-04 21:00
+Osasuna
+Girona
+2023-06-04 21:00
+Espanyol
+Almeria
+2023-06-04 21:00
+Elche
+Cádiz
+MEST LÄSTA
+HETASTE FORUM
+MEST KOMMENTARER
+Girona FC – FC Barcelona: 0–1
+Barcelona • idag 18:14
+18
+Marcos Alonso förlänger
+LA LIGADen spanske försvararen förlänger kontraktet ytterligare ett år med FC Barcelona.
+Senaste nytt – Spansk fotboll
+Girona FC – FC Barcelona: 0–1
+Barcelona • idag 18:14
+18
+Officiellt: Marcos Alonso förlänger kontraktet
+Barcelona • igår 16:29
+347
+Inför: Girona FC – FC Barcelona
+Barcelona • igår 16:15
+659
+Barça B-kollen: Ángel Alarcón förlänger
+Barcelona • igår 15:55
+146
+FC Barcelona – Real Sociedad: 1–0
+Barcelona • 2023-01-25 22:56
+966
+Inför: Real Madrid - Atletico Madrid
+Real Madrid • 2023-01-25 19:30
+1462
+Inför: FC Barcelona – Real Sociedad
+Barcelona • 2023-01-24 21:00
+1100
+Fotbollselitisten
+Zaragoza • 2023-01-24 15:53
+181
+2
+MQUP #70 - Dubbeltiteln
+Barcelona • 2023-01-24 06:00
+236
+La Setmana Blaugrana - v.3: Piqué-turnering, Messi-liknelse …
+Barcelona • 2023-01-23 06:00
+693
+Bilbao - Real Madrid: 0-2
+Real Madrid • 2023-01-22 23:08
+1425
+FC Barcelona – Getafe CF: 1–0
+Barcelona • 2023-01-22 22:40
+806
+Officiellt: Memphis Depay till Atlético Madrid
+Barcelona • 2023-01-22 12:49
+1059
+Inför: FC Barcelona – Getafe CF
+Barcelona • 2023-01-22 00:11
+834
+Inför: Athletic Bilbao - Real Madrid
+Real Madrid • 2023-01-21 15:35
+869
+» Visa fler nyheter
+Din plats på SF-läktaren
+INFORMATIONÖver 11 000 användare har redan laddat ner SvenskaFans app – har du?
+Fotbollselitisten
+LA LIGA 2Att hålla på Zaragoza är svårare än att hålla på Real Madrid, skriver Nina Månsson.
+MQUP #70: Dubbeltiteln
+FANRADIOSenaste avsnittet av Barça-podden.
+Den riktigt stora nian?
+LA LIGALär känna Barcelonas Víctor Barberà.
+”Dags för förändring”
+FANRADIOBastardos con Gloria är tillbaka med ett nytt rykande avsnitt som rör Real Madrid.
+MQUP #68: Salid y disfrutad
+FANRADIOÅrets första avsnitt av Barça-podden.
+Så var vårsäsongen igång
+LA LIGA 2Mållös omstart för Real Zaragoza.
+All-in på Bellingham?
+SILLY SEASONDet senaste om Real Madrid.
+”Ett namn att lägga på minnet”
+LA LIGASammanfattning av årets sista vecka. 
+#24: Det gångna året
+LA LIGAFölj Spanien-redaktionens julkalender.
+» Lucka #23
+» Lucka #22
+» Lucka #21
+» Lucka #20
+» Lucka #19
+» Lucka #18
+» Lucka #17
+» Lucka #16
+» Lucka #15
+» Lucka #14
+» Lucka #13
+» Lucka #12
+» Lucka #11
+» Lucka #10
+» Lucka #9
+» Lucka #8
+» Lucka #7
+» Lucka #6
+» Lucka #5
+» Lucka #4
+» Lucka #3
+» Lucka #2
+» Lucka #1
+VM-tugg och Xavis framtid
+FANRADIOMQUP summerar Barças höstsäsong.
+”Har alltid varit en ledare”
+LA LIGAFrågan är var framtiden finns för den La Masia-fostrade målvakten Arnau Tenas?
+”Var mer nyfiken än hoppfull”
+LA LIGA 2Medan världen spelar VM spelar Zaragoza vidare med en ny tränare vid rodret.
+Tillägnat Gerard Piqué
+FANRADIOFrån en sen majkväll på Santiago Bernabéu, via Wembley, Johannesburg, ett par Clásicon till, Berlin och en vallokal i Barcelona.
+Nya tränaren på plats
+LA LIGA 2Nu står det klart vem som hädanefter kommer leda Real Zaragoza efter Carcedo.
+Zaragoza sparkar Carcedo
+LA LIGA 2Efter en tids svaga resultat får både tränare och sportchef Miguel Torrecilla sparken.
+Hänger tränare Carcedo löst?
+LA LIGA 2Trots spel med en man mer i nästan en timme föll Zaragoza hemma mot Alavés. 
+MQUP #65: Ligatopp
+FANRADIOSenaste avsnittet av Barça-podden.
+Hetaste forum
+Arsenal
+Hammarby
+Helsingborg
+Djurgården
+Göteborg
+Alla forum
+Länkar
+Om SvenskaFans
+RSS-feed
+I mobilen
+Kontakta oss
+Annonsera
+Cookies
+Ladda hem vår app
+Sponsor
+En del av
+Girona FC – FC Barcelona: 0–1
+Girona FC – FC Barcelona: 0–1
+Officiellt: Marcos Alonso förlänger kontraktet
+Inför: Girona FC – FC Barcelona
+Barça B-kollen: Ángel Alarcón förlänger
+FC Barcelona – Real Sociedad: 1–0
+Inför: Real Madrid - Atletico Madrid
+Inför: FC Barcelona – Real Sociedad
+Fotbollselitisten
+MQUP #70 - Dubbeltiteln
+La Setmana Blaugrana - v.3: Piqué-turnering, Messi-liknelse …
+Bilbao - Real Madrid: 0-2
+FC Barcelona – Getafe CF: 1–0
+Officiellt: Memphis Depay till Atlético Madrid
+Inför: FC Barcelona – Getafe CF
+Inför: Athletic Bilbao - Real Madrid

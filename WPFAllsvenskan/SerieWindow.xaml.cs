@@ -2,6 +2,7 @@
 using System.IO;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
 using WPFAllsvenskan.Models;
 
 namespace WPFAllsvenskan
@@ -13,29 +14,53 @@ namespace WPFAllsvenskan
     {
         private List<string> teamsToGuess = new();
         private Serie serie;
-        public SerieWindow(string league)
+        private AppManager appManager;
+        public SerieWindow(AppManager appManager, Serie serie)
         {
             try
             {
                 InitializeComponent();
-                ButtonSubmit.IsEnabled = false;
-                ButtonSelectTeam.IsEnabled = false;
-                ButtonRemoveTeam.IsEnabled = false;
-                ButtonHomeWin.Visibility = Visibility.Hidden;
-                ButtonDraw.Visibility = Visibility.Hidden;
-                ButtonAwayWin.Visibility = Visibility.Hidden;
-                ButtonSubmit.Visibility = Visibility.Collapsed;
-                ComboBoxResult.Visibility = Visibility.Collapsed;
-                serie = new(league);
+                HideButtons();
+
+                this.serie = serie;
+                this.appManager = appManager;
+                //manager.SetStatsBasedOnSerie(serie);
                 PopulateComboBoxes();
                 PopulateListView();
-
-                lblTable.Content = serie.PrintTable();
+                ShowTable();
+                //lblTable.Content = serie.PrintTable();
             }
             catch (FileNotFoundException ex)
             {
                 MessageBox.Show("File doesn´t exist");
                 Close();
+            }
+        }
+
+        private void HideButtons()
+        {
+            ButtonSubmit.IsEnabled = false;
+            ButtonSelectTeam.IsEnabled = false;
+            ButtonRemoveTeam.IsEnabled = false;
+            ButtonHomeWin.Visibility = Visibility.Hidden;
+            ButtonDraw.Visibility = Visibility.Hidden;
+            ButtonAwayWin.Visibility = Visibility.Hidden;
+            ButtonSubmit.Visibility = Visibility.Collapsed;
+            ComboBoxResult.Visibility = Visibility.Collapsed;
+        }
+
+        private void ShowTable()
+        {
+            lvTable.Items.Clear();
+            lvTable.Items.Add(appManager.GetTableHeadLine());
+            foreach (SerieMember serieMember in serie.SerieMembers)
+            {
+                ListViewItem item = new();
+                item.Content = appManager.GetTeamInSerieAsString(serie, serieMember.Team);
+                item.Tag = serieMember.Team;
+                item.VerticalContentAlignment = VerticalAlignment.Top;
+                item.VerticalAlignment = VerticalAlignment.Top;
+                lvTable.Items.Add(item);
             }
         }
 
@@ -52,87 +77,88 @@ namespace WPFAllsvenskan
             ComboboxPointsPerGame.Items.Add("Plastic");
             ComboboxPointsPerGame.Items.Add("Grass");
 
-            foreach (Team t in serie.teams)
+            foreach (SerieMember serieMember in serie.SerieMembers)
             {
-                ComboBoxFixtures.Items.Add(t.Name);
-                ComboboxPlace.Items.Add(t.Rank);
+                ComboBoxItem comboBoxItem = new();
+                comboBoxItem.Content = serieMember.Team.Name;
+                comboBoxItem.Tag = serieMember;
+                ComboboxPlace.Items.Add(serieMember.Rank);
             }
-            int nbr = serie.teams[0].PlayedGames.Count;
+
+            int nbr = serie.SerieMembers[0].GamesPlayed;
             for (int i = 1; i <= nbr; i++)
             {
                 ComboboxGames.Items.Add(i);
             }
+
         }
 
         private void PopulateListView()
         {
-            foreach (Team team in serie.teams)
+            foreach (SerieMember serieMember in serie.SerieMembers)
             {
-                lvListOfTeams.Items.Add(team.Name);
+                lvListOfTeams.Items.Add(serieMember.Team.Name);
             }
         }
 
         private void ButtonGuessGames_Click(object sender, RoutedEventArgs e)
         {
-            serie.GuessTheFinish(teamsToGuess);
-            //allsvenskan.GuessTheFinish((int)ComboBoxNumberOfTeams.SelectedIndex + 1);
-            ButtonSubmit.Content = $"Nästa match ({serie.gamesToGuess.Count}";
-            if (serie.gamesToGuess.Count > 0)
-            {
-                lblGame.Content = serie.gamesToGuess[0].PrintGame();
-                ButtonDraw.Visibility = Visibility.Visible;
-                ButtonAwayWin.Visibility = Visibility.Visible;
-                ButtonHomeWin.Visibility = Visibility.Visible;
-                updateResultBox();
-                updateGuessButtons();
-                ButtonSubmit.IsEnabled = true;
-                serie.SortTable();
-                lblTable.Content = serie.PrintTable();
+            //serie.GuessTheFinish(teamsToGuess);
+            ////allsvenskan.GuessTheFinish((int)ComboBoxNumberOfTeams.SelectedIndex + 1);
+            //ButtonSubmit.Content = $"Nästa match ({serie.GamesToGuess.Count}";
+            //if (serie.GamesToGuess.Count > 0)
+            //{
+            //    lblGame.Content = serie.GamesToGuess[0].PrintGame();
+            //    ButtonDraw.Visibility = Visibility.Visible;
+            //    ButtonAwayWin.Visibility = Visibility.Visible;
+            //    ButtonHomeWin.Visibility = Visibility.Visible;
+            //    updateResultBox();
+            //    updateGuessButtons();
+            //    ButtonSubmit.IsEnabled = true;
 
-            }
-            else
-            {
-                MessageBox.Show("Please choose a some teams", "Errormessage");
-            }
+            //}
+            //else
+            //{
+            //    MessageBox.Show("Please choose a some teams", "Errormessage");
+            //}
         }
 
         private void ButtonSubmit_Click(object sender, RoutedEventArgs e)
         {
-            if (serie.gamesToGuess.Count > 0)
-            {
-                serie.gamesToGuess[0].GuessTheGame(ComboBoxResult.Text);
-                if (serie.gamesToGuess.Count > 1)
-                {
-                    serie.gamesToGuess.Remove(serie.gamesToGuess[0]);
-                    lblGame.Content = $"({serie.gamesToGuess.Count}) {serie.gamesToGuess[0].PrintGame()}";
-                    updateResultBox();
-                }
-                else if (serie.gamesToGuess.Count == 1)
-                {
-                    serie.gamesToGuess.Remove(serie.gamesToGuess[0]);
-                    serie.SortByEndPoints();
-                    ComboBoxResult.Items.Clear();
-                    lblGame.Content = "";
-                    ButtonSubmit.IsEnabled = false;
-                }
-                ButtonSubmit.Content = $"Nästa match ({serie.gamesToGuess.Count}";
-                lblTable.Content = serie.PrintTable();
-            }
+            //if (serie.GamesToGuess.Count > 0)
+            //{
+            //    serie.GamesToGuess[0].GuessTheGame(ComboBoxResult.Text);
+            //    if (serie.GamesToGuess.Count > 1)
+            //    {
+            //        serie.GamesToGuess.Remove(serie.GamesToGuess[0]);
+            //        lblGame.Content = $"({serie.GamesToGuess.Count}) {serie.GamesToGuess[0].PrintGame()}";
+            //        updateResultBox();
+            //    }
+            //    else if (serie.GamesToGuess.Count == 1)
+            //    {
+            //        serie.GamesToGuess.Remove(serie.GamesToGuess[0]);
+            //        serie.SortByEndPoints();
+            //        ComboBoxResult.Items.Clear();
+            //        lblGame.Content = "";
+            //        ButtonSubmit.IsEnabled = false;
+            //    }
+            //    ButtonSubmit.Content = $"Nästa match ({serie.GamesToGuess.Count}";
+            //}
         }
         private void updateResultBox()
         {
             ComboBoxResult.Items.Clear();
-            ComboBoxResult.Items.Add(serie.gamesToGuess[0].HomeTeam.Name);
-            ComboBoxResult.Items.Add(serie.gamesToGuess[0].AwayTeam.Name);
+            ComboBoxResult.Items.Add(serie.GamesToGuess[0].HomeTeam.Name);
+            ComboBoxResult.Items.Add(serie.GamesToGuess[0].AwayTeam.Name);
             ComboBoxResult.Items.Add("Oavgjort");
         }
         private void updateGuessButtons()
         {
-            if (serie.gamesToGuess.Count > 0)
+            if (serie.GamesToGuess.Count > 0)
             {
-                ButtonHomeWin.Content = serie.gamesToGuess[0].HomeTeam.Name;
-                ButtonAwayWin.Content = serie.gamesToGuess[0].AwayTeam.Name;
-                lblGame.Content = $"({serie.gamesToGuess.Count}) {serie.gamesToGuess[0].PrintGame()}";
+                ButtonHomeWin.Content = serie.GamesToGuess[0].HomeTeam.Name;
+                ButtonAwayWin.Content = serie.GamesToGuess[0].AwayTeam.Name;
+                lblGame.Content = $"({serie.GamesToGuess.Count}) {serie.GamesToGuess[0].PrintGame()}";
             }
             else
             {
@@ -142,44 +168,83 @@ namespace WPFAllsvenskan
             }
         }
 
-        private void ButtonFixtures_Click(object sender, RoutedEventArgs e)
-        {
-            if (ComboBoxFixtures.SelectedItem != null)
-            {
-                string games = serie.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
-                if (!string.IsNullOrEmpty(games))
-                {
-                    lblFixtures.Content = serie.FindTeam(ComboBoxFixtures.Text).GetGamesLeftAsString();
-                }
-                else
-                {
-                    games = serie.FindTeam(ComboBoxFixtures.Text).GetScheduleAsString();
-                    lblFixtures.Content = games;
-                }
-            }
-            else
-            {
-                MessageBox.Show("Please Choose a team too show fixtures for");
-            }
-        }
+        //private void ButtonFixtures_Click(object sender, RoutedEventArgs e)
+        //{
+        //    lvListOfGames.Items.Clear();
+        //    ComboBoxItem item = (ComboBoxItem)ComboBoxFixtures.SelectedItem;
+        //    if (item != null)
+        //    {
+        //        Team t = (Team)item.Tag;
+        //        if (t.Schedule.Count == t.PlayedGames.Count)
+        //        {
+        //            foreach (Game game in t.Schedule)
+        //            {
+        //                ListViewItem listViewItem = new();
+        //                listViewItem.Content = game.PrintGame();
+        //                listViewItem.Tag = game;
+        //                lvListOfGames.Items.Add(listViewItem);
+        //                if (manager.GetOpponentsRank(t, game) >= 11)
+        //                {
+        //                    listViewItem.Background = Brushes.LightGreen;
+        //                }
+        //                else if (manager.GetOpponentsRank(t, game) >= 6)
+        //                {
+        //                    listViewItem.Background = Brushes.LightYellow;
+        //                }
+        //                else
+        //                {
+        //                    listViewItem.Background = Brushes.LightPink;
+        //                }
+        //            }
+        //        }
+        //        else
+        //        {
+        //            foreach (Game game in t.Schedule)
+        //            {
+        //                if (game.IsPlayed == false)
+        //                {
+        //                    ListViewItem listViewItem = new();
+        //                    listViewItem.Content = game.PrintGame();
+        //                    listViewItem.Tag = game;
+        //                    lvListOfGames.Items.Add(listViewItem);
+        //                    if (manager.GetOpponentsRank(t, game) >= 11)
+        //                    {
+        //                        listViewItem.Background = Brushes.LightGreen;
+        //                    }
+        //                    else if (manager.GetOpponentsRank(t, game) >= 6)
+        //                    {
+        //                        listViewItem.Background = Brushes.LightYellow;
+        //                    }
+        //                    else
+        //                    {
+        //                        listViewItem.Background = Brushes.LightPink;
+        //                    }
+        //                }
+        //            }
+        //        }
+        //    }
+        //    else
+        //    {
+        //        MessageBox.Show("Please select a team");
+        //    }
+        //}
 
         private void UpdateTable_Click(object sender, RoutedEventArgs e)
         {
-            string pPerGame = "All";
-            if (ComboboxGames.SelectedValue != null)
-            {
-                int nbrOfGamesToPrint = int.Parse(ComboboxGames.SelectedValue.ToString());
-                serie.CalculateTableBetweenRounds(1, nbrOfGamesToPrint);
-            }
-            if (ComboBoxUpcomingGames.SelectedValue != null)
-            {
-                serie.AverageOpponentInUpcomingGames((int)ComboBoxUpcomingGames.SelectedValue);
-            }
-            if (ComboboxPointsPerGame.SelectedValue != null)
-            {
-                pPerGame = ComboboxPointsPerGame.SelectedValue.ToString();
-            }
-            lblTable.Content = serie.PrintTable(pPerGame);
+            //string pPerGame = "All";
+            //if (ComboboxGames.SelectedValue != null)
+            //{
+            //    int nbrOfGamesToPrint = int.Parse(ComboboxGames.SelectedValue.ToString());
+            //    serie.CalculateTableBetweenRounds(1, nbrOfGamesToPrint);
+            //}
+            //if (ComboBoxUpcomingGames.SelectedValue != null)
+            //{
+            //    serie.AverageOpponentInUpcomingGames((int)ComboBoxUpcomingGames.SelectedValue);
+            //}
+            //if (ComboboxPointsPerGame.SelectedValue != null)
+            //{
+            //    pPerGame = ComboboxPointsPerGame.SelectedValue.ToString();
+            //}
         }
 
         private void ButtonSelectTeam_Click(object sender, RoutedEventArgs e)
@@ -227,22 +292,79 @@ namespace WPFAllsvenskan
 
         private void ButtonGuess_Click(object sender, RoutedEventArgs e)
         {
-            Button button = (Button)sender;
-            if (serie.gamesToGuess.Count > 1)
+            //Button button = (Button)sender;
+            //if (serie.GamesToGuess.Count > 1)
+            //{
+            //    serie.GamesToGuess[0].GuessTheGame(button.Content.ToString());
+            //    serie.GamesToGuess.RemoveAt(0);
+            //}
+            //else if (serie.GamesToGuess.Count == 1)
+            //{
+            //    serie.GamesToGuess[0].GuessTheGame(button.Content.ToString());
+            //    serie.GamesToGuess.RemoveAt(0);
+            //    lblGame.Content = "";
+            //    ButtonSubmit.IsEnabled = false;
+            //}
+            //updateGuessButtons();
+            //serie.SortByEndPoints();
+        }
+        private void lvTable_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (lvTable.SelectedItem is ListViewItem item)
             {
-                serie.gamesToGuess[0].GuessTheGame(button.Content.ToString());
-                serie.gamesToGuess.RemoveAt(0);
+                if (item != null)
+                {
+                    Team team = (Team)item.Tag;
+                    UpdateLvGames(team);
+                }
             }
-            else if (serie.gamesToGuess.Count == 1)
+
+        }
+        private void UpdateLvGames(Team team)
+        {
+            lvListOfGames.Items.Clear();
+            foreach (Game game in team.Games)
             {
-                serie.gamesToGuess[0].GuessTheGame(button.Content.ToString());
-                serie.gamesToGuess.RemoveAt(0);
-                lblGame.Content = "";
-                ButtonSubmit.IsEnabled = false;
+                if (game.IsPlayed == false)
+                {
+                    ListViewItem listViewItem = new();
+                    listViewItem.Content = $"{appManager.GetGameInfo(game)}";
+                    listViewItem.Tag = game;
+                    lvListOfGames.Items.Add(listViewItem);
+                    if (serie.Games[24].IsPlayed)
+                    {
+                        int rank = appManager.GetOpponentsRank(serie, team, game, false);
+                        if (rank == 0 || rank >= 10)
+                        {
+                            listViewItem.Background = Brushes.LightGreen;
+                        }
+                        else if (rank >= 6)
+                        {
+                            listViewItem.Background = Brushes.LightYellow;
+                        }
+                        else
+                        {
+                            listViewItem.Background = Brushes.LightPink;
+                        }
+                    }
+                    else
+                    {
+                        //Get Opponents rank from last year
+                        int rank = appManager.GetOpponentsRank(serie, team, game, true);
+
+                        if (rank == 0 || rank >= 10) listViewItem.Background = Brushes.LightGreen;
+                        else if (rank >= 6) listViewItem.Background = Brushes.LightYellow;
+                        else listViewItem.Background = Brushes.LightPink;
+                    }
+                }
             }
-            updateGuessButtons();
-            serie.SortByEndPoints();
-            lblTable.Content = serie.PrintTable();
+        }
+
+        private void btClose_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow mainWindow = new(appManager);
+            mainWindow.Show();
+            Close();
         }
     }
 }

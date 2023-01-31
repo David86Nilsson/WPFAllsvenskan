@@ -1,3 +1,112 @@
+LIVESCORE
+TABELLER
+SPELSCHEMA
+BLI SKRIBENT
+FAIR PLAY QATAR
+CHAMPIONS LEAGUE
+FANTV
+GULDSKÖLDEN
+BETTING
+Fotboll
+Sverige
+England
+Italien
+Spanien
+Tyskland
+Europa
+Världen
+Ishockey
+Sverige
+NHL
+Övrigt
+Bandy
+US Sports
+Forum
+Premier League
+Arsenal
+Aston Villa
+Bournemouth
+Brentford FC
+Brighton
+Chelsea
+Crystal Palace
+Everton
+Fulham
+Leeds United
+Leicester
+Liverpool
+Manchester C
+Manchester U
+Newcastle
+Nottingham
+Southampton
+Tottenham
+West Ham
+Wolves
+The Championship
+Birmingham
+Blackburn
+Bristol City
+Burnley
+Hull City
+Middlesbrough
+Millwall
+Norwich
+QPR
+Reading
+Sheffield U
+Stoke
+Sunderland
+Swansea
+Watford
+WBA
+League One
+Barnsley
+Charlton
+Derby
+Ipswich
+Port Vale
+Portsmouth
+League Two
+AFC Wimbledon
+Bradford City
+Mansfield
+Salford City FC
+Walsall
+Övriga
+England
+Old School Football
+Start
+England
+Premier League
+Premier League spelschema 2022/2023
+Premier League spelschema 2022/2023
+Spelschema för ditt lag: 
+-- Välj lag --
+Arsenal
+Aston Villa
+Bournemouth
+Brentford
+Brighton
+Chelsea
+Crystal Palace
+Everton
+Fulham
+Leeds United
+Leicester
+Liverpool
+Manchester C
+Manchester U
+Newcastle
+Nottingham
+Southampton
+Tottenham
+West Ham
+Wolves
+Premier League
+The Championship
+League One
+League Two
 Omgång 1
 2022-08-05 21:00
 Crystal Palace
@@ -305,9 +414,6 @@ Arsenal
 3 - 1
 i
 Omgång 7
-2022-09-10 13:30
-Fulham
-Chelsea
 2022-09-10 16:00
 Leicester
 Aston Villa
@@ -320,21 +426,30 @@ Wolves
 2022-09-10 16:00
 Bournemouth
 Brighton
-2022-09-10 18:30
-Manchester C
-Tottenham
 2022-09-11 15:00
 West Ham
 Newcastle
 2022-09-11 15:00
 Arsenal
 Everton
-2022-09-11 17:30
-Crystal Palace
-Manchester U
 2022-09-12 21:00
 Leeds United
 Nottingham
+2023-01-12 21:00
+Fulham
+Chelsea
+2 - 1
+i
+2023-01-18 21:00
+Crystal Palace
+Manchester U
+1 - 1
+i
+2023-01-19 21:00
+Manchester C
+Tottenham
+4 - 2
+i
 Omgång 8
 2022-09-16 21:00
 Nottingham
@@ -369,9 +484,6 @@ Brentford
 Arsenal
 0 - 3
 i
-2022-09-18 15:00
-Manchester U
-Leeds United
 2022-09-18 15:15
 Everton
 West Ham
@@ -380,6 +492,12 @@ i
 2022-09-18 17:30
 Chelsea
 Liverpool
+2023-02-08 21:00
+Manchester U
+Leeds United
+2023-02-08 21:00
+Manchester U
+Leeds United
 Omgång 9
 2022-10-01 13:30
 Arsenal
@@ -564,9 +682,6 @@ Bournemouth
 Southampton
 0 - 1
 i
-2022-10-19 20:30
-Arsenal
-Manchester C
 2022-10-19 21:15
 Manchester U
 Tottenham
@@ -582,6 +697,9 @@ Leicester
 Leeds United
 2 - 0
 i
+2023-02-15 20:30
+Arsenal
+Manchester C
 Omgång 13
 2022-10-22 13:30
 Nottingham
@@ -739,207 +857,315 @@ Omgång 16
 2022-11-12 13:30
 Manchester C
 Brentford
+1 - 2
+i
 2022-11-12 16:00
 Bournemouth
 Everton
+3 - 0
+i
 2022-11-12 16:00
 Liverpool
 Southampton
+3 - 1
+i
 2022-11-12 16:00
 Tottenham
 Leeds United
+4 - 3
+i
 2022-11-12 16:00
 Nottingham
 Crystal Palace
+1 - 0
+i
 2022-11-12 16:00
 West Ham
 Leicester
+0 - 2
+i
 2022-11-12 18:30
 Newcastle
 Chelsea
+1 - 0
+i
 2022-11-12 20:45
 Wolves
 Arsenal
+0 - 2
+i
 2022-11-13 15:00
 Brighton
 Aston Villa
+1 - 2
+i
 2022-11-13 17:30
 Fulham
 Manchester U
+1 - 2
+i
 Omgång 17
 2022-12-26 13:30
 Brentford
 Tottenham
+2 - 2
+i
 2022-12-26 16:00
 Crystal Palace
 Fulham
+0 - 3
+i
 2022-12-26 16:00
 Everton
 Wolves
+1 - 2
+i
 2022-12-26 16:00
 Leicester
 Newcastle
+0 - 3
+i
 2022-12-26 16:00
 Southampton
 Brighton
+1 - 3
+i
 2022-12-26 18:30
 Aston Villa
 Liverpool
+1 - 3
+i
 2022-12-26 21:00
 Arsenal
 West Ham
+3 - 1
+i
 2022-12-27 18:30
 Chelsea
 Bournemouth
+2 - 0
+i
 2022-12-27 21:00
 Manchester U
 Nottingham
+3 - 0
+i
 2022-12-28 21:00
 Leeds United
 Manchester C
+1 - 3
+i
 Omgång 18
-2022-11-06 15:00
-Wolves
-Manchester U
-2022-12-31 15:00
+2022-12-30 20:45
 West Ham
 Brentford
-2022-12-31 15:00
-Bournemouth
-Crystal Palace
-2022-12-31 15:00
-Brighton
-Arsenal
-2022-12-31 15:00
-Fulham
-Southampton
-2022-12-31 15:00
+0 - 2
+i
+2022-12-30 21:00
 Liverpool
 Leicester
-2022-12-31 15:00
-Manchester C
-Everton
-2022-12-31 15:00
-Tottenham
-Aston Villa
-2022-12-31 15:00
-Nottingham
-Chelsea
-2022-12-31 15:00
+2 - 1
+i
+2022-12-31 13:30
+Wolves
+Manchester U
+0 - 1
+i
+2022-12-31 16:00
 Newcastle
 Leeds United
+0 - 0
+i
+2022-12-31 16:00
+Manchester C
+Everton
+1 - 1
+i
+2022-12-31 16:00
+Fulham
+Southampton
+2 - 1
+i
+2022-12-31 16:00
+Bournemouth
+Crystal Palace
+0 - 2
+i
+2022-12-31 18:30
+Brighton
+Arsenal
+2 - 4
+i
+2023-01-01 15:00
+Tottenham
+Aston Villa
+0 - 2
+i
+2023-01-01 17:30
+Nottingham
+Chelsea
+1 - 1
+i
 Omgång 19
-2023-01-02 16:00
+2023-01-02 18:30
 Brentford
 Liverpool
+3 - 1
+i
 2023-01-03 20:45
 Everton
 Brighton
+1 - 4
+i
 2023-01-03 20:45
 Leicester
 Fulham
+0 - 1
+i
+2023-01-03 20:45
+Arsenal
+Newcastle
+0 - 0
+i
 2023-01-03 21:00
 Manchester U
 Bournemouth
-2023-01-03 21:00
-Arsenal
-Newcastle
+3 - 0
+i
 2023-01-04 20:30
 Southampton
 Nottingham
+0 - 1
+i
 2023-01-04 20:45
 Leeds United
 West Ham
-2023-01-04 21:00
-Crystal Palace
-Tottenham
+2 - 2
+i
 2023-01-04 21:00
 Aston Villa
 Wolves
+1 - 1
+i
+2023-01-04 21:00
+Crystal Palace
+Tottenham
+0 - 4
+i
 2023-01-05 21:00
 Chelsea
 Manchester C
+0 - 1
+i
 Omgång 20
-2023-01-14 16:00
-Brighton
-Liverpool
-2023-01-14 16:00
-Chelsea
-Crystal Palace
-2023-01-14 16:00
-Tottenham
-Arsenal
-2023-01-14 16:00
-Wolves
-West Ham
-2023-01-14 16:00
+2023-01-13 21:00
 Aston Villa
 Leeds United
-2023-01-14 16:00
-Everton
-Southampton
-2023-01-14 16:00
+2 - 1
+i
+2023-01-14 13:30
 Manchester U
 Manchester C
-2023-01-14 16:00
-Newcastle
-Fulham
+2 - 1
+i
 2023-01-14 16:00
 Nottingham
 Leicester
+2 - 0
+i
 2023-01-14 16:00
+Everton
+Southampton
+1 - 2
+i
+2023-01-14 16:00
+Brighton
+Liverpool
+3 - 0
+i
+2023-01-14 16:00
+Wolves
+West Ham
+1 - 0
+i
+2023-01-14 18:30
 Brentford
 Bournemouth
+2 - 0
+i
+2023-01-15 15:00
+Newcastle
+Fulham
+1 - 0
+i
+2023-01-15 15:00
+Chelsea
+Crystal Palace
+1 - 0
+i
+2023-01-15 17:30
+Tottenham
+Arsenal
+0 - 2
+i
 Omgång 21
-2023-01-21 16:00
+2023-01-21 13:30
 Liverpool
 Chelsea
-2023-01-21 16:00
-Manchester C
-Wolves
+0 - 0
+i
 2023-01-21 16:00
 Southampton
 Aston Villa
+0 - 1
+i
 2023-01-21 16:00
 West Ham
 Everton
+2 - 0
+i
 2023-01-21 16:00
 Bournemouth
 Nottingham
-2023-01-21 16:00
-Arsenal
-Manchester U
-2023-01-21 16:00
-Crystal Palace
-Newcastle
-2023-01-21 16:00
-Fulham
-Tottenham
-2023-01-21 16:00
-Leeds United
-Brentford
+1 - 1
+i
 2023-01-21 16:00
 Leicester
 Brighton
+2 - 2
+i
+2023-01-21 18:30
+Crystal Palace
+Newcastle
+0 - 0
+i
+2023-01-22 15:00
+Manchester C
+Wolves
+3 - 0
+i
+2023-01-22 15:00
+Leeds United
+Brentford
+0 - 0
+i
+2023-01-22 17:30
+Arsenal
+Manchester U
+3 - 2
+i
+2023-01-23 21:15
+Fulham
+Tottenham
+0 - 1
+i
 Omgång 22
-2022-11-05 16:00
-Manchester U
-Crystal Palace
-2023-02-04 16:00
-Newcastle
-West Ham
-2023-02-04 16:00
+2023-02-03 21:00
 Chelsea
 Fulham
-2023-02-04 16:00
+2023-02-04 13:30
 Everton
 Arsenal
-2023-02-04 16:00
-Nottingham
-Leeds United
-2023-02-04 16:00
-Tottenham
-Manchester C
 2023-02-04 16:00
 Aston Villa
 Leicester
@@ -958,10 +1184,25 @@ Crystal Palace
 2023-02-04 16:00
 Manchester U
 Crystal Palace
+2023-02-04 18:30
+Newcastle
+West Ham
+2023-02-05 15:00
+Nottingham
+Leeds United
+2023-02-05 17:30
+Tottenham
+Manchester C
 Omgång 23
-2022-12-26 16:00
-Leeds United
-Manchester U
+2023-02-11 13:30
+West Ham
+Chelsea
+2023-02-11 16:00
+Southampton
+Wolves
+2023-02-11 16:00
+Leicester
+Tottenham
 2023-02-11 16:00
 Fulham
 Nottingham
@@ -971,43 +1212,28 @@ Brighton
 2023-02-11 16:00
 Arsenal
 Brentford
-2023-02-11 16:00
+2023-02-11 18:30
 Bournemouth
 Newcastle
-2023-02-11 16:00
-West Ham
-Chelsea
-2023-02-11 16:00
-Southampton
-Wolves
-2023-02-11 16:00
+2023-02-12 15:00
+Leeds United
+Manchester U
+2023-02-12 17:30
 Manchester C
 Aston Villa
-2023-02-11 16:00
+2023-02-13 21:00
 Liverpool
 Everton
-2023-02-11 16:00
-Leicester
-Tottenham
 Omgång 24
-2023-02-18 16:00
+2023-02-18 13:30
 Aston Villa
 Arsenal
 2023-02-18 16:00
 Everton
 Leeds United
 2023-02-18 16:00
-Manchester U
-Leicester
-2023-02-18 16:00
-Newcastle
-Liverpool
-2023-02-18 16:00
 Wolves
 Bournemouth
-2023-02-18 16:00
-Tottenham
-West Ham
 2023-02-18 16:00
 Chelsea
 Southampton
@@ -1020,28 +1246,25 @@ Crystal Palace
 2023-02-18 16:00
 Brighton
 Fulham
+2023-02-18 18:30
+Newcastle
+Liverpool
+2023-02-19 15:00
+Manchester U
+Leicester
+2023-02-19 17:30
+Tottenham
+West Ham
 Omgång 25
-2023-02-25 16:00
+2023-02-24 21:00
 Fulham
 Wolves
-2023-02-25 16:00
-West Ham
-Nottingham
-2023-02-25 16:00
-Tottenham
-Chelsea
-2023-02-25 16:00
+2023-02-25 13:30
 Newcastle
 Brighton
 2023-02-25 16:00
-Crystal Palace
-Liverpool
-2023-02-25 16:00
-Bournemouth
-Manchester C
-2023-02-25 16:00
-Manchester U
-Brentford
+West Ham
+Nottingham
 2023-02-25 16:00
 Everton
 Aston Villa
@@ -1051,7 +1274,25 @@ Arsenal
 2023-02-25 16:00
 Leeds United
 Southampton
+2023-02-25 18:30
+Bournemouth
+Manchester C
+2023-02-25 20:45
+Crystal Palace
+Liverpool
+2023-02-26 14:30
+Tottenham
+Chelsea
+2023-02-26 14:30
+Manchester U
+Brentford
 Omgång 26
+2023-03-04 13:30
+Manchester C
+Newcastle
+2023-03-04 16:00
+Wolves
+Tottenham
 2023-03-04 16:00
 Arsenal
 Bournemouth
@@ -1059,48 +1300,30 @@ Bournemouth
 Aston Villa
 Crystal Palace
 2023-03-04 16:00
-Brentford
-Fulham
-2023-03-04 16:00
 Brighton
 West Ham
 2023-03-04 16:00
 Chelsea
 Leeds United
-2023-03-04 16:00
-Liverpool
-Manchester U
-2023-03-04 16:00
+2023-03-04 18:30
 Southampton
 Leicester
-2023-03-04 16:00
-Wolves
-Tottenham
-2023-03-04 16:00
-Manchester C
-Newcastle
-2023-03-04 16:00
+2023-03-05 15:00
 Nottingham
 Everton
+2023-03-05 17:30
+Liverpool
+Manchester U
+2023-03-06 21:00
+Brentford
+Fulham
 Omgång 27
-2023-03-11 16:00
-West Ham
-Aston Villa
-2023-03-11 16:00
-Leicester
-Chelsea
-2023-03-11 16:00
+2023-03-11 13:30
 Bournemouth
 Liverpool
 2023-03-11 16:00
-Crystal Palace
-Manchester C
-2023-03-11 16:00
-Leeds United
-Brighton
-2023-03-11 16:00
-Fulham
-Arsenal
+Leicester
+Chelsea
 2023-03-11 16:00
 Everton
 Brentford
@@ -1113,7 +1336,22 @@ Wolves
 2023-03-11 16:00
 Manchester U
 Southampton
+2023-03-11 16:00
+Leeds United
+Brighton
+2023-03-11 18:30
+Crystal Palace
+Manchester C
+2023-03-12 15:00
+West Ham
+Aston Villa
+2023-03-12 15:00
+Fulham
+Arsenal
 Omgång 28
+2023-03-17 21:00
+Nottingham
+Newcastle
 2023-03-18 16:00
 Wolves
 Leeds United
@@ -1121,29 +1359,26 @@ Leeds United
 Southampton
 Tottenham
 2023-03-18 16:00
-Nottingham
-Newcastle
-2023-03-18 16:00
-Manchester C
-West Ham
-2023-03-18 16:00
 Liverpool
 Fulham
-2023-03-18 16:00
-Chelsea
-Everton
-2023-03-18 16:00
-Brighton
-Manchester U
 2023-03-18 16:00
 Brentford
 Leicester
 2023-03-18 16:00
 Aston Villa
 Bournemouth
-2023-03-18 16:00
+2023-03-18 18:30
+Chelsea
+Everton
+2023-03-19 15:00
+Brighton
+Manchester U
+2023-03-19 15:00
 Arsenal
 Crystal Palace
+2023-03-19 17:30
+Manchester C
+West Ham
 Omgång 29
 2023-04-01 16:00
 West Ham
@@ -1300,21 +1535,6 @@ Brentford
 Manchester C
 Arsenal
 Omgång 34
-2022-11-13 15:00
-Brighton
-Wolves
-2023-04-29 16:00
-Brentford
-Nottingham
-2023-04-29 16:00
-Arsenal
-Chelsea
-2023-04-29 16:00
-Bournemouth
-Leeds United
-2023-04-29 16:00
-Fulham
-Manchester C
 2023-04-29 16:00
 Newcastle
 Southampton
@@ -1330,6 +1550,21 @@ Everton
 2023-04-29 16:00
 Crystal Palace
 West Ham
+2023-04-29 16:00
+Brighton
+Wolves
+2023-04-29 16:00
+Brentford
+Nottingham
+2023-04-29 16:00
+Arsenal
+Chelsea
+2023-04-29 16:00
+Bournemouth
+Leeds United
+2023-04-29 16:00
+Fulham
+Manchester C
 Omgång 35
 2023-05-06 16:00
 Wolves
@@ -1454,3 +1689,242 @@ Wolves
 2023-05-28 17:00
 Southampton
 Liverpool
+MEST LÄSTA
+HETASTE FORUM
+MEST KOMMENTARER
+Sillykollen: Tottenham
+England • igår 20:00
+1037
+Uppgifter: Chelsea överens med Lyon om Gusto
+Chelsea • igår 20:24
+1029
+Matchrapport: Manchester City - Arsenal (1-0)
+Arsenal • idag 11:45
+896
+Kan Preston ställa till det?
+Tottenham • igår 23:44
+852
+Stoke lånar in trio
+CHAMPIONSHIPPå två dagar har klubben presenterat sina tre första nyförvärv för vintern.
+Senaste nytt – Engelsk fotboll
+Sillykollen: Newcastle
+England • idag 15:00
+419
+Stoke lånar in trio
+Stoke • idag 14:48
+118
+Startelvan mot Leicester City
+Walsall • idag 13:01
+57
+Silly Season januari 2023
+West Ham • idag 11:52
+14556
+Matchrapport: Manchester City - Arsenal (1-0)
+Arsenal • idag 11:45
+891
+Inför: Brighton - Liverpool
+Liverpool • idag 11:44
+310
+Inför: Charlton – Bolton Wanderers
+Charlton • idag 10:08
+56
+Inför: AFC Wimbledon - Stockport County
+AFC Wimbledon • idag 09:45
+115
+Kan Preston ställa till det?
+Tottenham • igår 23:44
+852
+Inför FA-Cupen: Walsall - Leicester
+Leicester • igår 22:59
+170
+Halvtidsrapport
+Nottingham • igår 21:38
+230
+Inför: Manchester United - Reading
+Manchester U • igår 21:00
+739
+Uppgifter: Chelsea överens med Lyon om Gusto
+Chelsea • igår 20:24
+1029
+Sillykollen: Tottenham
+England • igår 20:00
+1037
+Inför Hull-QPR
+QPR • igår 19:24
+280
+» Visa fler nyheter
+Din plats på SF-läktaren
+INFORMATIONÖver 11 000 användare har redan laddat ner SvenskaFans app – har du?
+Chelsea överens om Gusto?
+SILLY SEASONSka ha nått en överenskommelse med Lyon kring högerbacken Malo Gusto.
+Sunderland värvar från Premier League
+CHAMPIONSHIPDen 20-årige anfallaren Joe Gelhardt ansluter härnäst från Leeds United.
+Humphreys lånas ut till Paderborn
+SILLY SEASONChelsea-försvararen lånas ut till 2.Bundesliga-klubben för resten av säsongen.
+Mendy på väg till West Ham?
+SILLY SEASONFölj det senaste kring West Ham.
+» Darren Randolph lämnar Hammers
+» Conor Coventry förlänger och lånas ut
+Flyttade matcher i mars
+PREMIER LEAGUEWest Ham-Aston Villa och Man City-West Ham har fått ny tid och nytt datum.
+» Skador & Avstängningar
+» Silly Season 2023
+Danjuma klar för Tottenham
+PREMIER LEAGUEHolländaren Arnaut Danjuma lånas in från spanska Villarreal säsongen ut.
+Mittfältare lånas ut
+SILLY SEASONFölj det senaste kring Charlton.
+Newcastle intresserade av Evertons Anthony Gordon
+SILLY SEASONDet senaste om Newcastle.
+Player of the year i Schweiz
+PREMIER LEAGUEUtmärkelse till Arsenals Xhaka.
+UEFA täcker upp kryphålet som Chelsea exploaterat
+PREMIER LEAGUEChelseas långa kontrakt har överraskat och förundrat fotbollsvärlden.
+Exeter-Barnsley inställd
+LEAGUE ONEEn frusen plan ställer till det.
+Wolves uppätna av Haaland
+PREMIER LEAGUEFörlust mot City på bortaplan.
+Fernandez på tapeten igen
+PREMIER LEAGUEChelsea kommer försöka få in argentinaren innan januarifönstret stänger.
+» Akademin vecka 3
+» Potter om hur Noni Madueke kommer förstärka Chelsea
+» ”Kommer leva upp till sin prislapp”
+Skön start för Mousinho
+LEAGUE ONEJohn Mousinhos första match som coach för Pompey slutade med en 2-0-seger.
+Charlton värvar vänsterback
+SILLY SEASONFölj det senaste kring Charlton.
+Matchen blev avbruten
+DAMFOTBOLLSofia Almroth om Chelseas vecka.
+Dawson lämnar West Ham
+SILLY SEASONCraig Dawson till Wolves.
+» Skador och avstängningar
+» Ny damspelare i West Ham
+» Silly Season West Ham
+Bowen matchvinnare mot Everton
+PREMIER LEAGUEHammers tog en ytterst viktig trea hemma mot bottenkollegan Everton.
+Islossning för Stoke
+CHAMPIONSHIPStoke tog en viktig seger när man körde över gästande Reading på Bet365.
+”Heavey-metalfotbollen finns inte längre kvar”
+PREMIER LEAGUEFem tankar efter Chelsea.
+Barnsley tillbaka på vinnarspåret
+LEAGUE ONEAccrington hade inte mycket att sätta emot hemmalaget som avgjorde tidigt.
+Bowen sänkte Everton
+PREMIER LEAGUESe alla mål och höjdpunkter från lördagens matcher i Premier League.
+Scamacca med en knäskada
+PREMIER LEAGUEDe senaste uppdateringarna kring West Hams skador och avstängningar.
+Leicester värvar danskt
+SILLY SEASONVänsterback från FC Köpenhamn ansluter till engelska klubben för 15 miljoner.
+En spelare med mycket potential
+PREMIER LEAGUEGraham Potters presskonferens inför mötet med Liverpool.
+John Mousinho ny coach i Portsmouth
+LEAGUE ONEMousinho får sitt första uppdrag som förstecoach i en klubb som vacklar.
+Emirates Stadium byter skepnad
+PREMIER LEAGUEArsenals arenaväggar kläs om.
+» Okonkwo och Azeez byter låneklubbar
+» U18 vidare i FA Youth Cup
+» Ovie Ejeheri byter klubb
+Lapp på luckan mot Leicester
+FA-CUPENBiljetterna till FA-cupmatchen hemma mot Leicester den 28 januari är nu slutsålda. 
+Ledley Kings Knä: Sacking Pace
+FANRADIOContes kontraktssituation i limbo! Kanes framtid i limbo! Hela världen är i limbo!.
+I'll see you in my dreams
+FANRADIOI veckans avsnitt av podden hyllas Kompanys kompani och Corberans killar.
+”Bröderna Rongedal”
+FANRADIOLyssna på avsnitt 64 av UTD Podden.
+Emery kunde checka av ännu en hemmaseger
+PREMIER LEAGUEAston Villa slog Leeds.
+Johnson & Cashman lämnar
+SILLY SEASONFölj det senaste kring Walsall.
+”Det kändes inte rättvist med 1-1 efter den insatsen”
+DAMFOTBOLLSofia Almroth om Chelseas vecka.
+Portsmouth vek ner sig i Bolton
+LEAGUE ONEUtan ledartyper som tar ansvar och utan förstecoach var Portsmouth ett lätt byte.
+Tre viktiga poäng till Wolves
+PREMIER LEAGUESlog West Ham på Molineux.
+» Dåliga trenden fortsätter för West Ham
+Irakisk landslagsman klar
+SILLY SEASONSenaste nytt om Wimbledon.
+“Jag är så lycklig över att skriva på för Chelsea”
+SILLY SEASONMudryk är klar för Chelsea.
+Arsenal dominerade i derbyt
+PREMIER LEAGUESe samtliga höjdpunkter från söndagens matcher i Premier League.
+Rashford frälste United i derbyt
+PREMIER LEAGUESe samtliga mål från lördagens matcher i Premier League.
+”Ingen vidare match av Walsall”
+LEAGUE TWOWalsall fick med sig en poäng från bortamatchen mot Tranmere Rovers.
+Villa tog viktig seger mot Leeds
+PREMIER LEAGUESe fredagens mål i PL här.
+Jamille Matt klar för Walsall
+SILLY SEASONKonkurrerade ut Tranmere.
+» Matt och Flynn om övergången
+MacGillivray lämnar Charlton
+SILLY SEASONMålvakten säljs till Burton Albion.
+”Haft svårt att få ut sin potential”
+SILLY SEASONDelap återkallas av Manchester City från Stoke – går till ligakonkurent. 
+”Inte ens Potter kan trolla”
+PANELENMagiska minut 93, Bale tackar för sig och hur är det med Real Madrids form?
+Fulham besegrade Chelsea i Londonderbyt
+PREMIER LEAGUESe målen och höjdpunkterna.
+Ledley Kings Knä: Qatar, here we go
+FANRADIOOm Qatars ryktade investering i Spurs! Poddens framtid på spel! NLD på gång!
+Bonne tillbaka i Charlton
+LEAGUE ONEÅtervändande Macauley Bonne är Charltons första värvning under januarifönstret.
+» Silly Season Charlton
+Ny anfallare på gång till Walsall?
+SILLY SEASON33-årige Jamille Matt ryktas in.
+» Earing borta resten av säsongen
+QPR lånar från Bournemouth
+SILLY SEASONJamal Lowe förstärker truppen.
+Fiasko för City – utslagna ur Ligacupen
+LIGACUPENSe samtliga mål och höjdpunkter från kvällens kvartsfinaler i Ligacupen här.
+Leicester utslagna ur Ligacupen
+LIGACUPENEfter en svag insats på St.James Park mot Newcastle tog årets cupäventyr slut.
+Lånen Griffiths och Koroma avslutas
+SILLY SEASONFölj det senaste om Portsmouth.
+”The Salford Silva”
+FANRADIOFootball's coming home är tillbaka.
+Men kan de göra det en regnig tisdag i Bolton?
+EFL TROPHYPortsmouth sumpade bästa chansen att ta sig till Wembley denna säsong.
+”Det är en enorm klubb”
+PREMIER LEAGUENyförvärvet Benoit Badiashiles första intervju efter övergången till Chelsea.
+» Loftus-Cheek gör sig redo
+» Akademin vecka 1
+Har börjat uppträda stabilt
+LEAGUE ONECharlton slog Lincoln med 2-1 och det var den första hemmasegern sedan oktober.
+”Intressanta kandidater finns”
+FA-CUPENPortsmouth utslagna mot Tottenham – sökandet efter tränare fortsätter.
+Hetaste forum
+Arsenal
+Hammarby
+Helsingborg
+Djurgården
+Göteborg
+Alla forum
+Länkar
+Om SvenskaFans
+RSS-feed
+I mobilen
+Kontakta oss
+Annonsera
+Cookies
+Ladda hem vår app
+Sponsor
+En del av
+Sillykollen: Tottenham
+Uppgifter: Chelsea överens med Lyon om Gusto
+Matchrapport: Manchester City - Arsenal (1-0)
+Kan Preston ställa till det?
+Sillykollen: Newcastle
+Stoke lånar in trio
+Startelvan mot Leicester City
+Silly Season januari 2023
+Matchrapport: Manchester City - Arsenal (1-0)
+Inför: Brighton - Liverpool
+Inför: Charlton – Bolton Wanderers
+Inför: AFC Wimbledon - Stockport County
+Kan Preston ställa till det?
+Inför FA-Cupen: Walsall - Leicester
+Halvtidsrapport
+Inför: Manchester United - Reading
+Uppgifter: Chelsea överens med Lyon om Gusto
+Sillykollen: Tottenham
+Inför Hull-QPR

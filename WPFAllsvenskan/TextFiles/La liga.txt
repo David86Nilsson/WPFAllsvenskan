@@ -926,9 +926,13 @@ i
 2023-02-01 21:00
 Real Betis
 Barcelona
+1 - 2
+i
 2023-02-02 21:00
 Real Madrid
 Valencia
+2 - 0
+i
 Omgång 18
 2023-01-20 21:00
 Mallorca
@@ -994,55 +998,89 @@ i
 2023-01-28 16:15
 Girona
 Barcelona
+0 - 1
+i
 2023-01-28 18:30
 Sevilla
 Elche
+3 - 0
+i
 2023-01-28 21:00
 Getafe
 Real Betis
+0 - 1
+i
 2023-01-29 14:00
 Valladolid
 Valencia
+1 - 0
+i
 2023-01-29 16:15
 Osasuna
 Atlético
+0 - 1
+i
 2023-01-29 18:30
 Celta Vigo
 Athletic
+1 - 0
+i
 2023-01-29 21:00
 Real Madrid
 Sociedad
+0 - 0
+i
 2023-01-30 21:00
 Villarreal
 Rayo Vallecano
+0 - 1
+i
 Omgång 20
 2023-02-03 21:00
 Athletic
 Cádiz
+4 - 1
+i
 2023-02-04 14:00
 Espanyol
 Osasuna
+1 - 1
+i
 2023-02-04 16:15
 Elche
 Villarreal
+3 - 1
+i
 2023-02-04 18:30
 Atlético
 Getafe
+1 - 1
+i
 2023-02-04 21:00
 Real Betis
 Celta Vigo
+3 - 4
+i
 2023-02-05 14:00
 Mallorca
 Real Madrid
+1 - 0
+i
 2023-02-05 16:15
 Girona
 Valencia
+1 - 0
+i
 2023-02-05 18:30
 Sociedad
 Valladolid
+0 - 1
+i
 2023-02-05 21:00
 Barcelona
 Sevilla
+3 - 0
+i
 2023-02-06 21:00
 Rayo Vallecano
 Almeria
@@ -1074,40 +1112,40 @@ Barcelona
 2023-02-13 21:00
 Espanyol
 Sociedad
-2023-02-15 20:00
+2023-02-15 21:00
 Real Madrid
 Elche
 Omgång 22
-2023-02-19 20:00
-Getafe
-Valencia
-2023-02-19 20:00
-Real Betis
-Valladolid
-2023-02-19 20:00
-Elche
-Espanyol
-2023-02-19 20:00
-Sociedad
-Celta Vigo
-2023-02-19 20:00
-Atlético
-Athletic
-2023-02-19 20:00
+2023-02-17 21:00
 Girona
 Almeria
-2023-02-19 20:00
-Rayo Vallecano
-Sevilla
-2023-02-19 20:00
-Osasuna
-Real Madrid
-2023-02-19 20:00
-Barcelona
-Cádiz
-2023-02-19 20:00
+2023-02-18 14:00
+Sociedad
+Celta Vigo
+2023-02-18 16:15
+Real Betis
+Valladolid
+2023-02-18 18:30
 Mallorca
 Villarreal
+2023-02-18 21:00
+Osasuna
+Real Madrid
+2023-02-19 14:00
+Elche
+Espanyol
+2023-02-19 16:15
+Rayo Vallecano
+Sevilla
+2023-02-19 18:30
+Atlético
+Athletic
+2023-02-19 21:00
+Barcelona
+Cádiz
+2023-02-20 21:00
+Getafe
+Valencia
 Omgång 23
 2023-02-26 20:00
 Espanyol
@@ -1607,61 +1645,66 @@ Cádiz
 MEST LÄSTA
 HETASTE FORUM
 MEST KOMMENTARER
-Girona FC – FC Barcelona: 0–1
-Barcelona • idag 18:14
-18
-Marcos Alonso förlänger
-LA LIGADen spanske försvararen förlänger kontraktet ytterligare ett år med FC Barcelona.
+Mallorca-Real Madrid: 1-0 – Ligatiteln borta
+Real Madrid • igår 16:09
+984
+Matchrapport: FC Barcelona - Sevilla FC 3 - 0
+Barcelona • idag 09:30
+121
+MQUP #71 - Tebas värld
+FANRADIOOm uddamålsvinsterna, Gavis kontrakt, den allsmäktige Tebas och mer.
 Senaste nytt – Spansk fotboll
-Girona FC – FC Barcelona: 0–1
-Barcelona • idag 18:14
-18
-Officiellt: Marcos Alonso förlänger kontraktet
-Barcelona • igår 16:29
-347
-Inför: Girona FC – FC Barcelona
-Barcelona • igår 16:15
-659
-Barça B-kollen: Ángel Alarcón förlänger
-Barcelona • igår 15:55
-146
-FC Barcelona – Real Sociedad: 1–0
-Barcelona • 2023-01-25 22:56
-966
-Inför: Real Madrid - Atletico Madrid
-Real Madrid • 2023-01-25 19:30
-1462
-Inför: FC Barcelona – Real Sociedad
-Barcelona • 2023-01-24 21:00
-1100
-Fotbollselitisten
-Zaragoza • 2023-01-24 15:53
-181
+Matchrapport: FC Barcelona - Sevilla FC 3 - 0
+Barcelona • idag 09:30
+114
+Mallorca-Real Madrid: 1-0 – Ligatiteln borta
+Real Madrid • igår 16:09
+984
+Inför: FC Barcelona – Sevilla FC
+Barcelona • 2023-02-04 13:00
+737
+La gran reencarnación de Dani Ceballos
+Real Madrid • 2023-02-03 23:46
+700
+Matchrapport: Vinicius fortsätter vara den mest utsatta spelaren i…
+Real Madrid • 2023-02-03 00:40
+1184
+Inför Real Madrid – Valencia: Tre poäng är ett måste!
+Real Madrid • 2023-02-02 14:56
+539
+La Liga-redaktionerna kommenterar Deadline Day
+Spanien • 2023-02-02 07:00
+616
 2
-MQUP #70 - Dubbeltiteln
-Barcelona • 2023-01-24 06:00
-236
-La Setmana Blaugrana - v.3: Piqué-turnering, Messi-liknelse …
-Barcelona • 2023-01-23 06:00
-693
-Bilbao - Real Madrid: 0-2
-Real Madrid • 2023-01-22 23:08
-1425
-FC Barcelona – Getafe CF: 1–0
-Barcelona • 2023-01-22 22:40
-806
-Officiellt: Memphis Depay till Atlético Madrid
-Barcelona • 2023-01-22 12:49
-1059
-Inför: FC Barcelona – Getafe CF
-Barcelona • 2023-01-22 00:11
-834
-Inför: Athletic Bilbao - Real Madrid
-Real Madrid • 2023-01-21 15:35
-869
+Real Betis – FC Barcelona: 1–2
+Barcelona • 2023-02-01 23:45
+894
+MQUP #71 - Tebas värld
+Barcelona • 2023-02-01 15:15
+389
+Inför: Real Betis – FC Barcelona
+Barcelona • 2023-02-01 12:15
+676
+Barça-notiser 1/2:
+Barcelona • 2023-02-01 11:08
+359
+Officiellt: Bellerín till Sporting CP
+Barcelona • 2023-02-01 10:46
+368
+Sillykollen: FC Barcelona
+Spanien • 2023-01-31 20:00
+491
+Sillykollen: Real Madrid
+Spanien • 2023-01-31 09:00
+650
+Sillykollen: Real Sociedad
+Spanien • 2023-01-30 20:00
+253
 » Visa fler nyheter
 Din plats på SF-läktaren
 INFORMATIONÖver 11 000 användare har redan laddat ner SvenskaFans app – har du?
+Pudel, 50 raka & kontrakt
+LA LIGABåde positiva och negativa nyheter summeras i veckosvepet om Barcelona.
 Fotbollselitisten
 LA LIGA 2Att hålla på Zaragoza är svårare än att hålla på Real Madrid, skriver Nina Månsson.
 MQUP #70: Dubbeltiteln
@@ -1711,20 +1754,14 @@ LA LIGAFrågan är var framtiden finns för den La Masia-fostrade målvakten Arn
 LA LIGA 2Medan världen spelar VM spelar Zaragoza vidare med en ny tränare vid rodret.
 Tillägnat Gerard Piqué
 FANRADIOFrån en sen majkväll på Santiago Bernabéu, via Wembley, Johannesburg, ett par Clásicon till, Berlin och en vallokal i Barcelona.
-Nya tränaren på plats
-LA LIGA 2Nu står det klart vem som hädanefter kommer leda Real Zaragoza efter Carcedo.
-Zaragoza sparkar Carcedo
-LA LIGA 2Efter en tids svaga resultat får både tränare och sportchef Miguel Torrecilla sparken.
-Hänger tränare Carcedo löst?
-LA LIGA 2Trots spel med en man mer i nästan en timme föll Zaragoza hemma mot Alavés. 
 MQUP #65: Ligatopp
 FANRADIOSenaste avsnittet av Barça-podden.
 Hetaste forum
-Arsenal
-Hammarby
-Helsingborg
-Djurgården
-Göteborg
+Real Madrid
+Milan
+Inter
+Barcelona
+Leeds United
 Alla forum
 Länkar
 Om SvenskaFans
@@ -1736,19 +1773,20 @@ Cookies
 Ladda hem vår app
 Sponsor
 En del av
-Girona FC – FC Barcelona: 0–1
-Girona FC – FC Barcelona: 0–1
-Officiellt: Marcos Alonso förlänger kontraktet
-Inför: Girona FC – FC Barcelona
-Barça B-kollen: Ángel Alarcón förlänger
-FC Barcelona – Real Sociedad: 1–0
-Inför: Real Madrid - Atletico Madrid
-Inför: FC Barcelona – Real Sociedad
-Fotbollselitisten
-MQUP #70 - Dubbeltiteln
-La Setmana Blaugrana - v.3: Piqué-turnering, Messi-liknelse …
-Bilbao - Real Madrid: 0-2
-FC Barcelona – Getafe CF: 1–0
-Officiellt: Memphis Depay till Atlético Madrid
-Inför: FC Barcelona – Getafe CF
-Inför: Athletic Bilbao - Real Madrid
+Mallorca-Real Madrid: 1-0 – Ligatiteln borta
+Matchrapport: FC Barcelona - Sevilla FC 3 - 0
+Matchrapport: FC Barcelona - Sevilla FC 3 - 0
+Mallorca-Real Madrid: 1-0 – Ligatiteln borta
+Inför: FC Barcelona – Sevilla FC
+La gran reencarnación de Dani Ceballos
+Matchrapport: Vinicius fortsätter vara den mest utsatta spelaren i…
+Inför Real Madrid – Valencia: Tre poäng är ett måste!
+La Liga-redaktionerna kommenterar Deadline Day
+Real Betis – FC Barcelona: 1–2
+MQUP #71 - Tebas värld
+Inför: Real Betis – FC Barcelona
+Barça-notiser 1/2:
+Officiellt: Bellerín till Sporting CP
+Sillykollen: FC Barcelona
+Sillykollen: Real Madrid
+Sillykollen: Real Sociedad

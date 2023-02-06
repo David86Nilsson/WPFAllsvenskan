@@ -1824,12 +1824,11 @@ Middlesbrough
 Watford
 2 - 0
 i
-2023-01-28 16:00
-Preston
-Coventry
 2023-01-31 20:45
 Luton
 Cardiff
+1 - 0
+i
 2023-02-21 20:45
 Rotherham
 Sunderland
@@ -1845,6 +1844,9 @@ Burnley
 2023-02-21 20:45
 Norwich
 Birmingham
+2023-02-28 20:45
+Preston
+Coventry
 2023-03-07 20:45
 Huddersfield
 Bristol City
@@ -1858,36 +1860,58 @@ Omgång 30
 2023-02-03 21:00
 WBA
 Coventry
+1 - 0
+i
 2023-02-04 13:30
 Norwich
 Burnley
+0 - 3
+i
 2023-02-04 13:30
 Rotherham
 Sheffield U
+0 - 0
+i
 2023-02-04 16:00
 Reading
 Watford
+2 - 2
+i
 2023-02-04 16:00
 Millwall
 Sunderland
+1 - 1
+i
 2023-02-04 16:00
 Swansea
 Birmingham
+3 - 4
+i
 2023-02-04 16:00
 Middlesbrough
 Blackpool
+3 - 0
+i
 2023-02-04 16:00
 Hull City
 Cardiff
+1 - 0
+i
 2023-02-04 16:00
 Huddersfield
 QPR
+1 - 1
+i
 2023-02-04 16:00
 Luton
 Stoke
+1 - 0
+i
 2023-02-04 16:00
 Preston
 Bristol City
+1 - 2
+i
 2023-02-06 21:00
 Blackburn
 Wigan
@@ -2486,69 +2510,136 @@ Stoke
 MEST LÄSTA
 HETASTE FORUM
 MEST KOMMENTARER
-Sillykollen: Tottenham
-England • igår 20:00
-1037
-Uppgifter: Chelsea överens med Lyon om Gusto
-Chelsea • igår 20:24
-1029
-Matchrapport: Manchester City - Arsenal (1-0)
-Arsenal • idag 11:45
-896
-Kan Preston ställa till det?
-Tottenham • igår 23:44
-852
-Stoke lånar in trio
-CHAMPIONSHIPPå två dagar har klubben presenterat sina tre första nyförvärv för vintern.
+Tre poäng - Manchester City at home
+Tottenham • igår 19:36
+2339
+5
+Fem tankar efter Wolverhampton-Liverpool
+Liverpool • igår 13:00
+2025
+Veckans Liverpool: Frustration, skador och total kris
+Liverpool • igår 22:00
+1656
+Kane spräcker nollan – rekordmålskytt för Tottenham
+Tottenham • igår 18:06
+1185
+”Tar knappt ett steg fel”
+PREMIER LEAGUESpelarbetyg på West Ham efter att laget spelat 1-1 borta mot Newcastle.
 Senaste nytt – Engelsk fotboll
-Sillykollen: Newcastle
-England • idag 15:00
-419
-Stoke lånar in trio
-Stoke • idag 14:48
-118
-Startelvan mot Leicester City
-Walsall • idag 13:01
-57
-Silly Season januari 2023
-West Ham • idag 11:52
-14556
-Matchrapport: Manchester City - Arsenal (1-0)
-Arsenal • idag 11:45
-891
-Inför: Brighton - Liverpool
-Liverpool • idag 11:44
+Spelarbetyg: Newcastle–West Ham 1–1
+West Ham • idag 00:46
 310
-Inför: Charlton – Bolton Wanderers
-Charlton • idag 10:08
-56
-Inför: AFC Wimbledon - Stockport County
-AFC Wimbledon • idag 09:45
-115
-Kan Preston ställa till det?
-Tottenham • igår 23:44
-852
-Inför FA-Cupen: Walsall - Leicester
-Leicester • igår 22:59
-170
-Halvtidsrapport
-Nottingham • igår 21:38
-230
-Inför: Manchester United - Reading
-Manchester U • igår 21:00
-739
-Uppgifter: Chelsea överens med Lyon om Gusto
-Chelsea • igår 20:24
-1029
-Sillykollen: Tottenham
-England • igår 20:00
-1037
-Inför Hull-QPR
-QPR • igår 19:24
-280
+Veckans Liverpool: Frustration, skador och total kris
+Liverpool • igår 22:00
+1660
+Tre poäng - Manchester City at home
+Tottenham • igår 19:36
+2342
+5
+Matchrapport: Wolves-Liverpool 3-0
+Wolves • igår 19:03
+790
+Kane spräcker nollan – rekordmålskytt för Tottenham
+Tottenham • igår 18:06
+1185
+Spelarbetyg: Nottingham 1 Leeds 0
+Nottingham • igår 17:33
+707
+Matchrapport: Sunderland kryssade mot Millwall
+Sunderland • igår 13:35
+136
+En typisk Stoke-förlust 2022/2023
+Stoke • igår 13:06
+119
+Premier League i halvtid - West Ham: "Tror och hoppas vi håller …
+England • igår 13:04
+210
+Fem tankar efter Wolverhampton-Liverpool
+Liverpool • igår 13:00
+2025
+Manchester United 2 – 1 Crystal Palace
+Manchester U • igår 09:37
+720
+Inför FA-Cupen: Sheffield United- Wrexham (omspel)
+Sheffield U • igår 08:27
+191
+Portsmouth och Barnsley delade på poängen
+Barnsley • 2023-02-04 21:33
+74
+När Spurs ska hjälpa Arsenal ta titeln
+Tottenham • 2023-02-04 20:55
+2211
+4
+Aston Villa – Leicester 2-4
+Leicester • 2023-02-04 20:51
+380
 » Visa fler nyheter
 Din plats på SF-läktaren
 INFORMATIONÖver 11 000 användare har redan laddat ner SvenskaFans app – har du?
+Sunderland kryssade mot Millwall
+THE CHAMPIONSHIPEn trea hade betytt mycket.
+”Avståndet ökar”
+PREMIER LEAGUESpelarbetyg i Nottingham Forest efter uddamålssegern mot Leeds.
+En typisk Stoke-förlust
+THE CHAMPIONSHIPUddamålsförlust för Stoke.
+Tre välbehövliga poäng borta mot Aston Villa
+PREMIER LEAGUEFörsta seger sedan innan VM.
+Sheffield möter Wrexham – igen
+FA-CUPENVinnaren ställs mot Tottenham.
+”Sticker ut mest”
+CHAMPIONSHIPLinus Norrbin med en summering av Stoke Citys transferfönster.
+Succédebuten uteblev
+PREMIER LEAGUEMudryk fick chansen från start – utbytt i halvtid.
+
+» Tre nyförvärv tillagda i Chelseas CL-trupp
+» Potter om skadeläget i truppen
+Tufft motstånd för West Ham
+FA-CUPENDen femte omgången är lottad och West Ham ställs mot Man United på bortaplan.
+» Skador & Avstängningar West Ham
+Har Tottenham en plan?
+FANRADIOPodden om Tottenham ”Ledley Kings Knä” är tillbaka med ett rykande färskt avsnitt.
+Bäste målskytten i Ligue 1
+PREMIER LEAGUEBalogun imponerar i Reims.
+”Känns som man gått i lögnernas fälla”
+LEAGUE ONECharltons fönster sammanfattas.
+Transferspecial med cupromantik
+FANRADIOFootball's coming home är tillbaka med ett nytt rykande fullspäckat avsnitt.
+”Ledningen satt inte stilla i båten”
+LEAGUE ONESummering av Barnsleys fönster.
+Longelo lämnar West Ham
+SILLY SEASONPermanent flytt till Birmingham.
+» Thestrup och Cooke till West Ham
+» Silly Season West Ham
+Wolves transferfönster
+SILLY SEASONDetta hände under vinterfönstret.
+Leicester värvar mittback
+SILLY SEASONEn australiensisk jätte ansluter.
+Matt Stevens till Walsall
+SILLY SEASONLånas från Forest Green Rovers.
+Förstärkningar i försvaret
+SILLY SEASONÄven Pompeys mittfält förstärks.
+Charlton tar in ny mittback
+SILLY SEASONMichael Hector ansluter.
+Marquinhos till Norwich
+SILLY SEASONDen unge brasilianaren lånas ut från Arsenal under resten av säsongen.
+» Omar Rekik byter låneklubb
+West Ham vill ha Ayew?
+SILLY SEASONFölj det senaste om Hammers.
+» FA-cupens femte omgång är lottad
+”Fantastiska 9-0 mot Leeds”
+DAMFOTBOLLArsenals damer vidare i FA-cupen.
+Tre poäng på två matcher
+LEAGUE ONEPortsmouth bortaslog Fleetwood innan det blev förlust borta mot Peterborough.
+”Tillsammans helt avgörande”
+LEAGUE ONECharlton föll fullt rättvist hemma mot ett toppjagande Bolton.
+”En snabb och vänsterfotad ytter”
+PREMIER LEAGUELeicester City värvar under fönstret finaldagar – brassen Tete klar.
+Officiellt: Malo Gusto är klar för Chelsea
+SILLY SEASONHögerbacken stannar kvar på lån i Lyon, men ansluter till Chelsea först i sommar.
+Danjuma gjorde mål i debuten
+FA-CUPENHeung-min Son tog ansvar och nyförvärvet Arnaut Danjuma målade i direkt. 
+Stoke lånar in trio
+CHAMPIONSHIPPå två dagar har klubben presenterat sina tre första nyförvärv för vintern.
 Chelsea överens om Gusto?
 SILLY SEASONSka ha nått en överenskommelse med Lyon kring högerbacken Malo Gusto.
 Sunderland värvar från Premier League
@@ -2599,99 +2690,12 @@ Islossning för Stoke
 CHAMPIONSHIPStoke tog en viktig seger när man körde över gästande Reading på Bet365.
 ”Heavey-metalfotbollen finns inte längre kvar”
 PREMIER LEAGUEFem tankar efter Chelsea.
-Barnsley tillbaka på vinnarspåret
-LEAGUE ONEAccrington hade inte mycket att sätta emot hemmalaget som avgjorde tidigt.
-Bowen sänkte Everton
-PREMIER LEAGUESe alla mål och höjdpunkter från lördagens matcher i Premier League.
-Scamacca med en knäskada
-PREMIER LEAGUEDe senaste uppdateringarna kring West Hams skador och avstängningar.
-Leicester värvar danskt
-SILLY SEASONVänsterback från FC Köpenhamn ansluter till engelska klubben för 15 miljoner.
-En spelare med mycket potential
-PREMIER LEAGUEGraham Potters presskonferens inför mötet med Liverpool.
-John Mousinho ny coach i Portsmouth
-LEAGUE ONEMousinho får sitt första uppdrag som förstecoach i en klubb som vacklar.
-Emirates Stadium byter skepnad
-PREMIER LEAGUEArsenals arenaväggar kläs om.
-» Okonkwo och Azeez byter låneklubbar
-» U18 vidare i FA Youth Cup
-» Ovie Ejeheri byter klubb
-Lapp på luckan mot Leicester
-FA-CUPENBiljetterna till FA-cupmatchen hemma mot Leicester den 28 januari är nu slutsålda. 
-Ledley Kings Knä: Sacking Pace
-FANRADIOContes kontraktssituation i limbo! Kanes framtid i limbo! Hela världen är i limbo!.
-I'll see you in my dreams
-FANRADIOI veckans avsnitt av podden hyllas Kompanys kompani och Corberans killar.
-”Bröderna Rongedal”
-FANRADIOLyssna på avsnitt 64 av UTD Podden.
-Emery kunde checka av ännu en hemmaseger
-PREMIER LEAGUEAston Villa slog Leeds.
-Johnson & Cashman lämnar
-SILLY SEASONFölj det senaste kring Walsall.
-”Det kändes inte rättvist med 1-1 efter den insatsen”
-DAMFOTBOLLSofia Almroth om Chelseas vecka.
-Portsmouth vek ner sig i Bolton
-LEAGUE ONEUtan ledartyper som tar ansvar och utan förstecoach var Portsmouth ett lätt byte.
-Tre viktiga poäng till Wolves
-PREMIER LEAGUESlog West Ham på Molineux.
-» Dåliga trenden fortsätter för West Ham
-Irakisk landslagsman klar
-SILLY SEASONSenaste nytt om Wimbledon.
-“Jag är så lycklig över att skriva på för Chelsea”
-SILLY SEASONMudryk är klar för Chelsea.
-Arsenal dominerade i derbyt
-PREMIER LEAGUESe samtliga höjdpunkter från söndagens matcher i Premier League.
-Rashford frälste United i derbyt
-PREMIER LEAGUESe samtliga mål från lördagens matcher i Premier League.
-”Ingen vidare match av Walsall”
-LEAGUE TWOWalsall fick med sig en poäng från bortamatchen mot Tranmere Rovers.
-Villa tog viktig seger mot Leeds
-PREMIER LEAGUESe fredagens mål i PL här.
-Jamille Matt klar för Walsall
-SILLY SEASONKonkurrerade ut Tranmere.
-» Matt och Flynn om övergången
-MacGillivray lämnar Charlton
-SILLY SEASONMålvakten säljs till Burton Albion.
-”Haft svårt att få ut sin potential”
-SILLY SEASONDelap återkallas av Manchester City från Stoke – går till ligakonkurent. 
-”Inte ens Potter kan trolla”
-PANELENMagiska minut 93, Bale tackar för sig och hur är det med Real Madrids form?
-Fulham besegrade Chelsea i Londonderbyt
-PREMIER LEAGUESe målen och höjdpunkterna.
-Ledley Kings Knä: Qatar, here we go
-FANRADIOOm Qatars ryktade investering i Spurs! Poddens framtid på spel! NLD på gång!
-Bonne tillbaka i Charlton
-LEAGUE ONEÅtervändande Macauley Bonne är Charltons första värvning under januarifönstret.
-» Silly Season Charlton
-Ny anfallare på gång till Walsall?
-SILLY SEASON33-årige Jamille Matt ryktas in.
-» Earing borta resten av säsongen
-QPR lånar från Bournemouth
-SILLY SEASONJamal Lowe förstärker truppen.
-Fiasko för City – utslagna ur Ligacupen
-LIGACUPENSe samtliga mål och höjdpunkter från kvällens kvartsfinaler i Ligacupen här.
-Leicester utslagna ur Ligacupen
-LIGACUPENEfter en svag insats på St.James Park mot Newcastle tog årets cupäventyr slut.
-Lånen Griffiths och Koroma avslutas
-SILLY SEASONFölj det senaste om Portsmouth.
-”The Salford Silva”
-FANRADIOFootball's coming home är tillbaka.
-Men kan de göra det en regnig tisdag i Bolton?
-EFL TROPHYPortsmouth sumpade bästa chansen att ta sig till Wembley denna säsong.
-”Det är en enorm klubb”
-PREMIER LEAGUENyförvärvet Benoit Badiashiles första intervju efter övergången till Chelsea.
-» Loftus-Cheek gör sig redo
-» Akademin vecka 1
-Har börjat uppträda stabilt
-LEAGUE ONECharlton slog Lincoln med 2-1 och det var den första hemmasegern sedan oktober.
-”Intressanta kandidater finns”
-FA-CUPENPortsmouth utslagna mot Tottenham – sökandet efter tränare fortsätter.
 Hetaste forum
-Arsenal
-Hammarby
-Helsingborg
-Djurgården
-Göteborg
+Real Madrid
+Milan
+Inter
+Barcelona
+Leeds United
 Alla forum
 Länkar
 Om SvenskaFans
@@ -2703,22 +2707,22 @@ Cookies
 Ladda hem vår app
 Sponsor
 En del av
-Sillykollen: Tottenham
-Uppgifter: Chelsea överens med Lyon om Gusto
-Matchrapport: Manchester City - Arsenal (1-0)
-Kan Preston ställa till det?
-Sillykollen: Newcastle
-Stoke lånar in trio
-Startelvan mot Leicester City
-Silly Season januari 2023
-Matchrapport: Manchester City - Arsenal (1-0)
-Inför: Brighton - Liverpool
-Inför: Charlton – Bolton Wanderers
-Inför: AFC Wimbledon - Stockport County
-Kan Preston ställa till det?
-Inför FA-Cupen: Walsall - Leicester
-Halvtidsrapport
-Inför: Manchester United - Reading
-Uppgifter: Chelsea överens med Lyon om Gusto
-Sillykollen: Tottenham
-Inför Hull-QPR
+Tre poäng - Manchester City at home
+Fem tankar efter Wolverhampton-Liverpool
+Veckans Liverpool: Frustration, skador och total kris
+Kane spräcker nollan – rekordmålskytt för Tottenham
+Spelarbetyg: Newcastle–West Ham 1–1
+Veckans Liverpool: Frustration, skador och total kris
+Tre poäng - Manchester City at home
+Matchrapport: Wolves-Liverpool 3-0
+Kane spräcker nollan – rekordmålskytt för Tottenham
+Spelarbetyg: Nottingham 1 Leeds 0
+Matchrapport: Sunderland kryssade mot Millwall
+En typisk Stoke-förlust 2022/2023
+Premier League i halvtid - West Ham: "Tror och hoppas vi håller …
+Fem tankar efter Wolverhampton-Liverpool
+Manchester United 2 – 1 Crystal Palace
+Inför FA-Cupen: Sheffield United- Wrexham (omspel)
+Portsmouth och Barnsley delade på poängen
+När Spurs ska hjälpa Arsenal ta titeln
+Aston Villa – Leicester 2-4

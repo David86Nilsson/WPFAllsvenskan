@@ -1,6 +1,6 @@
 English|Español|Português
 
-UPDATED JAN. 28, 2023, AT 12:11 PM
+UPDATED FEB. 5, 2023, AT 10:09 PM
 
 Club Soccer Predictions
 Forecasts and Soccer Power Index (SPI) ratings for 40 leagues, updated after each match.
@@ -53,119 +53,10 @@ Matches
 CHAMPIONSHIP
 2022-23
 England, tier 2
-Updated Jan. 28, 2023, at 11:58 a.m.
+Updated Feb. 4, 2023, at 12:03 p.m.
 Upcoming matches
 JANUARY 31 - FEBRUARY 6
 WINDRAW
-1/31
-	
-Luton Town
-	51%	
-29%
-
-
-Cardiff City
-	21%
-WINDRAW
-2/3
-	
-West Brom
-	54%	
-27%
-
-
-Coventry City
-	19%
-2/4
-	
-Rotherham
-	20%	
-23%
-
-
-Sheffield Utd
-	58%
-2/4
-	
-Norwich
-	36%	
-26%
-
-
-Burnley
-	37%
-2/4
-	
-Middlesbrough
-	60%	
-23%
-
-
-Blackpool
-	17%
-2/4
-	
-Reading
-	31%	
-27%
-
-
-Watford
-	42%
-2/4
-	
-Preston
-	39%	
-27%
-
-
-Bristol City
-	34%
-2/4
-	
-Hull City
-	40%	
-30%
-
-
-Cardiff City
-	30%
-2/4
-	
-Swansea City
-	55%	
-24%
-
-
-Birmingham
-	21%
-2/4
-	
-Huddersfield
-	39%	
-30%
-
-
-QPR
-	31%
-2/4
-	
-Millwall
-	50%	
-26%
-
-
-Sunderland
-	24%
-2/4
-	
-Luton Town
-	46%	
-27%
-
-
-Stoke City
-	26%
 2/6
 	
 Blackburn
@@ -176,10 +67,11 @@ Blackburn
 Wigan
 	28%
 FEBRUARY 7-13
+WINDRAW
 2/7
 	
 Blackpool
-	43%	
+	44%	
 29%
 
 
@@ -197,7 +89,7 @@ West Brom
 2/11
 	
 Wigan
-	41%	
+	42%	
 30%
 
 
@@ -215,48 +107,48 @@ Reading
 2/11
 	
 Burnley
-	60%	
-24%
+	66%	
+22%
 
 
 Preston
-	16%
+	12%
 2/11
 	
 Coventry City
-	40%	
+	38%	
 29%
 
 
 Luton Town
-	31%
+	33%
 2/11
 	
 Stoke City
 	52%	
-26%
+27%
 
 
 Hull City
-	22%
+	21%
 2/11
 	
 QPR
-	34%	
+	33%	
 29%
 
 
 Millwall
-	37%
+	38%
 2/11
 	
 Cardiff City
-	28%	
+	30%	
 29%
 
 
 Middlesbrough
-	43%
+	40%
 2/11
 	
 Bristol City
@@ -287,22 +179,22 @@ Blackburn
 2/11
 	
 Sheffield Utd
-	48%	
-25%
+	52%	
+24%
 
 
 Swansea City
-	27%
+	24%
 FEBRUARY 14-20
 2/14
 	
 Birmingham
-	45%	
-29%
+	48%	
+28%
 
 
 Cardiff City
-	26%
+	24%
 2/14
 	
 Coventry City
@@ -324,16 +216,16 @@ Sunderland
 2/14
 	
 Norwich
-	59%	
-23%
+	57%	
+24%
 
 
 Hull City
-	18%
+	19%
 2/14
 	
 Reading
-	51%	
+	52%	
 25%
 
 
@@ -342,26 +234,26 @@ Rotherham
 2/14
 	
 Burnley
-	51%	
-27%
+	53%	
+26%
 
 
 Watford
-	23%
+	21%
 2/15
 	
 Preston
-	34%	
+	33%	
 28%
 
 
 Luton Town
-	38%
+	39%
 2/15
 	
 Stoke City
-	55%	
-27%
+	54%	
+28%
 
 
 Huddersfield
@@ -378,12 +270,12 @@ Wigan
 2/15
 	
 Swansea City
-	61%	
+	60%	
 22%
 
 
 Blackpool
-	17%
+	18%
 2/15
 	
 West Brom
@@ -397,7 +289,7 @@ Blackburn
 	
 Sheffield Utd
 	46%	
-26%
+27%
 
 
 Middlesbrough
@@ -405,17 +297,17 @@ Middlesbrough
 2/17
 	
 Cardiff City
-	43%	
+	42%	
 29%
 
 
 Reading
-	27%
+	29%
 2/18
 	
 Millwall
-	40%	
-27%
+	39%	
+28%
 
 
 Sheffield Utd
@@ -428,25 +320,25 @@ Middlesbrough
 
 
 QPR
-	20%
+	21%
 2/18
 	
 Blackburn
-	29%	
+	31%	
 27%
 
 
 Swansea City
-	44%
+	43%
 2/18
 	
 Wigan
-	25%	
-24%
+	26%	
+25%
 
 
 Norwich
-	50%
+	49%
 2/18
 	
 Sunderland
@@ -459,7 +351,7 @@ Bristol City
 2/18
 	
 Hull City
-	42%	
+	41%	
 28%
 
 
@@ -469,25 +361,25 @@ Preston
 	
 Blackpool
 	32%	
-27%
+28%
 
 
 Stoke City
-	41%
+	40%
 2/18
 	
 Huddersfield
-	37%	
+	35%	
 29%
 
 
 Birmingham
-	34%
+	36%
 2/18
 	
 Luton Town
 	36%	
-28%
+29%
 
 
 Burnley
@@ -505,11 +397,11 @@ Coventry City
 	
 Watford
 	35%	
-29%
+28%
 
 
 West Brom
-	36%
+	37%
 FEBRUARY 21-27
 2/21
 	
@@ -523,44 +415,44 @@ Blackpool
 2/21
 	
 Swansea City
-	49%	
+	47%	
 26%
 
 
 Stoke City
-	26%
+	27%
 2/21
 	
 Millwall
-	39%	
-28%
+	38%	
+29%
 
 
 Burnley
-	33%
+	34%
 2/21
 	
 Rotherham
-	28%	
-25%
+	27%	
+26%
 
 
 Sunderland
-	47%
+	46%
 2/21
 	
 Norwich
-	56%	
-23%
+	54%	
+24%
 
 
 Birmingham
-	20%
+	23%
 2/25
 	
 Coventry City
 	43%	
-27%
+28%
 
 
 Sunderland
@@ -568,8 +460,8 @@ Sunderland
 2/25
 	
 Reading
-	45%	
-27%
+	46%	
+26%
 
 
 Blackpool
@@ -577,8 +469,8 @@ Blackpool
 2/25
 	
 Birmingham
-	35%	
-28%
+	36%	
+27%
 
 
 Luton Town
@@ -587,7 +479,7 @@ Luton Town
 	
 Preston
 	50%	
-27%
+26%
 
 
 Wigan
@@ -595,16 +487,16 @@ Wigan
 2/25
 	
 Burnley
-	64%	
-24%
+	65%	
+23%
 
 
 Huddersfield
-	12%
+	11%
 2/25
 	
 Stoke City
-	38%	
+	37%	
 29%
 
 
@@ -649,7 +541,7 @@ Cardiff City
 2/25
 	
 Sheffield Utd
-	51%	
+	52%	
 26%
 
 
@@ -658,40 +550,40 @@ Watford
 2/27
 	
 Swansea City
-	67%	
+	66%	
 20%
 
 
 Rotherham
-	13%
+	14%
 FEBRUARY 28 - MARCH 6
 2/28
 	
+Preston
+	36%	
+28%
+
+
+Coventry City
+	35%
+2/28
+	
 Luton Town
-	39%	
+	40%	
 29%
 
 
 Millwall
-	33%
-3/4
+	31%
+3/3
 	
-Cardiff City
-	38%	
-29%
+Hull City
+	27%	
+28%
 
 
-Bristol City
-	33%
-3/4
-	
-Middlesbrough
-	60%	
-23%
-
-
-Reading
-	16%
+West Brom
+	46%
 3/4
 	
 Blackburn
@@ -703,49 +595,58 @@ Sheffield Utd
 	47%
 3/4
 	
+Cardiff City
+	37%	
+29%
+
+
+Bristol City
+	34%
+3/4
+	
+Middlesbrough
+	60%	
+23%
+
+
+Reading
+	17%
+3/4
+	
 Wigan
-	36%	
+	35%	
 27%
 
 
 Birmingham
-	37%
+	39%
 3/4
 	
 Sunderland
 	42%	
-27%
+28%
 
 
 Stoke City
-	31%
-3/4
-	
-Hull City
-	27%	
-27%
-
-
-West Brom
-	46%
+	30%
 3/4
 	
 Blackpool
-	24%	
-26%
+	23%	
+25%
 
 
 Burnley
-	51%
+	52%
 3/4
 	
 Watford
-	52%	
-27%
+	51%	
+26%
 
 
 Preston
-	22%
+	23%
 3/4
 	
 Huddersfield
@@ -754,30 +655,30 @@ Huddersfield
 
 
 Coventry City
-	38%
+	39%
 3/4
 	
 Millwall
+	44%	
+27%
+
+
+Norwich
+	29%
+3/4
+	
+Luton Town
 	43%	
 26%
 
 
-Norwich
-	31%
-3/4
-	
-Luton Town
-	40%	
-27%
-
-
 Swansea City
-	33%
+	31%
 3/4
 	
 Rotherham
 	30%	
-27%
+28%
 
 
 QPR
@@ -804,12 +705,30 @@ Sheffield Utd
 3/7
 	
 West Brom
-	64%	
+	63%	
 23%
 
 
 Wigan
 	14%
+3/10
+	
+Stoke City
+	52%	
+28%
+
+
+Blackburn
+	20%
+3/11
+	
+Bristol City
+	51%	
+25%
+
+
+Blackpool
+	24%
 3/11
 	
 Reading
@@ -822,25 +741,25 @@ Millwall
 3/11
 	
 Birmingham
-	55%	
+	57%	
 24%
 
 
 Rotherham
-	20%
+	19%
 3/11
 	
 Preston
-	44%	
+	45%	
 30%
 
 
 Cardiff City
-	26%
+	25%
 3/11
 	
 Burnley
-	66%	
+	67%	
 21%
 
 
@@ -857,22 +776,13 @@ Hull City
 	22%
 3/11
 	
-Stoke City
-	52%	
-27%
-
-
-Blackburn
-	20%
-3/11
-	
 QPR
 	38%	
-29%
+28%
 
 
 Watford
-	34%
+	33%
 3/11
 	
 West Brom
@@ -884,50 +794,32 @@ Huddersfield
 	12%
 3/11
 	
-Bristol City
-	51%	
-25%
-
-
-Blackpool
-	24%
-3/11
-	
 Swansea City
-	42%	
+	40%	
 26%
 
 
 Middlesbrough
-	32%
-3/11
-	
-Norwich
-	51%	
-24%
-
-
-Sunderland
-	25%
+	34%
 3/11
 	
 Sheffield Utd
-	51%	
-26%
+	49%	
+27%
 
 
 Luton Town
 	24%
-MARCH 14-20
-3/14
+3/12
 	
-Middlesbrough
+Norwich
 	50%	
-27%
+25%
 
 
-Stoke City
-	24%
+Sunderland
+	26%
+MARCH 14-20
 3/14
 	
 Wigan
@@ -940,7 +832,7 @@ Coventry City
 3/14
 	
 Blackpool
-	36%	
+	35%	
 28%
 
 
@@ -949,21 +841,21 @@ QPR
 3/14
 	
 Watford
-	51%	
+	49%	
 26%
 
 
 Birmingham
-	23%
+	25%
 3/14
 	
 Millwall
-	44%	
-27%
+	45%	
+26%
 
 
 Swansea City
-	30%
+	28%
 3/14
 	
 Rotherham
@@ -973,6 +865,15 @@ Rotherham
 
 Preston
 	40%
+3/14
+	
+Middlesbrough
+	50%	
+27%
+
+
+Stoke City
+	23%
 3/15
 	
 Blackburn
@@ -981,57 +882,57 @@ Blackburn
 
 
 Reading
-	28%
-3/15
-	
-Sunderland
-	34%	
-26%
-
-
-Sheffield Utd
-	40%
+	29%
 3/15
 	
 Hull City
-	26%	
+	25%	
 27%
 
 
 Burnley
-	47%
+	48%
 3/15
 	
 Cardiff City
-	26%	
+	25%	
 30%
 
 
 West Brom
-	44%
+	45%
 3/15
 	
 Huddersfield
-	26%	
+	27%	
 27%
 
 
 Norwich
-	47%
+	46%
 3/15
 	
 Luton Town
-	49%	
+	51%	
 26%
 
 
 Bristol City
-	25%
+	23%
+3/15
+	
+Sunderland
+	34%	
+27%
+
+
+Sheffield Utd
+	40%
 3/18
 	
 Middlesbrough
 	57%	
-25%
+24%
 
 
 Preston
@@ -1048,30 +949,30 @@ Hull City
 3/18
 	
 Sunderland
-	41%	
-27%
+	39%	
+28%
 
 
 Luton Town
-	32%
+	33%
 3/18
 	
 Stoke City
 	38%	
-26%
+27%
 
 
 Norwich
-	36%
+	35%
 3/18
 	
 QPR
-	45%	
+	44%	
 27%
 
 
 Birmingham
-	27%
+	29%
 3/18
 	
 Blackpool
@@ -1085,20 +986,20 @@ Coventry City
 	
 Watford
 	58%	
-25%
+24%
 
 
 Wigan
-	17%
+	18%
 3/18
 	
 Swansea City
-	53%	
+	52%	
 24%
 
 
 Bristol City
-	23%
+	24%
 3/18
 	
 Millwall
@@ -1107,40 +1008,40 @@ Millwall
 
 
 Huddersfield
-	15%
+	14%
 3/18
 	
 Rotherham
-	34%	
+	35%	
 30%
 
 
 Cardiff City
-	36%
+	35%
 3/18
 	
 Sheffield Utd
 	43%	
-27%
+28%
 
 
 West Brom
-	30%
+	29%
 3/19
 	
 Blackburn
-	25%	
+	24%	
 28%
 
 
 Burnley
-	47%
+	48%
 MARCH 28 - APRIL 3
 4/1
 	
 Preston
 	48%	
-27%
+26%
 
 
 Blackpool
@@ -1148,16 +1049,16 @@ Blackpool
 4/1
 	
 Luton Town
-	43%	
+	45%	
 28%
 
 
 Watford
-	29%
+	27%
 4/1
 	
 Wigan
-	34%	
+	33%	
 28%
 
 
@@ -1166,26 +1067,26 @@ QPR
 4/1
 	
 Birmingham
-	46%	
-28%
+	48%	
+27%
 
 
 Blackburn
-	26%
+	25%
 4/1
 	
 Burnley
-	54%	
+	55%	
 25%
 
 
 Sunderland
-	21%
+	20%
 4/1
 	
 Coventry City
 	42%	
-28%
+29%
 
 
 Stoke City
@@ -1194,7 +1095,7 @@ Stoke City
 	
 Hull City
 	52%	
-25%
+26%
 
 
 Rotherham
@@ -1211,8 +1112,8 @@ Swansea City
 4/1
 	
 West Brom
-	47%	
-28%
+	46%	
+29%
 
 
 Millwall
@@ -1220,12 +1121,12 @@ Millwall
 4/1
 	
 Bristol City
-	50%	
-26%
+	49%	
+25%
 
 
 Reading
-	25%
+	26%
 4/1
 	
 Huddersfield
@@ -1234,22 +1135,22 @@ Huddersfield
 
 
 Middlesbrough
-	46%
+	47%
 4/1
 	
 Norwich
-	41%	
-25%
+	39%	
+26%
 
 
 Sheffield Utd
-	34%
+	35%
 APRIL 4-10
 4/7
 	
 Rotherham
 	20%	
-24%
+25%
 
 
 West Brom
@@ -1257,30 +1158,30 @@ West Brom
 4/7
 	
 Middlesbrough
-	41%	
+	39%	
 28%
 
 
 Burnley
-	32%
+	33%
 4/7
 	
 Blackburn
-	28%	
+	30%	
 27%
 
 
 Norwich
-	45%
+	44%
 4/7
 	
 Reading
 	39%	
-27%
+26%
 
 
 Birmingham
-	34%
+	35%
 4/7
 	
 Sunderland
@@ -1311,7 +1212,7 @@ Preston
 4/7
 	
 Blackpool
-	40%	
+	41%	
 30%
 
 
@@ -1329,17 +1230,17 @@ Huddersfield
 4/7
 	
 Swansea City
-	49%	
+	48%	
 26%
 
 
 Coventry City
-	25%
+	26%
 4/7
 	
 Millwall
-	46%	
-28%
+	45%	
+29%
 
 
 Luton Town
@@ -1356,21 +1257,21 @@ Wigan
 4/10
 	
 Wigan
-	26%	
+	27%	
 25%
 
 
 Swansea City
-	49%
+	48%
 4/10
 	
 Birmingham
-	37%	
-28%
+	39%	
+27%
 
 
 Stoke City
-	35%
+	34%
 4/10
 	
 Preston
@@ -1379,25 +1280,25 @@ Preston
 
 
 Reading
-	27%
+	28%
 4/10
 	
 Burnley
-	44%	
+	45%	
 27%
 
 
 Sheffield Utd
-	30%
+	28%
 4/10
 	
 Coventry City
 	41%	
-29%
+28%
 
 
 Watford
-	31%
+	30%
 4/10
 	
 Hull City
@@ -1410,8 +1311,8 @@ Millwall
 4/10
 	
 Cardiff City
-	35%	
-29%
+	34%	
+30%
 
 
 Sunderland
@@ -1419,7 +1320,7 @@ Sunderland
 4/10
 	
 West Brom
-	56%	
+	55%	
 26%
 
 
@@ -1429,7 +1330,7 @@ QPR
 	
 Bristol City
 	33%	
-27%
+26%
 
 
 Middlesbrough
@@ -1442,21 +1343,21 @@ Huddersfield
 
 
 Blackburn
-	29%
+	30%
 4/10
 	
 Luton Town
-	57%	
-25%
+	58%	
+24%
 
 
 Blackpool
-	19%
+	17%
 4/10
 	
 Norwich
-	68%	
-19%
+	67%	
+20%
 
 
 Rotherham
@@ -1465,12 +1366,12 @@ APRIL 11-17
 4/15
 	
 Middlesbrough
-	44%	
-26%
+	46%	
+25%
 
 
 Norwich
-	30%
+	29%
 4/15
 	
 Blackburn
@@ -1488,16 +1389,16 @@ Reading
 
 
 Burnley
-	49%
+	50%
 4/15
 	
 Sunderland
-	49%	
+	47%	
 26%
 
 
 Birmingham
-	25%
+	27%
 4/15
 	
 Stoke City
@@ -1510,12 +1411,12 @@ West Brom
 4/15
 	
 QPR
-	39%	
+	40%	
 29%
 
 
 Coventry City
-	32%
+	31%
 4/15
 	
 Blackpool
@@ -1537,7 +1438,7 @@ Bristol City
 4/15
 	
 Swansea City
-	60%	
+	59%	
 24%
 
 
@@ -1555,12 +1456,12 @@ Preston
 4/15
 	
 Rotherham
-	25%	
+	24%	
 26%
 
 
 Luton Town
-	49%
+	50%
 4/15
 	
 Sheffield Utd
@@ -1569,13 +1470,13 @@ Sheffield Utd
 
 
 Cardiff City
-	15%
+	14%
 APRIL 18-24
 4/18
 	
 Sunderland
 	54%	
-26%
+27%
 
 
 Huddersfield
@@ -1583,7 +1484,7 @@ Huddersfield
 4/18
 	
 Stoke City
-	57%	
+	56%	
 25%
 
 
@@ -1601,21 +1502,21 @@ West Brom
 4/18
 	
 Millwall
-	55%	
+	53%	
 26%
 
 
 Birmingham
-	20%
+	21%
 4/18
 	
 Rotherham
-	20%	
+	19%	
 24%
 
 
 Burnley
-	57%
+	58%
 4/18
 	
 Sheffield Utd
@@ -1646,16 +1547,16 @@ Coventry City
 4/19
 	
 QPR
-	34%	
-26%
+	35%	
+27%
 
 
 Norwich
-	40%
+	38%
 4/19
 	
 Watford
-	52%	
+	53%	
 28%
 
 
@@ -1664,25 +1565,25 @@ Cardiff City
 4/19
 	
 Swansea City
-	56%	
+	55%	
 24%
 
 
 Preston
-	20%
+	22%
 4/19
 	
 Reading
-	32%	
+	31%	
 27%
 
 
 Luton Town
-	41%
+	42%
 4/22
 	
 Wigan
-	26%	
+	25%	
 27%
 
 
@@ -1691,17 +1592,17 @@ Millwall
 4/22
 	
 Birmingham
-	49%	
-26%
+	51%	
+25%
 
 
 Blackpool
-	25%
+	24%
 4/22
 	
 Preston
 	45%	
-29%
+28%
 
 
 Blackburn
@@ -1709,7 +1610,7 @@ Blackburn
 4/22
 	
 Burnley
-	56%	
+	57%	
 25%
 
 
@@ -1723,21 +1624,21 @@ Coventry City
 
 
 Reading
-	21%
+	22%
 4/22
 	
 Hull City
-	33%	
+	34%	
 28%
 
 
 Watford
-	39%
+	38%
 4/22
 	
 Cardiff City
-	34%	
-30%
+	33%	
+31%
 
 
 Stoke City
@@ -1763,7 +1664,7 @@ Rotherham
 4/22
 	
 Huddersfield
-	24%	
+	23%	
 27%
 
 
@@ -1772,17 +1673,17 @@ Sheffield Utd
 4/22
 	
 Luton Town
-	38%	
+	39%	
 28%
 
 
 Middlesbrough
-	34%
+	33%
 4/22
 	
 Norwich
 	45%	
-25%
+24%
 
 
 Swansea City
@@ -1791,17 +1692,17 @@ APRIL 25 - MAY 1
 4/29
 	
 Blackburn
-	32%	
+	31%	
 29%
 
 
 Luton Town
-	39%
+	40%
 4/29
 	
 Reading
-	47%	
-27%
+	48%	
+26%
 
 
 Wigan
@@ -1814,38 +1715,38 @@ Sunderland
 
 
 Watford
-	32%
+	31%
 4/29
 	
 Coventry City
-	49%	
+	47%	
 27%
 
 
 Birmingham
-	24%
+	26%
 4/29
 	
 Hull City
-	30%	
+	32%	
 26%
 
 
 Swansea City
-	44%
+	42%
 4/29
 	
 Stoke City
-	47%	
+	46%	
 28%
 
 
 QPR
-	25%
+	26%
 4/29
 	
 Cardiff City
-	45%	
+	44%	
 32%
 
 
@@ -1854,21 +1755,21 @@ Huddersfield
 4/29
 	
 West Brom
-	47%	
+	48%	
 26%
 
 
 Norwich
-	27%
+	26%
 4/29
 	
 Bristol City
-	30%	
+	29%	
 26%
 
 
 Burnley
-	43%
+	45%
 4/29
 	
 Blackpool
@@ -1882,7 +1783,7 @@ Millwall
 	
 Rotherham
 	21%	
-24%
+25%
 
 
 Middlesbrough
@@ -1891,7 +1792,7 @@ Middlesbrough
 	
 Sheffield Utd
 	60%	
-23%
+24%
 
 
 Preston
@@ -1910,7 +1811,7 @@ Coventry City
 	
 Wigan
 	47%	
-26%
+27%
 
 
 Rotherham
@@ -1918,12 +1819,12 @@ Rotherham
 5/6
 	
 Birmingham
-	29%	
+	30%	
 26%
 
 
 Sheffield Utd
-	45%
+	44%
 5/6
 	
 Preston
@@ -1936,16 +1837,16 @@ Sunderland
 5/6
 	
 Burnley
-	60%	
+	62%	
 25%
 
 
 Cardiff City
-	14%
+	13%
 5/6
 	
 QPR
-	43%	
+	44%	
 27%
 
 
@@ -1963,12 +1864,12 @@ Stoke City
 5/6
 	
 Swansea City
-	39%	
+	38%	
 27%
 
 
 West Brom
-	34%
+	35%
 5/6
 	
 Huddersfield
@@ -1977,7 +1878,7 @@ Huddersfield
 
 
 Reading
-	30%
+	31%
 5/6
 	
 Millwall
@@ -1986,29 +1887,151 @@ Millwall
 
 
 Blackburn
-	17%
+	16%
 5/6
 	
 Luton Town
-	54%	
+	55%	
 26%
 
 
 Hull City
-	21%
+	19%
 5/6
 	
 Norwich
-	62%	
+	61%	
 22%
 
 
 Blackpool
-	16%
+	17%
 Completed matches
 After every match, our model calculates three additional metrics for each team. See more ...
-JANUARY 24-30
+JANUARY 31 - FEBRUARY 6
 WINDRAW
+2/4	
+Luton Town1
+	47%	27%
+
+Stoke City0
+	26%
+	LUT	STK
+Adjusted goals	1.1	0.0
+Shot-based xG	0.7	0.3
+Non-shot xG	1.1	0.7
+WINDRAW
+2/4	
+Millwall1
+	50%	26%
+
+Sunderland1
+	24%
+	MIL	SUN
+Adjusted goals	1.1	1.1
+Shot-based xG	0.9	0.4
+Non-shot xG	1.7	0.4
+2/4	
+Huddersfield1
+	39%	30%
+
+QPR1
+	31%
+	HUD	QPR
+Adjusted goals	1.1	1.1
+Shot-based xG	0.9	0.9
+Non-shot xG	0.9	1.1
+2/4	
+Swansea City3
+	55%	24%
+
+Birmingham4
+	21%
+	SWA	BIR
+Adjusted goals	3.2	4.2
+Shot-based xG	2.0	2.2
+Non-shot xG	1.4	0.8
+2/4	
+Hull City1
+	41%	30%
+
+Cardiff City0
+	29%
+	HCY	CAR
+Adjusted goals	1.1	0.0
+Shot-based xG	0.8	1.7
+Non-shot xG	1.2	0.6
+2/4	
+Preston1
+	39%	27%
+
+Bristol City2
+	34%
+	PNE	BRC
+Adjusted goals	1.1	2.1
+Shot-based xG	2.0	1.4
+Non-shot xG	2.2	0.9
+2/4	
+Reading2
+	31%	27%
+
+Watford2
+	41%
+	REA	WAT
+Adjusted goals	2.1	2.1
+Shot-based xG	1.7	1.6
+Non-shot xG	1.3	1.0
+2/4	
+Middlesbrough3
+	60%	23%
+
+Blackpool0
+	17%
+	MID	BLK
+Adjusted goals	3.2	0.0
+Shot-based xG	1.7	1.8
+Non-shot xG	1.4	1.2
+2/4	
+Norwich0
+	37%	26%
+
+Burnley3
+	37%
+	NOR	BRN
+Adjusted goals	0.0	3.2
+Shot-based xG	0.7	1.0
+Non-shot xG	1.0	0.7
+2/4	
+Rotherham0
+	19%	23%
+
+Sheffield Utd0
+	58%
+	ROT	SHEF
+Adjusted goals	0.0	0.0
+Shot-based xG	0.5	1.1
+Non-shot xG	0.7	1.9
+2/3	
+West Brom1
+	54%	27%
+
+Coventry City0
+	19%
+	WBA	COV
+Adjusted goals	1.1	0.0
+Shot-based xG	2.2	1.1
+Non-shot xG	0.9	1.0
+1/31	
+Luton Town1
+	51%	29%
+
+Cardiff City0
+	21%
+	LUT	CAR
+Adjusted goals	1.1	0.0
+Shot-based xG	2.3	0.8
+Non-shot xG	1.7	0.4
+JANUARY 24-30
 1/28	
 Hull City3
 	38%	28%
@@ -2019,7 +2042,6 @@ QPR0
 Adjusted goals	3.2	0.0
 Shot-based xG	0.8	0.2
 Non-shot xG	0.3	0.9
-WINDRAW
 1/28	
 Coventry City2
 	48%	29%
@@ -2040,7 +2062,3357 @@ Watford0
 Adjusted goals	2.1	0.0
 Shot-based xG	1.8	1.0
 Non-shot xG	1.2	0.7
-See more
+JANUARY 17-23
+1/22	
+Sunderland2
+	31%	27%
+
+Middlesbrough0
+	42%
+	SUN	MID
+Adjusted goals	1.5	0.0
+Shot-based xG	3.4	0.7
+Non-shot xG	1.9	0.9
+1/21	
+Watford1
+	62%	23%
+
+Rotherham1
+	15%
+	WAT	ROT
+Adjusted goals	1.1	1.1
+Shot-based xG	2.2	1.3
+Non-shot xG	1.7	0.5
+1/21	
+Bristol City1
+	51%	27%
+
+Blackburn1
+	23%
+	BRC	BLK
+Adjusted goals	1.1	1.1
+Shot-based xG	1.5	1.2
+Non-shot xG	1.0	0.6
+1/21	
+Cardiff City0
+	31%	31%
+
+Millwall1
+	38%
+	CAR	MIL
+Adjusted goals	0.0	1.1
+Shot-based xG	1.4	1.3
+Non-shot xG	2.1	1.4
+1/21	
+QPR1
+	35%	27%
+
+Swansea City1
+	38%
+	QPR	SWA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.3	1.4
+Non-shot xG	1.1	1.5
+1/21	
+Stoke City4
+	51%	26%
+
+Reading0
+	23%
+	STK	REA
+Adjusted goals	3.6	0.0
+Shot-based xG	2.2	0.4
+Non-shot xG	1.6	0.6
+1/21	
+Birmingham1
+	46%	27%
+
+Preston2
+	27%
+	BIR	PNE
+Adjusted goals	1.1	2.1
+Shot-based xG	0.9	0.3
+Non-shot xG	2.1	0.4
+1/21	
+Wigan0
+	33%	27%
+
+Luton Town2
+	40%
+	WGA	LUT
+Adjusted goals	0.0	2.1
+Shot-based xG	0.5	0.9
+Non-shot xG	1.2	1.0
+1/21	
+Coventry City2
+	38%	27%
+
+Norwich4
+	35%
+	COV	NOR
+Adjusted goals	2.1	4.2
+Shot-based xG	0.7	1.6
+Non-shot xG	0.8	1.3
+1/20	
+Burnley2
+	47%	28%
+
+West Brom1
+	25%
+	BRN	WBA
+Adjusted goals	2.1	1.1
+Shot-based xG	1.4	0.9
+Non-shot xG	1.6	0.8
+1/20	
+Sheffield Utd1
+	66%	21%
+
+Hull City0
+	13%
+	SHEF	HCY
+Adjusted goals	1.1	0.0
+Shot-based xG	2.5	0.7
+Non-shot xG	1.6	0.9
+JANUARY 10-16
+1/14	
+Sheffield Utd3
+	59%	23%
+
+Stoke City1
+	17%
+	SHEF	STK
+Adjusted goals	2.6	1.1
+Shot-based xG	0.9	0.3
+Non-shot xG	0.6	1.0
+1/14	
+Luton Town2
+	36%	30%
+
+West Brom3
+	34%
+	LUT	WBA
+Adjusted goals	2.1	3.2
+Shot-based xG	0.9	2.7
+Non-shot xG	0.7	1.4
+1/14	
+Watford2
+	55%	25%
+
+Blackpool0
+	20%
+	WAT	BLK
+Adjusted goals	1.7	0.0
+Shot-based xG	1.6	0.3
+Non-shot xG	1.0	0.9
+1/14	
+Bristol City4
+	44%	28%
+
+Birmingham2
+	28%
+	BRC	BIR
+Adjusted goals	4.2	2.1
+Shot-based xG	3.1	2.4
+Non-shot xG	1.3	0.7
+1/14	
+Cardiff City1
+	48%	29%
+
+Wigan1
+	23%
+	CAR	WGA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.1	2.0
+Non-shot xG	0.8	1.1
+1/14	
+Hull City1
+	43%	29%
+
+Huddersfield1
+	28%
+	HCY	HUD
+Adjusted goals	1.1	1.1
+Shot-based xG	0.8	1.1
+Non-shot xG	1.9	1.3
+1/14	
+Burnley1
+	58%	25%
+
+Coventry City0
+	17%
+	BRN	COV
+Adjusted goals	1.1	0.0
+Shot-based xG	0.6	0.6
+Non-shot xG	0.7	1.0
+1/14	
+Preston0
+	37%	27%
+
+Norwich4
+	36%
+	PNE	NOR
+Adjusted goals	0.0	4.2
+Shot-based xG	1.0	2.8
+Non-shot xG	0.6	2.4
+1/14	
+Sunderland1
+	37%	26%
+
+Swansea City3
+	37%
+	SUN	SWA
+Adjusted goals	1.1	2.4
+Shot-based xG	1.0	1.8
+Non-shot xG	0.8	1.7
+1/14	
+Reading2
+	39%	29%
+
+QPR2
+	32%
+	REA	QPR
+Adjusted goals	2.1	2.1
+Shot-based xG	1.4	2.4
+Non-shot xG	0.3	1.5
+1/14	
+Middlesbrough1
+	46%	27%
+
+Millwall0
+	27%
+	MID	MIL
+Adjusted goals	1.1	0.0
+Shot-based xG	0.3	0.5
+Non-shot xG	1.1	1.0
+1/14	
+Rotherham4
+	37%	28%
+
+Blackburn0
+	35%
+	ROT	BLK
+Adjusted goals	3.5	0.0
+Shot-based xG	0.5	0.7
+Non-shot xG	0.8	1.3
+DECEMBER 27 - JANUARY 2
+1/2	
+QPR1
+	26%	26%
+
+Sheffield Utd1
+	47%
+	QPR	SHEF
+Adjusted goals	1.1	1.1
+Shot-based xG	1.3	1.2
+Non-shot xG	1.2	1.6
+1/2	
+Stoke City0
+	46%	27%
+
+Preston1
+	26%
+	STK	PNE
+Adjusted goals	0.0	1.1
+Shot-based xG	0.8	0.4
+Non-shot xG	1.8	1.0
+1/2	
+Norwich0
+	46%	26%
+
+Watford1
+	28%
+	NOR	WAT
+Adjusted goals	0.0	1.1
+Shot-based xG	0.9	2.6
+Non-shot xG	1.6	1.5
+1/2	
+Swansea City1
+	33%	26%
+
+Burnley2
+	41%
+	SWA	BRN
+Adjusted goals	1.1	2.1
+Shot-based xG	1.0	0.7
+Non-shot xG	0.8	0.5
+1/2	
+West Brom1
+	59%	25%
+
+Reading0
+	16%
+	WBA	REA
+Adjusted goals	1.1	0.0
+Shot-based xG	2.2	0.4
+Non-shot xG	1.8	0.9
+1/2	
+Birmingham1
+	32%	28%
+
+Middlesbrough3
+	40%
+	BIR	MID
+Adjusted goals	1.1	2.8
+Shot-based xG	0.7	2.6
+Non-shot xG	0.6	1.8
+1/2	
+Wigan1
+	44%	27%
+
+Hull City4
+	29%
+	WGA	HCY
+Adjusted goals	1.1	3.3
+Shot-based xG	0.6	2.0
+Non-shot xG	0.5	0.7
+1/1	
+Millwall3
+	62%	23%
+
+Rotherham0
+	15%
+	MIL	ROT
+Adjusted goals	2.9	0.0
+Shot-based xG	3.4	0.5
+Non-shot xG	2.5	0.5
+1/1	
+Huddersfield1
+	33%	30%
+
+Luton Town2
+	37%
+	HUD	LUT
+Adjusted goals	1.1	2.1
+Shot-based xG	0.2	0.8
+Non-shot xG	0.5	0.8
+1/1	
+Blackpool1
+	40%	27%
+
+Sunderland1
+	34%
+	BLK	SUN
+Adjusted goals	1.1	1.1
+Shot-based xG	0.9	2.1
+Non-shot xG	0.7	2.4
+1/1	
+Coventry City1
+	46%	28%
+
+Bristol City1
+	26%
+	COV	BRC
+Adjusted goals	1.1	1.1
+Shot-based xG	2.1	1.1
+Non-shot xG	1.2	1.1
+1/1	
+Blackburn1
+	37%	32%
+
+Cardiff City0
+	31%
+	BLK	CAR
+Adjusted goals	1.1	0.0
+Shot-based xG	0.8	0.4
+Non-shot xG	1.2	0.8
+12/30	
+Norwich1
+	57%	24%
+
+Reading1
+	19%
+	NOR	REA
+Adjusted goals	1.1	1.1
+Shot-based xG	0.7	1.4
+Non-shot xG	1.3	1.0
+12/30	
+Swansea City4
+	42%	26%
+
+Watford0
+	32%
+	SWA	WAT
+Adjusted goals	3.5	0.0
+Shot-based xG	1.6	0.3
+Non-shot xG	1.7	0.6
+12/30	
+Stoke City0
+	29%	26%
+
+Burnley1
+	46%
+	STK	BRN
+Adjusted goals	0.0	1.1
+Shot-based xG	0.8	0.4
+Non-shot xG	0.6	0.6
+12/30	
+Birmingham0
+	50%	26%
+
+Hull City1
+	23%
+	BIR	HCY
+Adjusted goals	0.0	1.1
+Shot-based xG	0.5	1.2
+Non-shot xG	1.5	1.4
+12/29	
+Blackpool1
+	23%	24%
+
+Sheffield Utd2
+	53%
+	BLK	SHEF
+Adjusted goals	1.1	2.1
+Shot-based xG	1.0	1.3
+Non-shot xG	1.2	1.0
+12/29	
+West Brom2
+	55%	26%
+
+Preston0
+	19%
+	WBA	PNE
+Adjusted goals	2.1	0.0
+Shot-based xG	1.1	0.5
+Non-shot xG	1.5	0.7
+12/29	
+Millwall0
+	54%	25%
+
+Bristol City0
+	21%
+	MIL	BRC
+Adjusted goals	0.0	0.0
+Shot-based xG	0.5	1.0
+Non-shot xG	0.8	0.9
+12/29	
+Huddersfield2
+	49%	27%
+
+Rotherham0
+	24%
+	HUD	ROT
+Adjusted goals	2.1	0.0
+Shot-based xG	0.4	0.8
+Non-shot xG	0.9	0.7
+12/29	
+Coventry City0
+	47%	29%
+
+Cardiff City0
+	24%
+	COV	CAR
+Adjusted goals	0.0	0.0
+Shot-based xG	1.2	0.3
+Non-shot xG	1.5	0.5
+12/29	
+Wigan1
+	42%	27%
+
+Sunderland4
+	30%
+	WGA	SUN
+Adjusted goals	1.1	3.3
+Shot-based xG	0.8	2.3
+Non-shot xG	0.4	1.5
+12/29	
+Blackburn1
+	26%	27%
+
+Middlesbrough2
+	46%
+	BLK	MID
+Adjusted goals	1.1	1.9
+Shot-based xG	0.7	0.8
+Non-shot xG	0.8	1.0
+12/29	
+QPR0
+	38%	29%
+
+Luton Town3
+	33%
+	QPR	LUT
+Adjusted goals	0.0	2.9
+Shot-based xG	1.4	0.9
+Non-shot xG	1.1	0.3
+12/27	
+Burnley3
+	59%	23%
+
+Birmingham0
+	17%
+	BRN	BIR
+Adjusted goals	2.6	0.0
+Shot-based xG	1.4	0.2
+Non-shot xG	0.6	0.8
+12/27	
+Reading2
+	34%	26%
+
+Swansea City1
+	39%
+	REA	SWA
+Adjusted goals	2.1	1.1
+Shot-based xG	1.1	2.4
+Non-shot xG	0.5	1.5
+DECEMBER 20-26
+12/26	
+Luton Town2
+	37%	27%
+
+Norwich1
+	36%
+	LUT	NOR
+Adjusted goals	2.1	1.1
+Shot-based xG	2.1	1.2
+Non-shot xG	1.6	1.0
+12/26	
+Cardiff City0
+	42%	30%
+
+QPR0
+	29%
+	CAR	QPR
+Adjusted goals	0.0	0.0
+Shot-based xG	1.0	0.4
+Non-shot xG	0.7	0.7
+12/26	
+Sheffield Utd3
+	58%	24%
+
+Coventry City1
+	18%
+	SHEF	COV
+Adjusted goals	3.1	1.1
+Shot-based xG	2.2	1.3
+Non-shot xG	1.0	0.9
+12/26	
+Rotherham2
+	32%	27%
+
+Stoke City2
+	41%
+	ROT	STK
+Adjusted goals	2.1	2.1
+Shot-based xG	0.8	2.6
+Non-shot xG	0.8	1.3
+12/26	
+Bristol City0
+	33%	28%
+
+West Brom2
+	39%
+	BRC	WBA
+Adjusted goals	0.0	2.0
+Shot-based xG	0.8	1.6
+Non-shot xG	0.5	0.7
+12/26	
+Hull City1
+	42%	27%
+
+Blackpool1
+	31%
+	HCY	BLK
+Adjusted goals	0.8	1.1
+Shot-based xG	1.6	1.6
+Non-shot xG	1.2	1.4
+12/26	
+Preston1
+	49%	28%
+
+Huddersfield2
+	23%
+	PNE	HUD
+Adjusted goals	1.1	2.1
+Shot-based xG	1.0	0.8
+Non-shot xG	1.3	1.0
+12/26	
+Middlesbrough4
+	57%	25%
+
+Wigan1
+	17%
+	MID	WGA
+Adjusted goals	3.7	1.1
+Shot-based xG	2.2	1.9
+Non-shot xG	1.9	1.3
+12/26	
+Sunderland2
+	45%	28%
+
+Blackburn1
+	27%
+	SUN	BLK
+Adjusted goals	2.1	1.1
+Shot-based xG	1.7	0.2
+Non-shot xG	1.7	0.5
+12/26	
+Watford0
+	48%	27%
+
+Millwall2
+	25%
+	WAT	MIL
+Adjusted goals	0.0	1.6
+Shot-based xG	0.4	1.4
+Non-shot xG	1.1	2.1
+12/21	
+Coventry City1
+	32%	29%
+
+West Brom0
+	39%
+	COV	WBA
+Adjusted goals	1.1	0.0
+Shot-based xG	2.2	0.8
+Non-shot xG	1.2	0.3
+DECEMBER 13-19
+12/19	
+Wigan1
+	23%	26%
+
+Sheffield Utd2
+	51%
+	WGA	SHEF
+Adjusted goals	1.1	2.1
+Shot-based xG	1.4	0.8
+Non-shot xG	0.5	1.6
+12/17	
+Norwich0
+	61%	23%
+
+Blackburn2
+	16%
+	NOR	BLK
+Adjusted goals	0.0	1.7
+Shot-based xG	1.5	0.4
+Non-shot xG	1.7	0.4
+12/17	
+Huddersfield0
+	28%	29%
+
+Watford2
+	43%
+	HUD	WAT
+Adjusted goals	0.0	1.7
+Shot-based xG	1.1	1.1
+Non-shot xG	1.7	1.3
+12/17	
+Bristol City1
+	41%	27%
+
+Stoke City2
+	32%
+	BRC	STK
+Adjusted goals	1.1	2.1
+Shot-based xG	1.8	0.8
+Non-shot xG	1.6	0.3
+12/17	
+West Brom3
+	62%	23%
+
+Rotherham0
+	15%
+	WBA	ROT
+Adjusted goals	3.2	0.0
+Shot-based xG	2.6	0.2
+Non-shot xG	1.2	0.2
+12/17	
+Cardiff City1
+	46%	28%
+
+Blackpool1
+	26%
+	CAR	BLK
+Adjusted goals	1.1	1.1
+Shot-based xG	1.9	0.5
+Non-shot xG	1.3	0.9
+12/17	
+Hull City1
+	38%	27%
+
+Sunderland1
+	34%
+	HCY	SUN
+Adjusted goals	0.8	1.1
+Shot-based xG	2.7	0.6
+Non-shot xG	1.7	0.5
+12/17	
+Coventry City3
+	42%	28%
+
+Swansea City3
+	30%
+	COV	SWA
+Adjusted goals	3.2	3.2
+Shot-based xG	1.3	2.6
+Non-shot xG	1.0	2.0
+12/17	
+Burnley3
+	49%	26%
+
+Middlesbrough1
+	26%
+	BRN	MID
+Adjusted goals	3.1	1.1
+Shot-based xG	1.2	0.8
+Non-shot xG	0.7	0.3
+12/17	
+Preston0
+	47%	27%
+
+QPR1
+	26%
+	PNE	QPR
+Adjusted goals	0.0	1.1
+Shot-based xG	0.9	1.6
+Non-shot xG	1.5	1.3
+12/16	
+Birmingham3
+	50%	28%
+
+Reading2
+	22%
+	BIR	REA
+Adjusted goals	3.2	2.1
+Shot-based xG	2.7	2.7
+Non-shot xG	0.6	1.5
+DECEMBER 6-12
+12/12	
+Sunderland1
+	31%	28%
+
+West Brom2
+	41%
+	SUN	WBA
+Adjusted goals	1.1	2.1
+Shot-based xG	1.6	1.1
+Non-shot xG	1.3	1.3
+12/11	
+Watford0
+	62%	23%
+
+Hull City0
+	16%
+	WAT	HCY
+Adjusted goals	0.0	0.0
+Shot-based xG	1.3	0.5
+Non-shot xG	1.7	0.9
+12/11	
+QPR0
+	29%	26%
+
+Burnley3
+	45%
+	QPR	BRN
+Adjusted goals	0.0	3.1
+Shot-based xG	0.7	1.1
+Non-shot xG	0.9	0.8
+12/10	
+Sheffield Utd1
+	68%	21%
+
+Huddersfield0
+	12%
+	SHEF	HUD
+Adjusted goals	1.1	0.0
+Shot-based xG	1.4	0.2
+Non-shot xG	1.1	0.2
+12/10	
+Millwall1
+	54%	26%
+
+Wigan1
+	20%
+	MIL	WGA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.3	0.5
+Non-shot xG	1.8	0.7
+12/10	
+Swansea City0
+	35%	25%
+
+Norwich1
+	39%
+	SWA	NOR
+Adjusted goals	0.0	1.1
+Shot-based xG	2.3	0.8
+Non-shot xG	1.4	0.5
+12/10	
+Blackpool0
+	39%	27%
+
+Birmingham0
+	34%
+	BLK	BIR
+Adjusted goals	0.0	0.0
+Shot-based xG	0.4	1.6
+Non-shot xG	0.2	1.1
+12/10	
+Stoke City2
+	47%	29%
+
+Cardiff City2
+	24%
+	STK	CAR
+Adjusted goals	2.1	2.1
+Shot-based xG	0.9	1.1
+Non-shot xG	1.2	0.9
+12/10	
+Middlesbrough2
+	50%	27%
+
+Luton Town1
+	23%
+	MID	LUT
+Adjusted goals	1.9	1.1
+Shot-based xG	1.7	0.3
+Non-shot xG	1.2	0.3
+12/10	
+Reading1
+	36%	29%
+
+Coventry City0
+	35%
+	REA	COV
+Adjusted goals	1.1	0.0
+Shot-based xG	0.8	0.7
+Non-shot xG	0.5	1.8
+12/10	
+Rotherham1
+	35%	27%
+
+Bristol City3
+	38%
+	ROT	BRC
+Adjusted goals	1.1	3.1
+Shot-based xG	1.2	1.2
+Non-shot xG	1.6	0.5
+12/10	
+Blackburn1
+	40%	30%
+
+Preston4
+	31%
+	BLK	PNE
+Adjusted goals	1.1	4.2
+Shot-based xG	0.8	1.6
+Non-shot xG	1.2	2.0
+NOVEMBER 29 - DECEMBER 5
+12/3	
+Sunderland3
+	31%	28%
+
+Millwall0
+	41%
+	SUN	MIL
+Adjusted goals	2.6	0.0
+Shot-based xG	2.1	1.3
+Non-shot xG	0.8	1.8
+NOVEMBER 8-14
+11/13	
+Burnley3
+	58%	25%
+
+Blackburn0
+	18%
+	BRN	BLK
+Adjusted goals	2.8	0.0
+Shot-based xG	2.6	0.0
+Non-shot xG	2.0	0.2
+11/12	
+Norwich1
+	47%	26%
+
+Middlesbrough2
+	27%
+	NOR	MID
+Adjusted goals	1.1	2.1
+Shot-based xG	1.2	1.4
+Non-shot xG	1.8	1.2
+11/12	
+Luton Town1
+	57%	24%
+
+Rotherham1
+	18%
+	LUT	ROT
+Adjusted goals	1.1	1.1
+Shot-based xG	1.4	0.5
+Non-shot xG	1.9	0.9
+11/12	
+Huddersfield0
+	36%	27%
+
+Swansea City0
+	37%
+	HUD	SWA
+Adjusted goals	0.0	0.0
+Shot-based xG	1.1	0.7
+Non-shot xG	0.3	2.4
+11/12	
+Bristol City0
+	30%	25%
+
+Watford0
+	44%
+	BRC	WAT
+Adjusted goals	0.0	0.0
+Shot-based xG	1.2	0.1
+Non-shot xG	1.2	0.2
+11/12	
+West Brom2
+	48%	27%
+
+Stoke City0
+	24%
+	WBA	STK
+Adjusted goals	2.1	0.0
+Shot-based xG	1.9	1.0
+Non-shot xG	1.7	0.7
+11/12	
+Cardiff City0
+	24%	26%
+
+Sheffield Utd1
+	50%
+	CAR	SHEF
+Adjusted goals	0.0	1.1
+Shot-based xG	1.1	0.7
+Non-shot xG	1.1	1.1
+11/12	
+Hull City1
+	40%	28%
+
+Reading2
+	32%
+	HCY	REA
+Adjusted goals	1.1	2.1
+Shot-based xG	1.1	0.6
+Non-shot xG	1.2	1.4
+11/12	
+Coventry City2
+	43%	28%
+
+QPR0
+	29%
+	COV	QPR
+Adjusted goals	1.9	0.0
+Shot-based xG	1.7	0.7
+Non-shot xG	1.6	1.1
+11/12	
+Preston2
+	36%	30%
+
+Millwall4
+	34%
+	PNE	MIL
+Adjusted goals	2.1	4.1
+Shot-based xG	1.1	1.4
+Non-shot xG	1.1	1.3
+11/12	
+Wigan2
+	42%	27%
+
+Blackpool1
+	31%
+	WGA	BLK
+Adjusted goals	1.7	1.1
+Shot-based xG	1.3	0.2
+Non-shot xG	1.5	0.7
+11/11	
+Birmingham1
+	47%	28%
+
+Sunderland2
+	25%
+	BIR	SUN
+Adjusted goals	1.1	2.1
+Shot-based xG	1.6	0.9
+Non-shot xG	2.3	0.3
+11/8	
+Watford2
+	59%	24%
+
+Reading0
+	17%
+	WAT	REA
+Adjusted goals	1.7	0.0
+Shot-based xG	1.9	0.3
+Non-shot xG	1.7	1.1
+11/8	
+Sheffield Utd0
+	73%	17%
+
+Rotherham1
+	10%
+	SHEF	ROT
+Adjusted goals	0.0	1.1
+Shot-based xG	1.2	0.6
+Non-shot xG	1.8	0.4
+11/8	
+Blackpool0
+	36%	27%
+
+Middlesbrough3
+	37%
+	BLK	MID
+Adjusted goals	0.0	3.2
+Shot-based xG	0.3	3.0
+Non-shot xG	0.4	1.9
+11/8	
+Cardiff City2
+	49%	29%
+
+Hull City3
+	22%
+	CAR	HCY
+Adjusted goals	2.1	3.2
+Shot-based xG	1.2	1.9
+Non-shot xG	1.2	1.0
+11/8	
+QPR1
+	49%	28%
+
+Huddersfield2
+	23%
+	QPR	HUD
+Adjusted goals	1.1	2.1
+Shot-based xG	2.3	1.0
+Non-shot xG	2.6	0.6
+11/8	
+Stoke City2
+	42%	28%
+
+Luton Town0
+	30%
+	STK	LUT
+Adjusted goals	2.1	0.0
+Shot-based xG	0.7	1.9
+Non-shot xG	0.6	1.6
+11/8	
+Coventry City2
+	47%	28%
+
+Wigan0
+	25%
+	COV	WGA
+Adjusted goals	1.6	0.0
+Shot-based xG	1.2	0.5
+Non-shot xG	1.5	1.0
+11/8	
+Birmingham2
+	41%	27%
+
+Swansea City2
+	31%
+	BIR	SWA
+Adjusted goals	2.1	2.1
+Shot-based xG	1.5	0.6
+Non-shot xG	1.4	1.0
+NOVEMBER 1-7
+11/5	
+Rotherham1
+	21%	23%
+
+Norwich2
+	56%
+	ROT	NOR
+Adjusted goals	1.1	2.1
+Shot-based xG	1.8	1.8
+Non-shot xG	1.7	1.3
+11/5	
+Millwall0
+	57%	25%
+
+Hull City0
+	18%
+	MIL	HCY
+Adjusted goals	0.0	0.0
+Shot-based xG	2.3	0.3
+Non-shot xG	2.8	0.3
+11/5	
+Swansea City2
+	49%	26%
+
+Wigan2
+	24%
+	SWA	WGA
+Adjusted goals	2.1	2.1
+Shot-based xG	2.2	0.4
+Non-shot xG	2.3	0.7
+11/5	
+Watford0
+	59%	24%
+
+Coventry City1
+	18%
+	WAT	COV
+Adjusted goals	0.0	1.1
+Shot-based xG	1.1	1.1
+Non-shot xG	1.3	1.3
+11/5	
+Blackpool0
+	37%	27%
+
+Luton Town1
+	36%
+	BLK	LUT
+Adjusted goals	0.0	1.1
+Shot-based xG	2.1	1.1
+Non-shot xG	1.7	1.0
+11/5	
+QPR0
+	40%	28%
+
+West Brom1
+	32%
+	QPR	WBA
+Adjusted goals	0.0	1.1
+Shot-based xG	0.5	1.6
+Non-shot xG	0.8	1.2
+11/5	
+Stoke City1
+	46%	28%
+
+Birmingham2
+	26%
+	STK	BIR
+Adjusted goals	1.1	2.1
+Shot-based xG	1.6	1.1
+Non-shot xG	1.3	0.7
+11/5	
+Sunderland0
+	43%	30%
+
+Cardiff City1
+	27%
+	SUN	CAR
+Adjusted goals	0.0	1.1
+Shot-based xG	0.7	2.0
+Non-shot xG	1.3	0.8
+11/5	
+Blackburn1
+	45%	29%
+
+Huddersfield0
+	26%
+	BLK	HUD
+Adjusted goals	1.1	0.0
+Shot-based xG	0.5	0.3
+Non-shot xG	1.2	0.8
+11/5	
+Middlesbrough1
+	52%	25%
+
+Bristol City1
+	23%
+	MID	BRC
+Adjusted goals	1.1	1.1
+Shot-based xG	2.3	1.0
+Non-shot xG	1.4	1.0
+11/5	
+Sheffield Utd5
+	42%	26%
+
+Burnley2
+	32%
+	SHEF	BRN
+Adjusted goals	5.2	2.1
+Shot-based xG	4.8	0.8
+Non-shot xG	2.3	0.8
+11/4	
+Reading1
+	39%	29%
+
+Preston2
+	31%
+	REA	PNE
+Adjusted goals	1.1	2.1
+Shot-based xG	1.1	1.1
+Non-shot xG	0.7	0.5
+11/2	
+Norwich0
+	55%	24%
+
+QPR0
+	21%
+	NOR	QPR
+Adjusted goals	0.0	0.0
+Shot-based xG	1.7	0.5
+Non-shot xG	1.4	0.9
+11/2	
+Huddersfield0
+	41%	29%
+
+Sunderland2
+	31%
+	HUD	SUN
+Adjusted goals	0.0	1.6
+Shot-based xG	1.5	1.3
+Non-shot xG	1.6	0.7
+11/2	
+Cardiff City1
+	27%	28%
+
+Watford2
+	45%
+	CAR	WAT
+Adjusted goals	1.1	2.1
+Shot-based xG	1.2	1.0
+Non-shot xG	0.9	1.2
+11/2	
+Burnley3
+	70%	20%
+
+Rotherham2
+	10%
+	BRN	ROT
+Adjusted goals	2.7	2.1
+Shot-based xG	4.0	0.7
+Non-shot xG	2.7	0.6
+11/2	
+Birmingham0
+	38%	28%
+
+Millwall0
+	34%
+	BIR	MIL
+Adjusted goals	0.0	0.0
+Shot-based xG	0.3	0.5
+Non-shot xG	0.4	0.6
+11/2	
+Wigan0
+	37%	28%
+
+Stoke City1
+	35%
+	WGA	STK
+Adjusted goals	0.0	1.1
+Shot-based xG	1.0	1.4
+Non-shot xG	1.2	1.1
+11/1	
+Bristol City0
+	26%	24%
+
+Sheffield Utd1
+	50%
+	BRC	SHEF
+Adjusted goals	0.0	1.1
+Shot-based xG	1.6	1.0
+Non-shot xG	1.6	0.3
+11/1	
+West Brom1
+	53%	24%
+
+Blackpool0
+	22%
+	WBA	BLK
+Adjusted goals	1.1	0.0
+Shot-based xG	0.7	0.2
+Non-shot xG	1.5	0.4
+11/1	
+Luton Town0
+	52%	26%
+
+Reading0
+	21%
+	LUT	REA
+Adjusted goals	0.0	0.0
+Shot-based xG	0.8	0.9
+Non-shot xG	1.9	1.3
+11/1	
+Hull City1
+	30%	27%
+
+Middlesbrough3
+	43%
+	HCY	MID
+Adjusted goals	1.1	2.9
+Shot-based xG	0.5	1.0
+Non-shot xG	1.1	0.4
+11/1	
+Coventry City1
+	43%	29%
+
+Blackburn0
+	28%
+	COV	BLK
+Adjusted goals	1.1	0.0
+Shot-based xG	1.6	0.7
+Non-shot xG	0.8	1.0
+11/1	
+Preston1
+	40%	28%
+
+Swansea City0
+	33%
+	PNE	SWA
+Adjusted goals	1.1	0.0
+Shot-based xG	1.8	1.2
+Non-shot xG	0.8	1.6
+OCTOBER 25-31
+10/29	
+Norwich3
+	55%	24%
+
+Stoke City1
+	20%
+	NOR	STK
+Adjusted goals	3.0	1.1
+Shot-based xG	2.5	2.1
+Non-shot xG	1.0	1.6
+10/29	
+Luton Town1
+	51%	26%
+
+Sunderland1
+	22%
+	LUT	SUN
+Adjusted goals	1.1	1.1
+Shot-based xG	1.6	1.1
+Non-shot xG	1.9	1.3
+10/29	
+Huddersfield1
+	32%	27%
+
+Millwall0
+	40%
+	HUD	MIL
+Adjusted goals	1.1	0.0
+Shot-based xG	0.7	0.7
+Non-shot xG	1.1	0.9
+10/29	
+Cardiff City1
+	48%	28%
+
+Rotherham0
+	24%
+	CAR	ROT
+Adjusted goals	1.1	0.0
+Shot-based xG	2.1	0.1
+Non-shot xG	1.8	0.1
+10/29	
+Hull City0
+	39%	28%
+
+Blackburn1
+	34%
+	HCY	BLK
+Adjusted goals	0.0	1.1
+Shot-based xG	0.6	0.8
+Non-shot xG	1.0	1.0
+10/29	
+Coventry City1
+	47%	26%
+
+Blackpool2
+	27%
+	COV	BLK
+Adjusted goals	1.1	2.1
+Shot-based xG	1.2	2.5
+Non-shot xG	1.3	2.6
+10/29	
+Burnley2
+	65%	22%
+
+Reading1
+	13%
+	BRN	REA
+Adjusted goals	2.1	1.1
+Shot-based xG	1.1	0.5
+Non-shot xG	1.4	0.9
+10/29	
+Preston2
+	37%	29%
+
+Middlesbrough1
+	33%
+	PNE	MID
+Adjusted goals	2.1	1.1
+Shot-based xG	0.8	1.2
+Non-shot xG	0.9	2.1
+10/29	
+Wigan0
+	28%	26%
+
+Watford1
+	46%
+	WGA	WAT
+Adjusted goals	0.0	1.1
+Shot-based xG	0.5	0.7
+Non-shot xG	1.3	1.2
+10/29	
+West Brom0
+	37%	26%
+
+Sheffield Utd2
+	37%
+	WBA	SHEF
+Adjusted goals	0.0	2.1
+Shot-based xG	0.8	1.3
+Non-shot xG	1.2	0.9
+10/29	
+Bristol City1
+	39%	25%
+
+Swansea City1
+	36%
+	BRC	SWA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.2	1.1
+Non-shot xG	1.1	1.6
+10/28	
+Birmingham2
+	41%	27%
+
+QPR0
+	32%
+	BIR	QPR
+Adjusted goals	2.1	0.0
+Shot-based xG	0.5	1.5
+Non-shot xG	0.4	1.4
+10/25	
+Burnley1
+	44%	26%
+
+Norwich0
+	30%
+	BRN	NOR
+Adjusted goals	1.1	0.0
+Shot-based xG	1.9	0.8
+Non-shot xG	0.7	0.2
+10/25	
+Coventry City2
+	54%	27%
+
+Rotherham2
+	19%
+	COV	ROT
+Adjusted goals	2.1	2.1
+Shot-based xG	2.2	2.1
+Non-shot xG	2.5	1.1
+OCTOBER 18-24
+10/23	
+Swansea City2
+	46%	27%
+
+Cardiff City0
+	26%
+	SWA	CAR
+Adjusted goals	1.7	0.0
+Shot-based xG	1.6	0.2
+Non-shot xG	1.9	0.1
+10/23	
+Watford4
+	47%	26%
+
+Luton Town0
+	27%
+	WAT	LUT
+Adjusted goals	4.0	0.0
+Shot-based xG	1.9	1.2
+Non-shot xG	1.3	1.6
+10/22	
+Sheffield Utd2
+	40%	26%
+
+Norwich2
+	34%
+	SHEF	NOR
+Adjusted goals	2.1	2.1
+Shot-based xG	3.3	1.4
+Non-shot xG	2.5	1.2
+10/22	
+Rotherham2
+	42%	28%
+
+Hull City4
+	29%
+	ROT	HCY
+Adjusted goals	2.1	3.8
+Shot-based xG	1.1	2.3
+Non-shot xG	1.1	1.1
+10/22	
+Millwall2
+	41%	27%
+
+West Brom1
+	32%
+	MIL	WBA
+Adjusted goals	1.9	1.1
+Shot-based xG	1.4	0.5
+Non-shot xG	1.5	0.7
+10/22	
+QPR2
+	53%	26%
+
+Wigan1
+	22%
+	QPR	WGA
+Adjusted goals	2.1	1.1
+Shot-based xG	0.8	1.6
+Non-shot xG	0.7	1.9
+10/22	
+Stoke City0
+	47%	28%
+
+Coventry City2
+	25%
+	STK	COV
+Adjusted goals	0.0	2.1
+Shot-based xG	0.5	0.9
+Non-shot xG	1.2	0.4
+10/22	
+Sunderland2
+	27%	27%
+
+Burnley4
+	46%
+	SUN	BRN
+Adjusted goals	2.1	3.8
+Shot-based xG	0.8	1.0
+Non-shot xG	0.5	1.2
+10/22	
+Reading2
+	40%	26%
+
+Bristol City0
+	34%
+	REA	BRC
+Adjusted goals	1.6	0.0
+Shot-based xG	1.5	0.3
+Non-shot xG	1.2	1.3
+10/22	
+Blackburn2
+	42%	29%
+
+Birmingham1
+	29%
+	BLK	BIR
+Adjusted goals	2.1	1.1
+Shot-based xG	0.8	2.0
+Non-shot xG	0.7	2.3
+10/22	
+Middlesbrough0
+	55%	25%
+
+Huddersfield0
+	20%
+	MID	HUD
+Adjusted goals	0.0	0.0
+Shot-based xG	0.7	0.8
+Non-shot xG	1.5	0.7
+10/22	
+Blackpool4
+	41%	28%
+
+Preston2
+	31%
+	BLK	PNE
+Adjusted goals	3.4	2.1
+Shot-based xG	1.1	1.9
+Non-shot xG	1.2	1.3
+10/19	
+Millwall3
+	35%	26%
+
+Watford0
+	38%
+	MIL	WAT
+Adjusted goals	3.2	0.0
+Shot-based xG	1.6	1.7
+Non-shot xG	1.1	1.3
+10/19	
+Blackpool1
+	52%	25%
+
+Hull City3
+	23%
+	BLK	HCY
+Adjusted goals	1.1	2.9
+Shot-based xG	0.5	0.6
+Non-shot xG	0.5	0.5
+10/19	
+QPR3
+	46%	29%
+
+Cardiff City0
+	25%
+	QPR	CAR
+Adjusted goals	2.5	0.0
+Shot-based xG	2.8	0.1
+Non-shot xG	1.2	0.5
+10/19	
+Coventry City1
+	30%	27%
+
+Sheffield Utd0
+	43%
+	COV	SHEF
+Adjusted goals	1.1	0.0
+Shot-based xG	1.1	0.8
+Non-shot xG	0.5	1.4
+10/19	
+Birmingham1
+	27%	27%
+
+Burnley1
+	46%
+	BIR	BRN
+Adjusted goals	1.1	1.1
+Shot-based xG	1.5	0.8
+Non-shot xG	1.7	0.9
+10/19	
+Wigan1
+	36%	29%
+
+Middlesbrough4
+	35%
+	WGA	MID
+Adjusted goals	1.1	4.2
+Shot-based xG	0.8	2.9
+Non-shot xG	1.1	1.0
+10/18	
+West Brom0
+	58%	23%
+
+Bristol City2
+	19%
+	WBA	BRC
+Adjusted goals	0.0	2.1
+Shot-based xG	0.8	0.7
+Non-shot xG	1.5	0.9
+10/18	
+Stoke City0
+	57%	25%
+
+Rotherham1
+	18%
+	STK	ROT
+Adjusted goals	0.0	1.1
+Shot-based xG	1.9	0.1
+Non-shot xG	1.7	0.2
+10/18	
+Blackburn2
+	44%	28%
+
+Sunderland0
+	28%
+	BLK	SUN
+Adjusted goals	2.1	0.0
+Shot-based xG	1.0	1.1
+Non-shot xG	0.8	1.5
+10/18	
+Norwich0
+	56%	24%
+
+Luton Town1
+	20%
+	NOR	LUT
+Adjusted goals	0.0	1.1
+Shot-based xG	0.5	0.4
+Non-shot xG	1.6	0.5
+10/18	
+Huddersfield0
+	38%	29%
+
+Preston1
+	33%
+	HUD	PNE
+Adjusted goals	0.0	1.1
+Shot-based xG	0.6	1.0
+Non-shot xG	1.3	0.8
+10/18	
+Swansea City3
+	49%	26%
+
+Reading2
+	25%
+	SWA	REA
+Adjusted goals	3.2	2.1
+Shot-based xG	0.8	1.0
+Non-shot xG	1.6	0.4
+OCTOBER 11-17
+10/16	
+Hull City0
+	36%	28%
+
+Birmingham2
+	36%
+	HCY	BIR
+Adjusted goals	0.0	2.1
+Shot-based xG	1.0	1.8
+Non-shot xG	0.6	0.8
+10/15	
+Watford2
+	37%	25%
+
+Norwich1
+	38%
+	WAT	NOR
+Adjusted goals	2.1	1.1
+Shot-based xG	2.3	1.3
+Non-shot xG	0.7	1.3
+10/15	
+Sheffield Utd3
+	61%	23%
+
+Blackpool3
+	16%
+	SHEF	BLK
+Adjusted goals	2.9	3.2
+Shot-based xG	3.3	1.7
+Non-shot xG	2.1	1.0
+10/15	
+Bristol City1
+	41%	26%
+
+Millwall2
+	33%
+	BRC	MIL
+Adjusted goals	1.1	2.1
+Shot-based xG	0.6	3.0
+Non-shot xG	0.8	1.8
+10/15	
+Cardiff City0
+	42%	30%
+
+Coventry City1
+	28%
+	CAR	COV
+Adjusted goals	0.0	1.1
+Shot-based xG	0.7	1.3
+Non-shot xG	1.1	1.0
+10/15	
+Burnley4
+	54%	24%
+
+Swansea City0
+	22%
+	BRN	SWA
+Adjusted goals	4.2	0.0
+Shot-based xG	2.6	0.4
+Non-shot xG	1.2	0.4
+10/15	
+Preston0
+	43%	29%
+
+Stoke City2
+	29%
+	PNE	STK
+Adjusted goals	0.0	2.1
+Shot-based xG	0.3	1.7
+Non-shot xG	0.7	1.5
+10/15	
+Sunderland2
+	44%	28%
+
+Wigan1
+	28%
+	SUN	WGA
+Adjusted goals	2.1	1.1
+Shot-based xG	1.2	0.8
+Non-shot xG	0.8	0.8
+10/15	
+Reading0
+	28%	26%
+
+West Brom2
+	46%
+	REA	WBA
+Adjusted goals	0.0	2.1
+Shot-based xG	1.3	0.5
+Non-shot xG	1.2	0.3
+10/15	
+Middlesbrough1
+	50%	28%
+
+Blackburn2
+	22%
+	MID	BLK
+Adjusted goals	1.1	2.1
+Shot-based xG	1.5	0.9
+Non-shot xG	1.0	0.8
+10/15	
+Rotherham2
+	38%	29%
+
+Huddersfield1
+	34%
+	ROT	HUD
+Adjusted goals	2.1	1.1
+Shot-based xG	1.3	0.5
+Non-shot xG	1.6	1.2
+10/15	
+Luton Town3
+	44%	28%
+
+QPR1
+	29%
+	LUT	QPR
+Adjusted goals	2.5	1.1
+Shot-based xG	2.1	0.9
+Non-shot xG	2.2	1.0
+10/12	
+Bristol City2
+	39%	27%
+
+Preston1
+	34%
+	BRC	PNE
+Adjusted goals	2.1	1.1
+Shot-based xG	1.3	0.5
+Non-shot xG	1.4	0.4
+10/11	
+Wigan1
+	40%	29%
+
+Blackburn0
+	31%
+	WGA	BLK
+Adjusted goals	1.1	0.0
+Shot-based xG	1.5	0.1
+Non-shot xG	1.2	0.4
+OCTOBER 4-10
+10/9	
+Huddersfield2
+	46%	27%
+
+Hull City0
+	27%
+	HUD	HCY
+Adjusted goals	2.1	0.0
+Shot-based xG	1.6	0.8
+Non-shot xG	0.9	0.6
+10/8	
+Norwich2
+	61%	24%
+
+Preston3
+	15%
+	NOR	PNE
+Adjusted goals	2.1	3.2
+Shot-based xG	2.3	0.9
+Non-shot xG	2.3	0.9
+10/8	
+Millwall2
+	38%	28%
+
+Middlesbrough0
+	34%
+	MIL	MID
+Adjusted goals	2.1	0.0
+Shot-based xG	1.4	0.4
+Non-shot xG	0.8	0.8
+10/8	
+Swansea City2
+	48%	26%
+
+Sunderland1
+	26%
+	SWA	SUN
+Adjusted goals	2.1	1.1
+Shot-based xG	0.9	0.6
+Non-shot xG	1.6	1.1
+10/8	
+Blackpool3
+	28%	25%
+
+Watford1
+	47%
+	BLK	WAT
+Adjusted goals	2.8	1.1
+Shot-based xG	1.4	0.5
+Non-shot xG	0.9	0.8
+10/8	
+West Brom0
+	51%	25%
+
+Luton Town0
+	24%
+	WBA	LUT
+Adjusted goals	0.0	0.0
+Shot-based xG	0.9	0.5
+Non-shot xG	0.6	0.7
+10/8	
+Stoke City3
+	28%	26%
+
+Sheffield Utd1
+	46%
+	STK	SHEF
+Adjusted goals	2.6	1.1
+Shot-based xG	1.5	1.0
+Non-shot xG	2.1	1.0
+10/8	
+Coventry City0
+	32%	27%
+
+Burnley1
+	41%
+	COV	BRN
+Adjusted goals	0.0	1.1
+Shot-based xG	0.3	0.7
+Non-shot xG	0.3	0.8
+10/8	
+Birmingham3
+	41%	26%
+
+Bristol City0
+	33%
+	BIR	BRC
+Adjusted goals	3.0	0.0
+Shot-based xG	2.2	0.3
+Non-shot xG	1.7	0.6
+10/8	
+Wigan1
+	39%	31%
+
+Cardiff City3
+	30%
+	WGA	CAR
+Adjusted goals	1.1	2.6
+Shot-based xG	1.3	1.3
+Non-shot xG	2.3	0.8
+10/8	
+Blackburn3
+	48%	29%
+
+Rotherham0
+	24%
+	BLK	ROT
+Adjusted goals	3.0	0.0
+Shot-based xG	2.7	0.9
+Non-shot xG	1.8	0.6
+10/7	
+QPR2
+	53%	26%
+
+Reading1
+	21%
+	QPR	REA
+Adjusted goals	2.1	1.1
+Shot-based xG	1.9	1.3
+Non-shot xG	0.6	0.7
+10/5	
+Preston1
+	33%	28%
+
+West Brom0
+	39%
+	PNE	WBA
+Adjusted goals	1.1	0.0
+Shot-based xG	1.9	1.8
+Non-shot xG	0.9	1.3
+10/5	
+Rotherham1
+	36%	28%
+
+Millwall1
+	36%
+	ROT	MIL
+Adjusted goals	1.1	1.1
+Shot-based xG	1.1	2.1
+Non-shot xG	0.5	1.3
+10/5	
+Watford1
+	59%	23%
+
+Swansea City2
+	19%
+	WAT	SWA
+Adjusted goals	1.1	2.1
+Shot-based xG	1.4	0.8
+Non-shot xG	1.4	0.9
+10/5	
+Hull City2
+	40%	28%
+
+Wigan1
+	32%
+	HCY	WGA
+Adjusted goals	2.1	1.1
+Shot-based xG	0.9	1.6
+Non-shot xG	0.9	1.3
+10/5	
+Burnley1
+	56%	24%
+
+Stoke City1
+	20%
+	BRN	STK
+Adjusted goals	1.1	1.1
+Shot-based xG	0.9	0.5
+Non-shot xG	0.8	0.6
+10/5	
+Middlesbrough1
+	54%	26%
+
+Birmingham0
+	21%
+	MID	BIR
+Adjusted goals	1.1	0.0
+Shot-based xG	1.1	1.0
+Non-shot xG	0.9	1.1
+10/4	
+Cardiff City1
+	44%	30%
+
+Blackburn0
+	26%
+	CAR	BLK
+Adjusted goals	1.1	0.0
+Shot-based xG	0.9	0.9
+Non-shot xG	2.1	0.5
+10/4	
+Reading1
+	19%	23%
+
+Norwich1
+	58%
+	REA	NOR
+Adjusted goals	1.1	1.1
+Shot-based xG	0.4	0.9
+Non-shot xG	1.0	1.1
+10/4	
+Sheffield Utd0
+	60%	23%
+
+QPR1
+	16%
+	SHEF	QPR
+Adjusted goals	0.0	1.1
+Shot-based xG	1.1	0.8
+Non-shot xG	1.8	0.9
+10/4	
+Luton Town3
+	50%	27%
+
+Huddersfield3
+	23%
+	LUT	HUD
+Adjusted goals	3.2	3.2
+Shot-based xG	2.6	1.2
+Non-shot xG	3.1	0.8
+10/4	
+Bristol City0
+	44%	25%
+
+Coventry City0
+	31%
+	BRC	COV
+Adjusted goals	0.0	0.0
+Shot-based xG	0.6	1.1
+Non-shot xG	1.5	0.7
+10/4	
+Sunderland0
+	46%	27%
+
+Blackpool0
+	28%
+	SUN	BLK
+Adjusted goals	0.0	0.0
+Shot-based xG	0.8	1.3
+Non-shot xG	1.1	1.2
+SEPTEMBER 27 - OCTOBER 3
+10/2	
+Stoke City0
+	33%	27%
+
+Watford4
+	40%
+	STK	WAT
+Adjusted goals	0.0	3.6
+Shot-based xG	1.0	3.9
+Non-shot xG	1.9	1.7
+10/1	
+Sheffield Utd1
+	68%	20%
+
+Birmingham1
+	12%
+	SHEF	BIR
+Adjusted goals	1.1	1.1
+Shot-based xG	0.7	0.9
+Non-shot xG	1.6	0.7
+10/1	
+Rotherham0
+	42%	29%
+
+Wigan2
+	29%
+	ROT	WGA
+Adjusted goals	0.0	1.8
+Shot-based xG	0.7	2.1
+Non-shot xG	1.1	0.7
+10/1	
+Blackpool0
+	22%	23%
+
+Norwich1
+	55%
+	BLK	NOR
+Adjusted goals	0.0	1.1
+Shot-based xG	1.2	1.4
+Non-shot xG	1.2	2.5
+10/1	
+Bristol City1
+	44%	25%
+
+QPR2
+	31%
+	BRC	QPR
+Adjusted goals	1.1	2.1
+Shot-based xG	1.0	1.4
+Non-shot xG	0.9	0.9
+10/1	
+West Brom2
+	57%	23%
+
+Swansea City3
+	19%
+	WBA	SWA
+Adjusted goals	2.1	3.2
+Shot-based xG	1.8	1.4
+Non-shot xG	1.8	1.2
+10/1	
+Cardiff City1
+	30%	28%
+
+Burnley1
+	42%
+	CAR	BRN
+Adjusted goals	1.1	1.1
+Shot-based xG	0.6	0.9
+Non-shot xG	0.7	0.5
+10/1	
+Coventry City1
+	36%	27%
+
+Middlesbrough0
+	36%
+	COV	MID
+Adjusted goals	1.1	0.0
+Shot-based xG	0.9	0.7
+Non-shot xG	0.8	1.1
+10/1	
+Sunderland0
+	40%	29%
+
+Preston0
+	31%
+	SUN	PNE
+Adjusted goals	0.0	0.0
+Shot-based xG	0.6	0.5
+Non-shot xG	0.6	1.0
+10/1	
+Reading3
+	40%	28%
+
+Huddersfield1
+	32%
+	REA	HUD
+Adjusted goals	2.9	1.1
+Shot-based xG	1.3	0.6
+Non-shot xG	1.1	1.1
+10/1	
+Blackburn2
+	41%	28%
+
+Millwall1
+	31%
+	BLK	MIL
+Adjusted goals	2.1	1.1
+Shot-based xG	1.7	1.1
+Non-shot xG	0.6	1.4
+9/30	
+Hull City0
+	34%	27%
+
+Luton Town2
+	38%
+	HCY	LUT
+Adjusted goals	0.0	2.1
+Shot-based xG	0.6	0.6
+Non-shot xG	0.7	0.9
+SEPTEMBER 13-19
+9/17	
+Middlesbrough0
+	56%	25%
+
+Rotherham0
+	19%
+	MID	ROT
+Adjusted goals	0.0	0.0
+Shot-based xG	1.3	0.1
+Non-shot xG	1.4	0.5
+9/17	
+Norwich1
+	51%	24%
+
+West Brom1
+	24%
+	NOR	WBA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.0	0.9
+Non-shot xG	1.3	0.9
+9/17	
+Luton Town2
+	46%	28%
+
+Blackburn0
+	26%
+	LUT	BLK
+Adjusted goals	2.1	0.0
+Shot-based xG	1.2	0.8
+Non-shot xG	1.5	0.7
+9/17	
+Millwall2
+	48%	26%
+
+Blackpool1
+	26%
+	MIL	BLK
+Adjusted goals	2.1	1.1
+Shot-based xG	1.1	0.9
+Non-shot xG	1.2	1.3
+9/17	
+Huddersfield1
+	41%	30%
+
+Cardiff City0
+	29%
+	HUD	CAR
+Adjusted goals	1.1	0.0
+Shot-based xG	0.9	1.0
+Non-shot xG	1.0	1.3
+9/17	
+Watford2
+	59%	24%
+
+Sunderland2
+	18%
+	WAT	SUN
+Adjusted goals	2.1	2.1
+Shot-based xG	1.4	0.7
+Non-shot xG	1.3	1.0
+9/17	
+QPR0
+	41%	27%
+
+Stoke City0
+	32%
+	QPR	STK
+Adjusted goals	0.0	0.0
+Shot-based xG	1.7	0.6
+Non-shot xG	2.1	1.3
+9/17	
+Burnley2
+	57%	22%
+
+Bristol City1
+	21%
+	BRN	BRC
+Adjusted goals	2.1	1.1
+Shot-based xG	1.1	1.1
+Non-shot xG	1.5	1.0
+9/17	
+Preston0
+	26%	27%
+
+Sheffield Utd2
+	46%
+	PNE	SHEF
+Adjusted goals	0.0	2.0
+Shot-based xG	1.0	1.5
+Non-shot xG	2.1	1.2
+9/17	
+Birmingham0
+	38%	26%
+
+Coventry City0
+	35%
+	BIR	COV
+Adjusted goals	0.0	0.0
+Shot-based xG	1.4	0.7
+Non-shot xG	1.2	0.9
+9/17	
+Wigan0
+	47%	27%
+
+Reading1
+	26%
+	WGA	REA
+Adjusted goals	0.0	1.1
+Shot-based xG	0.4	1.3
+Non-shot xG	1.2	0.9
+9/17	
+Swansea City3
+	49%	25%
+
+Hull City0
+	26%
+	SWA	HCY
+Adjusted goals	2.8	0.0
+Shot-based xG	2.5	0.2
+Non-shot xG	1.6	0.6
+9/14	
+West Brom2
+	65%	21%
+
+Birmingham3
+	13%
+	WBA	BIR
+Adjusted goals	2.1	3.1
+Shot-based xG	1.8	1.4
+Non-shot xG	1.2	0.9
+9/14	
+Reading0
+	41%	27%
+
+Sunderland3
+	32%
+	REA	SUN
+Adjusted goals	0.0	3.2
+Shot-based xG	0.2	1.1
+Non-shot xG	0.5	1.1
+9/14	
+Norwich3
+	66%	19%
+
+Bristol City2
+	15%
+	NOR	BRC
+Adjusted goals	3.2	2.1
+Shot-based xG	1.8	1.0
+Non-shot xG	0.8	0.9
+9/14	
+Rotherham3
+	39%	27%
+
+Blackpool0
+	34%
+	ROT	BLK
+Adjusted goals	2.5	0.0
+Shot-based xG	2.0	0.3
+Non-shot xG	0.9	0.5
+9/14	
+Luton Town2
+	45%	27%
+
+Coventry City2
+	28%
+	LUT	COV
+Adjusted goals	2.1	2.1
+Shot-based xG	1.8	1.5
+Non-shot xG	1.6	1.1
+9/14	
+Millwall0
+	45%	26%
+
+QPR2
+	28%
+	MIL	QPR
+Adjusted goals	0.0	2.1
+Shot-based xG	0.8	1.1
+Non-shot xG	1.4	1.0
+9/13	
+Preston1
+	34%	27%
+
+Burnley1
+	38%
+	PNE	BRN
+Adjusted goals	1.1	1.1
+Shot-based xG	1.0	0.9
+Non-shot xG	0.8	1.2
+9/13	
+Huddersfield1
+	44%	29%
+
+Wigan2
+	27%
+	HUD	WGA
+Adjusted goals	1.1	2.1
+Shot-based xG	1.8	1.7
+Non-shot xG	1.2	1.0
+9/13	
+Swansea City0
+	27%	25%
+
+Sheffield Utd1
+	49%
+	SWA	SHEF
+Adjusted goals	0.0	1.1
+Shot-based xG	1.6	1.9
+Non-shot xG	1.5	0.9
+9/13	
+Hull City0
+	37%	27%
+
+Stoke City3
+	36%
+	HCY	STK
+Adjusted goals	0.0	3.2
+Shot-based xG	1.1	1.6
+Non-shot xG	1.5	1.7
+9/13	
+Blackburn2
+	29%	27%
+
+Watford0
+	44%
+	BLK	WAT
+Adjusted goals	1.8	0.0
+Shot-based xG	1.6	0.7
+Non-shot xG	0.9	1.0
+9/13	
+Middlesbrough2
+	52%	28%
+
+Cardiff City3
+	20%
+	MID	CAR
+Adjusted goals	2.1	3.2
+Shot-based xG	1.0	0.7
+Non-shot xG	2.0	0.4
+AUGUST 30 - SEPTEMBER 5
+9/5	
+Middlesbrough1
+	54%	24%
+
+Sunderland0
+	21%
+	MID	SUN
+Adjusted goals	1.1	0.0
+Shot-based xG	1.4	0.6
+Non-shot xG	1.5	0.6
+9/4	
+Huddersfield0
+	43%	27%
+
+Blackpool1
+	30%
+	HUD	BLK
+Adjusted goals	0.0	1.1
+Shot-based xG	1.8	1.2
+Non-shot xG	1.3	0.7
+9/4	
+Hull City0
+	21%	23%
+
+Sheffield Utd2
+	56%
+	HCY	SHEF
+Adjusted goals	0.0	2.0
+Shot-based xG	1.8	0.6
+Non-shot xG	1.1	1.3
+9/4	
+Reading2
+	36%	27%
+
+Stoke City1
+	37%
+	REA	STK
+Adjusted goals	2.1	1.1
+Shot-based xG	1.8	0.6
+Non-shot xG	0.8	1.5
+9/3	
+Norwich3
+	62%	22%
+
+Coventry City0
+	16%
+	NOR	COV
+Adjusted goals	2.9	0.0
+Shot-based xG	2.6	0.6
+Non-shot xG	2.6	0.4
+9/3	
+Rotherham1
+	23%	25%
+
+Watford1
+	52%
+	ROT	WAT
+Adjusted goals	1.1	1.1
+Shot-based xG	0.8	1.2
+Non-shot xG	0.8	1.4
+9/3	
+Luton Town1
+	51%	28%
+
+Wigan2
+	22%
+	LUT	WGA
+Adjusted goals	1.1	2.1
+Shot-based xG	1.0	0.6
+Non-shot xG	1.3	1.0
+9/3	
+Millwall2
+	46%	29%
+
+Cardiff City0
+	26%
+	MIL	CAR
+Adjusted goals	1.6	0.0
+Shot-based xG	0.8	1.3
+Non-shot xG	2.0	1.1
+9/3	
+Swansea City1
+	41%	26%
+
+QPR0
+	33%
+	SWA	QPR
+Adjusted goals	1.1	0.0
+Shot-based xG	2.9	0.5
+Non-shot xG	1.3	0.9
+9/3	
+Preston0
+	53%	27%
+
+Birmingham1
+	21%
+	PNE	BIR
+Adjusted goals	0.0	1.1
+Shot-based xG	0.9	1.2
+Non-shot xG	1.5	1.2
+9/3	
+Blackburn2
+	43%	26%
+
+Bristol City3
+	31%
+	BLK	BRC
+Adjusted goals	2.1	3.1
+Shot-based xG	1.6	2.2
+Non-shot xG	1.5	1.4
+9/2	
+West Brom1
+	47%	25%
+
+Burnley1
+	27%
+	WBA	BRN
+Adjusted goals	1.1	1.1
+Shot-based xG	1.9	2.0
+Non-shot xG	2.1	1.2
+8/31	
+Blackpool0
+	43%	27%
+
+Blackburn1
+	30%
+	BLK	BLK
+Adjusted goals	0.0	1.1
+Shot-based xG	1.0	1.1
+Non-shot xG	2.0	1.3
+8/31	
+Bristol City2
+	45%	26%
+
+Huddersfield0
+	29%
+	BRC	HUD
+Adjusted goals	1.8	0.0
+Shot-based xG	1.0	1.1
+Non-shot xG	1.6	0.8
+8/31	
+Stoke City1
+	47%	26%
+
+Swansea City1
+	27%
+	STK	SWA
+Adjusted goals	1.1	1.1
+Shot-based xG	2.5	1.0
+Non-shot xG	2.3	1.0
+8/31	
+Coventry City0
+	44%	28%
+
+Preston1
+	28%
+	COV	PNE
+Adjusted goals	0.0	1.1
+Shot-based xG	0.6	1.5
+Non-shot xG	1.4	1.4
+8/31	
+Sunderland3
+	45%	27%
+
+Rotherham0
+	28%
+	SUN	ROT
+Adjusted goals	3.2	0.0
+Shot-based xG	1.8	0.3
+Non-shot xG	1.4	0.9
+8/30	
+Watford2
+	52%	25%
+
+Middlesbrough1
+	23%
+	WAT	MID
+Adjusted goals	2.1	1.1
+Shot-based xG	1.6	1.6
+Non-shot xG	1.1	0.8
+8/30	
+Sheffield Utd4
+	68%	20%
+
+Reading0
+	12%
+	SHEF	REA
+Adjusted goals	3.9	0.0
+Shot-based xG	2.1	0.1
+Non-shot xG	2.4	0.6
+8/30	
+Cardiff City1
+	39%	31%
+
+Luton Town2
+	29%
+	CAR	LUT
+Adjusted goals	1.1	2.1
+Shot-based xG	1.6	1.6
+Non-shot xG	1.4	1.2
+8/30	
+QPR3
+	48%	26%
+
+Hull City1
+	26%
+	QPR	HCY
+Adjusted goals	3.2	1.1
+Shot-based xG	1.7	1.0
+Non-shot xG	1.0	0.6
+8/30	
+Burnley2
+	55%	24%
+
+Millwall0
+	21%
+	BRN	MIL
+Adjusted goals	2.1	0.0
+Shot-based xG	2.5	1.1
+Non-shot xG	1.2	1.4
+8/30	
+Birmingham1
+	20%	23%
+
+Norwich2
+	56%
+	BIR	NOR
+Adjusted goals	1.1	2.1
+Shot-based xG	1.1	2.1
+Non-shot xG	1.2	2.2
+8/30	
+Wigan1
+	22%	25%
+
+West Brom1
+	53%
+	WGA	WBA
+Adjusted goals	1.1	1.1
+Shot-based xG	0.5	0.5
+Non-shot xG	0.6	0.5
+AUGUST 23-29
+8/27	
+Rotherham2
+	41%	28%
+
+Birmingham0
+	31%
+	ROT	BIR
+Adjusted goals	2.1	0.0
+Shot-based xG	3.2	0.9
+Non-shot xG	1.9	0.9
+8/27	
+Millwall0
+	51%	25%
+
+Reading1
+	24%
+	MIL	REA
+Adjusted goals	0.0	1.1
+Shot-based xG	0.8	1.2
+Non-shot xG	1.9	0.3
+8/27	
+Huddersfield2
+	26%	27%
+
+West Brom2
+	46%
+	HUD	WBA
+Adjusted goals	2.1	2.1
+Shot-based xG	0.6	2.8
+Non-shot xG	0.8	2.7
+8/27	
+Watford2
+	64%	22%
+
+QPR3
+	14%
+	WAT	QPR
+Adjusted goals	2.1	3.2
+Shot-based xG	1.2	0.8
+Non-shot xG	0.5	1.2
+8/27	
+Blackpool3
+	43%	25%
+
+Bristol City3
+	32%
+	BLK	BRC
+Adjusted goals	3.2	3.2
+Shot-based xG	1.9	2.4
+Non-shot xG	1.8	0.9
+8/27	
+Cardiff City0
+	39%	30%
+
+Preston0
+	31%
+	CAR	PNE
+Adjusted goals	0.0	0.0
+Shot-based xG	0.9	0.2
+Non-shot xG	1.2	0.1
+8/27	
+Hull City3
+	36%	28%
+
+Coventry City2
+	37%
+	HCY	COV
+Adjusted goals	3.2	2.1
+Shot-based xG	2.8	2.7
+Non-shot xG	0.9	1.3
+8/27	
+Wigan1
+	27%	26%
+
+Burnley5
+	46%
+	WGA	BRN
+Adjusted goals	1.1	4.4
+Shot-based xG	1.8	1.0
+Non-shot xG	0.8	0.7
+8/27	
+Blackburn0
+	40%	28%
+
+Stoke City1
+	32%
+	BLK	STK
+Adjusted goals	0.0	1.1
+Shot-based xG	1.1	0.4
+Non-shot xG	1.4	1.0
+8/27	
+Middlesbrough2
+	54%	24%
+
+Swansea City1
+	22%
+	MID	SWA
+Adjusted goals	2.1	1.1
+Shot-based xG	1.0	1.2
+Non-shot xG	0.9	0.8
+8/27	
+Sunderland0
+	22%	23%
+
+Norwich1
+	55%
+	SUN	NOR
+Adjusted goals	0.0	1.1
+Shot-based xG	1.8	1.7
+Non-shot xG	1.4	2.0
+8/26	
+Luton Town1
+	26%	27%
+
+Sheffield Utd1
+	47%
+	LUT	SHEF
+Adjusted goals	1.1	1.1
+Shot-based xG	1.8	1.0
+Non-shot xG	1.8	1.7
+AUGUST 16-22
+8/21	
+Bristol City2
+	41%	27%
+
+Cardiff City0
+	31%
+	BRC	CAR
+Adjusted goals	2.1	0.0
+Shot-based xG	1.9	0.6
+Non-shot xG	1.1	0.6
+8/20	
+Sheffield Utd3
+	58%	25%
+
+Blackburn0
+	18%
+	SHEF	BLK
+Adjusted goals	2.9	0.0
+Shot-based xG	4.3	0.1
+Non-shot xG	2.8	0.2
+8/20	
+Swansea City0
+	41%	27%
+
+Luton Town2
+	32%
+	SWA	LUT
+Adjusted goals	0.0	2.0
+Shot-based xG	1.1	0.6
+Non-shot xG	1.2	0.7
+8/20	
+West Brom5
+	63%	23%
+
+Hull City2
+	13%
+	WBA	HCY
+Adjusted goals	4.9	2.1
+Shot-based xG	2.2	0.9
+Non-shot xG	1.9	0.5
+8/20	
+QPR1
+	50%	26%
+
+Rotherham1
+	24%
+	QPR	ROT
+Adjusted goals	1.1	1.1
+Shot-based xG	0.9	0.4
+Non-shot xG	1.9	1.0
+8/20	
+Stoke City0
+	50%	25%
+
+Sunderland1
+	25%
+	STK	SUN
+Adjusted goals	0.0	1.1
+Shot-based xG	1.0	0.6
+Non-shot xG	1.4	0.9
+8/20	
+Burnley3
+	62%	23%
+
+Blackpool3
+	15%
+	BRN	BLK
+Adjusted goals	3.2	3.2
+Shot-based xG	1.8	2.5
+Non-shot xG	1.4	1.5
+8/20	
+Preston0
+	29%	27%
+
+Watford0
+	44%
+	PNE	WAT
+Adjusted goals	0.0	0.0
+Shot-based xG	0.9	1.6
+Non-shot xG	0.5	1.2
+8/20	
+Birmingham0
+	45%	27%
+
+Wigan1
+	28%
+	BIR	WGA
+Adjusted goals	0.0	1.1
+Shot-based xG	0.9	0.9
+Non-shot xG	0.7	0.5
+8/20	
+Reading1
+	32%	25%
+
+Middlesbrough0
+	43%
+	REA	MID
+Adjusted goals	1.1	0.0
+Shot-based xG	0.3	1.4
+Non-shot xG	0.2	1.6
+8/19	
+Norwich2
+	60%	22%
+
+Millwall0
+	18%
+	NOR	MIL
+Adjusted goals	2.0	0.0
+Shot-based xG	1.8	1.0
+Non-shot xG	1.7	1.1
+8/17	
+Sheffield Utd2
+	64%	21%
+
+Sunderland1
+	15%
+	SHEF	SUN
+Adjusted goals	1.7	1.1
+Shot-based xG	2.3	0.2
+Non-shot xG	2.4	0.5
+8/17	
+West Brom0
+	60%	25%
+
+Cardiff City0
+	15%
+	WBA	CAR
+Adjusted goals	0.0	0.0
+Shot-based xG	0.6	0.3
+Non-shot xG	1.3	0.3
+8/17	
+Reading3
+	34%	27%
+
+Blackburn0
+	39%
+	REA	BLK
+Adjusted goals	3.0	0.0
+Shot-based xG	1.1	0.5
+Non-shot xG	1.6	1.1
+8/17	
+Stoke City2
+	38%	27%
+
+Middlesbrough2
+	34%
+	STK	MID
+Adjusted goals	2.1	2.1
+Shot-based xG	1.6	2.3
+Non-shot xG	1.0	1.6
+8/16	
+QPR0
+	48%	26%
+
+Blackpool1
+	26%
+	QPR	BLK
+Adjusted goals	0.0	1.1
+Shot-based xG	0.8	1.3
+Non-shot xG	0.5	1.1
+8/16	
+Norwich2
+	64%	22%
+
+Huddersfield1
+	14%
+	NOR	HUD
+Adjusted goals	2.1	1.1
+Shot-based xG	2.0	0.8
+Non-shot xG	2.1	0.5
+8/16	
+Swansea City2
+	40%	26%
+
+Millwall2
+	35%
+	SWA	MIL
+Adjusted goals	2.1	2.1
+Shot-based xG	1.7	0.9
+Non-shot xG	0.9	1.6
+8/16	
+Bristol City2
+	40%	26%
+
+Luton Town0
+	34%
+	BRC	LUT
+Adjusted goals	2.1	0.0
+Shot-based xG	1.2	0.6
+Non-shot xG	1.1	1.5
+8/16	
+Burnley1
+	62%	23%
+
+Hull City1
+	15%
+	BRN	HCY
+Adjusted goals	1.1	1.1
+Shot-based xG	2.4	0.5
+Non-shot xG	1.4	0.3
+8/16	
+Preston0
+	53%	26%
+
+Rotherham0
+	21%
+	PNE	ROT
+Adjusted goals	0.0	0.0
+Shot-based xG	2.3	0.7
+Non-shot xG	1.4	0.5
+8/16	
+Birmingham1
+	23%	24%
+
+Watford1
+	53%
+	BIR	WAT
+Adjusted goals	1.1	1.1
+Shot-based xG	0.4	1.7
+Non-shot xG	0.6	1.2
+AUGUST 9-15
+8/14	
+Blackburn2
+	31%	28%
+
+West Brom1
+	41%
+	BLK	WBA
+Adjusted goals	2.1	1.1
+Shot-based xG	0.4	1.5
+Non-shot xG	0.5	1.4
+8/14	
+Middlesbrough2
+	33%	26%
+
+Sheffield Utd2
+	40%
+	MID	SHEF
+Adjusted goals	2.1	2.1
+Shot-based xG	1.8	0.3
+Non-shot xG	1.0	0.5
+8/13	
+Rotherham4
+	39%	27%
+
+Reading0
+	34%
+	ROT	REA
+Adjusted goals	4.2	0.0
+Shot-based xG	1.4	0.7
+Non-shot xG	1.6	1.1
+8/13	
+Luton Town0
+	42%	28%
+
+Preston1
+	30%
+	LUT	PNE
+Adjusted goals	0.0	1.1
+Shot-based xG	1.4	0.8
+Non-shot xG	2.2	0.8
+8/13	
+Millwall3
+	43%	27%
+
+Coventry City2
+	30%
+	MIL	COV
+Adjusted goals	2.9	2.1
+Shot-based xG	1.9	1.4
+Non-shot xG	1.2	1.6
+8/13	
+Huddersfield3
+	39%	29%
+
+Stoke City1
+	33%
+	HUD	STK
+Adjusted goals	2.7	1.1
+Shot-based xG	1.2	1.8
+Non-shot xG	1.1	1.1
+8/13	
+Blackpool0
+	42%	26%
+
+Swansea City1
+	32%
+	BLK	SWA
+Adjusted goals	0.0	1.1
+Shot-based xG	1.7	1.4
+Non-shot xG	0.8	2.1
+8/13	
+Hull City2
+	21%	25%
+
+Norwich1
+	54%
+	HCY	NOR
+Adjusted goals	2.1	1.1
+Shot-based xG	1.7	1.5
+Non-shot xG	0.7	2.4
+8/13	
+Sunderland2
+	40%	26%
+
+QPR2
+	33%
+	SUN	QPR
+Adjusted goals	2.1	2.1
+Shot-based xG	1.9	2.2
+Non-shot xG	0.8	1.7
+8/13	
+Wigan1
+	40%	26%
+
+Bristol City1
+	34%
+	WGA	BRC
+Adjusted goals	1.1	1.1
+Shot-based xG	1.7	1.3
+Non-shot xG	1.4	0.9
+8/13	
+Cardiff City1
+	45%	28%
+
+Birmingham0
+	27%
+	CAR	BIR
+Adjusted goals	1.1	0.0
+Shot-based xG	2.7	0.1
+Non-shot xG	1.4	0.3
+8/12	
+Watford1
+	49%	25%
+
+Burnley0
+	26%
+	WAT	BRN
+Adjusted goals	1.1	0.0
+Shot-based xG	0.2	1.0
+Non-shot xG	0.7	1.4
+AUGUST 2-8
+8/8	
+West Brom1
+	37%	26%
+
+Watford1
+	36%
+	WBA	WAT
+Adjusted goals	1.1	1.1
+Shot-based xG	3.0	1.0
+Non-shot xG	2.5	0.4
+8/6	
+Sheffield Utd2
+	57%	24%
+
+Millwall0
+	19%
+	SHEF	MIL
+Adjusted goals	2.1	0.0
+Shot-based xG	2.2	1.1
+Non-shot xG	1.3	2.0
+8/6	
+Swansea City0
+	40%	27%
+
+Blackburn3
+	33%
+	SWA	BLK
+Adjusted goals	0.0	2.8
+Shot-based xG	0.4	0.6
+Non-shot xG	1.1	0.7
+8/6	
+Bristol City2
+	46%	25%
+
+Sunderland3
+	29%
+	BRC	SUN
+Adjusted goals	2.1	3.2
+Shot-based xG	1.8	1.2
+Non-shot xG	1.5	1.3
+8/6	
+QPR3
+	37%	27%
+
+Middlesbrough2
+	35%
+	QPR	MID
+Adjusted goals	3.2	2.1
+Shot-based xG	1.0	1.8
+Non-shot xG	0.7	1.3
+8/6	
+Stoke City2
+	48%	27%
+
+Blackpool0
+	25%
+	STK	BLK
+Adjusted goals	2.0	0.0
+Shot-based xG	2.2	1.0
+Non-shot xG	2.3	1.0
+8/6	
+Burnley1
+	59%	24%
+
+Luton Town1
+	18%
+	BRN	LUT
+Adjusted goals	1.1	1.1
+Shot-based xG	0.6	1.0
+Non-shot xG	1.1	0.4
+8/6	
+Preston0
+	50%	26%
+
+Hull City0
+	23%
+	PNE	HCY
+Adjusted goals	0.0	0.0
+Shot-based xG	2.1	0.2
+Non-shot xG	1.4	1.1
+8/6	
+Reading2
+	40%	28%
+
+Cardiff City1
+	32%
+	REA	CAR
+Adjusted goals	2.1	1.1
+Shot-based xG	1.6	0.4
+Non-shot xG	0.9	0.6
+8/6	
+Norwich1
+	72%	18%
+
+Wigan1
+	10%
+	NOR	WGA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.7	1.0
+Non-shot xG	2.2	0.4
+8/5	
+Birmingham2
+	41%	28%
+
+Huddersfield1
+	31%
+	BIR	HUD
+Adjusted goals	2.1	1.1
+Shot-based xG	1.7	0.7
+Non-shot xG	1.1	0.5
+JULY 26 - AUGUST 1
+8/1	
+Watford1
+	46%	25%
+
+Sheffield Utd0
+	29%
+	WAT	SHEF
+Adjusted goals	1.1	0.0
+Shot-based xG	1.1	0.3
+Non-shot xG	1.4	0.5
+7/31	
+Sunderland1
+	35%	25%
+
+Coventry City1
+	40%
+	SUN	COV
+Adjusted goals	1.1	1.1
+Shot-based xG	0.9	1.0
+Non-shot xG	1.3	0.9
+7/30	
+Middlesbrough1
+	35%	27%
+
+West Brom1
+	38%
+	MID	WBA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.7	1.3
+Non-shot xG	0.9	1.0
+7/30	
+Rotherham1
+	36%	26%
+
+Swansea City1
+	38%
+	ROT	SWA
+Adjusted goals	1.1	1.1
+Shot-based xG	1.0	0.8
+Non-shot xG	0.8	2.1
+7/30	
+Luton Town0
+	48%	26%
+
+Birmingham0
+	26%
+	LUT	BIR
+Adjusted goals	0.0	0.0
+Shot-based xG	1.5	0.6
+Non-shot xG	1.6	1.1
+7/30	
+Millwall2
+	41%	27%
+
+Stoke City0
+	31%
+	MIL	STK
+Adjusted goals	2.1	0.0
+Shot-based xG	1.1	0.2
+Non-shot xG	1.6	0.6
+7/30	
+Blackpool1
+	47%	25%
+
+Reading0
+	28%
+	BLK	REA
+Adjusted goals	1.1	0.0
+Shot-based xG	0.5	1.2
+Non-shot xG	0.7	1.5
+7/30	
+Cardiff City1
+	23%	24%
+
+Norwich0
+	52%
+	CAR	NOR
+Adjusted goals	1.1	0.0
+Shot-based xG	0.1	0.3
+Non-shot xG	0.3	0.9
+7/30	
+Hull City2
+	41%	26%
+
+Bristol City1
+	33%
+	HCY	BRC
+Adjusted goals	2.1	1.1
+Shot-based xG	1.5	1.1
+Non-shot xG	1.0	1.1
+7/30	
+Wigan0
+	34%	26%
+
+Preston0
+	40%
+	WGA	PNE
+Adjusted goals	0.0	0.0
+Shot-based xG	1.4	1.3
+Non-shot xG	1.5	1.0
+7/30	
+Blackburn1
+	45%	27%
+
+QPR0
+	28%
+	BLK	QPR
+Adjusted goals	1.1	0.0
+Shot-based xG	0.2	0.1
+Non-shot xG	1.2	0.4
+7/29	
+Huddersfield0
+	31%	26%
+
+Burnley1
+	43%
+	HUD	BRN
+Adjusted goals	0.0	1.1
+Shot-based xG	0.1	1.5
+Non-shot xG	0.2	1.9
 
 The top two teams are automatically promoted, and a third is promoted through a four-team playoff. The bottom three teams are relegated.
 
@@ -2049,28 +5421,28 @@ Download this data.
 Design and development by Jay Boice, Reuben Fischer-Baum and Julia Wolfe. Statistical models by Jay Boice and Nate Silver.
 
 MORE SPORTS
-UPDATED 11 MINUTES AGO
+UPDATED 6 HOURS AGO
 Global Club Soccer Rankings
-UPDATED 5 HOURS AGO
+UPDATED 6 HOURS AGO
 NBA Predictions
-UPDATED 5 HOURS AGO
+UPDATED 21 HOURS AGO
 NBA Player Ratings
-UPDATED 12 HOURS AGO
+UPDATED FEB. 1, 2023
 NHL Predictions
-UPDATED JAN. 24, 2023
-NFL Predictions
-UPDATED JAN. 23, 2023
+UPDATED JAN. 29, 2023
 NFL Receiver Ratings
+UPDATED JAN. 29, 2023
+NFL Predictions
 UPDATED JAN. 10, 2023
 College Football Predictions
 UPDATED AUG. 30, 2022
 NBA Player Projections
 RELATED STORIES
+Look Out, Messi: Erling Haaland Is Coming For Your 50-Goal Club
 Liverpool Can’t Spend Its Way Out Of This Mess
 Argentina And France Lived Up To The World Cup Final’s Hype — And Then Transcended It
 Mbappé vs. Messi Is The World Cup Final Soccer Fans Deserve
 You’re Not Imagining Things. There’s Way More Stoppage Time At This World Cup.
-Where Will The Goals Come From In The World Cup Semifinals?
 COMMENTS
 Get more FiveThirtyEight
 Store

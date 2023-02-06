@@ -1,6 +1,6 @@
 English|Español|Português
 
-UPDATED JAN. 28, 2023, AT 12:11 PM
+UPDATED FEB. 5, 2023, AT 10:09 PM
 
 Club Soccer Predictions
 Forecasts and Soccer Power Index (SPI) ratings for 40 leagues, updated after each match.
@@ -53,224 +53,133 @@ Matches
 PREMIER LEAGUE
 2022-23
 England
-Updated Jan. 23, 2023, at 5:18 p.m.
+Updated Feb. 5, 2023, at 1:25 p.m.
 Upcoming matches
-JANUARY 31 - FEBRUARY 6
-WINDRAW
-2/3
-	
-Chelsea
-	61%	
-23%
-
-
-Fulham
-	17%
-WINDRAW
-2/4
-	
-Everton
-	12%	
-19%
-
-
-Arsenal
-	69%
-2/4
-	
-Aston Villa
-	47%	
-26%
-
-
-Leicester
-	27%
-2/4
-	
-Man. United
-	68%	
-20%
-
-
-Crystal Palace
-	12%
-2/4
-	
-Wolves
-	18%	
-21%
-
-
-Liverpool
-	61%
-2/4
-	
-Brighton
-	72%	
-17%
-
-
-Bournemouth
-	11%
-2/4
-	
-Brentford
-	50%	
-24%
-
-
-Southampton
-	25%
-2/4
-	
-Newcastle
-	60%	
-24%
-
-
-West Ham
-	16%
-2/5
-	
-Nottm Forest
-	35%	
-26%
-
-
-Leeds United
-	39%
-2/5
-	
-Tottenham
-	25%	
-21%
-
-
-Man. City
-	54%
 FEBRUARY 7-13
+WINDRAW
 2/8
 	
 Man. United
-	62%	
+	64%	
 20%
 
 
 Leeds United
-	18%
+	16%
+WINDRAW
 2/11
 	
 West Ham
-	32%	
-28%
+	34%	
+29%
 
 
 Chelsea
-	39%
+	37%
 2/11
 	
 Fulham
-	54%	
-25%
+	51%	
+26%
 
 
 Nottm Forest
-	22%
+	23%
 2/11
 	
 Arsenal
-	65%	
-20%
+	67%	
+19%
 
 
 Brentford
-	15%
+	13%
 2/11
 	
 Southampton
-	43%	
+	40%	
 28%
 
 
 Wolves
-	30%
+	32%
 2/11
 	
 Crystal Palace
-	27%	
-25%
-
-
-Brighton
-	48%
-2/11
-	
-Leicester
-	31%	
+	24%	
 24%
 
 
-Tottenham
-	45%
+Brighton
+	52%
 2/11
 	
-Bournemouth
-	17%	
-23%
-
-
-Newcastle
-	60%
-2/12
-	
-Leeds United
+Leicester
 	28%	
 23%
 
 
+Tottenham
+	49%
+2/11
+	
+Bournemouth
+	16%	
+23%
+
+
+Newcastle
+	61%
+2/12
+	
+Leeds United
+	29%	
+23%
+
+
 Man. United
-	50%
+	48%
 2/12
 	
 Man. City
-	70%	
-18%
+	76%	
+16%
 
 
 Aston Villa
-	11%
+	8%
 2/13
 	
 Liverpool
-	75%	
-15%
+	70%	
+17%
 
 
 Everton
-	9%
+	13%
 FEBRUARY 14-20
 2/15
 	
 Arsenal
-	37%	
+	36%	
 24%
 
 
 Man. City
-	39%
+	40%
 2/18
 	
 Aston Villa
-	25%	
+	26%	
 25%
 
 
 Arsenal
-	50%
+	49%
 2/18
 	
 Chelsea
-	65%	
+	66%	
 22%
 
 
@@ -279,66 +188,66 @@ Southampton
 2/18
 	
 Everton
-	34%	
+	36%	
 26%
 
 
 Leeds United
-	40%
+	38%
 2/18
 	
 Wolves
-	50%	
-27%
+	52%	
+26%
 
 
 Bournemouth
-	23%
+	21%
 2/18
 	
 Nottm Forest
-	10%	
-16%
+	11%	
+17%
 
 
 Man. City
-	74%
+	72%
 2/18
 	
 Brighton
 	59%	
-21%
+22%
 
 
 Fulham
-	19%
+	20%
 2/18
 	
 Brentford
-	51%	
+	52%	
 25%
 
 
 Crystal Palace
-	24%
+	23%
 2/18
 	
 Newcastle
-	40%	
+	41%	
 24%
 
 
 Liverpool
-	36%
+	35%
 2/19
 	
 Man. United
-	60%	
+	59%	
 21%
 
 
 Leicester
-	18%
+	20%
 2/19
 	
 Tottenham
@@ -347,103 +256,103 @@ Tottenham
 
 
 West Ham
-	24%
+	23%
 FEBRUARY 21-27
 2/24
 	
 Fulham
-	49%	
-26%
+	47%	
+27%
 
 
 Wolves
-	25%
+	26%
 2/25
 	
 Newcastle
-	46%	
+	45%	
 25%
 
 
 Brighton
-	29%
+	30%
 2/25
 	
 Everton
-	28%	
+	31%	
 27%
 
 
 Aston Villa
-	46%
+	43%
 2/25
 	
 West Ham
-	57%	
+	58%	
 25%
 
 
 Nottm Forest
-	17%
+	16%
 2/25
 	
 Leicester
-	21%	
-22%
+	23%	
+23%
 
 
 Arsenal
-	57%
+	54%
 2/25
 	
 Leeds United
-	50%	
+	51%	
 24%
 
 
 Southampton
-	26%
+	24%
 2/25
 	
 Bournemouth
 	9%	
-14%
+15%
 
 
 Man. City
-	77%
+	76%
 2/25
 	
 Crystal Palace
-	21%	
+	24%	
 22%
 
 
 Liverpool
-	57%
+	54%
 2/26
 	
 Man. United
-	56%	
+	54%	
 22%
 
 
 Brentford
-	22%
+	24%
 2/26
 	
 Tottenham
-	41%	
-25%
+	43%	
+26%
 
 
 Chelsea
-	34%
+	31%
 FEBRUARY 28 - MARCH 6
 3/4
 	
 Man. City
-	60%	
+	59%	
 22%
 
 
@@ -452,17 +361,17 @@ Newcastle
 3/4
 	
 Aston Villa
-	52%	
-27%
+	50%	
+26%
 
 
 Crystal Palace
-	22%
+	23%
 3/4
 	
 Chelsea
-	60%	
-22%
+	59%	
+23%
 
 
 Leeds United
@@ -470,57 +379,57 @@ Leeds United
 3/4
 	
 Arsenal
-	80%	
-14%
+	79%	
+15%
 
 
 Bournemouth
-	6%
+	7%
 3/4
 	
 Wolves
-	25%	
-24%
+	26%	
+25%
 
 
 Tottenham
-	50%
+	49%
 3/4
 	
 Brighton
-	54%	
+	53%	
 24%
 
 
 West Ham
-	22%
+	23%
 3/4
 	
 Southampton
-	37%	
-26%
+	34%	
+25%
 
 
 Leicester
-	37%
+	40%
 3/5
 	
 Nottm Forest
-	43%	
+	40%	
 28%
 
 
 Everton
-	30%
+	32%
 3/5
 	
 Liverpool
-	50%	
+	48%	
 22%
 
 
 Man. United
-	29%
+	30%
 3/6
 	
 Brentford
@@ -529,148 +438,148 @@ Brentford
 
 
 Fulham
-	27%
+	26%
 MARCH 7-13
 3/11
 	
 Bournemouth
-	14%	
+	16%	
 18%
 
 
 Liverpool
-	68%
+	66%
 3/11
 	
 Everton
-	29%	
+	30%	
 25%
 
 
 Brentford
-	46%
+	45%
 3/11
 	
 Man. United
-	67%	
-20%
-
-
-Southampton
-	14%
-3/11
-	
-Tottenham
 	68%	
 19%
 
 
-Nottm Forest
+Southampton
 	13%
 3/11
 	
+Tottenham
+	69%	
+19%
+
+
+Nottm Forest
+	12%
+3/11
+	
 Leicester
-	29%	
+	30%	
 26%
 
 
 Chelsea
-	45%
+	44%
 3/11
 	
 Leeds United
 	29%	
-23%
+24%
 
 
 Brighton
-	48%
+	47%
 3/11
 	
 Crystal Palace
-	14%	
+	15%	
 20%
 
 
 Man. City
-	67%
+	65%
 3/12
 	
 Fulham
-	21%	
-22%
-
-
-Arsenal
-	57%
-3/12
-	
-West Ham
-	41%	
-28%
-
-
-Aston Villa
-	31%
-3/12
-	
-Newcastle
-	65%	
+	23%	
 23%
 
 
+Arsenal
+	54%
+3/12
+	
+West Ham
+	44%	
+27%
+
+
+Aston Villa
+	29%
+3/12
+	
+Newcastle
+	62%	
+24%
+
+
 Wolves
-	12%
+	14%
 MARCH 14-20
 3/17
 	
 Nottm Forest
-	19%	
+	20%	
 25%
 
 
 Newcastle
-	56%
+	55%
 3/18
 	
 Aston Villa
-	63%	
+	62%	
 23%
 
 
 Bournemouth
-	15%
+	16%
 3/18
 	
 Liverpool
-	67%	
-18%
+	64%	
+19%
 
 
 Fulham
-	15%
+	17%
 3/18
 	
 Southampton
-	25%	
-23%
+	23%	
+22%
 
 
 Tottenham
-	52%
+	55%
 3/18
 	
 Wolves
-	38%	
+	40%	
 27%
 
 
 Leeds United
-	36%
+	34%
 3/18
 	
 Brentford
-	48%	
+	49%	
 24%
 
 
@@ -679,58 +588,58 @@ Leicester
 3/18
 	
 Chelsea
-	68%	
-21%
+	65%	
+22%
 
 
 Everton
-	11%
+	13%
 3/19
 	
 Arsenal
-	71%	
-19%
+	68%	
+20%
 
 
 Crystal Palace
-	10%
+	12%
 3/19
 	
 Brighton
-	42%	
+	43%	
 24%
 
 
 Man. United
-	34%
+	33%
 3/19
 	
 Man. City
-	71%	
-18%
+	69%	
+19%
 
 
 West Ham
-	11%
+	12%
 MARCH 28 - APRIL 3
 4/1
 	
 Chelsea
-	52%	
+	53%	
 26%
 
 
 Aston Villa
-	22%
+	21%
 4/1
 	
 Everton
-	22%	
-22%
+	23%	
+23%
 
 
 Tottenham
-	56%
+	54%
 4/1
 	
 Newcastle
@@ -743,53 +652,53 @@ Man. United
 4/1
 	
 Man. City
-	57%	
+	58%	
 20%
 
 
 Liverpool
-	23%
+	22%
 4/1
 	
 West Ham
-	54%	
+	57%	
 25%
 
 
 Southampton
-	21%
+	19%
 4/1
 	
 Arsenal
-	70%	
-18%
+	68%	
+19%
 
 
 Leeds United
-	12%
+	13%
 4/1
 	
 Crystal Palace
-	40%	
+	39%	
 27%
 
 
 Leicester
-	33%
+	34%
 4/1
 	
 Nottm Forest
-	39%	
+	36%	
 29%
 
 
 Wolves
-	32%
+	35%
 4/1
 	
 Bournemouth
-	31%	
-25%
+	30%	
+26%
 
 
 Fulham
@@ -797,17 +706,17 @@ Fulham
 4/1
 	
 Brighton
-	55%	
-22%
+	53%	
+23%
 
 
 Brentford
-	23%
+	24%
 APRIL 4-10
 4/8
 	
 Aston Villa
-	59%	
+	58%	
 24%
 
 
@@ -825,25 +734,25 @@ Arsenal
 4/8
 	
 Man. United
-	70%	
-18%
+	67%	
+19%
 
 
 Everton
-	11%
+	13%
 4/8
 	
 Tottenham
-	43%	
+	44%	
 23%
 
 
 Brighton
-	34%
+	33%
 4/8
 	
 Fulham
-	39%	
+	38%	
 27%
 
 
@@ -861,25 +770,25 @@ Man. City
 4/8
 	
 Leicester
-	57%	
+	59%	
 23%
 
 
 Bournemouth
-	19%
+	18%
 4/8
 	
 Wolves
-	23%	
-27%
+	26%	
+28%
 
 
 Chelsea
-	50%
+	47%
 4/8
 	
 Leeds United
-	46%	
+	45%	
 26%
 
 
@@ -888,45 +797,45 @@ Crystal Palace
 4/8
 	
 Brentford
-	31%	
+	34%	
 26%
 
 
 Newcastle
-	43%
+	41%
 APRIL 11-17
 4/15
 	
 Aston Villa
 	32%	
-28%
+27%
 
 
 Newcastle
-	40%
+	41%
 4/15
 	
 Chelsea
-	45%	
-25%
+	44%	
+26%
 
 
 Brighton
-	30%
+	31%
 4/15
 	
 Everton
-	33%	
+	35%	
 26%
 
 
 Fulham
-	41%
+	39%
 4/15
 	
 Tottenham
-	71%	
-18%
+	72%	
+17%
 
 
 Bournemouth
@@ -934,34 +843,34 @@ Bournemouth
 4/15
 	
 Man. City
-	76%	
-15%
+	74%	
+16%
 
 
 Leicester
-	9%
+	10%
 4/15
 	
 West Ham
-	24%	
-25%
+	27%	
+26%
 
 
 Arsenal
-	51%
+	47%
 4/15
 	
 Southampton
-	40%	
+	37%	
 28%
 
 
 Crystal Palace
-	33%
+	35%
 4/15
 	
 Wolves
-	33%	
+	34%	
 27%
 
 
@@ -975,26 +884,26 @@ Nottm Forest
 
 
 Man. United
-	58%
+	57%
 4/15
 	
 Leeds United
-	23%	
-20%
+	26%	
+21%
 
 
 Liverpool
-	56%
+	53%
 APRIL 18-24
 4/22
 	
 Liverpool
-	75%	
+	73%	
 16%
 
 
 Nottm Forest
-	9%
+	10%
 4/22
 	
 Man. United
@@ -1007,17 +916,17 @@ Chelsea
 4/22
 	
 Newcastle
-	48%	
-24%
+	45%	
+25%
 
 
 Tottenham
-	28%
+	30%
 4/22
 	
 Fulham
-	44%	
-24%
+	45%	
+25%
 
 
 Leeds United
@@ -1025,7 +934,7 @@ Leeds United
 4/22
 	
 Arsenal
-	75%	
+	74%	
 17%
 
 
@@ -1034,12 +943,12 @@ Southampton
 4/22
 	
 Crystal Palace
-	50%	
+	48%	
 27%
 
 
 Everton
-	23%
+	25%
 4/22
 	
 Leicester
@@ -1048,71 +957,71 @@ Leicester
 
 
 Wolves
-	24%
+	26%
 4/22
 	
 Bournemouth
-	26%	
-27%
-
-
-West Ham
-	47%
-4/22
-	
-Brighton
-	26%	
-22%
-
-
-Man. City
-	51%
-4/22
-	
-Brentford
-	42%	
+	25%	
 26%
 
 
-Aston Villa
-	32%
-APRIL 25 - MAY 1
-4/25
-	
-Everton
-	19%	
-24%
-
-
-Newcastle
-	57%
-4/25
-	
-Tottenham
-	41%	
-23%
-
-
-Man. United
-	36%
-4/25
-	
 West Ham
+	48%
+4/22
+	
+Brighton
 	28%	
 23%
 
 
+Man. City
+	50%
+4/22
+	
+Brentford
+	45%	
+25%
+
+
+Aston Villa
+	30%
+APRIL 25 - MAY 1
+4/25
+	
+Everton
+	22%	
+25%
+
+
+Newcastle
+	53%
+4/25
+	
+Tottenham
+	43%	
+23%
+
+
+Man. United
+	33%
+4/25
+	
+West Ham
+	31%	
+24%
+
+
 Liverpool
-	49%
+	45%
 4/25
 	
 Wolves
-	39%	
-30%
+	41%	
+29%
 
 
 Crystal Palace
-	31%
+	30%
 4/25
 	
 Nottm Forest
@@ -1125,62 +1034,62 @@ Brighton
 4/25
 	
 Leeds United
-	43%	
+	42%	
 25%
 
 
 Leicester
-	32%
+	33%
 4/25
 	
 Aston Villa
-	50%	
+	48%	
 25%
 
 
 Fulham
-	25%
+	27%
 4/26
 	
 Chelsea
-	55%	
-24%
-
-
-Brentford
-	21%
-4/26
-	
-Southampton
-	50%	
+	52%	
 25%
 
 
+Brentford
+	23%
+4/26
+	
+Southampton
+	49%	
+26%
+
+
 Bournemouth
-	24%
+	25%
 4/26
 	
 Man. City
-	51%	
+	53%	
 23%
 
 
 Arsenal
-	25%
+	24%
 4/29
 	
 Liverpool
-	53%	
+	49%	
 21%
 
 
 Tottenham
-	26%
+	29%
 4/29
 	
 Man. United
-	54%	
-24%
+	55%	
+23%
 
 
 Aston Villa
@@ -1188,30 +1097,30 @@ Aston Villa
 4/29
 	
 Newcastle
-	66%	
+	67%	
 21%
 
 
 Southampton
-	13%
+	12%
 4/29
 	
 Fulham
-	15%	
-19%
+	17%	
+20%
 
 
 Man. City
-	66%
+	63%
 4/29
 	
 Arsenal
-	53%	
-25%
+	51%	
+26%
 
 
 Chelsea
-	22%
+	23%
 4/29
 	
 Crystal Palace
@@ -1224,12 +1133,12 @@ West Ham
 4/29
 	
 Leicester
-	54%	
+	53%	
 24%
 
 
 Everton
-	22%
+	23%
 4/29
 	
 Bournemouth
@@ -1242,35 +1151,35 @@ Leeds United
 4/29
 	
 Brighton
-	64%	
-21%
+	62%	
+22%
 
 
 Wolves
-	14%
+	16%
 4/29
 	
 Brentford
-	58%	
+	60%	
 23%
 
 
 Nottm Forest
-	19%
+	17%
 MAY 2-8
 5/6
 	
 Liverpool
-	62%	
-19%
+	58%	
+20%
 
 
 Brentford
-	18%
+	22%
 5/6
 	
 Tottenham
-	60%	
+	61%	
 22%
 
 
@@ -1279,12 +1188,12 @@ Crystal Palace
 5/6
 	
 Newcastle
-	35%	
+	36%	
 27%
 
 
 Arsenal
-	38%
+	37%
 5/6
 	
 Fulham
@@ -1297,72 +1206,72 @@ Leicester
 5/6
 	
 Man. City
-	77%	
-14%
+	76%	
+15%
 
 
 Leeds United
-	8%
+	9%
 5/6
 	
 West Ham
-	32%	
+	34%	
 26%
 
 
 Man. United
-	42%
+	40%
 5/6
 	
 Wolves
-	31%	
+	34%	
 28%
 
 
 Aston Villa
-	40%
+	38%
 5/6
 	
 Nottm Forest
-	39%	
-27%
+	40%	
+28%
 
 
 Southampton
-	33%
+	32%
 5/6
 	
 Bournemouth
 	18%	
-23%
+24%
 
 
 Chelsea
-	59%
+	58%
 5/6
 	
 Brighton
-	69%	
-19%
+	67%	
+20%
 
 
 Everton
-	12%
+	14%
 MAY 9-15
 5/13
 	
 Aston Villa
-	36%	
+	34%	
 25%
 
 
 Tottenham
-	39%
+	41%
 5/13
 	
 Chelsea
-	68%	
-21%
+	67%	
+22%
 
 
 Nottm Forest
@@ -1370,108 +1279,108 @@ Nottm Forest
 5/13
 	
 Everton
-	10%	
-16%
+	12%	
+17%
 
 
 Man. City
-	74%
+	71%
 5/13
 	
 Man. United
-	66%	
-21%
+	63%	
+22%
 
 
 Wolves
-	13%
+	15%
 5/13
 	
 Arsenal
-	55%	
+	53%	
 23%
 
 
 Brighton
-	22%
+	24%
 5/13
 	
 Southampton
-	37%	
+	35%	
 26%
 
 
 Fulham
-	37%
+	39%
 5/13
 	
 Crystal Palace
-	53%	
+	54%	
 26%
 
 
 Bournemouth
-	21%
+	20%
 5/13
 	
 Leicester
-	24%	
+	27%	
 21%
 
 
 Liverpool
-	55%
+	52%
 5/13
 	
 Leeds United
-	27%	
+	28%	
 25%
 
 
 Newcastle
-	49%
+	47%
 5/13
 	
 Brentford
-	43%	
+	44%	
 26%
 
 
 West Ham
-	31%
+	30%
 MAY 16-22
 5/20
 	
 Liverpool
-	60%	
+	59%	
 21%
 
 
 Aston Villa
-	19%
+	20%
 5/20
 	
 Tottenham
-	54%	
+	53%	
 22%
 
 
 Brentford
-	24%
+	25%
 5/20
 	
 Newcastle
-	60%	
+	58%	
 23%
 
 
 Leicester
-	17%
+	19%
 5/20
 	
 Fulham
 	46%	
-26%
+27%
 
 
 Crystal Palace
@@ -1479,7 +1388,7 @@ Crystal Palace
 5/20
 	
 Man. City
-	61%	
+	60%	
 22%
 
 
@@ -1489,11 +1398,11 @@ Chelsea
 	
 West Ham
 	49%	
-25%
+26%
 
 
 Leeds United
-	26%
+	25%
 5/20
 	
 Wolves
@@ -1506,12 +1415,12 @@ Everton
 5/20
 	
 Nottm Forest
-	14%	
-20%
+	15%	
+22%
 
 
 Arsenal
-	66%
+	63%
 5/20
 	
 Bournemouth
@@ -1520,26 +1429,26 @@ Bournemouth
 
 
 Man. United
-	62%
+	61%
 5/20
 	
 Brighton
-	65%	
-20%
+	67%	
+19%
 
 
 Southampton
-	15%
+	14%
 MAY 23-29
 5/28
 	
 Aston Villa
-	35%	
+	34%	
 25%
 
 
 Brighton
-	39%
+	41%
 5/28
 	
 Chelsea
@@ -1548,34 +1457,34 @@ Chelsea
 
 
 Newcastle
-	31%
+	30%
 5/28
 	
 Everton
-	46%	
-27%
+	49%	
+26%
 
 
 Bournemouth
-	27%
+	25%
 5/28
 	
 Man. United
-	61%	
-21%
+	59%	
+22%
 
 
 Fulham
-	18%
+	19%
 5/28
 	
 Arsenal
-	74%	
-18%
+	70%	
+20%
 
 
 Wolves
-	8%
+	11%
 5/28
 	
 Southampton
@@ -1588,17 +1497,17 @@ Liverpool
 5/28
 	
 Crystal Palace
-	49%	
+	50%	
 28%
 
 
 Nottm Forest
-	23%
+	22%
 5/28
 	
 Leicester
 	39%	
-27%
+26%
 
 
 West Ham
@@ -1606,7 +1515,7 @@ West Ham
 5/28
 	
 Leeds United
-	30%	
+	29%	
 23%
 
 
@@ -1615,16 +1524,118 @@ Tottenham
 5/28
 	
 Brentford
-	18%	
-20%
+	21%	
+21%
 
 
 Man. City
-	62%
+	58%
 Completed matches
 After every match, our model calculates three additional metrics for each team. See more ...
-JANUARY 17-23
+JANUARY 31 - FEBRUARY 6
 WINDRAW
+2/5	
+Tottenham1
+	24%	21%
+
+Man. City0
+	55%
+	TOT	MNC
+Adjusted goals	1.1	0.0
+Shot-based xG	1.7	1.1
+Non-shot xG	1.4	1.2
+WINDRAW
+2/5	
+Nottm Forest1
+	35%	26%
+
+Leeds United0
+	39%
+	FOR	LEE
+Adjusted goals	1.1	0.0
+Shot-based xG	0.3	1.1
+Non-shot xG	0.5	1.3
+2/4	
+Newcastle1
+	60%	24%
+
+West Ham1
+	16%
+	NEW	WHU
+Adjusted goals	1.1	1.1
+Shot-based xG	1.2	1.4
+Non-shot xG	1.5	0.7
+2/4	
+Brentford3
+	51%	24%
+
+Southampton0
+	25%
+	BRN	SOU
+Adjusted goals	2.9	0.0
+Shot-based xG	2.4	0.7
+Non-shot xG	1.9	0.7
+2/4	
+Brighton1
+	72%	18%
+
+Bournemouth0
+	11%
+	BHA	BOU
+Adjusted goals	1.1	0.0
+Shot-based xG	3.0	1.0
+Non-shot xG	2.4	0.7
+2/4	
+Wolves3
+	18%	21%
+
+Liverpool0
+	60%
+	WOL	LIV
+Adjusted goals	3.1	0.0
+Shot-based xG	2.3	1.8
+Non-shot xG	0.7	1.6
+2/4	
+Man. United2
+	68%	20%
+
+Crystal Palace1
+	12%
+	MAN	CRY
+Adjusted goals	2.1	0.8
+Shot-based xG	2.0	1.5
+Non-shot xG	1.2	0.9
+2/4	
+Aston Villa2
+	47%	26%
+
+Leicester4
+	28%
+	AVL	LEI
+Adjusted goals	2.1	4.0
+Shot-based xG	1.7	2.1
+Non-shot xG	1.8	1.0
+2/4	
+Everton1
+	12%	19%
+
+Arsenal0
+	69%
+	EVE	ARS
+Adjusted goals	1.1	0.0
+Shot-based xG	1.8	0.8
+Non-shot xG	1.4	1.7
+2/3	
+Chelsea0
+	61%	23%
+
+Fulham0
+	17%
+	CHE	FUL
+Adjusted goals	0.0	0.0
+Shot-based xG	1.3	0.5
+Non-shot xG	1.0	1.0
+JANUARY 17-23
 1/23	
 Fulham0
 	28%	22%
@@ -1635,7 +1646,6 @@ Tottenham1
 Adjusted goals	0.0	1.1
 Shot-based xG	1.2	1.2
 Non-shot xG	1.6	1.1
-WINDRAW
 1/22	
 Arsenal3
 	53%	23%
@@ -1746,7 +1756,1893 @@ Man. United1
 Adjusted goals	1.1	1.1
 Shot-based xG	0.5	1.6
 Non-shot xG	1.4	2.2
-See more
+JANUARY 10-16
+1/15	
+Tottenham0
+	32%	24%
+
+Arsenal2
+	44%
+	TOT	ARS
+Adjusted goals	0.0	2.1
+Shot-based xG	2.2	2.1
+Non-shot xG	1.4	1.8
+1/15	
+Newcastle1
+	67%	20%
+
+Fulham0
+	13%
+	NEW	FUL
+Adjusted goals	1.1	0.0
+Shot-based xG	2.1	1.0
+Non-shot xG	2.1	1.2
+1/15	
+Chelsea1
+	60%	24%
+
+Crystal Palace0
+	16%
+	CHE	CRY
+Adjusted goals	1.1	0.0
+Shot-based xG	2.1	1.0
+Non-shot xG	1.6	0.9
+1/14	
+Brentford2
+	58%	22%
+
+Bournemouth0
+	20%
+	BRN	BOU
+Adjusted goals	2.0	0.0
+Shot-based xG	1.3	0.4
+Non-shot xG	0.7	0.8
+1/14	
+Brighton3
+	31%	22%
+
+Liverpool0
+	48%
+	BHA	LIV
+Adjusted goals	2.9	0.0
+Shot-based xG	1.9	1.2
+Non-shot xG	1.9	1.2
+1/14	
+Nottm Forest2
+	33%	27%
+
+Leicester0
+	41%
+	FOR	LEI
+Adjusted goals	1.7	0.0
+Shot-based xG	1.7	1.0
+Non-shot xG	1.0	0.9
+1/14	
+Wolves1
+	35%	29%
+
+West Ham0
+	36%
+	WOL	WHU
+Adjusted goals	1.1	0.0
+Shot-based xG	0.8	0.9
+Non-shot xG	1.0	1.9
+1/14	
+Everton1
+	41%	27%
+
+Southampton2
+	33%
+	EVE	SOU
+Adjusted goals	1.1	2.1
+Shot-based xG	1.3	1.2
+Non-shot xG	1.0	1.3
+1/14	
+Man. United2
+	26%	22%
+
+Man. City1
+	52%
+	MAN	MNC
+Adjusted goals	2.1	1.1
+Shot-based xG	1.6	0.7
+Non-shot xG	0.8	1.5
+1/13	
+Aston Villa2
+	50%	24%
+
+Leeds United1
+	26%
+	AVL	LEE
+Adjusted goals	2.1	1.1
+Shot-based xG	1.3	2.8
+Non-shot xG	0.5	1.2
+1/12	
+Fulham2
+	28%	25%
+
+Chelsea1
+	47%
+	FUL	CHE
+Adjusted goals	1.9	1.1
+Shot-based xG	0.8	2.7
+Non-shot xG	0.5	1.2
+JANUARY 3-9
+1/5	
+Chelsea0
+	24%	23%
+
+Man. City1
+	53%
+	CHE	MNC
+Adjusted goals	0.0	1.1
+Shot-based xG	0.5	1.8
+Non-shot xG	1.1	1.6
+1/4	
+Crystal Palace0
+	28%	25%
+
+Tottenham4
+	48%
+	CRY	TOT
+Adjusted goals	0.0	4.1
+Shot-based xG	0.9	1.8
+Non-shot xG	1.4	1.4
+1/4	
+Aston Villa1
+	51%	26%
+
+Wolves1
+	22%
+	AVL	WOL
+Adjusted goals	1.1	1.1
+Shot-based xG	1.1	0.7
+Non-shot xG	1.0	0.6
+1/4	
+Leeds United2
+	37%	26%
+
+West Ham2
+	37%
+	LEE	WHU
+Adjusted goals	2.1	2.1
+Shot-based xG	1.4	1.4
+Non-shot xG	1.5	0.5
+1/4	
+Southampton0
+	51%	25%
+
+Nottm Forest1
+	23%
+	SOU	FOR
+Adjusted goals	0.0	1.1
+Shot-based xG	0.8	1.3
+Non-shot xG	1.0	0.8
+1/3	
+Man. United3
+	74%	16%
+
+Bournemouth0
+	9%
+	MAN	BOU
+Adjusted goals	2.7	0.0
+Shot-based xG	2.7	0.7
+Non-shot xG	2.2	1.1
+1/3	
+Leicester0
+	49%	24%
+
+Fulham1
+	28%
+	LEI	FUL
+Adjusted goals	0.0	1.1
+Shot-based xG	1.7	1.4
+Non-shot xG	1.4	1.0
+1/3	
+Arsenal0
+	54%	24%
+
+Newcastle0
+	22%
+	ARS	NEW
+Adjusted goals	0.0	0.0
+Shot-based xG	0.9	1.1
+Non-shot xG	1.9	1.3
+1/3	
+Everton1
+	27%	24%
+
+Brighton4
+	48%
+	EVE	BHA
+Adjusted goals	1.1	4.2
+Shot-based xG	1.2	2.3
+Non-shot xG	0.8	1.2
+DECEMBER 27 - JANUARY 2
+1/2	
+Brentford3
+	20%	19%
+
+Liverpool1
+	61%
+	BRN	LIV
+Adjusted goals	2.8	1.1
+Shot-based xG	2.2	1.8
+Non-shot xG	0.6	3.3
+1/1	
+Nottm Forest1
+	18%	23%
+
+Chelsea1
+	59%
+	FOR	CHE
+Adjusted goals	1.1	1.1
+Shot-based xG	0.9	1.4
+Non-shot xG	1.2	0.9
+1/1	
+Tottenham0
+	58%	22%
+
+Aston Villa2
+	20%
+	TOT	AVL
+Adjusted goals	0.0	2.0
+Shot-based xG	0.7	1.2
+Non-shot xG	1.3	1.2
+12/31	
+Brighton2
+	30%	25%
+
+Arsenal4
+	45%
+	BHA	ARS
+Adjusted goals	2.1	4.2
+Shot-based xG	1.4	3.1
+Non-shot xG	1.5	1.1
+12/31	
+Bournemouth0
+	37%	27%
+
+Crystal Palace2
+	36%
+	BOU	CRY
+Adjusted goals	0.0	2.1
+Shot-based xG	0.7	1.8
+Non-shot xG	1.6	1.2
+12/31	
+Man. City1
+	85%	11%
+
+Everton1
+	4%
+	MNC	EVE
+Adjusted goals	1.1	1.1
+Shot-based xG	2.4	0.1
+Non-shot xG	2.4	0.5
+12/31	
+Fulham2
+	44%	24%
+
+Southampton1
+	32%
+	FUL	SOU
+Adjusted goals	2.1	1.1
+Shot-based xG	1.7	0.6
+Non-shot xG	0.9	0.8
+12/31	
+Newcastle0
+	66%	19%
+
+Leeds United0
+	15%
+	NEW	LEE
+Adjusted goals	0.0	0.0
+Shot-based xG	2.8	0.4
+Non-shot xG	2.0	0.7
+12/31	
+Wolves0
+	22%	24%
+
+Man. United1
+	54%
+	WOL	MAN
+Adjusted goals	0.0	1.1
+Shot-based xG	0.6	2.3
+Non-shot xG	0.7	1.9
+12/30	
+Liverpool2
+	73%	16%
+
+Leicester1
+	11%
+	LIV	LEI
+Adjusted goals	2.1	1.1
+Shot-based xG	2.3	1.0
+Non-shot xG	1.8	0.7
+12/30	
+West Ham0
+	48%	25%
+
+Brentford2
+	27%
+	WHU	BRN
+Adjusted goals	0.0	2.1
+Shot-based xG	1.1	1.4
+Non-shot xG	2.2	1.0
+12/28	
+Leeds United1
+	12%	16%
+
+Man. City3
+	73%
+	LEE	MNC
+Adjusted goals	1.1	3.2
+Shot-based xG	0.6	4.0
+Non-shot xG	0.9	2.3
+12/27	
+Man. United3
+	74%	17%
+
+Nottm Forest0
+	9%
+	MAN	FOR
+Adjusted goals	2.7	0.0
+Shot-based xG	2.0	0.6
+Non-shot xG	2.4	1.1
+12/27	
+Chelsea2
+	70%	19%
+
+Bournemouth0
+	11%
+	CHE	BOU
+Adjusted goals	2.1	0.0
+Shot-based xG	1.7	0.5
+Non-shot xG	1.6	1.1
+DECEMBER 20-26
+12/26	
+Arsenal3
+	66%	22%
+
+West Ham1
+	12%
+	ARS	WHU
+Adjusted goals	3.2	1.1
+Shot-based xG	1.9	1.0
+Non-shot xG	2.7	0.4
+12/26	
+Aston Villa1
+	21%	21%
+
+Liverpool3
+	58%
+	AVL	LIV
+Adjusted goals	1.1	2.9
+Shot-based xG	1.9	3.3
+Non-shot xG	1.4	1.8
+12/26	
+Leicester0
+	29%	25%
+
+Newcastle3
+	47%
+	LEI	NEW
+Adjusted goals	0.0	3.2
+Shot-based xG	0.5	2.0
+Non-shot xG	1.2	1.2
+12/26	
+Crystal Palace0
+	49%	25%
+
+Fulham3
+	26%
+	CRY	FUL
+Adjusted goals	0.0	2.5
+Shot-based xG	0.4	2.6
+Non-shot xG	0.3	2.6
+12/26	
+Southampton1
+	28%	24%
+
+Brighton3
+	48%
+	SOU	BHA
+Adjusted goals	1.1	3.2
+Shot-based xG	2.0	0.7
+Non-shot xG	1.6	1.8
+12/26	
+Everton1
+	41%	28%
+
+Wolves2
+	31%
+	EVE	WOL
+Adjusted goals	1.1	2.1
+Shot-based xG	1.3	1.2
+Non-shot xG	0.9	0.7
+12/26	
+Brentford2
+	28%	22%
+
+Tottenham2
+	50%
+	BRN	TOT
+Adjusted goals	2.1	2.1
+Shot-based xG	2.2	1.2
+Non-shot xG	0.9	2.1
+NOVEMBER 8-14
+11/13	
+Fulham1
+	22%	22%
+
+Man. United2
+	56%
+	FUL	MAN
+Adjusted goals	1.1	2.1
+Shot-based xG	1.8	3.5
+Non-shot xG	1.0	1.6
+11/13	
+Brighton1
+	57%	23%
+
+Aston Villa2
+	20%
+	BHA	AVL
+Adjusted goals	1.1	2.1
+Shot-based xG	1.0	1.1
+Non-shot xG	1.2	0.8
+11/12	
+Wolves0
+	17%	23%
+
+Arsenal2
+	59%
+	WOL	ARS
+Adjusted goals	0.0	2.0
+Shot-based xG	0.4	1.9
+Non-shot xG	0.5	1.2
+11/12	
+Newcastle1
+	41%	25%
+
+Chelsea0
+	33%
+	NEW	CHE
+Adjusted goals	1.1	0.0
+Shot-based xG	1.5	0.3
+Non-shot xG	1.3	0.6
+11/12	
+Bournemouth3
+	36%	27%
+
+Everton0
+	37%
+	BOU	EVE
+Adjusted goals	3.2	0.0
+Shot-based xG	2.4	1.0
+Non-shot xG	1.6	1.2
+11/12	
+Nottm Forest1
+	31%	27%
+
+Crystal Palace0
+	42%
+	FOR	CRY
+Adjusted goals	1.1	0.0
+Shot-based xG	1.2	1.1
+Non-shot xG	0.7	0.6
+11/12	
+West Ham0
+	48%	26%
+
+Leicester2
+	27%
+	WHU	LEI
+Adjusted goals	0.0	1.9
+Shot-based xG	1.0	1.4
+Non-shot xG	1.4	0.7
+11/12	
+Tottenham4
+	66%	19%
+
+Leeds United3
+	16%
+	TOT	LEE
+Adjusted goals	4.2	3.2
+Shot-based xG	2.6	1.6
+Non-shot xG	1.3	0.8
+11/12	
+Liverpool3
+	77%	14%
+
+Southampton1
+	8%
+	LIV	SOU
+Adjusted goals	3.2	1.1
+Shot-based xG	3.3	1.4
+Non-shot xG	2.5	1.4
+11/12	
+Man. City1
+	85%	11%
+
+Brentford2
+	5%
+	MNC	BRN
+Adjusted goals	1.1	2.1
+Shot-based xG	1.8	3.1
+Non-shot xG	4.2	1.1
+NOVEMBER 1-7
+11/6	
+Tottenham1
+	33%	22%
+
+Liverpool2
+	45%
+	TOT	LIV
+Adjusted goals	1.1	2.1
+Shot-based xG	2.1	1.5
+Non-shot xG	1.6	0.9
+11/6	
+Southampton1
+	25%	24%
+
+Newcastle4
+	51%
+	SOU	NEW
+Adjusted goals	1.1	3.7
+Shot-based xG	1.7	1.5
+Non-shot xG	1.5	0.7
+11/6	
+West Ham1
+	51%	27%
+
+Crystal Palace2
+	22%
+	WHU	CRY
+Adjusted goals	1.1	2.1
+Shot-based xG	0.3	1.0
+Non-shot xG	0.6	1.3
+11/6	
+Aston Villa3
+	27%	24%
+
+Man. United1
+	49%
+	AVL	MAN
+Adjusted goals	3.2	1.1
+Shot-based xG	0.5	0.4
+Non-shot xG	0.7	1.3
+11/6	
+Chelsea0
+	43%	25%
+
+Arsenal1
+	31%
+	CHE	ARS
+Adjusted goals	0.0	1.1
+Shot-based xG	0.3	2.0
+Non-shot xG	0.6	1.3
+11/5	
+Everton0
+	38%	27%
+
+Leicester2
+	36%
+	EVE	LEI
+Adjusted goals	0.0	1.7
+Shot-based xG	1.5	2.2
+Non-shot xG	2.3	1.9
+11/5	
+Leeds United4
+	54%	24%
+
+Bournemouth3
+	22%
+	LEE	BOU
+Adjusted goals	4.2	3.2
+Shot-based xG	2.2	1.7
+Non-shot xG	1.7	0.9
+11/5	
+Nottm Forest2
+	31%	25%
+
+Brentford2
+	44%
+	FOR	BRN
+Adjusted goals	2.1	2.1
+Shot-based xG	1.4	1.2
+Non-shot xG	1.6	1.1
+11/5	
+Wolves2
+	28%	26%
+
+Brighton3
+	46%
+	WOL	BHA
+Adjusted goals	2.1	2.9
+Shot-based xG	1.3	2.1
+Non-shot xG	0.3	2.8
+11/5	
+Man. City2
+	87%	9%
+
+Fulham1
+	4%
+	MNC	FUL
+Adjusted goals	2.1	0.8
+Shot-based xG	2.4	0.9
+Non-shot xG	2.1	0.3
+OCTOBER 25-31
+10/30	
+Man. United1
+	57%	23%
+
+West Ham0
+	19%
+	MAN	WHU
+Adjusted goals	1.1	0.0
+Shot-based xG	1.7	1.1
+Non-shot xG	1.7	0.9
+10/30	
+Arsenal5
+	75%	17%
+
+Nottm Forest0
+	8%
+	ARS	FOR
+Adjusted goals	5.1	0.0
+Shot-based xG	3.0	0.3
+Non-shot xG	3.4	0.4
+10/29	
+Liverpool1
+	77%	14%
+
+Leeds United2
+	9%
+	LIV	LEE
+Adjusted goals	1.1	2.1
+Shot-based xG	2.3	1.6
+Non-shot xG	2.2	0.9
+10/29	
+Fulham0
+	40%	26%
+
+Everton0
+	34%
+	FUL	EVE
+Adjusted goals	0.0	0.0
+Shot-based xG	2.2	1.2
+Non-shot xG	2.4	0.8
+10/29	
+Brentford1
+	46%	26%
+
+Wolves1
+	29%
+	BRN	WOL
+Adjusted goals	1.1	1.1
+Shot-based xG	1.4	0.6
+Non-shot xG	1.4	0.8
+10/29	
+Brighton4
+	32%	26%
+
+Chelsea1
+	42%
+	BHA	CHE
+Adjusted goals	3.7	1.1
+Shot-based xG	2.3	1.2
+Non-shot xG	1.1	1.6
+10/29	
+Bournemouth2
+	17%	22%
+
+Tottenham3
+	61%
+	BOU	TOT
+Adjusted goals	2.1	3.2
+Shot-based xG	0.9	2.6
+Non-shot xG	0.8	2.4
+10/29	
+Crystal Palace1
+	48%	26%
+
+Southampton0
+	26%
+	CRY	SOU
+Adjusted goals	1.1	0.0
+Shot-based xG	1.1	1.3
+Non-shot xG	1.0	1.5
+10/29	
+Newcastle4
+	51%	25%
+
+Aston Villa0
+	24%
+	NEW	AVL
+Adjusted goals	4.2	0.0
+Shot-based xG	4.1	0.3
+Non-shot xG	2.0	0.4
+10/29	
+Leicester0
+	11%	16%
+
+Man. City1
+	73%
+	LEI	MNC
+Adjusted goals	0.0	1.1
+Shot-based xG	0.8	0.8
+Non-shot xG	0.7	2.2
+OCTOBER 18-24
+10/24	
+West Ham2
+	60%	24%
+
+Bournemouth0
+	16%
+	WHU	BOU
+Adjusted goals	1.6	0.0
+Shot-based xG	2.0	0.5
+Non-shot xG	1.5	1.0
+10/23	
+Tottenham1
+	52%	24%
+
+Newcastle2
+	24%
+	TOT	NEW
+Adjusted goals	1.1	2.1
+Shot-based xG	2.2	1.0
+Non-shot xG	1.7	1.8
+10/23	
+Leeds United2
+	50%	24%
+
+Fulham3
+	26%
+	LEE	FUL
+Adjusted goals	2.1	2.8
+Shot-based xG	2.0	2.6
+Non-shot xG	1.7	1.5
+10/23	
+Wolves0
+	40%	27%
+
+Leicester4
+	33%
+	WOL	LEI
+Adjusted goals	0.0	4.0
+Shot-based xG	1.9	1.0
+Non-shot xG	2.1	0.8
+10/23	
+Southampton1
+	19%	22%
+
+Arsenal1
+	59%
+	SOU	ARS
+Adjusted goals	1.1	1.1
+Shot-based xG	0.6	1.7
+Non-shot xG	0.7	1.2
+10/23	
+Aston Villa4
+	46%	26%
+
+Brentford0
+	29%
+	AVL	BRN
+Adjusted goals	4.2	0.0
+Shot-based xG	3.8	1.2
+Non-shot xG	1.3	0.7
+10/22	
+Chelsea1
+	50%	24%
+
+Man. United1
+	26%
+	CHE	MAN
+Adjusted goals	1.1	1.1
+Shot-based xG	1.4	0.8
+Non-shot xG	0.8	1.1
+10/22	
+Man. City3
+	73%	17%
+
+Brighton1
+	10%
+	MNC	BHA
+Adjusted goals	3.0	1.1
+Shot-based xG	2.0	0.5
+Non-shot xG	1.7	0.8
+10/22	
+Everton3
+	38%	28%
+
+Crystal Palace0
+	34%
+	EVE	CRY
+Adjusted goals	2.8	0.0
+Shot-based xG	1.7	0.7
+Non-shot xG	0.9	0.8
+10/22	
+Nottm Forest1
+	9%	14%
+
+Liverpool0
+	77%
+	FOR	LIV
+Adjusted goals	1.1	0.0
+Shot-based xG	2.7	2.6
+Non-shot xG	0.7	2.5
+10/20	
+Leicester2
+	48%	24%
+
+Leeds United0
+	28%
+	LEI	LEE
+Adjusted goals	2.1	0.0
+Shot-based xG	0.6	1.1
+Non-shot xG	0.6	1.0
+10/20	
+Fulham3
+	31%	26%
+
+Aston Villa0
+	43%
+	FUL	AVL
+Adjusted goals	2.5	0.0
+Shot-based xG	3.0	0.8
+Non-shot xG	1.1	1.1
+10/19	
+Man. United2
+	38%	24%
+
+Tottenham0
+	38%
+	MAN	TOT
+Adjusted goals	2.1	0.0
+Shot-based xG	1.7	0.9
+Non-shot xG	2.2	1.2
+10/19	
+Brentford0
+	23%	23%
+
+Chelsea0
+	55%
+	BRN	CHE
+Adjusted goals	0.0	0.0
+Shot-based xG	1.3	0.6
+Non-shot xG	1.2	2.0
+10/19	
+Bournemouth0
+	36%	27%
+
+Southampton1
+	37%
+	BOU	SOU
+Adjusted goals	0.0	1.1
+Shot-based xG	1.0	1.1
+Non-shot xG	2.3	1.1
+10/19	
+Newcastle1
+	58%	24%
+
+Everton0
+	19%
+	NEW	EVE
+Adjusted goals	1.1	0.0
+Shot-based xG	1.2	0.1
+Non-shot xG	1.6	0.6
+10/19	
+Liverpool1
+	72%	17%
+
+West Ham0
+	11%
+	LIV	WHU
+Adjusted goals	1.1	0.0
+Shot-based xG	2.4	2.5
+Non-shot xG	1.4	0.9
+10/18	
+Crystal Palace2
+	45%	28%
+
+Wolves1
+	26%
+	CRY	WOL
+Adjusted goals	2.1	1.1
+Shot-based xG	1.4	0.9
+Non-shot xG	1.5	1.0
+10/18	
+Brighton0
+	67%	20%
+
+Nottm Forest0
+	13%
+	BHA	FOR
+Adjusted goals	0.0	0.0
+Shot-based xG	2.1	0.2
+Non-shot xG	2.2	0.2
+OCTOBER 11-17
+10/16	
+Liverpool1
+	34%	21%
+
+Man. City0
+	45%
+	LIV	MNC
+Adjusted goals	1.1	0.0
+Shot-based xG	2.2	1.1
+Non-shot xG	0.9	2.3
+10/16	
+Leeds United0
+	21%	22%
+
+Arsenal1
+	58%
+	LEE	ARS
+Adjusted goals	0.0	1.1
+Shot-based xG	2.1	0.8
+Non-shot xG	1.3	0.8
+10/16	
+Southampton1
+	36%	26%
+
+West Ham1
+	38%
+	SOU	WHU
+Adjusted goals	1.1	1.1
+Shot-based xG	0.5	1.8
+Non-shot xG	0.6	1.4
+10/16	
+Man. United0
+	48%	23%
+
+Newcastle0
+	28%
+	MAN	NEW
+Adjusted goals	0.0	0.0
+Shot-based xG	1.4	0.9
+Non-shot xG	1.6	1.3
+10/16	
+Aston Villa0
+	24%	26%
+
+Chelsea2
+	50%
+	AVL	CHE
+Adjusted goals	0.0	2.1
+Shot-based xG	2.3	1.2
+Non-shot xG	1.3	0.8
+10/15	
+Tottenham2
+	68%	19%
+
+Everton0
+	13%
+	TOT	EVE
+Adjusted goals	1.7	0.0
+Shot-based xG	3.2	0.5
+Non-shot xG	2.0	0.2
+10/15	
+Wolves1
+	55%	26%
+
+Nottm Forest0
+	19%
+	WOL	FOR
+Adjusted goals	1.1	0.0
+Shot-based xG	1.2	1.3
+Non-shot xG	1.0	1.0
+10/15	
+Fulham2
+	47%	26%
+
+Bournemouth2
+	27%
+	FUL	BOU
+Adjusted goals	2.1	2.1
+Shot-based xG	1.9	1.6
+Non-shot xG	1.8	0.8
+10/15	
+Leicester0
+	44%	25%
+
+Crystal Palace0
+	31%
+	LEI	CRY
+Adjusted goals	0.0	0.0
+Shot-based xG	1.0	0.4
+Non-shot xG	1.4	0.7
+10/14	
+Brentford2
+	32%	25%
+
+Brighton0
+	43%
+	BRN	BHA
+Adjusted goals	2.1	0.0
+Shot-based xG	1.9	2.1
+Non-shot xG	1.1	3.0
+OCTOBER 4-10
+10/10	
+Nottm Forest1
+	27%	26%
+
+Aston Villa1
+	46%
+	FOR	AVL
+Adjusted goals	1.1	1.1
+Shot-based xG	0.3	0.8
+Non-shot xG	0.7	1.2
+10/9	
+Everton1
+	28%	24%
+
+Man. United2
+	48%
+	EVE	MAN
+Adjusted goals	1.1	2.1
+Shot-based xG	0.6	1.6
+Non-shot xG	1.3	1.3
+10/9	
+Arsenal3
+	34%	23%
+
+Liverpool2
+	43%
+	ARS	LIV
+Adjusted goals	3.2	2.1
+Shot-based xG	2.7	0.8
+Non-shot xG	1.7	0.8
+10/9	
+Crystal Palace2
+	48%	25%
+
+Leeds United1
+	27%
+	CRY	LEE
+Adjusted goals	2.1	1.1
+Shot-based xG	1.7	1.1
+Non-shot xG	1.1	1.6
+10/9	
+West Ham3
+	55%	24%
+
+Fulham1
+	20%
+	WHU	FUL
+Adjusted goals	2.6	1.1
+Shot-based xG	3.4	0.6
+Non-shot xG	1.3	0.7
+10/8	
+Brighton0
+	37%	25%
+
+Tottenham1
+	38%
+	BHA	TOT
+Adjusted goals	0.0	1.1
+Shot-based xG	0.9	1.0
+Non-shot xG	2.8	0.8
+10/8	
+Bournemouth2
+	30%	25%
+
+Leicester1
+	45%
+	BOU	LEI
+Adjusted goals	2.1	1.1
+Shot-based xG	1.3	1.2
+Non-shot xG	1.2	1.1
+10/8	
+Man. City4
+	87%	9%
+
+Southampton0
+	4%
+	MNC	SOU
+Adjusted goals	4.2	0.0
+Shot-based xG	2.5	0.1
+Non-shot xG	2.2	0.1
+10/8	
+Newcastle5
+	51%	24%
+
+Brentford1
+	25%
+	NEW	BRN
+Adjusted goals	4.4	1.1
+Shot-based xG	2.0	1.1
+Non-shot xG	1.6	1.1
+10/8	
+Chelsea3
+	65%	22%
+
+Wolves0
+	13%
+	CHE	WOL
+Adjusted goals	2.7	0.0
+Shot-based xG	2.3	0.8
+Non-shot xG	2.1	1.0
+SEPTEMBER 27 - OCTOBER 3
+10/3	
+Leicester4
+	59%	22%
+
+Nottm Forest0
+	19%
+	LEI	FOR
+Adjusted goals	4.1	0.0
+Shot-based xG	1.3	1.5
+Non-shot xG	1.1	1.0
+10/2	
+Leeds United0
+	39%	26%
+
+Aston Villa0
+	36%
+	LEE	AVL
+Adjusted goals	0.0	0.0
+Shot-based xG	0.3	2.2
+Non-shot xG	0.7	1.7
+10/2	
+Man. City6
+	74%	16%
+
+Man. United3
+	10%
+	MNC	MAN
+Adjusted goals	6.2	3.2
+Shot-based xG	3.2	1.7
+Non-shot xG	2.8	0.7
+10/1	
+West Ham2
+	47%	28%
+
+Wolves0
+	25%
+	WHU	WOL
+Adjusted goals	2.1	0.0
+Shot-based xG	0.9	0.7
+Non-shot xG	0.7	1.3
+10/1	
+Bournemouth0
+	30%	25%
+
+Brentford0
+	45%
+	BOU	BRN
+Adjusted goals	0.0	0.0
+Shot-based xG	0.8	1.0
+Non-shot xG	0.9	1.4
+10/1	
+Crystal Palace1
+	27%	26%
+
+Chelsea2
+	47%
+	CRY	CHE
+Adjusted goals	1.1	2.1
+Shot-based xG	0.8	1.4
+Non-shot xG	0.5	1.7
+10/1	
+Southampton1
+	44%	26%
+
+Everton2
+	30%
+	SOU	EVE
+Adjusted goals	1.1	2.1
+Shot-based xG	2.2	2.0
+Non-shot xG	2.2	1.6
+10/1	
+Fulham1
+	32%	26%
+
+Newcastle4
+	42%
+	FUL	NEW
+Adjusted goals	1.1	3.4
+Shot-based xG	0.7	4.1
+Non-shot xG	0.7	2.2
+10/1	
+Liverpool3
+	64%	20%
+
+Brighton3
+	16%
+	LIV	BHA
+Adjusted goals	3.2	3.2
+Shot-based xG	3.0	2.1
+Non-shot xG	2.3	1.0
+10/1	
+Arsenal3
+	44%	24%
+
+Tottenham1
+	32%
+	ARS	TOT
+Adjusted goals	2.9	1.1
+Shot-based xG	2.3	1.6
+Non-shot xG	2.6	0.6
+SEPTEMBER 13-19
+9/18	
+Everton1
+	37%	27%
+
+West Ham0
+	36%
+	EVE	WHU
+Adjusted goals	1.1	0.0
+Shot-based xG	0.4	0.8
+Non-shot xG	0.9	0.9
+9/18	
+Brentford0
+	28%	23%
+
+Arsenal3
+	49%
+	BRN	ARS
+Adjusted goals	0.0	3.2
+Shot-based xG	0.6	1.3
+Non-shot xG	1.0	1.6
+9/17	
+Tottenham6
+	64%	20%
+
+Leicester2
+	16%
+	TOT	LEI
+Adjusted goals	5.5	2.1
+Shot-based xG	2.5	1.8
+Non-shot xG	1.6	1.2
+9/17	
+Newcastle1
+	61%	23%
+
+Bournemouth1
+	16%
+	NEW	BOU
+Adjusted goals	1.1	1.1
+Shot-based xG	1.5	1.0
+Non-shot xG	2.1	0.5
+9/17	
+Wolves0
+	10%	16%
+
+Man. City3
+	74%
+	WOL	MNC
+Adjusted goals	0.0	2.9
+Shot-based xG	0.3	1.5
+Non-shot xG	0.6	2.0
+9/16	
+Nottm Forest2
+	37%	27%
+
+Fulham3
+	36%
+	FOR	FUL
+Adjusted goals	2.1	3.2
+Shot-based xG	1.7	1.5
+Non-shot xG	0.7	1.1
+9/16	
+Aston Villa1
+	49%	25%
+
+Southampton0
+	26%
+	AVL	SOU
+Adjusted goals	1.1	0.0
+Shot-based xG	1.2	0.3
+Non-shot xG	1.3	0.5
+AUGUST 30 - SEPTEMBER 5
+9/4	
+Man. United3
+	35%	24%
+
+Arsenal1
+	41%
+	MAN	ARS
+Adjusted goals	3.0	1.1
+Shot-based xG	2.1	1.6
+Non-shot xG	1.0	1.8
+9/4	
+Brighton5
+	51%	25%
+
+Leicester2
+	24%
+	BHA	LEI
+Adjusted goals	4.7	2.1
+Shot-based xG	2.8	1.2
+Non-shot xG	2.1	0.6
+9/3	
+Aston Villa1
+	13%	17%
+
+Man. City1
+	70%
+	AVL	MNC
+Adjusted goals	1.1	1.1
+Shot-based xG	0.2	2.2
+Non-shot xG	0.4	2.0
+9/3	
+Brentford5
+	49%	24%
+
+Leeds United2
+	27%
+	BRN	LEE
+Adjusted goals	4.5	2.1
+Shot-based xG	2.7	1.7
+Non-shot xG	0.9	2.0
+9/3	
+Nottm Forest2
+	45%	28%
+
+Bournemouth3
+	27%
+	FOR	BOU
+Adjusted goals	2.1	3.2
+Shot-based xG	1.4	0.9
+Non-shot xG	1.1	1.1
+9/3	
+Wolves1
+	47%	26%
+
+Southampton0
+	27%
+	WOL	SOU
+Adjusted goals	1.1	0.0
+Shot-based xG	1.0	1.3
+Non-shot xG	0.8	1.7
+9/3	
+Newcastle0
+	45%	26%
+
+Crystal Palace0
+	29%
+	NEW	CRY
+Adjusted goals	0.0	0.0
+Shot-based xG	3.1	1.0
+Non-shot xG	2.6	1.0
+9/3	
+Tottenham2
+	71%	18%
+
+Fulham1
+	11%
+	TOT	FUL
+Adjusted goals	2.0	1.1
+Shot-based xG	3.6	0.4
+Non-shot xG	2.5	0.4
+9/3	
+Chelsea2
+	62%	22%
+
+West Ham1
+	16%
+	CHE	WHU
+Adjusted goals	2.1	1.1
+Shot-based xG	1.0	1.1
+Non-shot xG	0.8	0.4
+9/3	
+Everton0
+	13%	17%
+
+Liverpool0
+	69%
+	EVE	LIV
+Adjusted goals	0.0	0.0
+Shot-based xG	1.4	1.6
+Non-shot xG	1.0	2.3
+9/1	
+Leicester0
+	38%	24%
+
+Man. United1
+	38%
+	LEI	MAN
+Adjusted goals	0.0	1.1
+Shot-based xG	0.7	1.0
+Non-shot xG	0.7	1.2
+8/31	
+Liverpool2
+	72%	17%
+
+Newcastle1
+	11%
+	LIV	NEW
+Adjusted goals	2.1	1.1
+Shot-based xG	1.6	0.6
+Non-shot xG	3.0	0.8
+8/31	
+West Ham1
+	25%	24%
+
+Tottenham1
+	51%
+	WHU	TOT
+Adjusted goals	1.1	1.1
+Shot-based xG	1.3	0.7
+Non-shot xG	0.7	0.9
+8/31	
+Bournemouth0
+	32%	28%
+
+Wolves0
+	41%
+	BOU	WOL
+Adjusted goals	0.0	0.0
+Shot-based xG	0.4	1.6
+Non-shot xG	0.9	2.2
+8/31	
+Arsenal2
+	60%	22%
+
+Aston Villa1
+	18%
+	ARS	AVL
+Adjusted goals	2.1	1.1
+Shot-based xG	2.9	0.3
+Non-shot xG	2.4	0.4
+8/31	
+Man. City6
+	89%	8%
+
+Nottm Forest0
+	3%
+	MNC	FOR
+Adjusted goals	5.9	0.0
+Shot-based xG	3.6	0.8
+Non-shot xG	2.1	0.6
+8/30	
+Leeds United1
+	45%	25%
+
+Everton1
+	30%
+	LEE	EVE
+Adjusted goals	1.1	1.1
+Shot-based xG	1.2	0.8
+Non-shot xG	1.4	0.4
+8/30	
+Southampton2
+	20%	22%
+
+Chelsea1
+	58%
+	SOU	CHE
+Adjusted goals	2.1	1.1
+Shot-based xG	1.4	1.5
+Non-shot xG	0.9	1.3
+8/30	
+Crystal Palace1
+	47%	25%
+
+Brentford1
+	28%
+	CRY	BRN
+Adjusted goals	1.1	1.1
+Shot-based xG	0.7	1.7
+Non-shot xG	0.7	1.6
+8/30	
+Fulham2
+	28%	27%
+
+Brighton1
+	46%
+	FUL	BHA
+Adjusted goals	2.1	1.1
+Shot-based xG	0.9	1.7
+Non-shot xG	0.7	0.9
+AUGUST 23-29
+8/28	
+Nottm Forest0
+	16%	21%
+
+Tottenham2
+	63%
+	FOR	TOT
+Adjusted goals	0.0	1.8
+Shot-based xG	0.9	2.5
+Non-shot xG	1.6	1.2
+8/28	
+Wolves1
+	40%	27%
+
+Newcastle1
+	33%
+	WOL	NEW
+Adjusted goals	1.1	1.1
+Shot-based xG	1.1	2.1
+Non-shot xG	0.8	2.4
+8/28	
+Aston Villa0
+	47%	25%
+
+West Ham1
+	28%
+	AVL	WHU
+Adjusted goals	0.0	1.1
+Shot-based xG	0.4	0.4
+Non-shot xG	0.7	0.9
+8/27	
+Arsenal2
+	69%	19%
+
+Fulham1
+	12%
+	ARS	FUL
+Adjusted goals	2.1	1.1
+Shot-based xG	2.3	0.8
+Non-shot xG	2.4	1.0
+8/27	
+Brentford1
+	49%	24%
+
+Everton1
+	27%
+	BRN	EVE
+Adjusted goals	1.1	1.1
+Shot-based xG	2.4	1.7
+Non-shot xG	2.0	1.3
+8/27	
+Brighton1
+	56%	23%
+
+Leeds United0
+	20%
+	BHA	LEE
+Adjusted goals	1.1	0.0
+Shot-based xG	1.7	1.2
+Non-shot xG	1.4	0.7
+8/27	
+Man. City4
+	77%	15%
+
+Crystal Palace2
+	8%
+	MNC	CRY
+Adjusted goals	3.9	2.1
+Shot-based xG	2.3	0.1
+Non-shot xG	2.9	0.1
+8/27	
+Liverpool9
+	83%	12%
+
+Bournemouth0
+	5%
+	LIV	BOU
+Adjusted goals	8.8	0.0
+Shot-based xG	4.5	0.2
+Non-shot xG	2.9	0.6
+8/27	
+Chelsea2
+	67%	20%
+
+Leicester1
+	14%
+	CHE	LEI
+Adjusted goals	2.1	0.8
+Shot-based xG	1.7	2.2
+Non-shot xG	0.7	1.9
+8/27	
+Southampton0
+	31%	24%
+
+Man. United1
+	45%
+	SOU	MAN
+Adjusted goals	0.0	1.1
+Shot-based xG	1.6	2.3
+Non-shot xG	2.2	1.4
+AUGUST 16-22
+8/22	
+Man. United2
+	22%	21%
+
+Liverpool1
+	57%
+	MAN	LIV
+Adjusted goals	2.1	1.1
+Shot-based xG	1.6	1.7
+Non-shot xG	1.6	3.1
+8/21	
+Newcastle3
+	12%	18%
+
+Man. City3
+	70%
+	NEW	MNC
+Adjusted goals	3.2	3.2
+Shot-based xG	2.1	4.1
+Non-shot xG	1.4	2.1
+8/21	
+Leeds United3
+	17%	21%
+
+Chelsea0
+	62%
+	LEE	CHE
+Adjusted goals	3.2	0.0
+Shot-based xG	2.1	0.7
+Non-shot xG	0.8	1.2
+8/21	
+West Ham0
+	36%	27%
+
+Brighton2
+	37%
+	WHU	BHA
+Adjusted goals	0.0	2.1
+Shot-based xG	0.8	1.7
+Non-shot xG	1.4	0.9
+8/20	
+Bournemouth0
+	19%	23%
+
+Arsenal3
+	58%
+	BOU	ARS
+Adjusted goals	0.0	3.2
+Shot-based xG	0.2	1.8
+Non-shot xG	1.0	1.4
+8/20	
+Leicester1
+	53%	23%
+
+Southampton2
+	24%
+	LEI	SOU
+Adjusted goals	1.1	2.1
+Shot-based xG	0.3	1.5
+Non-shot xG	0.8	1.5
+8/20	
+Crystal Palace3
+	38%	27%
+
+Aston Villa1
+	35%
+	CRY	AVL
+Adjusted goals	3.1	1.1
+Shot-based xG	3.3	1.0
+Non-shot xG	1.4	0.9
+8/20	
+Fulham3
+	34%	27%
+
+Brentford2
+	40%
+	FUL	BRN
+Adjusted goals	3.2	2.1
+Shot-based xG	2.6	1.6
+Non-shot xG	1.4	1.7
+8/20	
+Everton1
+	51%	26%
+
+Nottm Forest1
+	23%
+	EVE	FOR
+Adjusted goals	1.1	1.1
+Shot-based xG	1.5	1.0
+Non-shot xG	1.0	0.6
+8/20	
+Tottenham1
+	65%	20%
+
+Wolves0
+	14%
+	TOT	WOL
+Adjusted goals	1.1	0.0
+Shot-based xG	1.9	0.8
+Non-shot xG	1.6	1.2
+AUGUST 9-15
+8/15	
+Liverpool1
+	74%	17%
+
+Crystal Palace1
+	9%
+	LIV	CRY
+Adjusted goals	1.1	1.1
+Shot-based xG	2.6	1.5
+Non-shot xG	3.1	0.6
+8/14	
+Chelsea2
+	49%	24%
+
+Tottenham2
+	27%
+	CHE	TOT
+Adjusted goals	2.1	2.1
+Shot-based xG	1.9	1.8
+Non-shot xG	1.8	0.9
+8/14	
+Nottm Forest1
+	30%	27%
+
+West Ham0
+	44%
+	FOR	WHU
+Adjusted goals	1.1	0.0
+Shot-based xG	2.1	2.3
+Non-shot xG	1.1	1.6
+8/13	
+Brentford4
+	36%	25%
+
+Man. United0
+	39%
+	BRN	MAN
+Adjusted goals	4.2	0.0
+Shot-based xG	1.5	1.3
+Non-shot xG	1.0	2.2
+8/13	
+Brighton0
+	49%	26%
+
+Newcastle0
+	25%
+	BHA	NEW
+Adjusted goals	0.0	0.0
+Shot-based xG	1.6	0.2
+Non-shot xG	1.7	0.7
+8/13	
+Wolves0
+	51%	26%
+
+Fulham0
+	23%
+	WOL	FUL
+Adjusted goals	0.0	0.0
+Shot-based xG	1.1	1.2
+Non-shot xG	0.5	0.5
+8/13	
+Southampton2
+	44%	25%
+
+Leeds United2
+	32%
+	SOU	LEE
+Adjusted goals	2.1	2.1
+Shot-based xG	1.4	2.0
+Non-shot xG	1.2	1.2
+8/13	
+Arsenal4
+	57%	23%
+
+Leicester2
+	21%
+	ARS	LEI
+Adjusted goals	4.1	2.1
+Shot-based xG	2.9	0.8
+Non-shot xG	2.1	0.3
+8/13	
+Man. City4
+	87%	10%
+
+Bournemouth0
+	3%
+	MNC	BOU
+Adjusted goals	4.0	0.0
+Shot-based xG	1.8	0.2
+Non-shot xG	2.3	0.3
+8/13	
+Aston Villa2
+	54%	24%
+
+Everton1
+	22%
+	AVL	EVE
+Adjusted goals	1.7	1.1
+Shot-based xG	2.4	1.5
+Non-shot xG	2.0	1.1
+AUGUST 2-8
+8/7	
+West Ham0
+	13%	18%
+
+Man. City2
+	69%
+	WHU	MNC
+Adjusted goals	0.0	2.1
+Shot-based xG	0.3	2.4
+Non-shot xG	0.6	1.9
+8/7	
+Leicester2
+	47%	25%
+
+Brentford2
+	28%
+	LEI	BRN
+Adjusted goals	2.1	2.1
+Shot-based xG	0.6	1.0
+Non-shot xG	0.8	0.4
+8/7	
+Man. United1
+	47%	25%
+
+Brighton2
+	28%
+	MAN	BHA
+Adjusted goals	1.1	2.1
+Shot-based xG	1.7	1.7
+Non-shot xG	1.9	1.3
+8/6	
+Everton0
+	18%	21%
+
+Chelsea1
+	61%
+	EVE	CHE
+Adjusted goals	0.0	1.1
+Shot-based xG	0.5	2.1
+Non-shot xG	1.0	1.4
+8/6	
+Leeds United2
+	39%	26%
+
+Wolves1
+	35%
+	LEE	WOL
+Adjusted goals	2.1	1.1
+Shot-based xG	0.8	1.1
+Non-shot xG	1.0	2.6
+8/6	
+Bournemouth2
+	27%	26%
+
+Aston Villa0
+	47%
+	BOU	AVL
+Adjusted goals	1.8	0.0
+Shot-based xG	0.5	0.7
+Non-shot xG	0.8	2.0
+8/6	
+Newcastle2
+	54%	26%
+
+Nottm Forest0
+	20%
+	NEW	FOR
+Adjusted goals	1.9	0.0
+Shot-based xG	1.8	0.3
+Non-shot xG	3.3	0.5
+8/6	
+Tottenham4
+	71%	18%
+
+Southampton1
+	12%
+	TOT	SOU
+Adjusted goals	4.2	1.1
+Shot-based xG	1.9	0.5
+Non-shot xG	1.9	1.2
+8/6	
+Fulham2
+	9%	16%
+
+Liverpool2
+	75%
+	FUL	LIV
+Adjusted goals	2.1	2.1
+Shot-based xG	1.2	2.6
+Non-shot xG	0.8	1.4
+8/5	
+Crystal Palace0
+	32%	26%
+
+Arsenal2
+	42%
+	CRY	ARS
+Adjusted goals	0.0	1.7
+Shot-based xG	1.3	1.4
+Non-shot xG	1.4	2.4
 
 The top four teams qualify for next season’s UEFA Champions League. The bottom three teams are relegated.
 
@@ -1755,28 +3651,28 @@ Download this data.
 Design and development by Jay Boice, Reuben Fischer-Baum and Julia Wolfe. Statistical models by Jay Boice and Nate Silver.
 
 MORE SPORTS
-UPDATED 11 MINUTES AGO
+UPDATED 6 HOURS AGO
 Global Club Soccer Rankings
-UPDATED 5 HOURS AGO
+UPDATED 6 HOURS AGO
 NBA Predictions
-UPDATED 5 HOURS AGO
+UPDATED 21 HOURS AGO
 NBA Player Ratings
-UPDATED 12 HOURS AGO
+UPDATED FEB. 1, 2023
 NHL Predictions
-UPDATED JAN. 24, 2023
-NFL Predictions
-UPDATED JAN. 23, 2023
+UPDATED JAN. 29, 2023
 NFL Receiver Ratings
+UPDATED JAN. 29, 2023
+NFL Predictions
 UPDATED JAN. 10, 2023
 College Football Predictions
 UPDATED AUG. 30, 2022
 NBA Player Projections
 RELATED STORIES
+Look Out, Messi: Erling Haaland Is Coming For Your 50-Goal Club
 Liverpool Can’t Spend Its Way Out Of This Mess
 Argentina And France Lived Up To The World Cup Final’s Hype — And Then Transcended It
 Mbappé vs. Messi Is The World Cup Final Soccer Fans Deserve
 You’re Not Imagining Things. There’s Way More Stoppage Time At This World Cup.
-Where Will The Goals Come From In The World Cup Semifinals?
 COMMENTS
 Get more FiveThirtyEight
 Store

@@ -523,12 +523,17 @@ namespace WPFAllsvenskan.Models
                                 // Click the button
                                 await label.ClickAsync();
                                 await page.WaitForTimeoutAsync(1000);
-                                var element = await page.QuerySelectorAsync(".more-upcoming.btn-cta.btn-cta-oneline");
-                                if (element != null)
+                                var seeMoreButton1 = await page.QuerySelectorAsync(".more-upcoming.btn-cta.btn-cta-oneline");
+                                if (seeMoreButton1 != null)
                                 {
-                                    await element.ClickAsync();
-                                    await page.WaitForTimeoutAsync(1000);
-                                    break;
+                                    await seeMoreButton1.ClickAsync();
+                                    //await page.WaitForTimeoutAsync(1000);
+                                }
+                                var seeMoreButton2 = await page.QuerySelectorAsync(".more-completed.btn-cta.btn-cta-oneline");
+                                if (seeMoreButton2 != null)
+                                {
+                                    await seeMoreButton2.ClickAsync();
+                                    //await page.WaitForTimeoutAsync(1000);
                                 }
                                 break;
                             }

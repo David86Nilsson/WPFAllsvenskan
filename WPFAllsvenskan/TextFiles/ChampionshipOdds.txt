@@ -73,72 +73,72 @@ Matches
 Outrights
 All Football
 Featured
-Luton Town
-Cardiff City
-Tue
-31 Jan
-20:45
-1
-1.90
-X
-3.35
-2
-4.25
-West Bromwich
-Coventry City
-Fri
-3 Feb
+Blackburn Rovers
+Wigan Athletic
+Today
+6 Feb
 21:00
 1
-1.80
+1.95
 X
-3.50
+3.55
 2
-4.50
-Norwich City
-Burnley
-Sat
-4 Feb
-13:30
-1
-2.50
-X
-3.30
-2
-2.80
-Rotherham United
-Sheffield United
-Sat
-4 Feb
-13:30
-1
-4.75
-X
-3.60
-2
-1.75
+4.10
+Blackpool
 Huddersfield Town
-Queens Park Rangers
-Sat
-4 Feb
-16:00
+Tomorrow
+7 Feb
+20:45
 1
-3.00
-X
-3.20
-2
-2.40
-Reading
-Watford
-Sat
-4 Feb
-16:00
-1
-3.00
+2.30
 X
 3.25
 2
-2.40
+3.15
+Birmingham
+West Bromwich
+Fri
+10 Feb
+21:00
+1
+3.50
+X
+3.25
+2
+2.15
+Watford
+Blackburn Rovers
+Sat
+11 Feb
+16:00
+1
+1.95
+X
+3.40
+2
+3.90
+Cardiff City
+Middlesbrough
+Sat
+11 Feb
+16:00
+1
+3.55
+X
+3.50
+2
+2.05
+Sheffield United
+Swansea City
+Sat
+11 Feb
+16:00
+1
+1.85
+X
+3.50
+2
+4.25
 Live & Upcoming
 Bet Type: Match
 Match
@@ -152,106 +152,11 @@ Draw No Bet
 Asian Handicap
 Total Goals by Home Team
 Total Goals by Away Team
-31 January 2023
-1
-1
-X
-2
-20:45
-Luton Town
-Cardiff City
-1.90
-3.35
-4.25
-+66
-03 February 2023
-1
-1
-X
-2
-21:00
-West Bromwich
-Coventry City
-1.80
-3.50
-4.50
-+42
-04 February 2023
-10
-1
-X
-2
-13:30
-Norwich City
-Burnley
-2.50
-3.30
-2.80
-+42
-13:30
-Rotherham United
-Sheffield United
-4.75
-3.60
-1.75
-+42
-16:00
-Huddersfield Town
-Queens Park Rangers
-3.00
-3.20
-2.40
-+42
-16:00
-Reading
-Watford
-3.00
-3.25
-2.40
-+42
-16:00
-Luton Town
-Stoke City
-2.20
-3.30
-3.25
-+42
-16:00
-Middlesbrough
-Blackpool
-1.65
-3.75
-5.25
-+42
-16:00
-Preston North End
-Bristol City
-2.15
-3.35
-3.35
-+42
-16:00
-Hull City
-Cardiff City
-2.20
-3.30
-3.35
-+42
-16:00
-Swansea City
-Birmingham
-1.91
-3.45
-4.00
-+42
-16:00
-Millwall
-Sunderland
-2.30
-3.20
-3.20
-+42
-06 February 2023
+Total Corners
+Total Cards
+Red Card Given
+Penalty kick awarded
+Today
 1
 1
 X
@@ -259,10 +164,116 @@ X
 21:00
 Blackburn Rovers
 Wigan Athletic
-1.80
+1.95
+3.55
+4.10
++281
+Tomorrow
+1
+1
+X
+2
+20:45
+Blackpool
+Huddersfield Town
+2.30
+3.25
+3.15
++66
+10 February 2023
+1
+1
+X
+2
+21:00
+Birmingham
+West Bromwich
 3.50
-4.50
-+42
+3.25
+2.15
++66
+11 February 2023
+11
+1
+X
+2
+16:00
+Watford
+Blackburn Rovers
+1.95
+3.40
+3.90
++66
+16:00
+Cardiff City
+Middlesbrough
+3.55
+3.50
+2.05
++66
+16:00
+Sheffield United
+Swansea City
+1.85
+3.50
+4.25
++66
+16:00
+Stoke City
+Hull City
+2.00
+3.40
+3.75
++66
+16:00
+Coventry City
+Luton Town
+2.20
+3.60
+3.10
++66
+16:00
+Queens Park Rangers
+Millwall
+2.65
+3.25
+2.65
++66
+16:00
+Wigan Athletic
+Huddersfield Town
+2.30
+3.25
+3.15
++66
+16:00
+Sunderland
+Reading
+2.00
+3.40
+3.75
++66
+16:00
+Bristol City
+Norwich City
+3.00
+3.15
+2.45
++66
+16:00
+Burnley
+Preston North End
+1.50
+4.35
+6.00
++66
+16:00
+Blackpool
+Rotherham United
+2.15
+3.30
+3.40
++66
 Outrights / Odds are not available at the moment. Please check again later.
 All Competitions
 All
